@@ -1,0 +1,68 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00052678,06/30/2020 09:00:00,08/03/2020 - 13:11,Theft,Investigation Pending,Severn at 5245 Greenbelt Rd
+2020-00053179,07/17/2020 07:00:00,08/05/2020 - 10:20,Vandalism,Active/Pending,8500 block of Paint Branch Dr
+2020-00053785,08/06/2020 23:50:00,08/06/2020 - 23:50,CDS Violation,Arrest,Baltimore Ave
+2020-00053795,08/07/2020 00:16:00,08/07/2020 - 00:16,DWI/DUI,Arrest,Baltimore Ave
+2020-00053844,08/07/2020 03:05:00,08/07/2020 - 03:05,DWI/DUI,Arrest,7700 block of Baltimore Ave
+2020-00054193,08/08/2020 00:39:00,08/08/2020 - 00:39,DWI/DUI,Arrest,Campus Dr
+2020-00054512,08/09/2020 00:56:00,08/09/2020 - 00:56,CDS Violation,Arrest,University Blvd
+2020-00054772,08/09/2020 22:51:00,08/09/2020 - 22:51,DWI/DUI,Arrest,Berwyn Rd
+2020-00054811,08/10/2020 01:16:00,08/10/2020 - 01:16,Weapon Violation,Arrest,7400 block of Baltimore Ave
+2020-00055155,05/15/2020 09:00:00,08/11/2020 - 11:23,Theft,Investigation Pending,Severn at 5245 Greenbelt Rd
+2020-00055209,07/08/2020 10:12:00,08/11/2020 - 14:57,Other Incident,CBE,7500 block of Baltimore Ave
+2020-00055574,07/28/2020 10:30:00,08/12/2020 - 16:44,Theft,Unfounded,Severn at 5245 Greenbelt Rd
+2020-00055586,06/21/2020 12:00:00,08/12/2020 - 17:49,Title IX Incident Non Criminal,CBE,7700 block of Adelphi Rd
+2020-00055886,08/13/2020 14:40:00,08/13/2020 - 14:40,Fraud,Investigation Pending,3400 block of Tulane Dr
+2020-00056002,08/13/2020 23:42:00,08/13/2020 - 23:45,Assist Other Agency,CBE,7300 block of Baltimore Ave
+2020-00056062,08/14/2020 09:38:00,08/14/2020 - 09:38,Theft,Unfounded,7700 block of Baltimore Ave
+2020-00056066,08/14/2020 10:12:00,08/14/2020 - 10:12,Injured/Sick Person,CBE,Regents Dr
+2020-00056145,08/14/2020 16:08:00,08/14/2020 - 18:01,Fraud,Investigation Pending,3400 block of Tulane Dr
+2020-00056158,08/14/2020 19:10:00,08/14/2020 - 19:21,Suspicious Activity,Active/Pending,3400 block of Tulane Dr
+2020-00056322,08/14/2020 17:00:00,08/15/2020 - 13:33,Vandalism,Summons Issued,4300 block of Knox Rd
+2020-00056420,08/16/2020 01:00:00,08/16/2020 - 01:10,Missing Person/Runaway,CBE,3400 block of Tulane Dr
+2020-00056687,08/17/2020 09:23:00,08/17/2020 - 09:23,Damaged Property,CBE,7000 block of Preinkert Dr
+2020-00056883,08/17/2020 23:00:00,08/18/2020 - 00:24,Pornography/Obscene Material,Investigation Pending,3400 block of Tulane Dr
+2020-00057147,08/18/2020 17:01:00,08/18/2020 - 17:01,Emergency Petition,CBE,7500 block of Regents Dr
+2020-00057286,08/19/2020 09:10:00,08/19/2020 - 09:10,Injured/Sick Person,CBE,8100 block of Baltimore Ave
+2020-00057358,08/19/2020 14:36:00,08/19/2020 - 14:36,CDS Violation,Active/Pending,4500 block of College Ave
+2020-00057512,08/20/2020 00:36:00,08/20/2020 - 00:36,CDS Violation,Arrest,Baltimore Ave
+2020-00057521,08/20/2020 01:41:00,08/20/2020 - 01:41,Assist Other Agency,CBE,4600 block of Fordham Rd
+2020-00057627,08/20/2020 13:49:00,08/20/2020 - 13:49,Suspicious Person/Auto,CBE,8200 block of Paint Branch Dr
+2020-00057865,08/21/2020 03:19:00,08/21/2020 - 04:19,Injured/Sick Person,CBE,7600 block of Baltimore Ave
+2020-00058069,08/21/2020 17:09:00,08/21/2020 - 18:47,Emergency Petition,Investigation Pending,7500 block of Baltimore Ave
+2020-00058164,08/22/2020 00:50:00,08/22/2020 - 00:50,DWI/DUI,Arrest,Rhode Island Ave
+2020-00058191,08/22/2020 02:55:00,08/22/2020 - 02:55,CDS Violation,Arrest,7300 block of Baltimore Ave
+2020-00058463,08/22/2020 23:27:00,08/22/2020 - 23:27,CDS Violation,Arrest,7700 block of Baltimore Ave
+2020-00058526,08/23/2020 03:05:00,08/23/2020 - 03:05,DWI/DUI,Arrest,University Blvd
+2020-00058579,08/21/2020 19:00:00,08/23/2020 - 09:13,Accident,CBE,Paint Branch Dr
+2020-00058689,09/01/2019 22:00:00,08/23/2020 - 16:39,Rape,CBE,4100 block of Farm Dr
+2020-00058701,03/13/2020,08/23/2020 - 19:51,Theft,Investigation Pending,8200 block of Boteler Ln
+2020-00058789,08/24/2020 02:40:00,08/24/2020 - 02:40,DWI/DUI,Arrest,Paint Branch Dr
+2020-00058815,08/20/2020 14:00:00,08/24/2020 - 07:36,Theft,Active/Pending,4200 block of Landscape Ln
+2020-00058936,08/24/2020 13:59:00,08/24/2020 - 13:59,Accident - Departmental,CBE,8100 block of Baltimore Ave
+2020-00059169,08/25/2020 09:10:00,08/25/2020 - 09:10,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2020-00059246,08/25/2020 12:40:00,08/25/2020 - 12:40,Vandalism,Active/Pending,4100 block of Campus Dr
+2020-00059388,08/25/2020 23:16:00,08/25/2020 - 23:16,DWI/DUI,Arrest,Baltimore Ave
+2020-00059414,08/26/2020 01:31:00,08/26/2020 - 01:31,DWI/DUI,Arrest,Campus Dr
+2020-00059483,07/15/2020 11:40:00,08/26/2020 - 10:22,Theft,Investigation Pending,Severn at 5245 Greenbelt Rd
+2020-00059579,08/26/2020 17:27:00,08/26/2020 - 17:27,Assist Other Agency,CBE,Hartwick Rd
+2020-00059622,08/26/2020 15:30:00,08/26/2020 - 20:42,Injured Officer,CBE,7500 block of Baltimore Ave
+2020-00059661,08/26/2020 13:00:00,08/26/2020 - 23:47,Fraud,Investigation Pending,3400 block of Tulane Dr
+2020-00059678,08/27/2020 01:01:00,08/27/2020 - 01:01,Theft,Arrest,Lot 11b
+2020-00059771,07/08/2020 12:00:00,08/27/2020 - 14:45,Fraud,Investigation Pending,3900 block of Denton Service Ln
+2020-00059800,08/27/2020 10:00:00,08/27/2020 - 17:35,Fraud,Investigation Pending,7500 block of Calvert Service Ln
+2020-00059818,08/27/2020 20:39:00,08/27/2020 - 20:39,Other Incident,CBE,4000 block of Stadium Dr
+2020-00059857,08/27/2020 23:30:00,08/27/2020 - 23:51,Emergency Petition,CBE,7600 block of Library Ln
+2020-00060080,04/10/2020 16:17:00,08/28/2020 - 17:19,Rape,CBE,4600 block of Norwich Rd
+2020-00060099,08/28/2020 19:08:00,08/28/2020 - 19:08,Emergency Petition,CBE,4200 block of Lehigh Rd
+2020-00060106,08/28/2020 19:28:00,08/28/2020 - 19:50,Theft,Unfounded,Alpha Chi Omega at 4525 College Ave
+2020-00060123,08/28/2020 22:30:00,08/28/2020 - 22:40,Emergency Petition,CBE,6900 block of Preinkert Dr
+2020-00060416,08/29/2020 22:22:00,08/29/2020 - 22:22,CDS Violation,Arrest,4000 block of Stadium Dr
+2020-00060476,08/30/2020 01:25:00,08/30/2020 - 01:25,DWI/DUI,Arrest,University Blvd
+2020-00060488,08/30/2020 03:09:00,08/30/2020 - 03:09,DWI/DUI,Arrest,University Blvd
+2020-00060495,08/30/2020 05:18:00,08/30/2020 - 05:18,Vandalism,Investigation Pending,Garage D at 4155 Terrapin Trl
+2020-00060589,08/29/2020 18:00:00,08/30/2020 - 12:12,Theft,Investigation Pending,4300 block of Knox Rd
+2020-00060749,08/30/2020 22:29:00,08/30/2020 - 22:29,CDS Violation,Arrest,Greenbelt Rd
+2020-00060977,01/06/2020 00:01:00,08/31/2020 - 15:04,Theft,Investigation Pending,4200 block of Lehigh Rd
+2020-00060999,08/31/2020 16:20:00,08/31/2020 - 16:20,CDS Violation,Arrest,Guilford Dr
+2020-00061004,08/27/2020 17:00:00,08/31/2020 - 17:21,Dept Property Damage/Loss,CBE,14 Wildflower Trail Ave

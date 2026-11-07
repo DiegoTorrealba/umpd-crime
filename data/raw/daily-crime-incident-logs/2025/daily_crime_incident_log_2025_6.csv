@@ -1,0 +1,81 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2025-00130131,06/01/2025 17:31:00,06/01/2025 - 17:31,Suspicious Person/Auto,Arrest,Golf Course Parking Lot
+2025-00130441,06/02/2025 06:45:00,06/02/2025 - 07:07,Injured/Sick Person,CBE,7800 block of Alumni Dr
+2025-00130740,06/01/2025 13:00:00,06/02/2025 - 21:55,Assist Other Agency,CBE,4700 block of Tecumseh St
+2025-00131195,06/03/2025 17:00:00,06/03/2025 - 19:52,Theft,Summons Issued,7600 block of Library Ln
+2025-00131336,06/04/2025 00:47:00,06/04/2025 - 00:47,Found/Recovered Property,Investigation Pending,Valley Dr
+2025-00131979,06/05/2025 10:56:00,06/05/2025 - 10:56,Fire,CBE,5200 block of Greenbelt Rd
+2025-00132128,06/05/2025 20:20:00,06/05/2025 - 20:40,Damage to State Property,CBE,3900 block of Campus Dr
+2025-00132538,06/02/2025 16:00:00,06/06/2025 - 09:19,Theft,Investigation Pending,8200 block of Paint Branch Dr
+2025-00132617,06/06/2025 09:30:00,06/06/2025 - 14:02,Police Information,Active/Pending,7500 block of Baltimore Ave
+2025-00132642,06/05/2025 15:00:00,06/06/2025 - 15:31,Theft,Investigation Pending,8100 block of Paint Branch Dr
+2025-00132960,06/06/2025 23:17:00,06/06/2025 - 23:17,DWI/DUI,Arrest,University Blvd
+2025-00133550,06/07/2025 20:18:00,06/07/2025 - 20:18,Suspicious Activity,CBE,4200 block of Stadium Dr
+2025-00133788,06/08/2025 01:04:00,06/08/2025 - 01:04,DWI/DUI,Arrest,7600 block of Mowatt Ln
+2025-00133814,06/08/2025 04:12:00,06/08/2025 - 04:12,DWI/DUI,Arrest,Graduate Hills Apartment #288 at 3420 Tulane Dr
+2025-00133991,06/08/2025 14:08:00,06/08/2025 - 14:08,Injured/Sick Person,CBE,3900 block of Campus Dr
+2025-00134612,06/09/2025 13:40:00,06/09/2025 - 13:40,Other Incident,CBE,7800 block of Alumni Dr
+2025-00134734,06/09/2025 13:45:00,06/09/2025 - 17:31,Theft,Arrest,8000 block of Regents Dr
+2025-00134852,06/09/2025 22:50:00,06/09/2025 - 22:50,DWI/DUI,Arrest,University Blvd
+2025-00134906,06/10/2025 00:51:00,06/10/2025 - 00:51,Other Incident,CBE,4100 block of Stadium Dr
+2025-00135137,05/16/2025 00:00:00,06/10/2025 - 12:33,Theft,Investigation Pending,8200 block of Paint Branch Dr
+2025-00135300,06/10/2025 23:01:00,06/10/2025 - 23:01,DWI/DUI,Arrest,7500 block of Baltimore Ave
+2025-00135368,06/11/2025 01:15:00,06/11/2025 - 01:15,Warrant/Summons Service,Arrest,University Blvd
+2025-00135525,06/11/2025 05:30:00,06/11/2025 - 07:23,Disorderly Conduct,CBE,Stanley R. Zupnick Hall at 8184 Paint Branch Dr
+2025-00135647,06/10/2025 14:00:00,06/11/2025 - 13:23,Dept Property Damage/Loss,CBE,7100 block of 51st Ave
+2025-00135653,06/11/2025 13:28:00,06/11/2025 - 13:32,Injured/Sick Person,CBE,3900 block of Campus Dr
+2025-00135673,06/10/2025 13:00:00,06/11/2025 - 14:22,Injured Officer,CBE,7100 block of 51st Ave
+2025-00135701,06/11/2025 08:00:00,06/11/2025 - 15:56,Accident,CBE,Lot Z
+2025-00135797,06/11/2025 22:20:00,06/11/2025 - 22:29,Assist Other Agency,CBE,Baltimore Ave
+2025-00135801,06/11/2025 22:30:00,06/11/2025 - 22:45,Fire,CBE,3400 block of Tulane Dr
+2025-00135804,06/11/2025 23:04:00,06/11/2025 - 23:04,Emergency Petition,CBE,4300 block of Knox Rd
+2025-00135819,06/11/2025 21:00:00,06/11/2025 - 23:25,Theft,Warrant Issued,4300 block of Knox Rd
+2025-00136132,06/12/2025 09:52:00,06/12/2025 - 09:52,Fire,CBE,7700 block of Baltimore Ave
+2025-00136238,06/12/2025 14:00:00,06/12/2025 - 15:17,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2025-00136247,06/12/2025 16:22:00,06/12/2025 - 16:22,Accident,Juvenile Arrest,Baltimore Ave
+2025-00136342,06/12/2025 18:00:00,06/12/2025 - 21:32,Check on the  Welfare,CBE,3900 block of Campus Dr
+2025-00136487,06/13/2025 00:33:00,06/13/2025 - 00:33,DWI/DUI,Arrest,8600 block of Adelphi Rd
+2025-00136641,06/13/2025 01:00:00,06/13/2025 - 02:06,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2025-00136722,06/13/2025 05:46:00,06/13/2025 - 05:46,CDS Violation,Arrest,3700 block of Campus Dr
+2025-00136779,06/13/2025 00:57:00,06/13/2025 - 08:29,Damage to State Property,CBE,8600 block of Adelphi Rd
+2025-00136825,06/13/2025 02:00:00,06/13/2025 - 09:40,Theft,Summons Issued,4200 block of Lehigh Rd
+2025-00136968,06/13/2025 16:07:00,06/13/2025 - 16:37,Dept Property Damage/Loss,CBE,7500 block of Mowatt Ln
+2025-00136970,06/13/2025 16:48:00,06/13/2025 - 16:48,Injured/Sick Person,CBE,3900 block of Campus Dr
+2025-00137054,06/13/2025 19:10:00,06/13/2025 - 19:15,Injured/Sick Person,CBE,McKeldin Mall
+2025-00137261,06/13/2025 23:10:00,06/13/2025 - 23:54,Accident - Departmental,CBE,8100 block of Paint Branch Dr
+2025-00137973,06/15/2025 00:20:00,06/15/2025 - 00:20,DWI/DUI,Arrest,University Blvd
+2025-00138756,06/16/2025 07:31:00,06/16/2025 - 07:31,Injured/Sick Person,CBE,Mowatt Ln
+2025-00139138,06/16/2025 16:58:00,06/16/2025 - 16:58,Damage to State Property,CBE,7600 block of Baltimore Ave
+2025-00139445,06/17/2025 04:31:00,06/17/2025 - 04:31,Trespassing,CBE,8200 block of Alumni Dr
+2025-00139570,06/17/2025 08:51:00,06/17/2025 - 08:51,Check on the  Welfare,CBE,4400 block of Stadium Dr
+2025-00139573,06/17/2025 09:10:00,06/17/2025 - 09:10,Assist Other Agency,CBE,4500 block of Campus Dr
+2025-00139612,04/08/2025 00:00:00,06/17/2025 - 11:32,Theft,Unfounded,3900 block of Campus Dr
+2025-00140085,06/18/2025 10:32:00,06/18/2025 - 10:35,Alarm,Active/Pending,UMGC Hotel at 348 Ehrensberger Dr
+2025-00140097,06/09/2025 15:56:00,06/18/2025 - 11:16,Theft,Summons Issued,7700 block of Alumni Dr
+2025-00140129,06/18/2025 11:45:00,06/18/2025 - 13:32,Hazardous Condition,CBE,8100 block of Baltimore Ave
+2025-00140153,06/09/2025 23:20:00,06/18/2025 - 15:04,Other Incident,CBE,3800 block of Stadium Dr
+2025-00140313,06/18/2025 20:55:00,06/18/2025 - 21:04,Injured/Sick Person,CBE,3900 block of Campus Dr
+2025-00140813,06/19/2025 17:00:00,06/19/2025 - 18:09,Damaged Property,CBE,7500 block of Columbia Ave
+2025-00141243,06/19/2025 22:00:00,06/20/2025 - 12:40,Other Incident,Active/Pending,8000 block of Boteler Ln
+2025-00141744,06/21/2025 07:20:00,06/21/2025 - 07:23,Injured Officer,CBE,7500 block of Baltimore Ave
+2025-00142077,06/21/2025 21:10:00,06/21/2025 - 21:22,Injured/Sick Person,CBE,8100 block of Greenmead Dr
+2025-00142168,06/21/2025 18:00:00,06/21/2025 - 23:47,Assist Other Agency,CBE,6700 block of Adelphi Rd
+2025-00142240,06/22/2025 04:50:00,06/22/2025 - 04:50,Disorderly Conduct,Arrest,UMGC Hotel at 348 Ehrensberger Dr
+2025-00142272,06/22/2025 03:45:00,06/22/2025 - 07:37,Injured/Sick Person,Active/Pending,3400 block of Tulane Dr
+2025-00142953,06/18/2025 14:30:00,06/23/2025 - 10:21,Damage to State Property,Active/Pending,7800 block of Regents Dr
+2025-00142974,06/22/2025 15:08:00,06/23/2025 - 10:47,Theft,Active/Pending,7600 block of Mowatt Ln
+2025-00143029,06/23/2025 13:00:00,06/23/2025 - 15:19,Theft,Investigation Pending,8100 block of Boteler Ln
+2025-00143161,06/23/2025 17:00:00,06/23/2025 - 17:38,Assist Other Agency,CBE,7700 block of Baltimore Ave
+2025-00143482,06/24/2025 01:00:00,06/24/2025 - 01:16,Assist Other Agency,CBE,8200 block of Baltimore Ave
+2025-00143655,06/23/2025 14:15:00,06/24/2025 - 12:33,Suspicious Person/Auto,CBE,4600 block of River Rd
+2025-00143946,06/24/2025 23:23:00,06/24/2025 - 23:23,Warrant/Summons Service,Arrest,Golf Course Rd
+2025-00144030,06/25/2025 02:00:00,06/25/2025 - 02:51,Trespassing,Summons Issued,4300 block of Campus Dr
+2025-00144796,06/26/2025 09:26:00,06/26/2025 - 09:26,Recovered Stolen Property,CBE,4300 block of Campus Dr
+2025-00144870,12/22/2024 08:00:00,06/26/2025 - 16:47,Other Incident,Active/Pending,3800 block of Campus Dr
+2025-00145006,06/26/2025 22:00:00,06/26/2025 - 22:10,Assist Other Agency,CBE,5000 block of Lakeland Rd
+2025-00146850,06/29/2025 07:02:00,06/29/2025 - 07:02,Injured/Sick Person,CBE,8100 block of La Plata Dr
+2025-00146967,06/29/2025 13:54:00,06/29/2025 - 13:54,Assist Other Agency,CBE,8100 block of Baltimore Ave
+2025-00147305,06/29/2025 23:56:00,06/29/2025 - 23:56,DWI/DUI,Arrest,University Blvd
+2025-00147380,06/30/2025 02:20:00,06/30/2025 - 02:20,DWI/DUI,Arrest,University Blvd
+2025-00147421,06/28/2025 04:15:00,06/30/2025 - 06:42,Theft,Investigation Pending,7500 block of Mowatt Ln
+2025-00147752,06/30/2025 15:14:00,06/30/2025 - 15:14,Other Incident,CBE,5000 block of College Ave

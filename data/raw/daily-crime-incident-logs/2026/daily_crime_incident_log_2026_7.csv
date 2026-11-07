@@ -1,0 +1,77 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2026-00174683,07/01/2026 09:49:00,07/01/2026 - 09:49,Suspicious Activity,CBE,8500 block of Paint Branch Dr
+2026-00174901,06/25/2026 20:34:00,07/01/2026 - 15:51,Theft,Active/Pending,13  Fraternity Row
+2026-00177523,07/03/2026 23:02:00,07/03/2026 - 23:02,DWI/DUI,Arrest,Campus Dr
+2026-00177663,07/04/2026 01:48:00,07/04/2026 - 01:48,DWI/DUI,Arrest,Metzerott Rd
+2026-00177768,07/04/2026 03:48:00,07/04/2026 - 03:48,Damaged Property,CBE,8100 block of Boteler Ln
+2026-00177769,07/04/2026 03:53:00,07/04/2026 - 03:53,DWI/DUI,Arrest,7500 block of Mowatt Ln
+2026-00177866,07/03/2026 17:30:00,07/04/2026 - 08:31,Theft,Investigation Pending,3400 block of Tulane Dr
+2026-00177990,07/04/2026 11:50:00,07/04/2026 - 11:50,Assist Other Agency,CBE,7390 River Rd
+2026-00178358,07/04/2026 22:49:00,07/04/2026 - 22:49,CDS Violation,Arrest,University Blvd
+2026-00180135,08/19/2024 12:00:00,07/06/2026 - 18:23,Other Incident,Active/Pending,7500 block of Baltimore Ave
+2026-00180196,07/06/2026 20:40:00,07/06/2026 - 21:32,Theft,Unfounded,3800 block of Stadium Dr
+2026-00180551,07/06/2026 03:30:00,07/07/2026 - 08:21,Vandalism,Investigation Pending,8000 block of Regents Dr
+2026-00180616,07/07/2026 09:30:00,07/07/2026 - 09:50,Injured Officer,CBE,7100 block of 51st Ave
+2026-00180723,07/04/2026 09:00:00,07/07/2026 - 12:29,Damaged Property,Active/Pending,8000 block of Boteler Ln
+2026-00180773,07/07/2026 14:00:00,07/07/2026 - 14:25,Other Incident,CBE,4200 block of Stadium Dr
+2026-00181596,07/08/2026 12:26:00,07/08/2026 - 12:26,Injured/Sick Person,CBE,7900 block of Regents Dr
+2026-00182964,07/10/2026 01:37:00,07/10/2026 - 01:37,DWI/DUI,Arrest,3800 block of Stadium Dr
+2026-00185026,07/10/2020 11:45:00,07/12/2026 - 11:19,Accident - Departmental,Arrest,1119 Mermaid Dr
+2026-00185036,07/12/2026 11:35:00,07/12/2026 - 11:35,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2026-00185496,07/13/2026 00:36:00,07/13/2026 - 00:36,DWI/DUI,Arrest,University Blvd
+2026-00185833,07/13/2026 09:16:00,07/13/2026 - 09:16,Other Incident,CBE,3900 block of Campus Dr
+2026-00185967,07/13/2026 10:30:00,07/13/2026 - 10:38,Injured/Sick Person,CBE,3900 block of Campus Dr
+2026-00186117,07/13/2026 11:45:00,07/13/2026 - 11:53,Injured/Sick Person,CBE,4100 block of Valley Dr
+2026-00186291,07/13/2026 16:04:00,07/13/2026 - 16:04,Injured/Sick Person,CBE,8200 block of Alumni Dr
+2026-00188411,07/15/2026 18:34:00,07/15/2026 - 18:34,Other Incident,CBE,4500 block of College Ave
+2026-00188690,07/02/2026 00:00:00,07/16/2026 - 00:03,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2026-00189370,07/01/2026 00:00:00,07/16/2026 - 16:04,Theft,Investigation Pending,7800 block of Regents Dr
+2026-00189658,07/16/2026 18:46:00,07/16/2026 - 18:46,DWI/DUI,Arrest,University Blvd
+2026-00189701,07/16/2026 20:00:00,07/16/2026 - 20:00,Other Service Call,CBE,7500 block of Mowatt Ln
+2026-00189721,07/16/2026 19:00:00,07/16/2026 - 22:02,Theft,Investigation Pending,4100 block of Valley Dr
+2026-00189907,07/17/2026 00:23:00,07/17/2026 - 00:23,DWI/DUI,Arrest,University Blvd
+2026-00190534,07/16/2026 23:30:00,07/17/2026 - 11:31,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2026-00190603,07/17/2026 13:38:00,07/17/2026 - 13:38,Other Incident,CBE,4100 block of Valley Dr
+2026-00190651,07/17/2026 15:53:00,07/17/2026 - 15:53,Assist Other Agency,CBE,The Standard at 4321 Hartwick Rd
+2026-00190942,07/17/2026 20:31:00,07/17/2026 - 20:31,DWI/DUI,Arrest,University Blvd
+2026-00191129,07/18/2026 00:53:00,07/18/2026 - 00:53,DWI/DUI,Arrest,University Blvd
+2026-00191145,07/18/2026 01:13:00,07/18/2026 - 01:13,DWI/DUI,Arrest,7500 block of Mowatt Ln
+2026-00191208,07/18/2026 02:00:00,07/18/2026 - 03:03,CDS Violation,Active/Pending,8400 block of Boteler Ln
+2026-00192033,07/18/2026 23:51:00,07/18/2026 - 23:51,Injured/Sick Person,CBE,7700 block of Baltimore Ave
+2026-00192375,07/19/2026 09:12:00,07/19/2026 - 09:12,Recovered Stolen Motor Vehicle,Arrest,4100 block of Campus Dr
+2026-00192384,07/19/2026 10:05:00,07/19/2026 - 10:05,Injured/Sick Person,CBE,8500 block of Paint Branch Dr
+2026-00192751,07/19/2026 22:43:00,07/19/2026 - 23:43,DWI/DUI,Arrest,"Drazek Circle, UMGC at 346 Ehrensberger Dr"
+2026-00193706,07/20/2026 13:30:00,07/20/2026 - 14:09,Suspicious Activity,Unfounded,4100 block of Campus Dr
+2026-00194856,07/21/2026 17:12:00,07/21/2026 - 17:12,Other Incident,CBE,8200 block of Alumni Dr
+2026-00194857,07/21/2026 17:14:00,07/21/2026 - 17:14,Vandalism,Active/Pending,4100 block of Terrapin Trl
+2026-00195202,07/22/2026 00:03:00,07/22/2026 - 00:03,Injured/Sick Person,CBE,6900 block of Preinkert Dr
+2026-00195409,07/21/2026 13:45:00,07/22/2026 - 12:05,Suspicious Activity,CBE,4400 block of Stadium Dr
+2026-00195539,07/22/2026 13:47:00,07/22/2026 - 13:47,Theft,Arrest,7400 block of Baltimore Ave
+2026-00195723,07/22/2026 17:21:00,07/22/2026 - 17:21,Other Service Call,CBE,4600 block of Calvert Rd
+2026-00195818,07/22/2026 20:48:00,07/22/2026 - 20:48,Assault,Arrest,4300 block of Knox Rd
+2026-00196320,07/23/2026 10:22:00,07/23/2026 - 10:22,Suspicious Activity,CBE,3900 block of Campus Dr
+2026-00196327,07/23/2026 10:26:00,07/23/2026 - 10:26,Fire,CBE,8100 block of Paint Branch Dr
+2026-00196687,07/23/2026 22:30:00,07/23/2026 - 22:30,DWI/DUI,Arrest,Adelphi Rd
+2026-00196773,07/24/2026 00:04:00,07/24/2026 - 00:04,DWI/DUI,Arrest,University Blvd
+2026-00197390,07/24/2026 10:32:00,07/24/2026 - 10:32,Assist Other Agency,CBE,909 at 8204 Baltimore Ave
+2026-00197447,07/24/2026 12:04:00,07/24/2026 - 12:07,Domestic,CBE,8000 block of Boteler Ln
+2026-00197550,07/24/2026 17:06:00,07/24/2026 - 17:06,Domestic,Active/Pending,Baltimore Ave
+2026-00197977,07/24/2026 23:51:00,07/24/2026 - 23:51,DWI/DUI,Arrest,Adelphi Rd
+2026-00198016,07/25/2026 00:29:00,07/25/2026 - 00:29,DWI/DUI,Arrest,University Blvd
+2026-00198197,07/25/2026 03:52:00,07/25/2026 - 03:52,DWI/DUI,Arrest,7600 block of Baltimore Ave
+2026-00198882,07/26/2026 00:19:00,07/26/2026 - 00:19,DWI/DUI,Arrest,Metzerott Rd
+2026-00200996,07/26/2026 01:45:00,07/26/2026 - 01:45,Disorderly Conduct,Arrest,University Blvd
+2026-00198970,07/26/2026 01:45:00,07/26/2026 - 01:45,DWI/DUI,Arrest,University Blvd
+2026-00199411,07/26/2026 14:30:00,07/26/2026 - 14:39,Fire,CBE,UMGC Hotel at 348 Ehrensberger Dr
+2026-00200065,07/27/2026 02:41:00,07/27/2026 - 02:41,DWI/DUI,Arrest,University Blvd
+2026-00201010,07/27/2026 21:00:00,07/27/2026 - 22:13,Other Incident,CBE,3800 block of Stadium Dr
+2026-00201481,07/28/2026 12:28:00,07/28/2026 - 13:14,Damage to State Property,CBE,7500 block of Regents Dr
+2026-00203085,07/30/2026 10:20:00,07/30/2026 - 10:27,Assist Other Agency,CBE,Baltimore Ave
+2026-00203094,07/30/2026 11:29:00,07/30/2026 - 11:29,Assist Other Agency,CBE,7500 block of Baltimore Ave
+2026-00203302,07/29/2026 20:58:00,07/30/2026 - 17:48,Damage to State Property,CBE,4100 block of Valley Dr
+2026-00203385,07/30/2026 18:55:00,07/30/2026 - 18:55,Other Incident,CBE,8000 block of Regents Dr
+2026-00203477,07/30/2026 21:29:00,07/30/2026 - 21:29,DWI/DUI,Arrest,Baltimore Ave
+2026-00203529,07/30/2026 22:36:00,07/30/2026 - 22:36,Assist Other Agency,CBE,Regents Dr
+2026-00204101,07/28/2026 06:37:00,07/31/2026 - 07:09,Vandalism,Investigation Pending,"PGUC, UMGC Parking Garage at 347 Ehrensberger Dr"
+2026-00204717,07/31/2026 17:30:00,07/31/2026 - 17:54,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2026-00205147,08/01/2026 00:45:00,08/01/2026 - 00:45,DWI/DUI,Arrest,Adelphi Rd

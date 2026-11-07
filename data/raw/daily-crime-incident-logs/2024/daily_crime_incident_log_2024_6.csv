@@ -1,0 +1,109 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2024-00098999,06/01/2024 11:48:00,06/01/2024 - 11:48,Injured/Sick Person,CBE,300 block of Ehrensberger Dr
+2024-00099231,06/02/2024 00:47:00,06/02/2024 - 00:47,DWI/DUI,Arrest,University Blvd
+2024-00099425,06/02/2024 13:00:00,06/02/2024 - 13:01,Other Service Call,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2024-00099488,06/02/2024 16:35:00,06/02/2024 - 16:35,Injured/Sick Person,CBE,Visitor Center at the Hotel at the University of Maryland at 7777 Baltimore Ave
+2024-00099539,06/02/2024 21:41:00,06/02/2024 - 21:41,DWI/DUI,Arrest,University Blvd
+2024-00099896,06/03/2024 14:50:00,06/03/2024 - 14:50,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2024-00099900,06/03/2024 13:15:00,06/03/2024 - 15:51,Theft,Investigation Pending,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00100063,06/04/2024 00:30:00,06/04/2024 - 01:47,Damage to State Property,CBE,"College Park Fire Station, Company 12 at 8115 Baltimore Ave"
+2024-00100110,06/04/2024 04:46:00,06/04/2024 - 04:46,Trespassing,Arrest,"Architecture, Architecture Building at 3835 Campus Dr"
+2024-00100145,06/03/2024 19:30:00,06/04/2024 - 07:19,Vandalism,Active/Pending,3400 block of Tulane Dr
+2024-00100177,06/01/2024 12:00:00,06/04/2024 - 09:25,Extortion,Summons Issued,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2024-00100201,04/23/2024 10:00:00,06/04/2024 - 10:55,Extortion,Active/Pending,8000 block of Boteler Ln
+2024-00100230,06/04/2024 01:00:00,06/04/2024 - 16:03,Theft,Active/Pending,3400 block of Tulane Dr
+2024-00100267,06/04/2024 17:13:00,06/04/2024 - 17:41,Theft,Arrest,"35, McKeldin Library at 7649 Library Ln"
+2024-00100291,06/04/2024 18:30:00,06/04/2024 - 18:40,Suspicious Activity,Active/Pending,Kim Engineering Building at 8228 Paint Branch Dr
+2024-00100292,06/04/2024 19:25:00,06/04/2024 - 19:35,Injured/Sick Person,CBE,"Phi Sigma Sigma, Phi Sigma Sigma Sorority at 4531 College Ave"
+2024-00100350,06/04/2024 23:44:00,06/04/2024 - 23:44,Trespassing,Arrest,"37, Shoemaker, Shoemaker Building at 4281 Chapel Ln"
+2024-00100453,06/05/2024 06:42:00,06/05/2024 - 06:42,Other Incident,CBE,4000 block of Campus Dr
+2024-00100471,06/05/2024 08:10:00,06/05/2024 - 08:16,Injured/Sick Person,CBE,Jull Hall at 4196 Stadium Dr
+2024-00100596,06/05/2024 14:22:00,06/05/2024 - 14:22,Fire,CBE,"79, Turner Hall, Visitor Center at 7736 Baltimore Ave"
+2024-00100611,06/05/2024 15:33:00,06/05/2024 - 15:33,Suspicious Activity,Unfounded,"School of Public Policy, Thurgood Marshall Hall at 7805 Regents Dr"
+2024-00100612,06/05/2024 15:42:00,06/05/2024 - 15:42,Trespassing,Arrest,South Gate at 7567 Regents Dr
+2024-00100613,06/05/2024 20:00:00,06/05/2024 - 16:06,Theft,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00100789,06/05/2024 23:44:00,06/05/2024 - 23:44,DWI/DUI,Arrest,Baltimore Ave
+2024-00100843,06/06/2024 04:37:00,06/06/2024 - 04:37,Suspicious Person/Auto,CBE,"Hornbake, Hornbake Library at 4130 Campus Dr"
+2024-00101019,05/31/2024 11:56:00,06/06/2024 - 13:33,Telephone/EMail Misuse,Investigation Pending,"3, Service Building at 7757 Baltimore Ave"
+2024-00101043,06/06/2024 15:53:00,06/06/2024 - 15:53,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281 Chapel Ln"
+2024-00101197,06/07/2024 00:49:00,06/07/2024 - 00:49,Suspicious Person/Auto,CBE,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200 Lehigh Rd"
+2024-00101476,06/07/2024 22:15:00,06/07/2024 - 22:15,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2024-00101569,06/08/2024 02:47:00,06/08/2024 - 02:47,DWI/DUI,Arrest,Metzerott Rd
+2024-00101840,06/08/2024 23:33:00,06/08/2024 - 23:33,DWI/DUI,Arrest,Baltimore Ave
+2024-00101902,06/09/2024 02:20:00,06/09/2024 - 02:20,Emergency Petition,CBE,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2024-00102022,06/09/2024 09:45:00,06/09/2024 - 10:05,Assault,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2024-00102452,06/10/2024 08:15:00,06/10/2024 - 08:15,Recovered Stolen Property,Arrest,North Gate at 4306 Campus Dr
+2024-00102454,06/10/2024 08:33:00,06/10/2024 - 08:33,Other Incident,CBE,Health Center at 3983 Campus Dr
+2024-00102471,05/29/2024 12:00:00,06/10/2024 - 11:21,Theft from Auto,Investigation Pending,", Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2024-00102627,06/10/2024 13:00:00,06/10/2024 - 17:49,Theft,Arrest,"Tawes, Tawes Hall at 7751 Alumni Dr"
+2024-00102848,06/10/2024 11:48:00,06/11/2024 - 07:32,Assist Other Agency,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2024-00102995,06/11/2024 14:46:00,06/11/2024 - 14:46,Suspicious Activity,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901 Regents Dr"
+2024-00103027,06/11/2024 16:25:00,06/11/2024 - 16:25,Other Incident,CBE,Shuttle Bus Facility at 8537 Paint Branch Dr
+2024-00103047,06/11/2024 18:35:00,06/11/2024 - 18:35,Domestic,CBE,Lot JJ3
+2024-00103049,06/11/2024 19:18:00,06/11/2024 - 19:21,Injured/Sick Person,CBE,3900 block of Campus Dr
+2024-00103455,06/12/2024 12:00:00,06/12/2024 - 15:00,Theft,Investigation Pending,"Club House, Golf Course Club House at 3800 Golf Course Rd"
+2024-00103458,06/11/2024 15:15:00,06/12/2024 - 15:13,Injured Officer,CBE,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005 52nd Ave"
+2024-00103496,06/12/2024 17:33:00,06/12/2024 - 17:33,Assist Other Agency,CBE,Adidas Stripe 3 at 7415 Baltimore Ave
+2024-00103498,06/12/2024 17:30:00,06/12/2024 - 17:37,Other Incident,Investigation Pending,5200 block of Greenbelt Rd
+2024-00103520,06/11/2024 20:30:00,06/12/2024 - 20:47,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2024-00103693,06/13/2024 05:43:00,06/13/2024 - 05:43,Suspicious Person/Auto,Arrest,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2024-00103774,06/07/2024 14:00:00,06/13/2024 - 10:19,Injured Officer,CBE,1 Liberty Dam Rd
+2024-00103854,06/13/2024 13:37:00,06/13/2024 - 13:37,Suspicious Person/Auto,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2024-00104326,06/13/2024 09:01:00,06/14/2024 - 14:43,Lost Property,CBE,"43, Taliaferro, Taliaferro Hall at 4280 Chapel Ln"
+2024-00105048,06/16/2024 03:12:00,06/16/2024 - 03:12,DWI/DUI,Arrest,Greenbelt Rd
+2024-00105079,06/16/2024 04:11:00,06/16/2024 - 07:07,Dept Property Damage/Loss,CBE,8800 block of Baltimore Ave
+2024-00105267,06/16/2024 17:30:00,06/16/2024 - 17:36,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345 Ehrensberger Dr
+2024-00105294,06/16/2024 19:14:00,06/16/2024 - 19:22,Extortion,Investigation Pending,4300 block of Rowalt Dr
+2024-00105365,06/16/2024 23:52:00,06/16/2024 - 23:52,DWI/DUI,Arrest,Frat Row
+2024-00106173,06/18/2024 16:37:00,06/18/2024 - 16:37,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2024-00106185,06/18/2024 17:56:00,06/18/2024 - 17:56,Assist Other Agency,CBE,4600 block of College Ave
+2024-00106236,06/18/2024 22:04:00,06/18/2024 - 22:04,Hazardous Condition,CBE,Campus Dr
+2024-00106247,06/18/2024 17:00:00,06/18/2024 - 22:45,Theft,Investigation Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2024-00106551,06/19/2024 15:50:00,06/19/2024 - 16:25,Suspicious Person/Auto,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2024-00106552,06/11/2024 12:00:00,06/19/2024 - 16:43,Injured Officer,CBE,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005 52nd Ave"
+2024-00106939,06/16/2024 11:38:00,06/20/2024 - 13:40,Theft,Warrant Issued,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00106993,06/17/2024 10:00:00,06/20/2024 - 16:59,Theft,Summons Issued,Jones-Hill House Outdoor Practice Fields at -1
+2024-00106997,06/20/2024 13:30:00,06/20/2024 - 17:47,Theft,Summons Issued,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00107098,06/20/2024 18:40:00,06/20/2024 - 22:30,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2024-00107117,06/20/2024 23:05:00,06/20/2024 - 23:17,Traffic Offense,Arrest,Baltimore Ave
+2024-00107198,06/20/2024 22:00:00,06/21/2024 - 02:01,Dept Property Damage/Loss,Active/Pending,"26, South Campus Dining Hall at 7093 Preinkert Dr"
+2024-00107210,06/21/2024 03:12:00,06/21/2024 - 03:12,Juvenile Offense,CBE,815 at 7401 Baltimore Ave
+2024-00107324,06/14/2024 00:15:00,06/21/2024 - 08:10,Theft from Auto,Investigation Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2024-00107343,06/18/2024 15:30:00,06/21/2024 - 09:38,Stolen Motor Vehicle,Investigation Pending,"98, Centreville, Centreville Hall at 4243 Valley Dr"
+2024-00107374,06/20/2024 10:26:00,06/21/2024 - 12:10,Harassment/Stalking,Active/Pending,5800 block of University Research Ct
+2024-00107425,06/21/2024 15:31:00,06/21/2024 - 15:31,Accident - Departmental,CBE,Baltimore Ave
+2024-00107507,06/21/2024 09:15:00,06/21/2024 - 19:37,Theft,Investigation Pending,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356 Stadium Dr"
+2024-00107666,06/22/2024 01:00:00,06/22/2024 - 01:39,Accident - Departmental,CBE,8900 block of Baltimore Ave
+2024-00107674,06/22/2024 01:50:00,06/22/2024 - 02:09,Found/Recovered Property,CBE,Boteler Ln
+2024-00107713,06/22/2024 05:40:00,06/22/2024 - 05:40,DWI/DUI,Arrest,Baltimore Ave
+2024-00107839,06/22/2024 10:00:00,06/22/2024 - 14:24,Theft,Investigation Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170 Union Ln"
+2024-00107842,06/22/2024 16:42:00,06/22/2024 - 16:42,Stolen Motor Vehicle,Juvenile Arrest,"DOTS Impound Lot, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2024-00108012,06/23/2024 01:14:00,06/23/2024 - 01:14,DWI/DUI,Arrest,Campus Dr
+2024-00108162,06/20/2024 13:00:00,06/23/2024 - 10:11,Theft,Investigation Pending,"Elkton, Elkton Hall at 3981 Denton Service Ln"
+2024-00108226,06/21/2023 23:30:00,06/23/2024 - 15:17,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2024-00108405,06/24/2024 01:43:00,06/24/2024 - 01:43,DWI/DUI,Arrest,"Archives, National Archives at 8601 Adelphi Rd"
+2024-00108460,06/24/2024 06:00:00,06/24/2024 - 10:29,Theft,Summons Issued,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00108465,06/24/2024 13:07:00,06/24/2024 - 13:07,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2024-00108522,06/21/2024 19:00:00,06/24/2024 - 14:16,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2024-00108621,03/07/2024 09:00:00,06/24/2024 - 19:52,Theft,Investigation Pending,6900 block of Preinkert Dr
+2024-00108923,06/25/2024 13:15:00,06/25/2024 - 13:22,Accident,Arrest,Johnson-Whittle Hall at 4118 Stadium Dr
+2024-00108958,06/25/2024 10:10:00,06/25/2024 - 15:49,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2024-00109338,06/26/2024 11:28:00,06/26/2024 - 11:28,Injured/Sick Person,CBE,"76, Symons Hall at 7998 Regents Dr"
+2024-00109363,06/26/2024 12:33:00,06/26/2024 - 12:33,Injured/Sick Person,CBE,815 at 7401 Baltimore Ave
+2024-00109380,06/26/2024 14:15:00,06/26/2024 - 14:30,Suspicious Activity,CBE,Cypress Building at 8320 Baltimore Ave
+2024-00109405,06/23/2024 17:00:00,06/26/2024 - 16:44,Suspicious Activity,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2024-00109484,06/26/2024 22:00:00,06/26/2024 - 22:12,Assist Other Agency,CBE,7300 block of Baltimore Ave
+2024-00109600,06/27/2024 04:56:00,06/27/2024 - 04:56,Fire,CBE,Alpha Phi Sorority at 7402 Princeton Ave
+2024-00109761,06/27/2024 15:15:00,06/27/2024 - 15:15,Carjacking,Investigation Pending,Lot 11b
+2024-00109825,06/27/2024 19:46:00,06/27/2024 - 19:56,Injured/Sick Person,CBE,"Clarice Smith Performing Arts Center, CSPAC at 8270 Alumni Dr"
+2024-00109838,06/27/2024 21:00:00,06/27/2024 - 21:07,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2024-00110090,06/28/2024 09:07:00,06/28/2024 - 09:07,Hazardous Condition,CBE,"Drazek Circle, UMGC at 346 Ehrensberger Dr"
+2024-00110097,06/27/2024 10:30:00,06/28/2024 - 12:44,Extortion,Investigation Pending,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200 Lehigh Rd"
+2024-00110172,06/20/2024 12:00:00,06/28/2024 - 18:03,Harassment/Stalking,CBE,"Leonardtown #245, Leonardtown  at 4689 Rossborough Ln"
+2024-00110317,06/29/2024 00:51:00,06/29/2024 - 00:45,Emergency Petition,CBE,Baltimore Ave
+2024-00110329,06/29/2024 01:16:00,06/29/2024 - 01:16,DWI/DUI,Arrest,Baltimore Ave
+2024-00110369,06/29/2024 03:22:00,06/29/2024 - 03:22,DWI/DUI,Arrest,Greenbelt Rd
+2024-00110706,06/30/2024 02:20:00,06/30/2024 - 02:20,DWI/DUI,Arrest,University Blvd
+2024-00110733,06/30/2024 03:42:00,06/30/2024 - 03:58,Assist Other Agency,CBE,"7-11 Guilford, 7-Eleven Guilford at 7201 Baltimore Ave"
+2024-00111027,06/30/2024 23:17:00,06/30/2024 - 23:17,Other Incident,CBE,4300 block of Rowalt Dr
+2024-00111030,06/30/2024 23:40:00,06/30/2024 - 23:40,DWI/DUI,Arrest,Greenbelt Rd

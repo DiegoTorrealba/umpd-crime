@@ -1,0 +1,114 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00015605,03/01/2020 00:15:00,03/01/2020 - 00:15,Disorderly Conduct,Arrest,8100 block of Baltimore Ave
+2020-00015628,03/01/2020 01:53:00,03/01/2020 - 01:53,Injured/Sick Person,CBE,3900 block of Campus Dr
+2020-00015635,03/01/2020 02:20:00,03/01/2020 - 02:20,Disorderly Conduct,Arrest,7300 block of Baltimore Ave
+2020-00015636,03/01/2020 02:25:00,03/01/2020 - 02:28,Disorderly Conduct,Arrest,4400 block of Knox Rd
+2020-00015637,03/01/2020 02:30:00,03/01/2020 - 02:30,Suspicious Activity,Arrest,7500 block of Baltimore Ave
+2020-00015661,03/01/2020 04:11:00,03/01/2020 - 04:11,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2020-00015662,03/01/2020 04:25:00,03/01/2020 - 04:25,Theft,Unfounded,4600 block of Calvert Rd
+2020-00015749,03/01/2020 14:31:00,03/01/2020 - 14:31,CDS Violation,Arrest,4000 block of Stadium Dr
+2020-00015816,03/01/2020 17:00:00,03/01/2020 - 19:52,Theft from Auto,Investigation Pending,
+2020-00015869,03/01/2020 22:23:00,03/01/2020 - 22:23,Theft,Investigation Pending,4100 block of Farm Dr
+2020-00016017,03/02/2020 03:52:00,03/02/2020 - 03:52,Assist Other Agency,CBE,7500 block of Baltimore Ave
+2020-00016024,03/02/2020 03:00:00,03/02/2020 - 04:24,Injured/Sick Person,CBE,8200 block of Boteler Ln
+2020-00016033,02/28/2020 16:00:00,03/02/2020 - 07:02,Damage to State Property,Active/Pending,4200 block of Stadium Dr
+2020-00016096,03/02/2020 10:37:00,03/02/2020 - 10:37,Theft,Active/Pending,8100 block of Paint Branch Dr
+2020-00016099,02/28/2020 16:00:00,03/02/2020 - 10:43,Vandalism,Investigation Pending,4300 block of Knox Rd
+2020-00016277,03/02/2020 23:18:00,03/02/2020 - 23:18,CDS Violation,Arrest,3800 block of Stadium Dr
+2020-00016300,03/03/2020 01:21:00,03/03/2020 - 01:21,CDS Violation,Arrest,8700 block of Baltimore Ave
+2020-00016356,02/28/2020 15:00:00,03/03/2020 - 10:01,Vandalism,Investigation Pending,6800 block of Preinkert Dr
+2020-00016454,03/03/2020 15:30:00,03/03/2020 - 17:37,Injured/Sick Person,CBE,4  Fraternity Row
+2020-00016499,03/03/2020 18:00:00,03/03/2020 - 20:34,Theft,Arrest,4100 block of Campus Dr
+2020-00016514,03/03/2020 08:00:00,03/03/2020 - 21:17,Vandalism,Investigation Pending,4100 block of Valley Dr
+2020-00016520,03/03/2020 22:00:00,03/03/2020 - 22:00,Emergency Petition,CBE,
+2020-00016590,03/04/2020 02:05:00,03/04/2020 - 02:05,DWI/DUI,Arrest,Campus Dr
+2020-00016616,03/04/2020 08:44:00,03/04/2020 - 08:44,Injured/Sick Person,CBE,4200 block of Chapel Ln
+2020-00016617,03/03/2020 18:00:00,03/04/2020 - 08:49,Burglary,Arrest,4400 block of Stadium Dr
+2020-00016621,03/03/2020 17:35:00,03/04/2020 - 09:06,Burglary,Arrest,4100 block of Campus Dr
+2020-00016623,03/04/2020 08:44:00,03/04/2020 - 09:35,Injured/Sick Person,CBE,4200 block of Chapel Ln
+2020-00016632,03/03/2020 18:45:00,03/04/2020 - 10:50,Burglary,Arrest,8000 block of Regents Dr
+2020-00016634,03/04/2020 11:05:00,03/04/2020 - 11:05,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2020-00016637,03/04/2020 11:20:00,03/04/2020 - 11:20,Vandalism,CBE,4100 block of Valley Dr
+2020-00016644,02/28/2020 15:00:00,03/04/2020 - 13:09,Burglary,Arrest,4100 block of Campus Dr
+2020-00016666,03/04/2020 15:23:00,03/04/2020 - 15:23,Other Incident,Active/Pending,8000 block of Regents Dr
+2020-00016768,03/04/2020 22:47:00,03/04/2020 - 22:47,Emergency Petition,CBE,7700 block of Alumni Dr
+2020-00016785,03/05/2020 02:32:00,03/05/2020 - 02:32,DWI/DUI,Arrest,Baltimore Ave
+2020-00016786,03/05/2020 03:47:00,03/05/2020 - 03:47,Injured/Sick Person,CBE,4100 block of Farm Dr
+2020-00016799,03/03/2020 08:00:00,03/05/2020 - 08:07,Burglary,Arrest,4200 block of Campus Dr
+2020-00016836,03/05/2020 12:34:00,03/05/2020 - 12:34,Burglary,Investigation Pending,7900 block of Regents Dr
+2020-00016842,03/05/2020 13:38:00,03/05/2020 - 13:38,Warrant/Summons Service,Arrest,Testudo Way
+2020-00016848,03/05/2020 14:18:00,03/05/2020 - 14:18,Injured Officer,CBE,7100 block of 51st Ave
+2020-00016865,03/05/2020 15:00:00,03/05/2020 - 15:14,Other Incident,Unfounded,7700 block of Adelphi Rd
+2020-00016888,03/05/2020 10:30:00,03/05/2020 - 17:39,Fraud,Active/Pending,3900 block of Campus Dr
+2020-00016905,03/05/2020 19:05:00,03/05/2020 - 19:12,Injured/Sick Person,CBE,7600 block of Baltimore Ave
+2020-00016926,03/05/2020 20:00:00,03/05/2020 - 20:10,CDS Violation,CBE,4100 block of Valley Dr
+2020-00016932,03/05/2020 09:00:00,03/05/2020 - 20:52,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00017123,03/04/2020 13:00:00,03/06/2020 - 11:44,Other Incident,Investigation Pending,4100 block of Valley Dr
+2020-00017130,03/06/2020 12:13:00,03/06/2020 - 12:13,Theft,Investigation Pending,7800 block of Regents Dr
+2020-00017163,03/06/2020 17:25:00,03/06/2020 - 17:25,Theft,Investigation Pending,7600 block of Mowatt Ln
+2020-00017186,03/06/2020 19:27:00,03/06/2020 - 19:27,Emergency Petition,CBE,Garage D at 4155 Terrapin Trl
+2020-00017195,03/06/2020 20:41:00,03/06/2020 - 20:41,CDS Violation,CBE,3900 block of Denton Service Ln
+2020-00017225,03/06/2020 23:13:00,03/06/2020 - 23:13,Injured/Sick Person,CBE,4100 block of Farm Dr
+2020-00017230,03/06/2020 23:33:00,03/06/2020 - 23:33,CDS Violation,Arrest,Campus Dr
+2020-00017241,03/07/2020,03/07/2020 - 00:00,Trespassing,CBE,4100 block of Stadium Dr
+2020-00017257,03/07/2020 00:51:00,03/07/2020 - 00:51,DWI/DUI,Arrest,Greenbelt Rd
+2020-00017276,03/07/2020 02:38:00,03/07/2020 - 02:38,DWI/DUI,Arrest,Baltimore Ave
+2020-00017335,03/07/2020 09:06:00,03/07/2020 - 09:06,Theft from Auto,Investigation Pending,204 at 4721 Rossborough Ln
+2020-00017352,03/07/2020 08:30:00,03/07/2020 - 12:04,Damaged Property,CBE,
+2020-00017519,03/08/2020 00:25:00,03/08/2020 - 00:25,Injured/Sick Person,CBE,4000 block of Stadium Dr
+2020-00017518,03/08/2020 00:26:00,03/08/2020 - 00:26,Suspicious Activity,CBE,4200 block of Valley Dr
+2020-00017529,03/08/2020 01:05:00,03/08/2020 - 01:05,DWI/DUI,Arrest,Baltimore Ave
+2020-00017532,03/08/2020 01:19:00,03/08/2020 - 01:19,DWI/DUI,Arrest,Baltimore Ave
+2020-00017537,03/08/2020 03:09:00,03/08/2020 - 03:09,DWI/DUI,Arrest,Baltimore Ave
+2020-00017540,03/08/2020 03:47:00,03/08/2020 - 03:47,Injured/Sick Person,CBE,4100 block of Valley Dr
+2020-00017553,03/07/2020 22:00:00,03/08/2020 - 05:50,Police Information,CBE,7500 block of Baltimore Ave
+2020-00017722,03/08/2020 23:30:00,03/08/2020 - 23:30,DWI/DUI,Arrest,4400 block of Knox Rd
+2020-00017726,03/09/2020 00:13:00,03/09/2020 - 00:13,CDS Violation,Arrest,7700 block of Regents Dr
+2020-00017736,03/09/2020 01:40:00,03/09/2020 - 01:40,CDS Violation,Arrest,4300 block of Knox Rd
+2020-00017745,03/09/2020 02:18:00,03/09/2020 - 02:18,CDS Violation,Arrest,Baltimore Ave
+2020-00017832,03/09/2020 12:04:00,03/09/2020 - 12:04,Other Incident,CBE,7600 block of Mowatt Ln
+2020-00017839,03/06/2020 15:30:00,03/09/2020 - 12:51,Burglary,Investigation Pending,4200 block of Stadium Dr
+2020-00017941,03/09/2020 22:50:00,03/09/2020 - 22:50,CDS Violation,Arrest,7500 block of Mowatt Ln
+2020-00018086,03/10/2020 12:00:00,03/10/2020 - 12:00,Injured/Sick Person,CBE,4000 block of Stadium Dr
+2020-00018212,03/07/2020 01:00:00,03/10/2020 - 21:28,Vandalism,Investigation Pending,4100 block of Farm Dr
+2020-00018224,03/10/2020 22:36:00,03/10/2020 - 22:36,Title IX Incident Non Criminal,CBE,7600 block of Library Ln
+2020-00018294,03/11/2020 01:41:00,03/11/2020 - 01:41,DWI/DUI,Arrest,9000 block of Baltimore Ave
+2020-00018461,03/11/2020 16:00:00,03/11/2020 - 17:32,Theft,Active/Pending,4100 block of Valley Dr
+2020-00018502,03/11/2020 20:00:00,03/11/2020 - 20:05,Injured/Sick Person,CBE,8000 block of Regents Dr
+2020-00018528,03/11/2020 20:50:00,03/11/2020 - 23:31,Police Information,CBE,7500 block of Baltimore Ave
+2020-00018552,03/12/2020 00:29:00,03/12/2020 - 00:29,DWI/DUI,Arrest,Baltimore Ave
+2020-00018607,03/11/2020 17:00:00,03/12/2020 - 08:22,Vandalism,Arrest,Lot 11b
+2020-00018635,03/12/2020 12:56:00,03/12/2020 - 12:56,Warrant/Summons Service,Arrest,7700 block of Baltimore Ave
+2020-00018647,03/12/2020 16:20:00,03/12/2020 - 16:20,Suspicious Activity,CBE,"Tau Kappa Epsilon, TKE at 3 Fraternity Row"
+2020-00018687,03/12/2020 13:00:00,03/12/2020 - 21:24,Theft,Investigation Pending,8100 block of Regents Dr
+2020-00018694,03/12/2020 19:30:00,03/12/2020 - 22:38,Theft,Active/Pending,8100 block of Paint Branch Dr
+2020-00019092,03/13/2020 23:30:00,03/14/2020 - 15:27,Theft from Auto,Active/Pending,Lot 11b
+2020-00019117,03/14/2020 16:58:00,03/14/2020 - 21:14,Police Information,CBE,7500 block of Baltimore Ave
+2020-00019306,03/12/2020 20:30:00,03/15/2020 - 16:05,Theft from Auto,Active/Pending,7500 block of Yale Ave
+2020-00019450,03/13/2020 15:00:00,03/16/2020 - 09:27,Burglary,Investigation Pending,4200 block of Stadium Dr
+2020-00019515,03/16/2020 12:28:00,03/16/2020 - 12:33,Other Incident,CBE,Garage C at 8056 Regents Dr
+2020-00019842,03/17/2020 20:22:00,03/17/2020 - 20:22,Trespassing,Investigation Pending,3900 block of Denton Service Ln
+2020-00020177,03/19/2020 02:00:00,03/19/2020 - 02:09,CDS Violation,Arrest,University Blvd
+2020-00020329,03/19/2020 19:50:00,03/19/2020 - 19:50,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2020-00020338,03/19/2020 21:38:00,03/19/2020 - 21:38,Recovered Stolen Property,Investigation Pending,Woodberry St
+2020-00020368,03/19/2010 23:38:00,03/19/2020 - 23:38,CDS Violation,Arrest,4400 block of Lehigh Rd
+2020-00020486,03/20/2020 13:30:00,03/20/2020 - 13:30,Damage to State Property,CBE,3800 block of Campus Dr
+2020-00020488,03/11/2020 12:00:00,03/20/2020 - 13:38,Vandalism,Investigation Pending,7700 block of Alumni Dr
+2020-00020499,02/14/2020 12:00:00,03/20/2020 - 15:15,Theft,Active/Pending,7500 block of Baltimore Ave
+2020-00020516,03/20/2020 17:00:00,03/20/2020 - 18:12,Assist Other Agency,CBE,5300 block of Edgewood Rd
+2020-00020671,03/21/2020 17:11:00,03/21/2020 - 17:11,Recovered Stolen Property,Arrest,Lakeland Rd
+2020-00021038,03/23/2020 14:45:00,03/23/2020 - 14:45,Other Incident,CBE,4600 block of Norwich Rd
+2020-00021791,03/25/2020 18:00:00,03/26/2020 - 13:11,Theft,Investigation Pending,4200 block of Stadium Dr
+2020-00021873,03/26/2020 22:50:00,03/26/2020 - 22:50,Other Incident,CBE,7400 block of Hopkins Ave
+2020-00021890,03/26/2020 23:55:00,03/26/2020 - 23:55,CDS Violation,Arrest,7400 block of Columbia Ave
+2020-00022010,03/23/2020 07:06:00,03/27/2020 - 09:05,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00022011,03/23/2020 00:01:00,03/27/2020 - 09:14,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00022012,03/18/2020 00:01:00,03/27/2020 - 09:17,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00022048,03/12/2020 12:30:00,03/27/2020 - 12:37,Theft,Active/Pending,4400 block of Rossborough Ln
+2020-00022380,03/28/2020 23:06:00,03/28/2020 - 23:06,Burglary,CBE,4100 block of Valley Dr
+2020-00022393,03/28/2019 23:50:00,03/28/2020 - 23:50,CDS Violation,Arrest,7500 block of Mowatt Ln
+2020-00022643,03/30/2020 02:12:00,03/30/2020 - 02:12,Other Incident,CBE,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2020-00022732,03/30/2020 14:14:00,03/30/2020 - 14:14,Trespassing,CBE,4100 block of Library Ln
+2020-00022745,03/28/2020 20:00:00,03/30/2020 - 16:08,Theft,Investigation Pending,4300 block of Knox Rd
+2020-00023055,03/13/2020 16:00:00,03/31/2020 - 14:34,Vandalism,Investigation Pending,Lot 11b
+2020-00023057,03/30/2020 14:30:00,03/31/2020 - 15:45,Damaged Property,CBE,Rhode Island Ave

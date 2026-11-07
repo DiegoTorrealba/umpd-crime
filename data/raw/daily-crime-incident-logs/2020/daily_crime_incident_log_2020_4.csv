@@ -1,0 +1,29 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00023452,03/31/2020 23:30:00,04/01/2020 - 18:12,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00023754,04/02/2020 13:46:00,04/02/2020 - 13:46,DWI/DUI,Arrest,
+2020-00024241,04/04/2020 13:20:00,04/04/2020 - 13:27,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2020-00024638,04/06/2020 07:00:00,04/06/2020 - 07:57,Injured/Sick Person,CBE,8000 block of Boteler Ln
+2020-00025694,04/08/2020 11:50:00,04/09/2020 - 12:52,Assist Other Agency,CBE,4000 block of Campus Dr
+2020-00026066,04/10/2020 10:04:00,04/10/2020 - 10:22,Assist Other Agency,CBE,8100 block of Baltimore Ave
+2020-00026376,04/11/2020 21:12:00,04/11/2020 - 21:12,Traffic Offense,CBE,Mowatt Ln
+2020-00026592,04/12/2020 14:11:00,04/12/2020 - 14:11,Other Incident,CBE,7500 block of Yale Ave
+2020-00026912,04/13/2020 16:09:00,04/13/2020 - 16:09,Other Incident,CBE,3800 block of Golf Course Rd
+2020-00027195,04/14/2020 10:27:00,04/14/2020 - 10:32,Indecent Exposure,Arrest,3400 block of Tulane Dr
+2020-00027323,04/14/2020 19:31:00,04/14/2020 - 19:31,Suspicious Person/Auto,CBE,Garage C at 8056 Regents Dr
+2020-00027325,04/14/2020 05:11:00,04/14/2020 - 20:01,Suspicious Activity,CBE,3200 block of Metzerott Rd
+2020-00027566,04/15/2020 06:00:00,04/15/2020 - 17:13,Theft,Investigation Pending,8500 block of Paint Branch Dr
+2020-00028202,04/17/2020 14:29:00,04/17/2020 - 14:29,Theft,Active/Pending,8000 block of Regents Dr
+2020-00028262,04/17/2020 19:50:00,04/17/2020 - 19:50,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2020-00028435,04/17/2020 11:15:00,04/18/2020 - 11:55,Police Information,CBE,9500 block of Baltimore Ave
+2020-00028574,04/18/2020 19:44:00,04/18/2020 - 19:44,Assist Other Agency,CBE,8700 block of Baltimore Ave
+2020-00028575,04/18/2020 21:12:00,04/18/2020 - 21:12,Assist Other Agency,CBE,Knox Rd
+2020-00028784,04/15/2020 22:00:00,04/19/2020 - 14:21,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00029957,04/23/2020 10:13:00,04/23/2020 - 10:13,Accident - Departmental,CBE,
+2020-00030403,04/25/2020 00:35:00,04/25/2020 - 00:35,CDS Violation,CBE,7500 block of Mowatt Ln
+2020-00030664,04/26/2020 02:58:00,04/26/2020 - 02:58,Trespassing,CBE,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2020-00030732,04/26/2020 11:02:00,04/26/2020 - 11:02,Alarm,CBE,4400 block of Stadium Dr
+2020-00030925,04/21/2020 08:30:00,04/27/2020 - 08:32,Dept Property Damage/Loss,Unfounded,7500 block of Baltimore Ave
+2020-00031018,04/27/2020 16:11:00,04/27/2020 - 16:40,Telephone/EMail Misuse,CBE,7500 block of Baltimore Ave
+2020-00031221,04/28/2020 14:24:00,04/28/2020 - 14:24,Injured/Sick Person,CBE,4200 block of Valley Dr
+2020-00031691,04/25/2020 15:00:00,04/30/2020 - 12:51,Dept Property Damage/Loss,CBE,317 Buschs Frontage Rd
+2020-00031822,04/30/2020 23:48:00,04/30/2020 - 23:52,Assist Other Agency,CBE,7200 block of Baltimore Ave

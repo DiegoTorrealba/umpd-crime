@@ -1,0 +1,32 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2024-00214548,12/01/2024 02:20:00,12/01/2024 - 02:20,DWI/DUI,Arrest,University Blvd
+2024-00214561,12/01/2024 02:20:00,12/01/2024 - 02:55,Injured/Sick Person,CBE,University Blvd
+2024-00214563,12/01/2024 03:02:00,12/01/2024 - 03:02,DWI/DUI,Arrest,University Blvd
+2024-00214591,12/01/2024 03:45:00,12/01/2024 - 04:27,Other Incident,Active/Pending,Stadium Dr
+2024-00215137,11/25/2024 13:00:00,12/01/2024 - 18:45,Fraud,Active/Pending,4200 block of Valley Dr
+2024-00215237,12/01/2024 20:20:00,12/01/2024 - 20:33,Vandalism,Active/Pending,7100 block of Preinkert Dr
+2024-00215827,12/01/2024 14:00:00,12/02/2024 - 08:45,Vandalism,Active/Pending,8200 block of Paint Branch Dr
+2024-00215883,12/02/2024 06:35:00,12/02/2024 - 10:01,Assist Other Agency,CBE,4600 block of College Ave
+2024-00215899,12/01/2024 17:30:00,12/02/2024 - 11:36,Injured/Sick Person,CBE,Lot A
+2024-00215998,12/02/2024 13:58:00,12/02/2024 - 13:58,Accident,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00216097,11/26/2024 17:00:00,12/02/2024 - 15:16,Theft,Active/Pending,La Plata Hall at 8160 La Plata Dr
+2024-00216158,12/02/2024 15:45:00,12/02/2024 - 15:54,Assist Other Agency,CBE,4600 block of Drexel Rd
+2024-00216249,12/02/2024 17:15:00,12/02/2024 - 17:40,Theft,Unfounded,"Leonardtown #247, Leonardtown  at 4713 Rossborough Ln"
+2024-00216307,12/02/2024 15:30:00,12/02/2024 - 18:50,Theft,Active/Pending,"35, McKeldin Library at 7649 Library Ln"
+2024-00216755,12/03/2024 07:00:00,12/03/2024 - 07:11,Injured/Sick Person,CBE,Cumberland Hall at 4250 Farm Dr
+2024-00216757,12/03/2024 06:50:00,12/03/2024 - 07:19,Theft,Active/Pending,"34, Jimenez, Jimenez Hall at 4125 N Library Ln"
+2024-00217159,12/03/2024 16:30:00,12/03/2024 - 18:17,Injured/Sick Person,CBE,8600 block of Baltimore Ave
+2024-00217211,12/03/2024 17:15:00,12/03/2024 - 20:49,Theft,Active/Pending,"63, Somerset, Somerset Hall at 7567 Preinkert Dr"
+2024-00217217,12/03/2024 17:17:00,12/03/2024 - 21:06,Other Incident,Active/Pending,"99, Bel Air, Bel Air Hall at 4213 Valley Dr"
+2024-00217636,12/04/2024 05:00:00,12/04/2024 - 07:37,Injured/Sick Person,CBE,6800 block of Preinkert Dr
+2024-00217784,12/04/2024 10:09:00,12/04/2024 - 10:09,Assist Other Agency,CBE,Adelphi Rd
+2024-00217860,12/04/2024 12:40:00,12/04/2024 - 12:51,Other Incident,CBE,Manokin Building at 5801 University Research Ct
+2024-00218048,12/04/2024 19:01:00,12/04/2024 - 19:39,Injured/Sick Person,CBE,8700 block of Boteler Ln
+2024-00218078,12/04/2024 20:45:00,12/04/2024 - 20:45,Injured/Sick Person,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170 Union Ln"
+2024-00218088,12/04/2024 21:47:00,12/04/2024 - 21:47,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
+2024-00218599,12/05/2024 11:19:00,12/05/2024 - 11:19,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117 Stadium Dr
+2024-00218739,11/04/2024 15:00:00,12/05/2024 - 18:28,Injured/Sick Person,CBE,"Hornbake, Hornbake Library at 4130 Campus Dr"
+2024-00219450,12/06/2024 11:55:00,12/06/2024 - 12:01,Damage to State Property,CBE,4000 block of Campus Dr
+2024-00221945,12/09/2024 17:50:00,12/09/2024 - 18:05,Suspicious Activity,Active/Pending,7800 block of Regents Dr
+2024-00221984,12/09/2024 22:13:00,12/09/2024 - 22:13,Assist Other Agency,CBE,Lakeland Rd
+2024-00222028,12/09/2024 23:25:00,12/09/2024 - 23:25,Trespassing,Arrest,"Architecture, Architecture Building at 3835 Campus Dr"

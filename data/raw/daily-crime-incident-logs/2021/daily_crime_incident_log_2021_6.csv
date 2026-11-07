@@ -1,0 +1,54 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00042120,06/01/2021 01:15:00,06/01/2021 - 01:31,Traffic Offense,CBE,8600 block of Adelphi Rd
+2021-00042290,05/30/2021 04:30:00,06/01/2021 - 15:05,Suspicious Activity,CBE,8100 block of Presidential Dr
+2021-00042356,06/01/2021 18:17:00,06/01/2021 - 18:17,Theft,Arrest,"College Park Fire Station, Company 12 at 8115 Baltimore Ave"
+2021-00042418,06/01/2021 22:05:00,06/01/2021 - 22:05,DWI/DUI,Arrest,7900 block of Regents Dr
+2021-00042434,06/01/2021 23:32:00,06/01/2021 - 23:32,DWI/DUI,Arrest,Baltimore Ave
+2021-00042470,06/02/2021 02:17:00,06/02/2021 - 02:17,CDS Violation,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00042473,06/02/2021 02:36:00,06/02/2021 - 02:36,Disorderly Conduct,Arrest,"Town Hall, Town Hall Liquors at 8135 Baltimore Ave"
+2021-00042487,06/02/2021 05:56:00,06/02/2021 - 05:56,DWI/DUI,Arrest,Greenbelt Rd
+2021-00042554,06/02/2021 12:00:00,06/02/2021 - 13:27,Other Incident,Unfounded,4000 block of Stadium Dr
+2021-00043320,06/05/2021 02:50:00,06/05/2021 - 02:50,Injured/Sick Person,CBE,8600 block of Boteler Ln
+2021-00043498,06/05/2021 23:44:00,06/05/2021 - 23:44,DWI/DUI,Arrest,University Blvd
+2021-00043916,06/07/2021 23:32:00,06/08/2021 - 00:32,CDS Violation,Arrest,7500 block of Mowatt Ln
+2021-00044232,06/09/2021 01:40:00,06/09/2021 - 01:40,DWI/DUI,Arrest,Baltimore Ave
+2021-00044434,06/09/2021 22:36:00,06/09/2021 - 22:36,DWI/DUI,Arrest,Baltimore Ave
+2021-00044526,05/01/2021 04:00:00,06/10/2021 - 07:55,Vandalism,Investigation Pending,"96, Cambridge, Cambridge Hall at 4230 Farm Dr"
+2021-00044659,06/10/2021 20:21:00,06/10/2021 - 20:21,DWI/DUI,Arrest,University Blvd
+2021-00044674,06/10/2021 23:07:00,06/10/2021 - 23:07,DWI/DUI,Arrest,University Blvd
+2021-00044989,06/11/2021 11:59:00,06/12/2021 - 09:27,Theft,Investigation Pending,3400 block of Tulane Dr
+2021-00044997,06/11/2021 11:00:00,06/12/2021 - 09:55,Theft from Auto,Investigation Pending,8300 block of Baltimore Ave
+2021-00045423,06/13/2021 23:00:00,06/14/2021 - 08:56,Theft from Auto,Investigation Pending,Lot 12a
+2021-00045427,06/11/2021 16:00:00,06/14/2021 - 09:23,Vandalism,Investigation Pending,4700 block of Rossborough Ln
+2021-00045586,06/14/2021 22:35:00,06/14/2021 - 22:35,Suspicious Activity,Arrest,7500 block of Calvert Service Ln
+2021-00045615,06/10/2021 10:00:00,06/15/2021 - 07:11,Dept Property Damage/Loss,CBE,7100 block of 51st Ave
+2021-00045671,05/01/2020,06/15/2021 - 10:18,Theft,Investigation Pending,7200 block of Preinkert Dr
+2021-00045754,06/15/2021 17:13:00,06/15/2021 - 17:15,Accident - Departmental,CBE,7300 block of Baltimore Ave
+2021-00045803,06/15/2021 21:44:00,06/15/2021 - 21:44,DWI/DUI,Arrest,University Blvd
+2021-00045834,06/16/2021,06/16/2021 - 00:00,DWI/DUI,Arrest,Shuttle Bus Facility at 8537 Paint Branch Dr
+2021-00045838,06/16/2021 01:04:00,06/16/2021 - 01:04,DWI/DUI,Arrest,Baltimore Ave
+2021-00045932,05/27/2021 07:25:00,06/16/2021 - 11:22,Fraud,CBE,Biomolecular Sciences Building at 8314 Paint Branch Dr
+2021-00045973,06/16/2021 14:00:00,06/16/2021 - 14:34,Assault,CBE,Lot GG1
+2021-00046011,06/16/2021 18:45:00,06/16/2021 - 19:08,Injured/Sick Person,CBE,8100 block of Presidential Dr
+2021-00046090,06/16/2021 23:21:00,06/16/2021 - 23:21,DWI/DUI,Arrest,Baltimore Ave
+2021-00046132,06/17/2021 01:59:00,06/17/2021 - 01:59,Traffic Offense,Warrant Issued,Hartwick Rd
+2021-00046228,06/17/2021 10:55:00,06/17/2021 - 10:55,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2021-00046471,04/11/2021 12:00:00,06/18/2021 - 14:50,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2021-00046587,06/18/2021 23:33:00,06/18/2021 - 23:33,Injured/Sick Person,CBE,Rossborough Ln
+2021-00046614,06/19/2021 01:20:00,06/19/2021 - 01:20,Injured/Sick Person,CBE,
+2021-00046730,04/12/2021 08:00:00,06/19/2021 - 13:39,Injured Officer,CBE,7100 block of 51st Ave
+2021-00047186,06/20/2021 08:16:00,06/21/2021 - 09:50,Fraud,Active/Pending,"Frat 2, Pi Kappa Alpha, Pi Kappa Alpha Fraternity at 2 Fraternity Row"
+2021-00047446,06/22/2021 09:06:00,06/22/2021 - 09:06,Injured/Sick Person,CBE,Union Ln
+2021-00047465,06/22/2021 11:09:00,06/22/2021 - 11:09,Assist Other Agency,CBE,4400 block of Lehigh Rd
+2021-00047497,06/22/2021 16:09:00,06/22/2021 - 16:09,Assist Other Agency,Arrest,North Gate at 4306 Campus Dr
+2021-00048130,06/24/2021 22:01:00,06/24/2021 - 22:01,DWI/DUI,Arrest,University Blvd
+2021-00048283,06/25/2021 10:30:00,06/25/2021 - 11:07,Assist Other Agency,CBE,Sterling Pl
+2021-00048417,06/25/2021 22:04:00,06/25/2021 - 22:04,CDS Violation,CBE,Baltimore Ave
+2021-00048488,06/26/2021 00:24:00,06/26/2021 - 00:24,DWI/DUI,Arrest,Hotel Dr
+2021-00048542,06/26/2021 02:30:00,06/26/2021 - 03:18,Accident,Active/Pending,Knox Rd
+2021-00048646,06/26/2021 15:48:00,06/26/2021 - 15:50,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00048929,06/27/2021 12:20:00,06/27/2021 - 13:13,Assist Other Agency,CBE,9100 block of Baltimore Ave
+2021-00049554,06/29/2021 14:09:00,06/29/2021 - 14:09,Injured/Sick Person,CBE,"Bob  Turtle Smith Stadium, Shipley Field, Shipley Field at Bob ""Turtle"" Smith Stadium, Turtle Stadium at 4122 Fieldhouse Dr"
+2021-00049696,06/29/2021 23:56:00,06/29/2021 - 23:56,DWI/DUI,Arrest,Baltimore Ave
+2021-00049702,06/30/2021 00:34:00,06/30/2021 - 00:34,DWI/DUI,Arrest,Baltimore Ave
+2021-00049971,07/01/2021 00:34:00,07/01/2021 - 00:34,DWI/DUI,Arrest,Baltimore Ave

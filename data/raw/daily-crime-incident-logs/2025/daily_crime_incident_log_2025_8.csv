@@ -1,0 +1,134 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2025-00169377,08/01/2025 01:51:00,08/01/2025 - 01:51,Warrant/Summons Service,Arrest,University Blvd
+2025-00169666,08/01/2025 09:48:00,08/01/2025 - 09:48,Injured/Sick Person,CBE,4300 block of Rowalt Dr
+2025-00169755,07/13/2025 10:30:00,08/01/2025 - 12:27,Suspicious Activity,CBE,Paint Branch Trl / Iribe Center
+2025-00169768,08/01/2025 12:40:00,08/01/2025 - 12:57,Fire,CBE,8000 block of Regents Dr
+2025-00169793,08/01/2025 14:32:00,08/01/2025 - 14:33,Vandalism,Juvenile Arrest,4200 block of Lehigh Rd
+2025-00169881,07/28/2025 17:00:00,08/01/2025 - 17:40,Injured Officer,CBE,New Hampshire Ave
+2025-00170262,08/02/2025 03:50:00,08/02/2025 - 03:50,DWI/DUI,Arrest,Metzerott Rd
+2025-00170818,08/02/2025 23:03:00,08/02/2025 - 23:03,DWI/DUI,Arrest,University Blvd
+2025-00170881,08/03/2025 00:55:00,08/03/2025 - 00:55,DWI/DUI,Arrest,Adelphi Rd
+2025-00170899,08/03/2025 02:02:00,08/03/2025 - 02:02,DWI/DUI,Arrest,Metzerott Rd
+2025-00171034,08/03/2025 05:35:00,08/03/2025 - 06:21,Vehicle Tampering,Investigation Pending,3400 block of Tulane Dr
+2025-00171291,08/02/2025 12:06:00,08/03/2025 - 14:00,Theft,Unfounded,4300 block of Stadium Dr
+2025-00171363,08/03/2025 15:24:00,08/03/2025 - 15:29,Other Incident,CBE,3400 block of Tulane Dr
+2025-00171495,07/07/2025 07:00:00,08/03/2025 - 19:02,Theft,Investigation Pending,3800 block of Stadium Dr
+2025-00171646,08/04/2025 00:47:00,08/04/2025 - 00:47,DWI/DUI,Arrest,University Blvd
+2025-00171947,08/04/2025 11:13:00,08/04/2025 - 11:13,Assist Other Agency,CBE,4700 block of Berwyn House Rd
+2025-00172140,08/02/2025 15:17:00,08/04/2025 - 16:03,Suspicious Person/Auto,Active/Pending,4100 block of Valley Dr
+2025-00172638,08/05/2025 08:30:00,08/05/2025 - 08:47,Burglary,CBE,7500 block of Yale Ave
+2025-00173026,08/05/2025 21:32:00,08/05/2025 - 21:32,Alcohol Violation,CBE,Baltimore Ave
+2025-00173416,08/01/2025 14:00:00,08/06/2025 - 10:09,Threat Assessment,Active/Pending,4000 block of Union Dr
+2025-00173696,08/06/2025 20:50:00,08/06/2025 - 20:50,CDS Violation,Active/Pending,8700 block of Boteler Ln
+2025-00173711,08/06/2025 21:15:00,08/06/2025 - 22:51,Hazardous Condition,CBE,8100 block of Baltimore Ave
+2025-00174022,08/04/2025 12:29:00,08/07/2025 - 10:07,Theft,Investigation Pending,4200 block of Chapel Ln
+2025-00174771,08/07/2025 21:46:00,08/08/2025 - 12:08,Theft,Active/Pending,4000 block of Campus Dr
+2025-00174770,08/08/2025 12:04:00,08/08/2025 - 12:14,Assist Other Agency,CBE,7200 block of Baltimore Ave
+2025-00175180,08/09/2025 01:51:00,08/09/2025 - 01:51,DWI/DUI,Arrest,Baltimore Ave
+2025-00175519,08/09/2025 17:30:00,08/09/2025 - 17:33,Injured/Sick Person,CBE,815 at 7401 Baltimore Ave
+2025-00176609,08/10/2025 21:30:00,08/11/2025 - 09:01,Theft from Auto,Juvenile Arrest,3400 block of Tulane Dr
+2025-00176623,08/11/2025 09:41:00,08/11/2025 - 09:41,Trespassing,Arrest,7700 block of Alumni Dr
+2025-00176922,08/11/2025 17:16:00,08/11/2025 - 17:16,Other Incident,Unfounded,4700 block of Rossborough Ln
+2025-00176960,08/10/2025 18:00:00,08/11/2025 - 18:43,Vandalism,Juvenile Arrest,3400 block of Tulane Dr
+2025-00177021,08/11/2025 21:16:00,08/11/2025 - 21:16,Injured/Sick Person,CBE,3800 block of Golf Course Rd
+2025-00177195,08/12/2025 02:45:00,08/12/2025 - 02:45,Emergency Petition,CBE,7500 block of Baltimore Ave
+2025-00177471,08/12/2025 12:34:00,08/12/2025 - 12:34,Check on the  Welfare,Active/Pending,4300 block of Rowalt Dr
+2025-00177472,08/12/2025 12:15:00,08/12/2025 - 12:47,Damaged Property,Active/Pending,3400 block of Tulane Dr
+2025-00177485,07/31/2025 08:00:00,08/12/2025 - 14:58,Fraud,CBE,7000 block of Preinkert Dr
+2025-00177497,08/12/2025 13:00:00,08/12/2025 - 15:28,Threat Assessment,Active/Pending,7500 block of Baltimore Ave
+2025-00177522,08/06/2025 00:00:00,08/12/2025 - 17:04,Fraud,Investigation Pending,3400 block of Tulane Dr
+2025-00177559,08/12/2025 18:52:00,08/12/2025 - 18:52,Suspicious Activity,CBE,8500 block of Paint Branch Dr
+2025-00178038,08/13/2025 13:26:00,08/13/2025 - 13:26,Warrant/Summons Service,Arrest,7500 block of Baltimore Ave
+2025-00178057,08/12/2025 20:00:00,08/13/2025 - 15:43,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2025-00178120,08/13/2025 17:00:00,08/13/2025 - 17:00,Other Incident,Active/Pending,8500 block of Paint Branch Dr
+2025-00178378,08/13/2025 23:14:00,08/13/2025 - 23:14,Injured/Sick Person,CBE,4100 block of Valley Dr
+2025-00178595,08/14/2025 09:25:00,08/14/2025 - 09:33,Other Incident,CBE,3900 block of Campus Dr
+2025-00178600,08/11/2025 11:00:00,08/14/2025 - 10:10,Theft,Investigation Pending,4000 block of Stadium Dr
+2025-00178847,08/14/2025 19:02:00,08/14/2025 - 19:02,Damage to State Property,CBE,3400 block of Tulane Dr
+2025-00178897,08/14/2025 22:27:00,08/14/2025 - 22:27,Traffic Arrest,Arrest,Metzerott Rd
+2025-00178929,08/14/2025 17:00:00,08/14/2025 - 23:59,Theft,CBE,4100 block of Valley Dr
+2025-00178936,08/15/2025 00:23:00,08/15/2025 - 00:23,Trespassing,Arrest,3900 block of Campus Dr
+2025-00179218,08/15/2025 09:28:00,08/15/2025 - 09:28,Injured/Sick Person,CBE,Lot P2
+2025-00179698,08/16/2025 01:42:00,08/16/2025 - 01:42,DWI/DUI,Arrest,Metzerott Rd
+2025-00179712,08/16/2025 03:15:00,08/16/2025 - 03:15,DWI/DUI,Arrest,University Blvd
+2025-00180048,08/16/2025 15:14:00,08/16/2025 - 15:14,Injured/Sick Person,CBE,4100 block of Valley Dr
+2025-00180358,08/17/2025 03:14:00,08/17/2025 - 03:14,DWI/DUI,Arrest,University Blvd
+2025-00180716,08/17/2025 14:50:00,08/17/2025 - 14:50,Suspicious Person/Auto,CBE,4200 block of Campus Dr
+2025-00180863,08/17/2025 20:37:00,08/17/2025 - 20:37,DWI/DUI,Arrest,Greenmead Dr
+2025-00180887,08/17/2025 22:22:00,08/17/2025 - 22:22,DWI/DUI,Arrest,Metzerott Rd
+2025-00180980,08/18/2025 02:39:00,08/18/2025 - 02:39,DWI/DUI,Arrest,University Blvd
+2025-00181238,08/18/2025 12:13:00,08/18/2025 - 12:13,Assist Other Agency,CBE,Baltimore Ave
+2025-00181253,05/13/2025 15:00:00,08/18/2025 - 13:10,Theft,Investigation Pending,4200 block of Stadium Dr
+2025-00181255,08/18/2025 13:28:00,08/18/2025 - 13:28,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2025-00181258,08/18/2025 13:57:00,08/18/2025 - 13:57,Missing Person/Runaway,CBE,7000 block of Preinkert Dr
+2025-00181650,08/19/2025 05:34:00,08/19/2025 - 05:34,Warrant/Summons Service,Arrest,University Blvd
+2025-00181760,08/18/2025 16:30:00,08/19/2025 - 10:24,Burglary,Investigation Pending,8400 block of Baltimore Ave
+2025-00182190,08/19/2025 22:06:00,08/20/2025 - 01:53,Assist Other Agency,CBE,9000 block of Baltimore Ave
+2025-00182273,08/19/2025 20:00:00,08/20/2025 - 05:53,Vandalism,Investigation Pending,3400 block of Tulane Dr
+2025-00182278,07/06/2025 08:00:00,08/20/2025 - 06:34,Theft from Auto,Investigation Pending,3400 block of Tulane Dr
+2025-00182370,08/20/2025 09:00:00,08/20/2025 - 10:25,Assist Other Agency,CBE,8200 block of Baltimore Ave
+2025-00182428,08/20/2025 14:07:00,08/20/2025 - 14:07,Check on the  Welfare,Active/Pending,4200 block of Knox Rd
+2025-00183158,08/21/2025 20:23:00,08/21/2025 - 20:23,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2025-00183222,08/21/2025 23:20:00,08/21/2025 - 23:28,CDS Violation,CBE,4100 block of Stadium Dr
+2025-00183459,08/22/2025 08:25:00,08/22/2025 - 08:26,Theft,Unfounded,8100 block of Paint Branch Dr
+2025-00183469,08/01/2025 00:00:00,08/22/2025 - 09:14,Assist Other Agency,CBE,7500 block of Baltimore Ave
+2025-00184259,08/23/2025 01:29:00,08/23/2025 - 01:29,DWI/DUI,Arrest,University Blvd
+2025-00184283,08/23/2025 03:13:00,08/23/2025 - 03:13,DWI/DUI,Arrest,University Blvd
+2025-00184284,08/23/2025 03:24:00,08/23/2025 - 03:24,CDS Violation,CBE,8000 block of Greenmead Dr
+2025-00184591,08/23/2025 18:44:00,08/23/2025 - 18:44,Injured/Sick Person,CBE,Lot P2
+2025-00184628,08/23/2025 20:52:00,08/23/2025 - 20:59,Extortion,CBE,8400 block of Boteler Ln
+2025-00184654,08/23/2025 22:45:00,08/23/2025 - 22:45,DWI/DUI,Arrest,University Blvd
+2025-00184714,08/24/2025 01:17:00,08/24/2025 - 01:17,Injured/Sick Person,CBE,7200 block of Dartmouth Ave
+2025-00185207,08/24/2025 17:00:00,08/24/2025 - 18:23,Extortion,Investigation Pending,7500 block of Mowatt Ln
+2025-00185404,08/25/2025 01:53:00,08/25/2025 - 01:53,Other Incident,CBE,Lot C1
+2025-00185694,08/21/2025 15:00:00,08/25/2025 - 11:41,Other Incident,CBE,7000 block of Preinkert Dr
+2025-00185705,08/25/2025 11:50:00,08/25/2025 - 12:02,Emergency Petition,CBE,4100 block of Valley Dr
+2025-00185712,08/22/2025 12:34:00,08/25/2025 - 12:28,Theft,Investigation Pending,4200 block of Valley Dr
+2025-00186060,08/26/2025 02:50:00,08/26/2025 - 02:50,CDS Violation,Arrest,"Frat 13, Zeta Psi Fraternity at 13 Fraternity Row"
+2025-00186062,08/25/2025 12:00:00,08/26/2025 - 03:11,Theft from Auto,Investigation Pending,3400 block of Tulane Dr
+2025-00186065,08/26/2025 04:04:00,08/26/2025 - 04:04,Suspicious Person/Auto,CBE,University Blvd
+2025-00186279,08/26/2025 07:43:00,08/26/2025 - 15:44,Telephone/EMail Misuse,Investigation Pending,3900 block of Denton Service Ln
+2025-00186342,08/26/2025 16:35:00,08/26/2025 - 16:35,Assist Other Agency,CBE,8400 block of Baltimore Ave
+2025-00186443,08/26/2025 20:15:00,08/26/2025 - 20:19,Dept Property Damage/Loss,CBE,Lot F
+2025-00186559,08/26/2025 23:27:00,08/26/2025 - 23:27,Warrant/Summons Service,Arrest,Baltimore Ave
+2025-00186891,08/27/2025 16:11:00,08/27/2025 - 16:11,CDS Violation,CBE,3900 block of Denton Service Ln
+2025-00186920,08/27/2025 14:12:00,08/27/2025 - 17:12,Suspicious Activity,CBE,8000 block of Regents Dr
+2025-00187102,08/27/2025 21:31:00,08/27/2025 - 21:31,CDS Violation,CBE,4200 block of Valley Dr
+2025-00187226,08/28/2025 00:29:00,08/28/2025 - 00:29,Injured/Sick Person,CBE,8200 block of Paint Branch Dr
+2025-00187330,08/27/2025 08:00:00,08/28/2025 - 06:30,Theft,Warrant Issued,3400 block of Tulane Dr
+2025-00187348,08/27/2025 16:00:00,08/28/2025 - 07:50,Theft,Unfounded,7800 block of Regents Dr
+2025-00187453,08/27/2025 06:00:00,08/28/2025 - 09:59,Theft,Investigation Pending,6900 block of Preinkert Dr
+2025-00187532,08/28/2025 11:56:00,08/28/2025 - 11:56,Injured/Sick Person,CBE,4000 block of Union Dr
+2025-00187567,08/28/2025 12:40:00,08/28/2025 - 12:49,Fraud,CBE,4400 block of Lehigh Rd
+2025-00187635,08/28/2025 15:39:00,08/28/2025 - 15:49,Injured/Sick Person,CBE,4100 block of Campus Dr
+2025-00187859,08/23/2025 01:00:00,08/28/2025 - 21:42,Other Incident,CBE,8400 block of Boteler Ln
+2025-00188003,08/28/2025 23:45:00,08/28/2025 - 23:45,Alcohol Violation,Arrest,Knox Rd
+2025-00188080,08/29/2025 00:32:00,08/29/2025 - 00:32,DWI/DUI,Arrest,University Blvd
+2025-00188136,08/29/2025 01:17:00,08/29/2025 - 01:17,Alcohol Violation,Arrest,4300 block of Hartwick Rd
+2025-00188382,08/04/2025 06:00:00,08/29/2025 - 07:22,Lost Property,CBE,4000 block of Campus Dr
+2025-00188413,08/29/2025 08:16:00,08/29/2025 - 08:16,Hazardous Condition,CBE,4600 block of Norwich Rd
+2025-00188474,08/29/2025 10:23:00,08/29/2025 - 10:23,Emergency Petition,Active/Pending,8100 block of Baltimore Ave
+2025-00188569,08/29/2025 13:27:00,08/29/2025 - 13:27,Injured/Sick Person,CBE,8000 block of Greenmead Dr
+2025-00188570,08/29/2025 13:32:00,08/29/2025 - 13:32,Other Incident,CBE,4200 block of Terrapin Trl
+2025-00188586,08/23/2025 04:00:00,08/29/2025 - 14:44,Rape,Active/Pending,3500 block of University Blvd
+2025-00188664,08/29/2025 16:50:00,08/29/2025 - 16:56,Fire,CBE,4200 block of Valley Dr
+2025-00188738,08/28/2025 00:30:00,08/29/2025 - 17:42,Rape,Active/Pending,7400 block of Preinkert Dr
+2025-00188779,08/29/2025 18:30:00,08/29/2025 - 18:37,Theft,Arrest,4100 block of Stadium Dr
+2025-00188982,08/29/2025 23:19:00,08/29/2025 - 23:19,Vandalism,Summons Issued,7500 block of Mowatt Ln
+2025-00189079,08/30/2025 01:00:00,08/30/2025 - 01:00,DWI/DUI,Arrest,Baltimore Ave
+2025-00189106,08/30/2025 01:24:00,08/30/2025 - 01:24,DWI/DUI,Arrest,College Ave
+2025-00189135,08/30/2025 02:42:00,08/30/2025 - 02:42,Fraud,Arrest,4100 block of Stadium Dr
+2025-00189172,08/30/2025 05:50:00,08/30/2025 - 05:50,Other Incident,CBE,8100 block of La Plata Dr
+2025-00189220,08/30/2025 08:50:00,08/30/2025 - 09:02,Injured/Sick Person,CBE,Lot Z
+2025-00189243,08/30/2025 11:10:00,08/30/2025 - 11:11,Injured/Sick Person,CBE,Lot Z
+2025-00189246,08/30/2025 11:44:00,08/30/2025 - 11:44,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2025-00189464,08/30/2025 15:38:00,08/30/2025 - 15:38,Injured/Sick Person,CBE,7700 block of Baltimore Ave
+2025-00189724,08/31/2025 01:17:00,08/31/2025 - 01:17,DWI/DUI,Arrest,University Blvd
+2025-00189725,08/31/2025 01:18:00,08/31/2025 - 01:18,DWI/DUI,Arrest,University Blvd
+2025-00189728,08/31/2025 01:29:00,08/31/2025 - 01:29,DWI/DUI,Arrest,University Blvd
+2025-00189755,08/31/2025 02:52:00,08/31/2025 - 02:52,Injured/Sick Person,CBE,4000 block of Stadium Dr
+2025-00189765,08/31/2025 03:12:00,08/31/2025 - 03:12,Injured/Sick Person,CBE,4200 block of Farm Dr
+2025-00189793,08/31/2025 04:28:00,08/31/2025 - 04:28,DWI/DUI,Arrest,Campus Dr
+2025-00190054,08/30/2025 10:30:00,08/31/2025 - 11:33,Hate Bias Incident,Active/Pending,4200 block of Lehigh Rd
+2025-00190166,08/31/2025 12:00:00,08/31/2025 - 16:29,Theft,Investigation Pending,4100 block of Stadium Dr
+2025-00190574,09/01/2025 00:37:00,09/01/2025 - 00:37,CDS Violation,Arrest,Baltimore Ave

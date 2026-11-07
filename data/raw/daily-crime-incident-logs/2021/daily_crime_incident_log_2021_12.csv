@@ -1,0 +1,113 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00090782,12/01/2021 01:54:00,12/01/2021 - 01:54,Suspicious Person/Auto,Active/Pending,Rhode Island Ave
+2021-00090878,12/01/2021 13:02:00,12/01/2021 - 13:02,Check on the  Welfare,Investigation Pending,8000 block of La Plata Dr
+2021-00090879,11/30/2021 22:30:00,12/01/2021 - 13:14,Other Incident,CBE,"Elkton, Elkton Hall at 3981 Denton Service Ln"
+2021-00090884,12/01/2021 14:13:00,12/01/2021 - 14:13,Injured/Sick Person,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00090911,12/01/2021 11:00:00,12/01/2021 - 16:57,Theft,Investigation Pending,"32, Montgomery, Montgomery Hall at 7570 Regents Dr"
+2021-00090973,12/01/2021 21:14:00,12/01/2021 - 21:14,Other Incident,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2021-00091022,12/02/2021 01:37:00,12/02/2021 - 01:37,DWI/DUI,Arrest,Campus Dr
+2021-00091139,12/01/2021 12:00:00,12/02/2021 - 13:45,Indecent Exposure,Investigation Pending,4100 block of Library Ln
+2021-00091143,12/02/2021 14:30:00,12/02/2021 - 15:11,Suspicious Activity,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00091147,12/02/2021 11:45:00,12/02/2021 - 15:25,Indecent Exposure,Warrant Issued,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00091158,12/01/2021 19:00:00,12/02/2021 - 17:11,Theft,Investigation Pending,"32, Montgomery, Montgomery Hall at 7570 Regents Dr"
+2021-00091171,12/02/2021 14:30:00,12/02/2021 - 19:23,Indecent Exposure,Warrant Issued,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00091172,12/02/2021 11:45:00,12/02/2021 - 19:24,Suspicious Person/Auto,Warrant Issued,3900 block of Campus Dr
+2021-00091187,12/02/2021 21:04:00,12/02/2021 - 21:04,CDS Violation,Arrest,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00091195,12/02/2021 21:30:00,12/02/2021 - 22:03,Emergency Petition,CBE,"Leonardtown #247, Leonardtown Apartment 4 at 4713 Rossborough Ln"
+2021-00091196,12/02/2021 22:29:00,12/02/2021 - 22:29,Injured/Sick Person,CBE,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2021-00091371,12/03/2021 10:00:00,12/03/2021 - 10:16,Other Incident,CBE,"Maryland Softball Stadium, Robert E. Taylor Stadium at 8680 Paint Branch Dr"
+2021-00091372,12/03/2021 10:29:00,12/03/2021 - 10:29,Warrant/Summons Service,Arrest,University Club at 4800 Berwyn House Rd
+2021-00091470,12/03/2021 17:00:00,12/03/2021 - 17:46,Injured/Sick Person,CBE,7400 block of Baltimore Ave
+2021-00091514,12/03/2021 20:00:00,12/03/2021 - 20:09,CDS Violation,Arrest,8000 block of Hagerstown Dr
+2021-00091537,12/03/2021 21:55:00,12/03/2021 - 22:02,Assist Other Agency,CBE,University Club at 4800 Berwyn House Rd
+2021-00091588,12/03/2021 23:46:00,12/03/2021 - 23:46,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243 Valley Dr"
+2021-00091591,12/04/2021 00:04:00,12/04/2021 - 00:04,CDS Violation,Arrest,Lot 9b
+2021-00091594,12/04/2021 00:19:00,12/04/2021 - 00:19,Injured/Sick Person,CBE,7400 block of Baltimore Ave
+2021-00091597,12/04/2021 01:12:00,12/04/2021 - 01:12,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626 Regents Dr"
+2021-00091599,12/04/2021 01:46:00,12/04/2021 - 01:46,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230 Farm Dr"
+2021-00091600,12/04/2021 01:30:00,12/04/2021 - 01:52,Injured/Sick Person,CBE,4500 block of Knox Rd
+2021-00091601,12/04/2021 02:18:00,12/04/2021 - 02:18,Disorderly Conduct,Arrest,4400 block of Knox Rd
+2021-00091606,12/04/2021 04:28:00,12/04/2021 - 04:28,Emergency Petition,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2021-00091633,12/04/2021 09:04:00,12/04/2021 - 09:04,Check on the  Welfare,CBE,7200 block of Preinkert Dr
+2021-00091635,12/04/2021 08:50:00,12/04/2021 - 09:54,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951 Denton Service Ln"
+2021-00091692,12/04/2021 16:40:00,12/04/2021 - 16:40,CDS Violation,CBE,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00091798,12/04/2021 22:00:00,12/05/2021 - 01:11,Vandalism,Active/Pending,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2021-00091868,12/05/2021 11:57:00,12/05/2021 - 11:57,Injured/Sick Person,CBE,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2021-00091975,12/05/2021 21:02:00,12/05/2021 - 21:02,Emergency Petition,CBE,Cumberland Hall at 4250 Farm Dr
+2021-00091976,12/05/2021 21:15:00,12/05/2021 - 21:15,Emergency Petition,CBE,Hagerstown Hall at 8075 Hagerstown Dr
+2021-00091997,12/05/2021 23:54:00,12/05/2021 - 23:54,CDS Violation,Arrest,Paint Branch Dr
+2021-00092019,12/06/2021 00:55:00,12/06/2021 - 02:23,Suspicious Activity,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00092079,12/03/2021 14:00:00,12/06/2021 - 10:03,Other Incident,Active/Pending,"Microbiology, Microbiology Building at 4062 Campus Dr"
+2021-00092139,12/03/2021 13:15:00,12/06/2021 - 13:33,Vandalism,Active/Pending,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00092167,12/03/2021,12/06/2021 - 17:20,Vandalism,Investigation Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310 Knox Rd"
+2021-00092209,12/06/2021 17:15:00,12/06/2021 - 20:05,Suspicious Person/Auto,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254 Stadium Dr"
+2021-00092425,12/06/2021 21:00:00,12/07/2021 - 12:35,Other Incident,CBE,8700 block of Boteler Ln
+2021-00092462,12/07/2021 16:30:00,12/07/2021 - 16:30,Emergency Petition,CBE,Health Center at 3983 Campus Dr
+2021-00092464,12/07/2021 16:38:00,12/07/2021 - 16:38,Emergency Petition,CBE,3800 block of Stadium Dr
+2021-00092468,11/23/2021 18:00:00,12/07/2021 - 18:24,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570 Regents Dr"
+2021-00092608,10/30/2021 22:00:00,12/08/2021 - 07:40,Assist Other Agency,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00092770,12/08/2021 19:01:00,12/08/2021 - 19:01,Injured/Sick Person,CBE,7300 block of Preinkert Dr
+2021-00092783,12/08/2021 21:38:00,12/08/2021 - 21:38,CDS Violation,Arrest,Lot 2a
+2021-00092916,12/06/2021 16:00:00,12/09/2021 - 10:17,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2021-00092934,12/09/2021 12:00:00,12/09/2021 - 12:31,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2021-00092957,12/09/2021 16:10:00,12/09/2021 - 16:20,Assist Other Agency,CBE,Campus Dr
+2021-00093277,12/10/2021 20:42:00,12/10/2021 - 20:42,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00093369,12/11/2021 00:37:00,12/11/2021 - 02:06,Assault,Active/Pending,La Plata Hall at 8160 La Plata Dr
+2021-00093370,12/11/2021 02:06:00,12/11/2021 - 02:17,Assist Other Agency,CBE,7200 block of Baltimore Ave
+2021-00093390,12/11/2021 06:06:00,12/11/2021 - 07:41,Injured/Sick Person,CBE,7500 block of Calvert Service Ln
+2021-00093434,12/11/2021 10:00:00,12/11/2021 - 10:14,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2021-00093478,12/02/2021 13:30:00,12/11/2021 - 14:31,Other Incident,Active/Pending,"15, Calvert, Calvert Hall at 7551 Calvert Service Ln"
+2021-00093494,12/11/2021 16:30:00,12/11/2021 - 17:04,Suspicious Activity,CBE,"Club House, Golf Course Club House at 3800 Golf Course Rd"
+2021-00093580,12/11/2021,12/11/2021 - 22:47,Vandalism,Investigation Pending,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2021-00093584,12/11/2021 22:56:00,12/11/2021 - 22:56,Injured/Sick Person,CBE,"24, Allegany, Allegany Hall at 4299 Lehigh Rd"
+2021-00093583,12/11/2021 22:57:00,12/11/2021 - 22:57,Assist Other Agency,CBE,4700 block of Guilford Rd
+2021-00093611,12/12/2021 00:54:00,12/12/2021 - 00:54,Injured/Sick Person,CBE,4600 block of College Ave
+2021-00093620,12/12/2021 01:24:00,12/12/2021 - 01:24,DWI/DUI,Arrest,"College Park Towers, College Park Towers (Hartwick Road) at 4330 Hartwick Rd"
+2021-00093624,12/12/2021 03:21:00,12/12/2021 - 03:21,Trespassing,CBE,Campus Dr
+2021-00093626,12/12/2021 04:21:00,12/12/2021 - 04:21,Injured/Sick Person,CBE,"Commons 6, SCC 6, South Campus Commons 6 at 6901 Preinkert Dr"
+2021-00093643,12/12/2021 08:00:00,12/12/2021 - 08:20,Damage to State Property,CBE,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949 Campus Dr"
+2021-00093684,12/12/2021,12/12/2021 - 12:28,Vandalism,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00093690,12/12/2021,12/12/2021 - 12:31,Vandalism,Investigation Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310 Knox Rd"
+2021-00093689,12/11/2021 22:30:00,12/12/2021 - 13:24,Vandalism,Investigation Pending,8000 block of La Plata Dr
+2021-00093728,10/24/2021 16:00:00,12/12/2021 - 18:06,Lost Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00093751,12/12/2021 20:34:00,12/12/2021 - 20:34,Injured/Sick Person,CBE,"Leonardtown #244, Leonardtown Apartment 12 at 4673 Rossborough Ln"
+2021-00093754,12/12/2021 21:02:00,12/12/2021 - 21:02,Check on the  Welfare,CBE,7000 block of Preinkert Dr
+2021-00093824,12/10/2021 14:00:00,12/13/2021 - 06:31,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2021-00093888,12/13/2021 10:15:00,12/13/2021 - 10:34,Found/Recovered Property,Active/Pending,300 block of Ehrensberger Dr
+2021-00093975,12/13/2021 18:20:00,12/13/2021 - 18:20,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254 Stadium Dr"
+2021-00094141,12/14/2021 10:00:00,12/14/2021 - 10:00,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2021-00094149,12/14/2021 11:50:00,12/14/2021 - 11:52,Injured/Sick Person,CBE,"Wye Oak, Wye Oak Building at 4201 Landscape Ln"
+2021-00094318,12/10/2021 05:03:00,12/15/2021 - 03:53,Vandalism,Active/Pending,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00094319,12/10/2021 05:03:00,12/15/2021 - 03:54,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2021-00094366,12/14/2021 13:30:00,12/15/2021 - 08:08,Theft from Auto,Arrest,Lot 1b
+2021-00094419,11/19/2021 09:00:00,12/15/2021 - 12:52,Vandalism,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2021-00094553,12/16/2021 00:03:00,12/16/2021 - 00:03,Suspicious Person/Auto,CBE,McDonald's at 8301 Baltimore Ave
+2021-00094603,12/16/2021 04:07:00,12/16/2021 - 04:07,Trespassing,CBE,"26, South Campus Dining Hall at 7093 Preinkert Dr"
+2021-00094613,12/15/2021 22:30:00,12/16/2021 - 08:00,Theft from Auto,Active/Pending,Lot 22c
+2021-00094615,12/15/2021 03:00:00,12/16/2021 - 08:40,Theft from Auto,Active/Pending,Lot 17c
+2021-00094618,12/15/2021 18:00:00,12/16/2021 - 08:47,Theft,Active/Pending,"26, South Campus Dining Hall at 7093 Preinkert Dr"
+2021-00094619,12/09/2021 11:00:00,12/16/2021 - 09:09,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2021-00094620,12/15/2021 20:00:00,12/16/2021 - 09:34,Theft from Auto,Active/Pending,The Hotel at 7777 Baltimore Ave
+2021-00094622,12/15/2021 10:00:00,12/16/2021 - 09:55,Theft from Auto,Active/Pending,Admissions Welcome Center at 7777 Baltimore Ave
+2021-00094634,12/16/2021 12:56:00,12/16/2021 - 12:56,Emergency Petition,CBE,Health Center at 3983 Campus Dr
+2021-00094635,12/16/2021 13:00:00,12/16/2021 - 13:49,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2021-00094773,12/17/2021 00:40:00,12/17/2021 - 00:40,DWI/DUI,Arrest,Baltimore Ave
+2021-00094887,12/13/2021 15:00:00,12/17/2021 - 11:13,Theft,Active/Pending,"Easton, Easton Hall at 3917 Denton Service Ln"
+2021-00094944,12/15/2021 19:00:00,12/17/2021 - 16:13,Theft from Auto,Active/Pending,Cypress Building at 8320 Baltimore Ave
+2021-00095029,12/17/2021 21:15:00,12/17/2021 - 21:15,DWI/DUI,Arrest,University Blvd
+2021-00095089,12/18/2021 01:55:00,12/18/2021 - 01:55,DWI/DUI,Arrest,8100 block of Baltimore Ave
+2021-00095275,12/13/2021 14:30:00,12/18/2021 - 18:11,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2021-00095325,12/18/2021 01:30:00,12/18/2021 - 22:12,Vandalism,Active/Pending,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2021-00095566,12/20/2021 01:11:00,12/20/2021 - 01:11,DWI/DUI,Arrest,Baltimore Ave
+2021-00095913,12/21/2021 06:01:00,12/21/2021 - 06:01,Suicide,Active/Pending,Preinkert Dr
+2021-00095928,12/21/2021 10:51:00,12/21/2021 - 10:51,Suspicious Person/Auto,CBE,"35, McKeldin Library at 7649 Library Ln"
+2021-00096000,12/21/2021 18:34:00,12/21/2021 - 18:34,Suspicious Activity,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00096077,12/21/2021 12:00:00,12/22/2021 - 06:31,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2021-00096457,12/23/2021 17:47:00,12/23/2021 - 17:47,Damage to State Property,CBE,"Commons 6, SCC 6, South Campus Commons 6 at 6901 Preinkert Dr"
+2021-00096826,12/25/2021 01:13:00,12/25/2021 - 01:13,DWI/DUI,Arrest,University Blvd
+2021-00097146,12/24/2021 10:00:00,12/26/2021 - 16:26,Theft,Active/Pending,University Courtyard #2 at 8200 Boteler Ln
+2021-00097433,12/28/2021 01:18:00,12/28/2021 - 01:18,DWI/DUI,Arrest,9000 block of Baltimore Ave
+2021-00097470,12/22/2021 09:00:00,12/28/2021 - 17:14,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00097578,12/29/2021 16:40:00,12/29/2021 - 16:42,Injured/Sick Person,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176 Campus Dr"
+2021-00097730,12/30/2021 03:57:00,12/30/2021 - 03:57,Assist Other Agency,CBE,7000 block of Wake Forest Dr
+2021-00097850,12/21/2021 19:00:00,12/30/2021 - 17:51,Theft,Investigation Pending,University Courtyard #3 at 8300 Boteler Ln

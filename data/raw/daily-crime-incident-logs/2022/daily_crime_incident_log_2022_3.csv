@@ -1,0 +1,125 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2022-00013869,02/15/2022 08:00:00,03/01/2022 - 11:34,Vandalism,Investigation Pending,4400 block of Technology Dr
+2022-00013875,03/01/2022 12:15:00,03/01/2022 - 12:49,Damaged Property,CBE,Lot SS1
+2022-00013888,02/22/2022 08:00:00,03/01/2022 - 14:20,Theft,Investigation Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2022-00013972,03/01/2022 21:40:00,03/01/2022 - 21:47,Assist Other Agency,CBE,Guilford Rd
+2022-00013984,03/01/2022 23:04:00,03/01/2022 - 23:04,Vandalism,Investigation Pending,"Elkton, Elkton Hall at 3981 Denton Service Ln"
+2022-00013994,03/01/2022 23:40:00,03/01/2022 - 23:57,Suspicious Activity,Active/Pending,"63, Somerset, Somerset Hall at 7567 Preinkert Dr"
+2022-00014057,03/02/2022 08:45:00,03/02/2022 - 10:00,Other Incident,CBE,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200 Lehigh Rd"
+2022-00014149,03/02/2022 20:45:00,03/02/2022 - 20:45,Injured/Sick Person,CBE,7200 block of Preinkert Dr
+2022-00014155,03/02/2022 19:00:00,03/02/2022 - 21:21,Title IX Incident Non Criminal,Active/Pending,"39, Van Munching, Van Munching Hall at 7699 Mowatt Ln"
+2022-00014177,03/02/2022 19:24:00,03/03/2022 - 00:20,Theft,Active/Pending,7600 block of Mowatt Ln
+2022-00014391,03/03/2022 19:42:00,03/03/2022 - 19:42,Injured/Sick Person,CBE,"4, Ritchie Coliseum at 7675 Baltimore Ave"
+2022-00014462,03/04/2022 00:33:00,03/04/2022 - 00:55,Fire,Unfounded,Mowatt Ln
+2022-00014465,03/04/2022 01:11:00,03/04/2022 - 01:11,Recovered Stolen Motor Vehicle,CBE,Mowatt Ln
+2022-00014480,03/04/2022 02:19:00,03/04/2022 - 02:19,Injured/Sick Person,CBE,4200 block of Valley Dr
+2022-00014496,03/04/2022 03:30:00,03/04/2022 - 03:44,Suspicious Activity,CBE,4000 block of Stadium Dr
+2022-00014754,03/04/2022 23:05:00,03/04/2022 - 23:05,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2022-00014764,03/04/2022 23:47:00,03/04/2022 - 23:47,Injured/Sick Person,CBE,Cumberland Hall at 4250 Farm Dr
+2022-00014783,03/05/2022 01:40:00,03/05/2022 - 01:44,Emergency Petition,CBE,"Oakland, Oakland Hall at 3912 Denton Service Ln"
+2022-00014832,03/05/2022 02:15:00,03/05/2022 - 09:04,Theft from Auto,Arrest,3400 block of Tulane Dr
+2022-00014987,03/05/2022 20:20:00,03/05/2022 - 21:48,Theft,Unfounded,"26, South Campus Dining Hall at 7093 Preinkert Dr"
+2022-00014989,03/05/2022 21:30:00,03/05/2022 - 22:03,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2022-00015230,03/06/2022 16:29:00,03/06/2022 - 16:29,Emergency Petition,CBE,4200 block of Farm Dr
+2022-00015250,03/06/2022 19:54:00,03/06/2022 - 19:54,Injured/Sick Person,CBE,"Delta Chi Fraternity, Frat 6 at 6 Fraternity Row"
+2022-00015479,03/07/2022 10:57:00,03/07/2022 - 10:57,Emergency Petition,CBE,"65, Carroll, Carroll Hall at 7284 Preinkert Dr"
+2022-00015500,03/05/2022 21:30:00,03/07/2022 - 14:48,Assault,Unfounded,"15, Calvert, Calvert Hall at 7551 Calvert Service Ln"
+2022-00015550,03/07/2022 20:04:00,03/07/2022 - 20:04,Emergency Petition,CBE,6900 block of Preinkert Dr
+2022-00015713,03/08/2022 13:56:00,03/08/2022 - 13:56,Injured/Sick Person,CBE,4200 block of Farm Dr
+2022-00015760,03/08/2022 20:00:00,03/08/2022 - 20:07,Vandalism,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951 Denton Service Ln"
+2022-00015804,03/08/2022 23:45:00,03/09/2022 - 00:00,Missing Person/Runaway,CBE,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2022-00015803,03/09/2022 00:02:00,03/09/2022 - 00:02,DWI/DUI,Arrest,University Blvd
+2022-00015821,03/09/2022 01:33:00,03/09/2022 - 01:33,DWI/DUI,Arrest,Chapel Field
+2022-00015939,03/08/2022 10:30:00,03/09/2022 - 14:25,Theft,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2022-00015977,03/09/2022 19:03:00,03/09/2022 - 19:03,Other Incident,CBE,"Oakland, Oakland Hall at 3912 Denton Service Ln"
+2022-00016013,03/09/2022 19:45:00,03/09/2022 - 19:45,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2022-00016007,03/09/2022 20:35:00,03/09/2022 - 20:49,Suspicious Person/Auto,Unfounded,7500 block of Yale Ave
+2022-00016088,03/10/2022 01:14:00,03/10/2022 - 01:14,DWI/DUI,Arrest,Baltimore Ave
+2022-00016212,03/04/2022 07:00:00,03/10/2022 - 12:18,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2022-00016246,03/10/2022 15:27:00,03/10/2022 - 17:38,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2022-00016250,03/10/2022 18:04:00,03/10/2022 - 18:04,Emergency Petition,CBE,"Leonardtown #247, Leonardtown Apartment 4 at 4713 Rossborough Ln"
+2022-00016255,03/02/2022 00:01:00,03/10/2022 - 19:16,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2022-00016280,03/10/2022 06:15:00,03/10/2022 - 23:04,Theft,Unfounded,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200 Valley Dr"
+2022-00016307,03/10/2022 23:52:00,03/10/2022 - 23:52,Injured/Sick Person,CBE,Knox Rd
+2022-00016341,03/11/2022 01:08:00,03/11/2022 - 01:08,DWI/DUI,Arrest,Baltimore Ave
+2022-00016348,03/11/2022 01:16:00,03/11/2022 - 01:16,CDS Violation,Arrest,Baltimore Ave
+2022-00016357,03/11/2022 02:23:00,03/11/2022 - 02:23,Injured/Sick Person,CBE,Baltimore Ave
+2022-00016456,03/11/2022 10:49:00,03/11/2022 - 10:49,Injured/Sick Person,CBE,Jull Hall at 4196 Stadium Dr
+2022-00016491,03/11/2022 13:36:00,03/11/2022 - 13:36,Injured/Sick Person,CBE,8000 block of La Plata Dr
+2022-00016535,03/11/2022 17:06:00,03/11/2022 - 17:06,Injured/Sick Person,CBE,Farm Dr
+2022-00016615,03/11/2022 22:12:00,03/11/2022 - 22:12,Injured/Sick Person,CBE,"63, Somerset, Somerset Hall at 7567 Preinkert Dr"
+2022-00016616,03/11/2022 21:30:00,03/11/2022 - 22:16,Assault,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2022-00016643,03/12/2022 00:09:00,03/12/2022 - 00:09,DWI/DUI,Arrest,University Blvd
+2022-00016646,03/12/2022 00:10:00,03/12/2022 - 00:14,Injured/Sick Person,CBE,4400 block of Knox Rd
+2022-00016650,03/12/2022 00:23:00,03/12/2022 - 00:23,Alarm,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310 Knox Rd"
+2022-00016656,03/12/2022 01:00:00,03/12/2022 - 01:00,Alcohol Violation,CBE,Washington Quad
+2022-00016668,03/12/2022 02:09:00,03/12/2022 - 02:11,Assault,Active/Pending,Pot Bellys at 7422 Baltimore Ave
+2022-00016727,03/12/2022 04:52:00,03/12/2022 - 04:52,DWI/DUI,Arrest,University Blvd
+2022-00016743,03/12/2022 08:40:00,03/12/2022 - 08:40,Injured/Sick Person,CBE,Aquatics Center at 4098 Valley Dr
+2022-00016847,03/12/2022 22:04:00,03/12/2022 - 22:04,Injured/Sick Person,CBE,7400 block of Preinkert Dr
+2022-00016848,03/12/2022 22:08:00,03/12/2022 - 22:08,Injured/Sick Person,CBE,"7-11 Guilford, 7-Eleven Guilford at 7201 Baltimore Ave"
+2022-00016850,03/12/2022 22:30:00,03/12/2022 - 22:30,Vandalism,Investigation Pending,4300 block of Knox Rd
+2022-00016883,03/13/2022 01:19:00,03/13/2022 - 01:19,Assist Other Agency,CBE,"51, Worcester, Worcester Hall at 7405 Preinkert Dr"
+2022-00017096,03/14/2022 02:32:00,03/14/2022 - 02:32,DWI/DUI,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2022-00017211,03/13/2022 20:00:00,03/14/2022 - 11:24,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2022-00017499,03/11/2022 12:00:00,03/15/2022 - 07:56,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2022-00017616,03/14/2020 20:00:00,03/15/2022 - 15:00,Assist Other Agency,CBE,"78, Armory, Reckord Armory at 4490 Rossborough Ln"
+2022-00017674,03/15/2022 08:00:00,03/15/2022 - 20:05,Injured/Sick Person,CBE,"64, Dorchester, Dorchester Hall at 3947 Campus Dr"
+2022-00017676,03/15/2022 20:19:00,03/15/2022 - 20:19,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2022-00017735,03/16/2022 00:15:00,03/16/2022 - 01:31,Assist Other Agency,CBE,4800 block of Berwyn House Rd
+2022-00017784,03/16/2022 06:15:00,03/16/2022 - 07:53,Theft,Investigation Pending,7600 block of Baltimore Ave
+2022-00017790,02/01/2022 08:00:00,03/16/2022 - 08:14,Theft,Investigation Pending,Jull Hall at 4196 Stadium Dr
+2022-00017925,03/16/2022 18:21:00,03/16/2022 - 18:21,Title IX Incident Non Criminal,CBE,"35, McKeldin Library at 7649 Library Ln"
+2022-00017984,03/16/2022 23:51:00,03/16/2022 - 23:51,Suspicious Person/Auto,CBE,"81, Wind Tunnel Building at 8167 Paint Branch Dr"
+2022-00017999,03/17/2022 01:34:00,03/17/2022 - 01:34,DWI/DUI,Arrest,Mowatt Ln
+2022-00018021,03/16/2022 12:00:00,03/17/2022 - 07:21,Damage to State Property,Active/Pending,Championship Ln
+2022-00018078,03/17/2022 11:39:00,03/17/2022 - 11:39,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2022-00018100,03/16/2022 14:15:00,03/17/2022 - 13:05,Other Incident,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176 Campus Dr"
+2022-00018191,03/17/2022 22:09:00,03/17/2022 - 22:09,CDS Violation,CBE,4200 block of Farm Dr
+2022-00018197,03/17/2022 22:40:00,03/17/2022 - 22:40,CDS Violation,Arrest,Baltimore Ave
+2022-00018214,03/18/2022 00:06:00,03/18/2022 - 00:06,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570 Regents Dr"
+2022-00018237,03/18/2022 01:28:00,03/18/2022 - 01:28,DWI/DUI,Arrest,Baltimore Ave
+2022-00018246,03/18/2022 02:23:00,03/18/2022 - 02:23,DWI/DUI,Arrest,Baltimore Ave
+2022-00018264,03/18/2022 03:16:00,03/18/2022 - 03:16,DWI/DUI,Arrest,Regents Dr
+2022-00018268,03/18/2022 03:25:00,03/18/2022 - 03:25,DWI/DUI,Arrest,Fieldhouse Dr
+2022-00018285,03/18/2022 04:44:00,03/18/2022 - 04:44,CDS Violation,Arrest,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2022-00018286,03/18/2022 04:40:00,03/18/2022 - 04:45,Emergency Petition,CBE,College Park Towers (Knox Road) at 4313 Knox Rd
+2022-00018361,03/18/2022 11:38:00,03/18/2022 - 11:48,Suspicious Activity,Active/Pending,"35, McKeldin Library at 7649 Library Ln"
+2022-00018437,03/18/2022 19:56:00,03/18/2022 - 19:56,CDS Violation,Arrest,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2022-00018497,03/18/2022 23:16:00,03/18/2022 - 23:16,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345 Ehrensberger Dr
+2022-00018546,03/16/2022 18:00:00,03/19/2022 - 01:37,Theft,Unfounded,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2022-00018550,03/19/2022 01:59:00,03/19/2022 - 01:59,DWI/DUI,Arrest,University Blvd
+2022-00018552,03/19/2022 02:08:00,03/19/2022 - 02:08,DWI/DUI,Arrest,University Blvd
+2022-00018613,03/19/2022 09:42:00,03/19/2022 - 09:42,Other Incident,CBE,3900 block of Denton Service Ln
+2022-00018780,03/20/2022 00:00:00,03/20/2022 - 00:00,Injured/Sick Person,CBE,4500 block of Knox Rd
+2022-00018826,03/20/2022 03:18:00,03/20/2022 - 03:18,DWI/DUI,Arrest,University Blvd
+2022-00018827,03/20/2022 03:52:00,03/20/2022 - 03:52,DWI/DUI,Arrest,Greenbelt Rd
+2022-00018949,03/18/2022 09:05:00,03/20/2022 - 15:06,Stolen Motor Vehicle,Unfounded,Championship Ln
+2022-00019081,03/21/2022 00:20:00,03/21/2022 - 00:20,DWI/DUI,Arrest,University Blvd
+2022-00019099,03/21/2022 02:43:00,03/21/2022 - 02:43,DWI/DUI,Arrest,University Blvd
+2022-00019266,03/21/2022 16:53:00,03/21/2022 - 16:53,Injured/Sick Person,CBE,Animal Science Building at 8127 Regents Dr
+2022-00019290,03/21/2022 18:44:00,03/21/2022 - 18:44,CDS Violation,Arrest,University Blvd
+2022-00019545,03/18/2022 02:00:00,03/22/2022 - 21:55,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2022-00019570,03/22/2022 23:04:00,03/22/2022 - 23:04,CDS Violation,Arrest,Rossborough Ln
+2022-00019573,03/22/2022 23:15:00,03/22/2022 - 23:15,DWI/DUI,Arrest,Knox Rd
+2022-00019954,03/23/2022 13:00:00,03/24/2022 - 07:43,Theft,Investigation Pending,Lot L
+2022-00020071,03/24/2022 16:00:00,03/24/2022 - 16:31,Hazardous Condition,CBE,"Avrum Gudelsky Veterinary Center, Vet Med at 8075 Greenmead Dr"
+2022-00020139,03/24/2022 22:25:00,03/24/2022 - 22:25,CDS Violation,Arrest,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2022-00020232,03/25/2022 02:23:00,03/25/2022 - 02:23,CDS Violation,Arrest,University Blvd
+2022-00020618,03/26/2022 01:31:00,03/26/2022 - 01:31,DWI/DUI,Arrest,Adelphi Rd
+2022-00020807,03/26/2022 17:40:00,03/26/2022 - 17:50,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2022-00021004,03/18/2022 08:00:00,03/27/2022 - 14:36,Theft,Unfounded,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2022-00021005,03/27/2022 03:23:00,03/27/2022 - 14:43,Assist Other Agency,CBE,4700 block of College Ave
+2022-00021050,03/19/2022 15:00:00,03/27/2022 - 18:01,Theft,Unfounded,"Commons 2, SCC 2, South Campus Commons 2 at 7524 Calvert Service Ln"
+2022-00021334,03/28/2022 10:00:00,03/28/2022 - 11:42,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2022-00021355,03/17/2022 12:00:00,03/28/2022 - 12:09,Theft,CBE,"8, Annapolis, Annapolis Hall at 7626 Regents Dr"
+2022-00021372,03/28/2022 12:56:00,03/28/2022 - 12:56,CDS Violation,Arrest,University Blvd
+2022-00021404,03/28/2022 14:35:00,03/28/2022 - 15:25,Accident - Departmental,CBE,201 Valley Brook Dr
+2022-00021724,03/29/2022 11:42:00,03/29/2022 - 11:42,Emergency Petition,CBE,4200 block of Chapel Ln
+2022-00021729,03/29/2022 11:43:00,03/29/2022 - 12:27,Missing Person/Runaway,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2022-00021738,03/27/2022 19:00:00,03/29/2022 - 14:25,Theft,Active/Pending,Hagerstown Hall at 8075 Hagerstown Dr
+2022-00021993,03/30/2022 10:02:00,03/30/2022 - 10:02,Emergency Petition,CBE,Health Center at 3983 Campus Dr
+2022-00021995,03/30/2022 07:45:00,03/30/2022 - 10:20,Suspicious Person/Auto,CBE,4400 block of Rossborough Ln
+2022-00021999,03/17/2022 16:00:00,03/30/2022 - 11:18,Theft,Investigation Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2022-00022009,03/30/2022 12:17:00,03/30/2022 - 12:17,Trespassing,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2022-00022085,03/30/2022 18:57:00,03/30/2022 - 18:57,Injured/Sick Person,CBE,7400 block of Princeton Ave

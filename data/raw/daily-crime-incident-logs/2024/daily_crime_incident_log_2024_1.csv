@@ -1,0 +1,110 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2024-00000014,01/01/2024 00:18:00,01/01/2024 - 00:18,Recovered Stolen Property,Arrest,8700 block of Baltimore Ave
+2024-00000081,01/01/2024 02:43:00,01/01/2024 - 02:43,Injured/Sick Person,CBE,Knox Rd
+2024-00000092,01/01/2024 02:45:00,01/01/2024 - 02:56,Injured/Sick Person,CBE,Knox Rd
+2024-00000096,01/01/2024 03:09:00,01/01/2024 - 03:09,DWI/DUI,Arrest,University Blvd
+2024-00000463,12/20/2023 14:00:00,01/01/2024 - 16:15,Assist Other Agency,Active/Pending,4800 block of College Ave
+2024-00001645,12/01/2023 07:00:00,01/03/2024 - 11:58,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2024-00002359,01/04/2024 13:15:00,01/04/2024 - 13:19,Burglary,Investigation Pending,8200 block of Paint Branch Dr
+2024-00003057,02/13/2024 17:15:00,01/05/2024 - 14:45,Emergency Petition,CBE,4200 block of Farm Dr
+2024-00003113,01/05/2024 17:30:00,01/05/2024 - 17:34,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2024-00003446,01/06/2024 01:01:00,01/06/2024 - 01:01,DWI/DUI,Arrest,Baltimore Ave
+2024-00004159,01/07/2024 01:23:00,01/07/2024 - 01:23,DWI/DUI,Arrest,Greenbelt Rd
+2024-00004180,01/07/2024 02:19:00,01/07/2024 - 02:19,DWI/DUI,Arrest,University Blvd
+2024-00004463,01/07/2024 12:13:00,01/07/2024 - 12:13,Recovered Stolen Motor Vehicle,Arrest,3800 block of Campus Dr
+2024-00005720,01/09/2024 00:09:00,01/09/2024 - 00:09,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097 La Plata Dr"
+2024-00005947,01/08/2024 11:20:00,01/09/2024 - 09:31,Suspicious Activity,Active/Pending,4200 block of Stadium Dr
+2024-00006072,01/09/2024 13:24:00,01/09/2024 - 13:24,Injured/Sick Person,Active/Pending,"39, Van Munching, Van Munching Hall at 7699 Mowatt Ln"
+2024-00006752,11/01/2023 00:00:00,01/10/2024 - 12:41,Vandalism,Arrest,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2024-00006875,01/08/2024 18:00:00,01/10/2024 - 17:01,Other Incident,CBE,4100 block of Campus Dr
+2024-00006888,08/20/2023 08:00:00,01/10/2024 - 17:29,Vandalism,Arrest,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176 Campus Dr"
+2024-00006935,01/10/2024 19:41:00,01/10/2024 - 19:41,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2024-00007054,01/10/2024 23:01:00,01/10/2024 - 23:11,Other Incident,CBE,Baltimore Ave
+2024-00007368,01/10/2024 12:30:00,01/11/2024 - 09:37,Theft,Arrest,"Club House, Golf Course Club House at 3800 Golf Course Rd"
+2024-00007675,01/11/2024 20:08:00,01/11/2024 - 20:30,Fire,CBE,8500 block of Paint Branch Dr
+2024-00007707,01/11/2024 19:00:00,01/11/2024 - 22:00,Theft,Investigation Pending,8500 block of Paint Branch Dr
+2024-00008210,01/12/2024 12:00:00,01/12/2024 - 12:01,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200 Valley Dr"
+2024-00008592,01/13/2024 02:06:00,01/13/2024 - 02:06,DWI/DUI,Arrest,Baltimore Ave
+2024-00008618,01/13/2024 03:25:00,01/13/2024 - 03:25,Recovered Stolen Property,CBE,"7-11 Berwyn, 7-Eleven Berwyn at 8600 Baltimore Ave"
+2024-00008889,11/03/2023 17:00:00,01/13/2024 - 13:04,Sex Offense,CBE,"Easton, Easton Hall at 3917 Denton Service Ln"
+2024-00008898,01/13/2024 02:30:00,01/13/2024 - 14:34,Other Incident,CBE,6800 block of Preinkert Dr
+2024-00008918,11/29/2023 10:00:00,01/13/2024 - 17:17,Assist Other Agency,CBE,8200 block of Baltimore Ave
+2024-00009206,01/14/2024 00:10:00,01/14/2024 - 00:10,Warrant/Summons Service,Arrest,Baltimore Ave
+2024-00009248,01/14/2024 01:44:00,01/14/2024 - 01:44,DWI/DUI,Arrest,Campus Dr
+2024-00010244,12/08/2023 08:57:00,01/15/2024 - 08:08,Vandalism,Arrest,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2024-00010468,12/08/2023 00:00:00,01/15/2024 - 11:10,Vandalism,Arrest,"PG3, SDG, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2024-00010608,11/08/2023 00:00:00,01/15/2024 - 13:59,Vandalism,Arrest,"DOTS Impound Lot, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2024-00010824,11/27/2023 13:23:00,01/15/2024 - 22:00,Lost Property,CBE,4300 block of Rowalt Dr
+2024-00011146,01/16/2024 08:00:00,01/16/2024 - 08:41,Vandalism,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2024-00011165,01/16/2024 09:23:00,01/16/2024 - 09:27,Vandalism,Arrest,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170 Union Ln"
+2024-00011580,01/14/2024 00:24:00,01/16/2024 - 22:15,Assist Other Agency,Active/Pending,"Terrapin Row #1, Terrapin Row 1, TR1 at 4207 Knox Rd"
+2024-00011602,01/16/2024 23:32:00,01/16/2024 - 23:32,Vandalism,Arrest,"PG3, SDG, Stadium Drive Parking Garage at 4025 Stadium Dr"
+2024-00012050,01/17/2024 15:03:00,01/17/2024 - 15:02,Damage to State Property,CBE,4200 block of Landscape Ln
+2024-00012202,01/17/2024 11:30:00,01/17/2024 - 17:47,Theft,Investigation Pending,7600 block of Mowatt Ln
+2024-00012391,01/18/2024 00:00:00,01/18/2024 - 00:00,Vandalism,Arrest,
+2024-00012743,01/18/2024 09:30:00,01/18/2024 - 09:35,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2024-00012752,01/18/2024 09:54:00,01/18/2024 - 09:54,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2024-00013139,01/19/2024 00:36:00,01/19/2024 - 00:36,DWI/DUI,Arrest,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176 Campus Dr"
+2024-00014126,01/20/2024 00:21:00,01/20/2024 - 00:21,Fire,CBE,Graduate Hills Apartment #290 at 3425 Tulane Dr
+2024-00014907,01/21/2024 02:35:00,01/21/2024 - 02:35,DWI/DUI,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2024-00015660,01/22/2024 05:07:00,01/22/2024 - 05:07,Other Incident,CBE,"38, Lefrak, Lefrak Hall at 7251 Preinkert Dr"
+2024-00015924,01/19/2024 17:00:00,01/22/2024 - 12:43,Extortion,Active/Pending,5800 block of University Research Ct
+2024-00015934,01/22/2024 13:47:00,01/22/2024 - 13:47,Injured/Sick Person,CBE,Campus Dr
+2024-00015935,01/13/2024 12:00:00,01/22/2024 - 13:52,Fraud,Investigation Pending,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999 Regents Dr"
+2024-00016010,01/22/2024 17:04:00,01/22/2024 - 17:04,Other Incident,CBE,"26, South Campus Dining Hall at 7093 Preinkert Dr"
+2024-00016091,01/22/2024 16:00:00,01/22/2024 - 19:29,Theft,Investigation Pending,8100 block of Regents Dr
+2024-00016375,01/16/2024 12:00:00,01/23/2024 - 04:16,Vandalism,Arrest,"DOTS Impound Lot, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2024-00016500,01/22/2024 13:05:00,01/23/2024 - 09:06,Other Incident,CBE,Stadium Dr
+2024-00016523,09/01/2023 08:00:00,01/23/2024 - 10:41,Other Incident,CBE,3900 block of Denton Service Ln
+2024-00016637,01/22/2024 00:00:00,01/23/2024 - 16:27,Damage to State Property,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090 Union Dr"
+2024-00016682,12/23/2023 08:00:00,01/23/2024 - 17:30,Assist Other Agency,CBE,4200 block of Knox Rd
+2024-00016806,01/20/2024 12:00:00,01/23/2024 - 22:01,Dept Property Damage/Loss,Active/Pending,Paint Branch Dr
+2024-00016866,01/23/2024 23:38:00,01/23/2024 - 23:38,Other Incident,CBE,"Hornbake, Hornbake Library at 4130 Campus Dr"
+2024-00016887,01/24/2024 00:36:00,01/24/2024 - 00:36,Suspicious Person/Auto,Active/Pending,4100 block of Campus Dr
+2024-00016888,01/24/2024 00:40:00,01/24/2024 - 00:40,DWI/DUI,Arrest,Baltimore Ave
+2024-00016977,01/23/2024 12:40:00,01/24/2024 - 07:17,Damage to State Property,CBE,"Bioscience, Bioscience Research Building at 4066 Campus Dr"
+2024-00017109,01/24/2024 09:20:00,01/24/2024 - 13:00,Theft,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2024-00017143,01/24/2024 14:33:00,01/24/2024 - 15:07,Indecent Exposure,Arrest,"62, St Marys Hall, St. Mary's, St. Mary's Hall at 3949 Campus Dr"
+2024-00017193,01/24/2024 17:33:00,01/24/2024 - 17:33,Vandalism,Arrest,"Bioscience, Bioscience Research Building at 4066 Campus Dr"
+2024-00017287,01/24/2024 14:25:00,01/24/2024 - 21:15,Indecent Exposure,Arrest,"Elkton, Elkton Hall at 3981 Denton Service Ln"
+2024-00017389,01/25/2024 01:16:00,01/25/2024 - 01:16,Injured/Sick Person,CBE,La Plata Hall at 8160 La Plata Dr
+2024-00017448,01/25/2024 03:19:00,01/25/2024 - 03:19,DWI/DUI,Arrest,3500 block of University Blvd
+2024-00017553,01/25/2024 08:32:00,01/25/2024 - 08:32,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2024-00017579,01/25/2024 10:02:00,01/25/2024 - 10:04,Injured/Sick Person,CBE,4100 block of Campus Dr
+2024-00017611,01/24/2024 22:00:00,01/25/2024 - 10:43,Theft,Investigation Pending,Hagerstown Hall at 8075 Hagerstown Dr
+2024-00017696,01/25/2024 14:53:00,01/25/2024 - 14:53,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2024-00017734,01/25/2024 12:00:00,01/25/2024 - 17:24,Other Service Call,CBE,4200 block of Fieldhouse Dr
+2024-00017771,01/25/2024 15:30:00,01/25/2024 - 18:36,Theft,Arrest,"8, Annapolis, Annapolis Hall at 7626 Regents Dr"
+2024-00017791,01/25/2024 15:50:00,01/25/2024 - 18:43,Extortion,Investigation Pending,3400 block of Tulane Dr
+2024-00017940,01/26/2024 00:13:00,01/26/2024 - 00:13,Injured/Sick Person,CBE,Baltimore Ave
+2024-00018000,01/26/2024 01:11:00,01/26/2024 - 01:11,Disorderly Conduct,Arrest,"Delta Phi Epsilon, Delta Phi Epsilon Sorority at 4514 Knox Rd"
+2024-00018135,01/25/2024 17:00:00,01/26/2024 - 04:38,Vandalism,Investigation Pending,Lot 11b
+2024-00018149,01/26/2024 05:05:00,01/26/2024 - 05:05,Emergency Petition,CBE,"Drazek Circle, UMGC at 346 Ehrensberger Dr"
+2024-00018215,01/25/2024 15:00:00,01/26/2024 - 08:24,Theft from Auto,Investigation Pending,Lot 11b
+2024-00018338,01/25/2024 16:30:00,01/26/2024 - 10:10,Theft,Arrest,"25, Charles, Charles Hall at 4405 Lehigh Rd"
+2024-00018631,01/26/2024 11:59:00,01/26/2024 - 17:09,Fraud,CBE,8100 block of Paint Branch Dr
+2024-00018738,01/26/2024 20:40:00,01/26/2024 - 20:40,CDS Violation,CBE,"Elkton, Elkton Hall at 3981 Denton Service Ln"
+2024-00018754,01/26/2024 21:09:00,01/26/2024 - 21:09,CDS Violation,CBE,"69, Wicomico, Wicomico Hall at 7218 Preinkert Dr"
+2024-00018809,01/26/2024 22:00:00,01/26/2024 - 23:17,Theft,Investigation Pending,Hagerstown Hall at 8075 Hagerstown Dr
+2024-00018862,01/27/2024 00:05:00,01/27/2024 - 00:05,Injured/Sick Person,CBE,Adidas Stripe 3 at 7415 Baltimore Ave
+2024-00018873,01/27/2024 00:35:00,01/27/2024 - 00:35,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00018896,01/27/2024 01:41:00,01/27/2024 - 01:41,Disorderly Conduct,Arrest,4600 block of Rossborough Ln
+2024-00019303,01/25/2024 15:45:00,01/27/2024 - 17:00,Theft,Unfounded,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2024-00019613,01/28/2024 02:48:00,01/28/2024 - 03:40,Assist Other Agency,CBE,909 at 8204 Baltimore Ave
+2024-00019899,12/17/2023 00:00:00,01/28/2024 - 14:00,Theft,Investigation Pending,"Easton, Easton Hall at 3917 Denton Service Ln"
+2024-00019954,01/28/2024 16:22:00,01/28/2024 - 16:22,Injured/Sick Person,CBE,Yahentamitsi at 4136 Stadium Dr
+2024-00020070,01/28/2024 22:06:00,01/28/2024 - 22:06,Other Incident,CBE,Baltimore Ave
+2024-00020134,01/28/2024 19:30:00,01/29/2024 - 00:14,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2024-00020144,01/29/2024 00:58:00,01/29/2024 - 00:58,Injured/Sick Person,CBE,7400 block of Princeton Ave
+2024-00020405,01/29/2024 09:10:00,01/29/2024 - 09:13,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2024-00020526,01/19/2024 10:26:00,01/29/2024 - 11:28,Assist Other Agency,CBE,8100 block of Baltimore Ave
+2024-00020545,01/29/2024 12:10:00,01/29/2024 - 12:14,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2024-00020584,01/27/2024 11:50:00,01/29/2024 - 13:23,Accident,CBE,Rossborough Ln
+2024-00020653,01/25/2024 12:00:00,01/29/2024 - 15:58,Stolen Motor Vehicle,Investigation Pending,Lot 11b
+2024-00020706,01/29/2024 08:30:00,01/29/2024 - 17:39,Theft,Arrest,"39, Van Munching, Van Munching Hall at 7699 Mowatt Ln"
+2024-00020846,01/29/2024 19:00:00,01/30/2024 - 00:05,Dept Property Damage/Loss,Active/Pending,4300 block of Hartwick Rd
+2024-00021292,01/30/2024 18:30:00,01/30/2024 - 19:18,Assist Other Agency,CBE,8400 block of Baltimore Ave
+2024-00021819,01/31/2024 12:00:00,01/31/2024 - 13:09,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2024-00021864,01/31/2024 12:00:00,01/31/2024 - 16:04,Assist Other Agency,CBE,"Cornerstone, Cornerstone Grill at 7325 Baltimore Ave"
+2024-00022030,01/31/2024 20:30:00,01/31/2024 - 21:03,Accident,Active/Pending,Regents Dr
+2024-00022033,01/17/2024 12:00:00,01/31/2024 - 21:22,Dept Property Damage/Loss,CBE,6800 block of Preinkert Dr

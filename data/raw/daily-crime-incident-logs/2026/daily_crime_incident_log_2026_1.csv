@@ -1,0 +1,73 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2026-00000068,01/01/2026 03:02:00,01/01/2026 - 03:02,DWI/DUI,Arrest,Adelphi Rd
+2026-00000548,01/01/2026 20:54:00,01/01/2026 - 20:54,Suspicious Activity,Unfounded,4600 block of Norwich Rd
+2026-00000726,01/02/2026 02:08:00,01/02/2026 - 02:08,DWI/DUI,Arrest,University Blvd
+2026-00000730,01/02/2026 02:36:00,01/02/2026 - 02:36,DWI/DUI,Arrest,University Blvd
+2026-00001371,01/02/2026 17:32:00,01/02/2026 - 18:41,Theft,Arrest,Paint Branch Dr
+2026-00001643,01/03/2026 01:20:00,01/03/2026 - 01:20,DWI/DUI,Arrest,University Blvd
+2026-00001705,01/03/2026 03:19:00,01/03/2026 - 03:19,DWI/DUI,Arrest,University Blvd
+2026-00001949,01/03/2026 13:30:00,01/03/2026 - 13:30,Check on the  Welfare,CBE,7700 block of Baltimore Ave
+2026-00003006,01/04/2026 16:20:00,01/04/2026 - 17:26,Theft,Arrest,4100 block of Terrapin Trl
+2026-00004098,01/05/2026 14:00:00,01/05/2026 - 15:21,Vandalism,CBE,7600 block of Library Ln
+2026-00005062,01/06/2026 15:08:00,01/06/2026 - 15:08,Assist Other Agency,CBE,7200 block of Princeton Ave
+2026-00005145,01/06/2026 18:00:00,01/06/2026 - 18:00,Assist Other Agency,CBE,Icc Hwy / Georgia Ave
+2026-00005212,01/02/2026 19:30:00,01/06/2026 - 20:30,Theft,Active/Pending,8500 block of Paint Branch Dr
+2026-00005908,01/07/2026 14:28:00,01/07/2026 - 14:28,Recovered Stolen Property,Arrest,7500 block of Regents Dr
+2026-00005910,01/07/2026 14:52:00,01/07/2026 - 14:52,Assist Other Agency,Active/Pending,4300 block of Knox Rd
+2026-00006073,01/07/2026 22:42:00,01/07/2026 - 22:42,Assist Other Agency,CBE,3500 block of University Blvd
+2026-00006246,01/08/2026 01:32:00,01/08/2026 - 01:32,DWI/DUI,Arrest,University Blvd
+2026-00007400,01/09/2026 01:47:00,01/09/2026 - 01:47,DWI/DUI,Arrest,University Blvd
+2026-00007763,01/09/2026 10:30:00,01/09/2026 - 10:41,Dept Property Damage/Loss,CBE,5100 block of College Ave
+2026-00008580,01/10/2026 00:24:00,01/10/2026 - 00:24,DWI/DUI,Arrest,University Blvd
+2026-00009308,01/11/2026 00:00:00,01/11/2026 - 00:06,Noise Complaint,CBE,4300 block of Knox Rd
+2026-00009510,01/11/2026 03:55:00,01/11/2026 - 03:55,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2026-00010228,01/12/2026 02:04:00,01/12/2026 - 02:04,DWI/DUI,Arrest,University Blvd
+2026-00010593,01/12/2026 09:50:00,01/12/2026 - 10:01,Suspicious Activity,CBE,Campus Dr
+2026-00010772,01/12/2026 13:22:00,01/12/2026 - 13:22,Injured/Sick Person,CBE,4000 block of Union Dr
+2026-00010839,01/12/2026 14:50:00,01/12/2026 - 14:50,Warrant/Summons Service,Arrest,7700 block of Baltimore Ave
+2026-00011814,01/13/2026 13:55:00,01/13/2026 - 13:55,Disorderly Conduct,CBE,4100 block of Campus Dr
+2026-00011817,01/12/2026 18:00:00,01/13/2026 - 14:30,Burglary,Investigation Pending,4300 block of Rowalt Dr
+2026-00012070,01/11/2026 13:15:00,01/13/2026 - 19:45,Theft,Investigation Pending,8100 block of Paint Branch Dr
+2026-00013942,01/15/2026 11:16:00,01/15/2026 - 11:16,Emergency Petition,CBE,4000 block of Union Dr
+2026-00014091,01/13/2026 12:00:00,01/15/2026 - 15:39,Assist Other Agency,CBE,8400 block of Baltimore Ave
+2026-00014289,01/14/2026 22:30:00,01/15/2026 - 19:04,Dept Property Damage/Loss,CBE,7800 block of Alumni Dr
+2026-00016270,01/16/2026 17:30:00,01/17/2026 - 09:42,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2026-00016837,01/18/2026 00:45:00,01/18/2026 - 00:45,DWI/DUI,Arrest,University Blvd
+2026-00017224,01/17/2026 15:00:00,01/18/2026 - 13:40,Suspicious Activity,CBE,4200 block of Campus Dr
+2026-00020492,01/21/2026 12:30:00,01/21/2026 - 12:45,Emergency Petition,CBE,8700 block of Baltimore Ave
+2026-00020908,01/21/2026 22:21:00,01/21/2026 - 22:21,Injured/Sick Person,CBE,8200 block of Boteler Ln
+2026-00021154,01/22/2026 02:21:00,01/22/2026 - 02:21,Injured/Sick Person,CBE,8500 block of Paint Branch Dr
+2026-00021346,01/21/2026 17:00:00,01/22/2026 - 09:34,Theft,Unfounded,6800 block of Preinkert Dr
+2026-00021626,01/22/2026 12:30:00,01/22/2026 - 15:11,Theft,Investigation Pending,3900 block of Denton Service Ln
+2026-00021667,01/22/2026 08:25:00,01/22/2026 - 16:39,Theft,Investigation Pending,4100 block of Union Ln
+2026-00021756,01/22/2026 18:35:00,01/22/2026 - 19:09,Suspicious Activity,Investigation Pending,4100 block of Campus Dr
+2026-00022679,01/23/2026 11:30:00,01/23/2026 - 12:54,Injured/Sick Person,CBE,8000 block of La Plata Dr
+2026-00022774,01/23/2026 17:09:00,01/23/2026 - 17:09,Emergency Petition,CBE,4300 block of Knox Rd
+2026-00023125,01/23/2026 22:13:00,01/23/2026 - 22:13,Warrant/Summons Service,Arrest,Adelphi Rd
+2026-00023771,12/19/2025 14:09:00,01/24/2026 - 15:08,Assist Other Agency,CBE,4300 block of Knox Rd
+2026-00023799,12/20/2025 16:00:00,01/24/2026 - 16:49,Theft,Investigation Pending,3800 block of Stadium Dr
+2026-00024015,01/24/2026 23:29:00,01/24/2026 - 23:29,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2026-00024084,01/25/2026 01:35:00,01/25/2026 - 01:35,Suspicious Person/Auto,CBE,4700 block of Rossborough Ln
+2026-00024088,01/25/2026 01:45:00,01/25/2026 - 01:53,Emergency Petition,CBE,7500 block of Preinkert Dr
+2026-00024139,01/25/2026 10:30:00,01/25/2026 - 11:24,Injured/Sick Person,CBE,7500 block of Preinkert Dr
+2026-00024158,01/24/2026 23:00:00,01/25/2026 - 15:35,Assist Other Agency,CBE,Balboa Ave / Fable St
+2026-00024364,01/26/2026 09:27:00,01/26/2026 - 09:27,Injured/Sick Person,CBE,8700 block of Boteler Ln
+2026-00024437,01/24/2026 20:30:00,01/26/2026 - 11:46,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2026-00024489,01/25/2026 00:00:00,01/26/2026 - 13:02,Emergency Petition,CBE,8000 block of Hagerstown Dr
+2026-00024511,01/26/2026 16:55:00,01/26/2026 - 17:02,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2026-00024536,01/26/2026 20:00:00,01/26/2026 - 21:30,Other Incident,CBE,8100 block of La Plata Dr
+2026-00024623,01/26/2026 03:30:00,01/27/2026 - 12:45,Other Incident,CBE,4000 block of Stadium Dr
+2026-00024712,01/27/2026 23:30:00,01/28/2026 - 00:13,Injured/Sick Person,CBE,4200 block of Valley Dr
+2026-00024802,01/27/2026 15:00:00,01/28/2026 - 12:57,Theft,Investigation Pending,4100 block of Valley Dr
+2026-00024926,01/28/2026 22:00:00,01/29/2026 - 05:16,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2026-00024998,01/29/2026 14:00:00,01/29/2026 - 14:03,Damage to State Property,Active/Pending,8100 block of Paint Branch Dr
+2026-00025069,01/30/2026 00:58:00,01/30/2026 - 00:58,Emergency Petition,CBE,4400 block of Lehigh Rd
+2026-00025096,01/29/2026 20:00:00,01/30/2026 - 02:58,Injured/Sick Person,CBE,4052 Knox Rd
+2026-00025361,01/30/2026 15:53:00,01/30/2026 - 15:53,Assist Other Agency,CBE,7400 block of Princeton Ave
+2026-00025700,01/31/2026 00:14:00,01/31/2026 - 00:14,Injured/Sick Person,CBE,4800 block of College Ave
+2026-00025749,01/31/2026 00:29:00,01/31/2026 - 00:50,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2026-00025910,01/31/2026 08:21:00,01/31/2026 - 08:21,Other Incident,CBE,4100 block of Campus Dr
+2026-00026057,01/31/2026 11:43:00,01/31/2026 - 11:43,Other Incident,CBE,4600 block of Rossborough Ln
+2026-00026140,01/31/2026 16:00:00,01/31/2026 - 16:15,Injured/Sick Person,CBE,4100 block of Valley Dr
+2026-00026195,01/31/2026 18:15:00,01/31/2026 - 18:29,Injured/Sick Person,CBE,8500 block of Paint Branch Dr
+2026-00026388,01/31/2026 23:59:00,01/31/2026 - 23:59,Injured/Sick Person,CBE,4400 block of Knox Rd

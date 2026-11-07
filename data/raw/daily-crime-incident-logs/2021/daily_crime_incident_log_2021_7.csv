@@ -1,0 +1,73 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00050334,07/02/2021 17:00:00,07/02/2021 - 17:00,DWI/DUI,Arrest,University Blvd
+2021-00050338,07/02/2021 13:00:00,07/02/2021 - 17:27,Stolen Motor Vehicle,Unfounded,4100 block of Valley Dr
+2021-00050377,06/07/2021 12:00:00,07/02/2021 - 23:01,Theft,Investigation Pending,4100 block of Stadium Dr
+2021-00050657,07/04/2021 01:11:00,07/04/2021 - 01:11,DWI/DUI,Arrest,University Blvd
+2021-00050668,07/04/2021 02:38:00,07/04/2021 - 02:38,DWI/DUI,Arrest,4300 block of Hartwick Rd
+2021-00050817,07/04/2021 15:45:00,07/04/2021 - 15:45,DWI/DUI,Arrest,8700 block of Baltimore Ave
+2021-00050860,07/04/2021 20:08:00,07/04/2021 - 20:08,Injured/Sick Person,CBE,8200 block of Alumni Dr
+2021-00050884,07/04/2021 23:00:00,07/04/2021 - 23:00,DWI/DUI,Arrest,Baltimore Ave
+2021-00050901,07/04/2021 23:49:00,07/04/2021 - 23:49,DWI/DUI,Arrest,University Blvd
+2021-00050902,07/04/2021 23:55:00,07/04/2021 - 23:55,DWI/DUI,Arrest,Baltimore Ave
+2021-00050929,07/05/2021 03:20:00,07/05/2021 - 03:20,CDS Violation,Arrest,University Blvd
+2021-00051000,07/05/2021 10:58:00,07/05/2021 - 10:58,Emergency Petition,CBE,3700 block of Campus Dr
+2021-00051142,07/02/2021 12:00:00,07/05/2021 - 23:53,Fraud,Investigation Pending,8500 block of Boteler Ln
+2021-00051275,06/27/2021 19:00:00,07/06/2021 - 19:21,Vandalism,Active/Pending,"Astronomical Observatory, Observatory at 3255 Metzerott Rd"
+2021-00051430,07/07/2021 10:00:00,07/07/2021 - 10:41,Other Incident,CBE,8100 block of Paint Branch Dr
+2021-00051639,07/08/2021 00:32:00,07/08/2021 - 00:32,DWI/DUI,Arrest,7600 block of Mowatt Ln
+2021-00052267,07/10/2021 00:57:00,07/10/2021 - 00:57,DWI/DUI,Arrest,University Blvd
+2021-00052284,07/10/2021 02:53:00,07/10/2021 - 02:53,DWI/DUI,Arrest,University Blvd
+2021-00052296,07/10/2021 03:00:00,07/10/2021 - 04:33,Assist Other Agency,CBE,4500 block of College Ave
+2021-00052362,07/10/2021 08:10:00,07/10/2021 - 09:43,Assist Other Agency,CBE,7100 block of Baltimore Ave
+2021-00052516,07/10/2021 23:32:00,07/10/2021 - 23:32,DWI/DUI,Arrest,University Blvd
+2021-00052568,07/11/2021 02:27:00,07/11/2021 - 02:27,DWI/DUI,Arrest,University Blvd
+2021-00052572,07/11/2021 02:43:00,07/11/2021 - 02:43,DWI/DUI,Arrest,University Blvd
+2021-00052707,07/10/2021 12:50:00,07/11/2021 - 17:01,Theft,Investigation Pending,7500 block of Calvert Service Ln
+2021-00052774,07/12/2021 01:58:00,07/12/2021 - 01:58,DWI/DUI,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00052841,07/09/2021 17:30:00,07/12/2021 - 10:06,Vandalism,Investigation Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00052972,07/12/2021 15:19:00,07/12/2021 - 19:28,Hazardous Condition,CBE,"96, Cambridge, Cambridge Hall at 4230 Farm Dr"
+2021-00053047,07/13/2021 01:12:00,07/13/2021 - 01:19,Accident,CBE,Ehrensberger Dr
+2021-00053166,07/13/2021 08:00:00,07/13/2021 - 12:39,Other Incident,CBE,4300 block of Knox Rd
+2021-00053396,07/14/2021 07:15:00,07/14/2021 - 07:15,Injured/Sick Person,CBE,
+2021-00053414,07/14/2021 09:45:00,07/14/2021 - 09:55,Hazardous Condition,CBE,4400 block of Stadium Dr
+2021-00053458,07/08/2021 11:24:00,07/14/2021 - 13:21,Title IX Incident Non Criminal,Active/Pending,Health Center at 3983 Campus Dr
+2021-00053483,07/14/2021 15:45:00,07/14/2021 - 15:56,Assist Other Agency,CBE,8400 block of Potomac Ave
+2021-00053554,07/14/2021 21:17:00,07/14/2021 - 21:51,Assist Other Agency,CBE,3700 Georgia Ave
+2021-00053654,07/15/2021 01:00:00,07/15/2021 - 08:14,Suspicious Activity,Investigation Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090 Union Dr"
+2021-00053738,07/14/2021 10:30:00,07/15/2021 - 13:44,Other Incident,CBE,7900 block of Regents Dr
+2021-00054101,07/16/2021 16:28:00,07/16/2021 - 16:28,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2021-00054207,07/17/2021 00:39:00,07/17/2021 - 00:39,DWI/DUI,Arrest,Baltimore Ave
+2021-00054211,07/17/2021 01:00:00,07/17/2021 - 01:26,Assist Other Agency,CBE,8100 block of Baltimore Ave
+2021-00054230,07/17/2021 03:29:00,07/17/2021 - 03:29,DWI/DUI,Arrest,University Blvd
+2021-00054240,07/17/2021 01:00:00,07/17/2021 - 05:26,Emergency Petition,CBE,3900 block of Campus Dr
+2021-00054326,07/17/2021 13:00:00,07/17/2021 - 13:08,Injured/Sick Person,CBE,4500 block of Campus Dr
+2021-00054342,07/17/2021 14:40:00,07/17/2021 - 14:43,Injured/Sick Person,CBE,4500 block of Campus Dr
+2021-00054556,07/18/2021 08:30:00,07/18/2021 - 08:52,Reckless Endangerment,Investigation Pending,3300 block of Metzerott Rd
+2021-00054645,07/18/2021 17:00:00,07/18/2021 - 17:39,Theft from Auto,Investigation Pending,"Club House, Golf Course Club House at 3800 Golf Course Rd"
+2021-00054694,07/18/2021 23:15:00,07/18/2021 - 23:15,Suspicious Activity,CBE,"64, Dorchester, Dorchester Hall at 3947 Campus Dr"
+2021-00054730,07/19/2021 01:45:00,07/19/2021 - 01:45,Warrant/Summons Service,Arrest,"EARTH SYSTEM SCIENCE INTERDISCIPLINARY CENTER, ESSIC at 5825 University Research Ct"
+2021-00054778,07/16/2021 15:30:00,07/19/2021 - 07:54,Stolen Motor Vehicle,Investigation Pending,8000 block of Regents Dr
+2021-00054790,07/18/2021 06:15:00,07/19/2021 - 09:28,Damage to State Property,CBE,"Laboratory for Physical Sciences, LPS at 8050 Greenmead Dr"
+2021-00055350,07/18/2021 02:40:00,07/21/2021 - 07:49,Assist Other Agency,CBE,4800 block of College Ave
+2021-00055456,07/20/2021 18:30:00,07/21/2021 - 15:47,Suspicious Activity,CBE,
+2021-00055543,07/21/2021 22:55:00,07/21/2021 - 22:55,CDS Violation,Arrest,8000 block of Regents Dr
+2021-00055742,07/22/2021 14:31:00,07/22/2021 - 14:31,Injured/Sick Person,CBE,"College Park Fire Station, Company 12 at 8115 Baltimore Ave"
+2021-00055853,07/23/2021 00:39:00,07/23/2021 - 00:39,CDS Violation,Arrest,University Blvd
+2021-00055999,07/23/2021 10:58:00,07/23/2021 - 10:58,Hazardous Condition,CBE,8000 block of Regents Dr
+2021-00056200,07/24/2021 02:28:00,07/24/2021 - 02:28,Traffic Arrest,Arrest,Baltimore Ave
+2021-00056460,07/24/2021 19:05:00,07/24/2021 - 19:05,CDS Violation,Arrest,Baltimore Ave
+2021-00056467,07/24/2021 21:28:00,07/24/2021 - 21:28,DWI/DUI,Arrest,University Blvd
+2021-00056519,07/25/2021 01:06:00,07/25/2021 - 01:06,CDS Violation,Arrest,Boteler Ln
+2021-00056533,07/25/2021 01:52:00,07/25/2021 - 01:52,Injured/Sick Person,CBE,7700 block of Baltimore Ave
+2021-00056539,07/25/2021 02:17:00,07/25/2021 - 02:17,DWI/DUI,Arrest,University Blvd
+2021-00056544,07/25/2021 03:03:00,07/25/2021 - 03:03,DWI/DUI,Arrest,University Blvd
+2021-00056704,07/17/2021 20:00:00,07/25/2021 - 14:12,Theft,Investigation Pending,Lot 1b
+2021-00057532,07/28/2021 11:43:00,07/28/2021 - 11:43,Injured/Sick Person,CBE,4500 block of Campus Dr
+2021-00057539,07/28/2021 12:15:00,07/28/2021 - 12:26,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2021-00057665,07/29/2021 03:04:00,07/29/2021 - 03:04,Other Incident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2021-00057731,07/29/2021 10:08:00,07/29/2021 - 10:08,Injured/Sick Person,CBE,3800 block of Golf Course Rd
+2021-00057835,07/25/2021 20:00:00,07/29/2021 - 18:42,Theft,Arrest,7500 block of Mowatt Ln
+2021-00058242,07/30/2021 20:00:00,07/30/2021 - 20:27,Other Incident,CBE,"42, Tydings Hall at 7343 Preinkert Dr"
+2021-00058301,07/30/2021 23:24:00,07/30/2021 - 23:24,Injured/Sick Person,CBE,7300 block of Baltimore Ave
+2021-00058324,07/31/2021 01:48:00,07/31/2021 - 01:48,DWI/DUI,Arrest,Lot J1
+2021-00058414,07/30/2021 20:30:00,07/31/2021 - 11:06,Assist Other Agency,CBE,Baltimore Ave

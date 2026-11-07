@@ -1,0 +1,34 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00045235,07/01/2020 03:00:00,07/01/2020 - 03:09,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00045296,02/01/2020 12:00:00,07/01/2020 - 15:11,Dept Property Damage/Loss,CBE,3048 Monroe St
+2020-00045477,06/15/2020 05:54:00,07/02/2020 - 12:31,Hate Bias Incident,Investigation Pending,4200 block of Chapel Ln
+2020-00045778,06/28/2020 09:18:00,07/03/2020 - 21:34,Suspicious Activity,Active/Pending,7500 block of Mowatt Ln
+2020-00045808,07/04/2020 02:15:00,07/04/2020 - 02:26,Indecent Exposure,Arrest,College Ave
+2020-00045893,06/29/2020 16:00:00,07/04/2020 - 12:00,Theft,Investigation Pending,3400 block of Tulane Dr
+2020-00046154,07/05/2020 16:30:00,07/05/2020 - 17:36,Vandalism,Arrest,
+2020-00046342,03/16/2019 23:30:00,07/06/2020 - 15:32,Assist Other Agency,CBE,4900 block of Laguna Rd
+2020-00046931,07/09/2020 11:18:00,07/09/2020 - 11:18,Injured/Sick Person,CBE,8000 block of Greenmead Dr
+2020-00046958,06/30/2020 12:04:00,07/09/2020 - 16:04,Theft,Investigation Pending,Severn at 5245 Greenbelt Rd
+2020-00047091,07/09/2020 07:30:00,07/10/2020 - 09:48,Burglary,Active/Pending,3500 block of University Blvd
+2020-00047165,05/29/2020 11:31:00,07/10/2020 - 15:32,Theft,Unfounded,Severn at 5245 Greenbelt Rd
+2020-00047205,07/10/2020 21:35:00,07/10/2020 - 21:35,Theft,Arrest,Regents Dr
+2020-00047287,07/10/2020 22:00:00,07/11/2020 - 10:03,Burglary,Active/Pending,4000 block of Union Dr
+2020-00047692,07/13/2020 09:51:00,07/13/2020 - 09:51,Other Incident,Active/Pending,7900 block of Regents Dr
+2020-00047703,07/09/2020 11:00:00,07/13/2020 - 11:15,Damage to State Property,CBE,3900 block of Denton Service Ln
+2020-00047756,07/13/2020 14:20:00,07/13/2020 - 19:01,Fraud,Investigation Pending,3400 block of Tulane Dr
+2020-00047769,07/13/2020 19:55:00,07/13/2020 - 19:55,Injured/Sick Person,CBE,7800 block of Championship Ln
+2020-00048260,07/09/2020 13:00:00,07/15/2020 - 17:19,Theft,Active/Pending,8600 block of Boteler Ln
+2020-00048586,07/16/2020 22:34:00,07/16/2020 - 22:36,Damage to State Property,CBE,7700 block of Mowatt Ln
+2020-00048977,07/18/2020 19:44:00,07/18/2020 - 19:44,Emergency Petition,CBE,Garage D at 4155 Terrapin Trl
+2020-00048981,07/18/2020 20:13:00,07/18/2020 - 20:13,Fraud,Investigation Pending,4600 block of Norwich Rd
+2020-00049268,07/20/2020 01:38:00,07/20/2020 - 01:38,Accident - Departmental,CBE,3700 block of Campus Dr
+2020-00049772,07/21/2020 19:00:00,07/22/2020 - 02:36,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00049863,07/22/2020 13:45:00,07/22/2020 - 14:26,Injured/Sick Person,CBE,Garage D at 4155 Terrapin Trl
+2020-00050221,07/03/2020 15:30:00,07/24/2020 - 10:35,Theft,CBE,4000 block of Stadium Dr
+2020-00050386,07/25/2020 02:41:00,07/25/2020 - 02:41,Assist Other Agency,CBE,4800 block of Calvert Rd
+2020-00050701,07/26/2020 04:17:00,07/26/2020 - 04:17,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2020-00051225,07/28/2020 07:43:00,07/28/2020 - 07:43,Assist Other Agency,CBE,8000 block of Regents Dr
+2020-00051434,07/24/2020 17:30:00,07/29/2020 - 09:45,Burglary,Investigation Pending,8400 block of Baltimore Ave
+2020-00051776,07/30/2020 20:15:00,07/30/2020 - 20:33,Accident - Departmental,CBE,300 block of Ehrensberger Dr
+2020-00051868,07/31/2020 11:50:00,07/31/2020 - 11:53,Other Incident,CBE,4600 block of Norwich Rd
+2020-00051950,07/31/2020 23:19:00,07/31/2020 - 23:19,Injured/Sick Person,CBE,4600 block of Norwich Rd

@@ -1,0 +1,22 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00039309,06/03/2020 09:43:00,06/03/2020 - 09:43,Theft,Arrest,4300 block of Knox Rd
+2020-00039368,06/03/2020 15:22:00,06/03/2020 - 15:24,Injured/Sick Person,CBE,Rivertech Ct
+2020-00039503,03/13/2020 08:00:00,06/04/2020 - 16:03,Theft,Active/Pending,3900 block of Denton Service Ln
+2020-00039770,06/05/2020 20:00:00,06/05/2020 - 20:05,CDS Violation,Arrest,Baltimore Ave
+2020-00039888,06/06/2020 09:16:00,06/06/2020 - 09:16,Theft,Investigation Pending,4100 block of Stadium Dr
+2020-00039902,03/30/2020 14:00:00,06/06/2020 - 10:39,Theft,Active/Pending,4200 block of Lehigh Rd
+2020-00039924,06/06/2020 13:44:00,06/06/2020 - 13:44,Other Incident,CBE,7500 block of Baltimore Ave
+2020-00040669,06/07/2020,06/09/2020 - 13:05,Other Incident,CBE,4000 block of Campus Dr
+2020-00040682,06/08/2020 17:00:00,06/09/2020 - 13:31,Burglary,Investigation Pending,4100 block of Campus Dr
+2020-00040689,06/09/2020 09:20:00,06/09/2020 - 13:48,Theft from Auto,Summons Issued,3800 block of Golf Course Rd
+2020-00040876,06/10/2020 12:00:00,06/10/2020 - 15:38,Theft from Auto,Summons Issued,Fieldhouse Dr
+2020-00041917,03/16/2020 14:00:00,06/15/2020 - 10:55,Burglary,Investigation Pending,8000 block of Regents Dr
+2020-00041946,06/15/2020 15:13:00,06/15/2020 - 15:13,Assist Other Agency,CBE,4800 block of Calvert Rd
+2020-00041984,06/09/2020 14:00:00,06/15/2020 - 19:41,Other Incident,CBE,3900 block of Campus Dr
+2020-00042146,06/16/2020 14:00:00,06/16/2020 - 14:01,Other Incident,CBE,4000 block of Union Dr
+2020-00042601,06/18/2020 13:45:00,06/18/2020 - 14:13,Theft from Auto,Summons Issued,3800 block of Golf Course Rd
+2020-00043741,06/23/2020 16:15:00,06/23/2020 - 16:15,Recovered Stolen Property,Arrest,Baltimore Ave
+2020-00044331,06/26/2020 21:20:00,06/26/2020 - 21:26,Other Incident,Investigation Pending,4300 block of Rowalt Dr
+2020-00044723,06/28/2020 17:33:00,06/28/2020 - 17:33,Suspicious Activity,Investigation Pending,Garage B at 4025 Stadium Dr
+2020-00044869,06/29/2020 00:01:00,06/29/2020 - 09:25,Damaged Property,Investigation Pending,8700 block of Adelphi Rd
+2020-00045165,06/30/2020 13:30:00,06/30/2020 - 15:57,Injured Officer,CBE,7100 block of 51st Ave

@@ -1,0 +1,117 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00058621,08/01/2021 09:38:00,08/01/2021 - 09:49,Suspicious Activity,CBE,Jull Hall at 4196 Stadium Dr
+2021-00058928,08/02/2021 01:50:00,08/02/2021 - 01:50,DWI/DUI,Arrest,University Blvd
+2021-00059300,08/03/2021 01:09:00,08/03/2021 - 01:09,DWI/DUI,Arrest,University Blvd
+2021-00059686,08/03/2021 23:43:00,08/03/2021 - 23:43,CDS Violation,Arrest,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00059694,08/04/2021 00:20:00,08/04/2021 - 00:20,Warrant/Summons Service,Arrest,University Blvd
+2021-00059717,08/04/2021 01:43:00,08/04/2021 - 01:43,CDS Violation,Arrest,7700 block of Baltimore Ave
+2021-00059874,08/04/2021 10:15:00,08/04/2021 - 10:38,Hazardous Condition,CBE,8000 block of Regents Dr
+2021-00059878,08/04/2021 07:30:00,08/04/2021 - 13:50,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00059942,08/03/2021 13:00:00,08/04/2021 - 17:38,Suspicious Activity,Unfounded,4100 block of Union Ln
+2021-00059988,08/04/2021 07:30:00,08/04/2021 - 19:50,Other Incident,Unfounded,7500 block of Calvert Service Ln
+2021-00060370,08/05/2021 20:04:00,08/05/2021 - 20:59,Missing Person/Runaway,CBE,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
+2021-00060444,08/06/2021 02:41:00,08/06/2021 - 02:41,DWI/DUI,Arrest,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1 Fraternity Row"
+2021-00060501,08/06/2021 08:19:00,08/06/2021 - 08:24,Damage to State Property,CBE,3700 block of Campus Dr
+2021-00060535,08/06/2021 10:26:00,08/06/2021 - 10:26,Injured/Sick Person,CBE,4200 block of Chapel Ln
+2021-00060637,08/06/2021 21:04:00,08/06/2021 - 21:04,Injured/Sick Person,CBE,University Courtyard #5 at 8500 Boteler Ln
+2021-00060689,08/07/2021 01:28:00,08/07/2021 - 01:28,DWI/DUI,Arrest,Baltimore Ave
+2021-00060709,08/07/2021 06:57:00,08/07/2021 - 06:57,Injured/Sick Person,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00060820,08/07/2021 12:09:00,08/07/2021 - 12:09,Animal Complaint,CBE,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00060869,08/07/2021 16:21:00,08/07/2021 - 16:21,Assist Other Agency,CBE,4700 block of Berwyn House Rd
+2021-00060948,08/07/2021 21:58:00,08/07/2021 - 21:58,DWI/DUI,Arrest,University Blvd
+2021-00060955,08/07/2021 16:30:00,08/07/2021 - 22:42,Suspicious Activity,Investigation Pending,8400 block of Boteler Ln
+2021-00060976,08/08/2021 00:07:00,08/08/2021 - 00:07,DWI/DUI,Arrest,Baltimore Ave
+2021-00061074,08/08/2021 03:51:00,08/08/2021 - 12:18,Assist Other Agency,CBE,4700 block of College Ave
+2021-00061173,08/08/2021 17:50:00,08/08/2021 - 17:50,Injured/Sick Person,CBE,Admissions Welcome Center at 7777 Baltimore Ave
+2021-00061205,08/08/2021 19:58:00,08/08/2021 - 19:58,Other Incident,CBE,6800 block of Preinkert Dr
+2021-00061254,08/08/2021 22:41:00,08/08/2021 - 22:41,Bomb Threat,Arrest,3800 block of Golf Course Rd
+2021-00061380,08/06/2020 08:00:00,08/09/2021 - 10:50,Theft,Unfounded,8000 block of Greenmead Dr
+2021-00061399,07/21/2021 13:40:00,08/09/2021 - 14:53,Suspicious Activity,CBE,7700 block of Diamondback Dr
+2021-00061420,08/09/2021 17:21:00,08/09/2021 - 17:21,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2021-00061440,08/09/2021 20:35:00,08/09/2021 - 20:35,Other Incident,CBE,7700 block of Baltimore Ave
+2021-00061559,08/10/2021 07:57:00,08/10/2021 - 07:57,Burglary,Arrest,7700 block of Diamondback Dr
+2021-00061561,06/01/2021,08/10/2021 - 08:22,Theft,Investigation Pending,8300 block of Boteler Ln
+2021-00061568,08/10/2021 10:03:00,08/10/2021 - 10:03,Hazardous Condition,CBE,8200 block of Paint Branch Dr
+2021-00061633,08/10/2021 15:20:00,08/10/2021 - 15:25,Injured/Sick Person,CBE,3900 block of Campus Dr
+2021-00061914,08/11/2021 14:00:00,08/11/2021 - 14:54,Injured/Sick Person,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00062240,08/12/2021 09:43:00,08/12/2021 - 12:11,Injured/Sick Person,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00062248,08/12/2021 13:30:00,08/12/2021 - 13:41,Theft,Arrest,7900 block of Regents Dr
+2021-00062259,08/12/2021 16:02:00,08/12/2021 - 16:02,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2021-00062352,08/12/2021 22:53:00,08/12/2021 - 22:53,DWI/DUI,Arrest,Adelphi Rd
+2021-00062372,08/12/2021 23:00:00,08/12/2021 - 23:36,Trespassing,CBE,8100 block of Baltimore Ave
+2021-00062410,08/13/2021 01:00:00,08/13/2021 - 01:09,Assist Other Agency,CBE,Dickinson Ave
+2021-00062613,08/13/2021 17:32:00,08/13/2021 - 17:32,Warrant/Summons Service,Arrest,7100 block of Baltimore Ave
+2021-00062641,08/13/2021 20:35:00,08/13/2021 - 20:35,Warrant/Summons Service,Arrest,7400 block of Baltimore Ave
+2021-00062675,08/13/2021 23:15:00,08/13/2021 - 23:15,Domestic,CBE,UMGC Hotel at 348 Ehrensberger Dr
+2021-00062689,08/14/2021 01:52:00,08/14/2021 - 01:52,DWI/DUI,Arrest,Baltimore Ave
+2021-00062705,08/14/2021 04:50:00,08/14/2021 - 04:50,Trespassing,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00062927,08/14/2021 18:05:00,08/14/2021 - 18:05,Emergency Petition,CBE,Norwich Rd
+2021-00062930,08/14/2021 20:05:00,08/14/2021 - 20:05,Theft,Arrest,7500 block of Mowatt Ln
+2021-00062958,08/15/2021 00:16:00,08/15/2021 - 00:16,DWI/DUI,Arrest,7300 block of Baltimore Ave
+2021-00063238,08/16/2021 02:14:00,08/16/2021 - 02:44,Assist Other Agency,CBE,9500 block of Baltimore Ave
+2021-00063287,08/16/2021 10:41:00,08/16/2021 - 10:41,Other Incident,CBE,300 block of Ehrensberger Dr
+2021-00063579,08/17/2021 09:30:00,08/17/2021 - 12:20,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00063587,08/17/2021 13:01:00,08/17/2021 - 13:32,Accident - Departmental,CBE,7100 block of 51st Ave
+2021-00063714,08/17/2021 20:43:00,08/17/2021 - 20:43,Check on the  Welfare,CBE,"Denton, Denton Hall at 3854 Stadium Dr"
+2021-00063768,08/18/2021 01:21:00,08/18/2021 - 01:21,DWI/DUI,Arrest,Baltimore Ave
+2021-00064035,08/17/2021 19:30:00,08/18/2021 - 20:53,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2021-00064121,08/19/2021 01:07:00,08/19/2021 - 01:07,DWI/DUI,Arrest,Baltimore Ave
+2021-00064122,08/19/2021 01:09:00,08/19/2021 - 01:09,DWI/DUI,Arrest,Baltimore Ave
+2021-00064173,08/18/2021 17:00:00,08/19/2021 - 08:28,Injured/Sick Person,CBE,UMGC Hotel at 348 Ehrensberger Dr
+2021-00064451,08/20/2021 01:28:00,08/20/2021 - 01:28,DWI/DUI,Arrest,Baltimore Ave
+2021-00064460,08/20/2021 02:03:00,08/20/2021 - 02:03,DWI/DUI,Arrest,4500 block of Campus Dr
+2021-00064752,08/21/2021 01:10:00,08/21/2021 - 01:10,DWI/DUI,Arrest,7300 block of Baltimore Ave
+2021-00064856,08/21/2021 13:19:00,08/21/2021 - 13:19,Injured/Sick Person,CBE,4000 block of Stadium Dr
+2021-00065002,08/22/2021 01:52:00,08/22/2021 - 02:09,Accident - Departmental,CBE,4000 block of Stadium Dr
+2021-00065009,08/22/2021 03:04:00,08/22/2021 - 03:04,DWI/DUI,Arrest,Campus Dr
+2021-00065751,08/25/2021 00:22:00,08/25/2021 - 00:22,DWI/DUI,Arrest,Baltimore Ave
+2021-00065868,08/23/2021 22:00:00,08/25/2021 - 10:22,Theft,Arrest,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00066020,08/25/2021 23:23:00,08/25/2021 - 23:23,DWI/DUI,Arrest,University Blvd
+2021-00066079,08/26/2021 02:24:00,08/26/2021 - 02:24,CDS Violation,Arrest,Baltimore Ave
+2021-00066100,08/26/2021 03:30:00,08/26/2021 - 03:30,Injured/Sick Person,CBE,28.9846419686857;-76.9570987400571
+2021-00066204,07/26/2021 08:00:00,08/26/2021 - 13:43,Theft,Investigation Pending,285 at 4335 Rowalt Dr
+2021-00066252,08/19/2021 00:30:00,08/26/2021 - 16:53,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00066293,08/26/2021 19:15:00,08/26/2021 - 21:59,Other Incident,CBE,8500 block of Paint Branch Dr
+2021-00066298,08/26/2021 22:16:00,08/26/2021 - 22:16,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00066362,08/27/2021 00:28:00,08/27/2021 - 00:28,DWI/DUI,Arrest,Baltimore Ave
+2021-00066386,08/27/2021 01:48:00,08/27/2021 - 01:48,DWI/DUI,Arrest,7300 block of Baltimore Ave
+2021-00066402,08/27/2021 02:43:00,08/27/2021 - 02:43,CDS Violation,Arrest,7200 block of Preinkert Dr
+2021-00066406,08/27/2021 02:50:00,08/27/2021 - 02:50,Injured/Sick Person,CBE,"64, Dorchester, Dorchester Hall at 3947 Campus Dr"
+2021-00066548,08/27/2021 13:30:00,08/27/2021 - 13:33,Other Service Call,CBE,4300 block of Hartwick Rd
+2021-00066552,08/27/2021 13:56:00,08/27/2021 - 13:56,Injured/Sick Person,CBE,"30, Talbot, Talbot Hall at 7569 Calvert Service Ln"
+2021-00066589,08/27/2021 15:05:00,08/27/2021 - 17:03,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854 Stadium Dr"
+2021-00066657,08/27/2021 21:20:00,08/27/2021 - 21:20,Injured/Sick Person,CBE,7400 block of Baltimore Ave
+2021-00066703,08/27/2021 23:24:00,08/27/2021 - 23:24,Injured/Sick Person,CBE,7400 block of Preinkert Dr
+2021-00066706,08/27/2021 23:33:00,08/27/2021 - 23:33,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00066728,08/28/2021 00:35:00,08/28/2021 - 00:35,Injured/Sick Person,CBE,"Bio Psych, Biology-Psychology Building at 4094 Campus Dr"
+2021-00066730,08/28/2021 00:50:00,08/28/2021 - 00:50,Injured/Sick Person,CBE,"Frat 5, Phi Kappa Tau Fraternity at 5 Fraternity Row"
+2021-00066733,08/28/2021 01:15:00,08/28/2021 - 01:15,DWI/DUI,Arrest,8400 block of Baltimore Ave
+2021-00066743,08/28/2021 02:37:00,08/28/2021 - 02:37,Injured/Sick Person,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903 Preinkert Dr"
+2021-00066747,08/28/2021 02:50:00,08/28/2021 - 02:50,Injured/Sick Person,CBE,7626 Regents Dr
+2021-00066858,08/28/2021 15:20:00,08/28/2021 - 15:20,Injured/Sick Person,CBE,8000 block of Boteler Ln
+2021-00066915,08/28/2021 10:00:00,08/28/2021 - 17:59,Hate Bias Incident,Investigation Pending,7500 block of Regents Dr
+2021-00066916,08/28/2021 18:12:00,08/28/2021 - 18:12,Injured/Sick Person,CBE,4100 block of Valley Dr
+2021-00066973,08/28/2021 19:23:00,08/28/2021 - 22:56,Assist Other Agency,CBE,5100 block of Navahoe St
+2021-00066981,09/01/2020,08/28/2021 - 23:13,Harassment/Stalking,CBE,4300 block of Knox Rd
+2021-00066987,08/28/2021 23:45:00,08/28/2021 - 23:41,Injured/Sick Person,CBE,4800 block of College Ave
+2021-00066992,08/28/2021 23:49:00,08/28/2021 - 23:49,Injured/Sick Person,CBE,7300 block of Baltimore Ave
+2021-00066997,08/29/2021 00:12:00,08/29/2021 - 00:12,DWI/DUI,Arrest,4400 block of Knox Rd
+2021-00067004,08/29/2021 00:35:00,08/29/2021 - 00:35,Injured/Sick Person,CBE,4700 block of Norwich Rd
+2021-00067006,08/29/2021 00:47:00,08/29/2021 - 00:47,Injured/Sick Person,CBE,8100 block of Baltimore Ave
+2021-00067020,08/29/2021 02:08:00,08/29/2021 - 02:08,DWI/DUI,Arrest,Baltimore Ave
+2021-00067026,08/29/2021 03:09:00,08/29/2021 - 03:09,CDS Violation,Arrest,4000 block of Stadium Dr
+2021-00067058,08/29/2021 04:00:00,08/29/2021 - 07:16,Injured/Sick Person,CBE,4200 block of Farm Dr
+2021-00067061,08/29/2021 08:15:00,08/29/2021 - 08:15,Recovered Stolen Property,CBE,3800 block of Stadium Dr
+2021-00067068,08/29/2021 01:00:00,08/29/2021 - 09:56,Injured/Sick Person,CBE,7600 block of Library Ln
+2021-00067220,08/29/2021 21:59:00,08/29/2021 - 21:59,DWI/DUI,Arrest,University Blvd
+2021-00067229,08/29/2021 18:00:00,08/29/2021 - 22:59,Theft,Active/Pending,4200 block of Lehigh Rd
+2021-00067233,08/28/2021 22:30:00,08/29/2021 - 23:08,Hate Bias Incident,Investigation Pending,8100 block of La Plata Dr
+2021-00067422,08/30/2021 11:16:00,08/30/2021 - 11:16,Injured/Sick Person,CBE,4100 block of Campus Dr
+2021-00067433,08/30/2021 11:34:00,08/30/2021 - 11:34,Injured/Sick Person,CBE,4300 block of Chapel Ln
+2021-00067445,08/30/2021 12:21:00,08/30/2021 - 12:21,CDS Violation,CBE,"14, Harford Hall at 7660 Regents Dr"
+2021-00067613,08/27/2021 07:00:00,08/30/2021 - 22:46,Theft,Investigation Pending,275 at 4321 Rowalt Dr
+2021-00067796,08/30/2021 12:00:00,08/31/2021 - 11:57,Theft,Unfounded,4000 block of Stadium Dr
+2021-00067809,08/30/2021 20:00:00,08/31/2021 - 13:33,Theft,Arrest,7500 block of Mowatt Ln
+2021-00067926,08/31/2021 21:30:00,08/31/2021 - 21:55,Suspicious Activity,Active/Pending,"97, Cambridge Community Center at 4232 Farm Dr"
+2021-00067959,08/31/2021 23:06:00,08/31/2021 - 23:06,Injured/Sick Person,CBE,Aquatics Center at 4098 Valley Dr
+2021-00067983,09/01/2021 00:43:00,09/01/2021 - 00:43,Injured/Sick Person,CBE,Knox Rd

@@ -1,0 +1,86 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2026-00147081,06/01/2026 02:07:00,06/01/2026 - 02:07,DWI/DUI,Arrest,Sb University Blvd Ofrp Branchville Rd
+2026-00147089,06/01/2026 02:00:00,06/01/2026 - 02:40,Emergency Petition,CBE,7500 block of Yale Ave
+2026-00147490,05/21/2026 11:45:00,06/01/2026 - 13:47,Fraud,Unfounded,3900 block of Campus Dr
+2026-00147492,06/01/2026 13:54:00,06/01/2026 - 13:54,Assist Other Agency,CBE,7400 block of Baltimore Ave
+2026-00147642,05/29/2026 15:30:00,06/01/2026 - 16:26,Damage to State Property,Active/Pending,8500 block of Paint Branch Dr
+2026-00148055,06/02/2026 01:51:00,06/02/2026 - 01:51,DWI/DUI,Arrest,Metzerott Rd
+2026-00148240,05/31/2026 21:30:00,06/02/2026 - 11:07,Theft,Investigation Pending,3400 block of Tulane Dr
+2026-00148353,06/02/2026 14:44:00,06/02/2026 - 14:44,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2026-00148432,06/02/2026 20:02:00,06/02/2026 - 20:02,Assist Other Agency,CBE,4600 block of Guilford Rd
+2026-00148883,06/03/2026 09:25:00,06/03/2026 - 09:25,Injured/Sick Person,CBE,7100 block of 51st Ave
+2026-00149002,05/27/2026 21:47:00,06/03/2026 - 13:10,Burglary,Arrest,4200 block of Campus Dr
+2026-00149115,06/03/2026 08:15:00,06/03/2026 - 19:47,Vandalism,Juvenile Arrest,4100 block of Terrapin Trl
+2026-00149316,06/04/2026 01:19:00,06/04/2026 - 01:19,DWI/DUI,Arrest,Adelphi Rd
+2026-00149345,06/04/2026 02:26:00,06/04/2026 - 02:26,Warrant/Summons Service,Active/Pending,University Blvd
+2026-00149594,06/04/2026 13:17:00,06/04/2026 - 13:17,Injured/Sick Person,CBE,3800 block of Stadium Dr
+2026-00150066,06/05/2026 02:33:00,06/05/2026 - 02:33,DWI/DUI,Arrest,Metzerott Rd
+2026-00150238,06/05/2026 07:53:00,06/05/2026 - 07:53,Check on the  Welfare,CBE,3400 block of Tulane Dr
+2026-00150292,06/05/2026 09:00:00,06/05/2026 - 10:00,Weapon Violation,CBE,7700 block of Diamondback Dr
+2026-00150302,06/05/2026 10:40:00,06/05/2026 - 10:40,Emergency Petition,CBE,4600 block of Rossborough Ln
+2026-00150303,06/05/2026 10:52:00,06/05/2026 - 10:52,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2026-00150435,06/05/2026 17:27:00,06/05/2026 - 17:27,Warrant/Summons Service,Arrest,7500 block of Baltimore Ave
+2026-00150448,06/05/2026 20:19:00,06/05/2026 - 20:19,Injured/Sick Person,CBE,7700 block of Baltimore Ave
+2026-00150511,06/05/2026 22:30:00,06/05/2026 - 22:30,DWI/DUI,Arrest,Metzerott Rd
+2026-00150578,06/05/2026 23:42:00,06/05/2026 - 23:42,Warrant/Summons Service,Arrest,University Blvd
+2026-00151219,06/06/2026 22:24:00,06/06/2026 - 22:24,CDS Violation,CBE,8400 block of Boteler Ln
+2026-00151383,06/07/2026 00:15:00,06/07/2026 - 00:15,DWI/DUI,Arrest,Adelphi Rd
+2026-00151735,06/07/2026 12:15:00,06/07/2026 - 12:17,Suspicious Person/Auto,CBE,4100 block of Campus Dr
+2026-00152070,06/07/2026 19:47:00,06/07/2026 - 19:56,Stolen Motor Vehicle,Juvenile Arrest,4100 block of Terrapin Trl
+2026-00152102,06/07/2026 22:10:00,06/07/2026 - 22:52,Missing Person/Runaway,Active/Pending,"Beta Theta Pi Fraternity, Frat 6 at 6 Fraternity Row"
+2026-00152157,06/07/2026 23:20:00,06/07/2026 - 23:23,Accident,CBE,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1 Fraternity Row"
+2026-00152715,06/08/2026 11:15:00,06/08/2026 - 11:48,Injured/Sick Person,CBE,4500 block of Campus Dr
+2026-00152752,06/06/2026 19:30:00,06/08/2026 - 12:34,Theft,Arrest,4300 block of Rowalt Dr
+2026-00153732,06/09/2026 10:56:00,06/09/2026 - 10:56,Other Incident,CBE,7900 block of Regents Dr
+2026-00154454,06/08/2026 19:00:00,06/10/2026 - 01:45,Other Incident,Active/Pending,4300 block of Knox Rd
+2026-00154460,06/10/2026 01:59:00,06/10/2026 - 01:59,DWI/DUI,Arrest,Metzerott Rd
+2026-00154650,06/03/2026 08:00:00,06/10/2026 - 10:35,Injured Officer,CBE,7100 block of 51st Ave
+2026-00154814,02/17/2026 10:35:00,06/10/2026 - 15:37,Check on the  Welfare,Active/Pending,8500 block of Paint Branch Dr
+2026-00154841,06/10/2026 16:00:00,06/10/2026 - 16:04,Hazardous Condition,CBE,4200 block of Stadium Dr
+2026-00154919,06/10/2026 21:08:00,06/10/2026 - 21:08,Injured/Sick Person,CBE,8600 block of Boteler Ln
+2026-00154920,06/05/2026 21:00:00,06/10/2026 - 21:14,Vandalism,Juvenile Arrest,4100 block of Terrapin Trl
+2026-00155175,06/11/2026 01:28:00,06/11/2026 - 01:28,DWI/DUI,Arrest,Baltimore Ave
+2026-00156306,06/12/2026 03:02:00,06/12/2026 - 03:02,DWI/DUI,Arrest,Union Ln
+2026-00156640,06/12/2026 13:47:00,06/12/2026 - 13:47,Accident - Departmental,CBE,4200 block of Valley Dr
+2026-00157189,06/12/2026 23:33:00,06/12/2026 - 23:33,DWI/DUI,Arrest,University Blvd
+2026-00157508,06/13/2026 02:21:00,06/13/2026 - 02:21,DWI/DUI,Arrest,University Blvd
+2026-00157889,06/13/2026 13:40:00,06/13/2026 - 14:11,Assist Other Agency,CBE,3700 block of Campus Dr
+2026-00158460,06/14/2026 00:45:00,06/14/2026 - 00:45,DWI/DUI,Arrest,University Blvd
+2026-00158512,06/14/2026 01:22:00,06/14/2026 - 01:22,DWI/DUI,Arrest,University Blvd
+2026-00158688,06/14/2026 05:30:00,06/14/2026 - 05:52,Injured/Sick Person,CBE,8000 block of La Plata Dr
+2026-00158706,06/14/2026 07:56:00,06/14/2026 - 07:56,Other Incident,CBE,3500 block of University Blvd
+2026-00159722,06/15/2026 10:15:00,06/15/2026 - 10:15,Suspicious Activity,CBE,Regents Dr
+2026-00159796,06/15/2026 11:38:00,06/15/2026 - 11:38,Other Incident,CBE,4200 block of Valley Dr
+2026-00160330,06/15/2026 21:24:00,06/15/2026 - 21:24,DWI/DUI,Arrest,Purdue St
+2026-00160791,06/15/2026 09:08:00,06/16/2026 - 09:08,Damage to State Property,CBE,7700 block of Baltimore Ave
+2026-00160869,06/03/2026 13:45:00,06/16/2026 - 11:11,Other Incident,CBE,7900 block of Regents Dr
+2026-00160970,06/16/2026 11:00:00,06/16/2026 - 15:12,Theft,Unfounded,4200 block of Valley Dr
+2026-00161042,06/16/2026 17:30:00,06/16/2026 - 17:51,Injured/Sick Person,CBE,7800 block of Regents Dr
+2026-00161225,06/16/2026 23:27:00,06/16/2026 - 23:27,DWI/DUI,Arrest,University Blvd
+2026-00161646,06/02/2026 08:00:00,06/17/2026 - 09:44,Damage to State Property,Active/Pending,Lot GG1
+2026-00161673,06/16/2026 11:30:00,06/17/2026 - 11:15,Theft,Investigation Pending,7700 block of Alumni Dr
+2026-00162608,06/18/2026 11:17:00,06/18/2026 - 11:32,Other Incident,Active/Pending,8100 block of Greenmead Dr
+2026-00162695,06/10/2026 15:04:00,06/18/2026 - 15:56,Theft,Investigation Pending,7600 block of Mowatt Ln
+2026-00163189,06/19/2026 02:50:00,06/19/2026 - 02:50,DWI/DUI,Arrest,Campus Dr
+2026-00163694,06/17/2026 22:15:00,06/19/2026 - 17:47,Injured/Sick Person,CBE,8500 block of Paint Branch Dr
+2026-00164218,06/20/2026 02:32:00,06/20/2026 - 02:32,DWI/DUI,Arrest,University Blvd
+2026-00164223,06/20/2026 03:05:00,06/20/2026 - 03:05,DWI/DUI,Arrest,Campus Dr
+2026-00165200,06/21/2026 01:40:00,06/21/2026 - 01:40,DWI/DUI,Arrest,University Blvd
+2026-00165486,06/21/2026 09:00:00,06/21/2026 - 14:22,Emergency Petition,CBE,4200 block of Knox Rd
+2026-00165498,06/21/2026 10:29:00,06/21/2026 - 15:18,Recovered Stolen Motor Vehicle,Active/Pending,Anacostia Building at 1 Physics Ellipse
+2026-00167551,06/23/2026 09:23:00,06/23/2026 - 09:36,Damage to State Property,CBE,4200 block of Valley Dr
+2026-00167558,06/18/2026 08:00:00,06/23/2026 - 10:10,Injured Officer,CBE,7100 block of 51st Ave
+2026-00168154,06/24/2026 03:17:00,06/24/2026 - 03:17,DWI/DUI,Arrest,University Blvd
+2026-00168879,06/25/2026 00:34:00,06/25/2026 - 00:34,DWI/DUI,Arrest,University Blvd
+2026-00169544,06/25/2026 12:00:00,06/25/2026 - 21:29,Theft,Investigation Pending,8100 block of Paint Branch Dr
+2026-00169782,06/26/2026 00:31:00,06/26/2026 - 00:31,DWI/DUI,Arrest,Adelphi Rd
+2026-00169884,06/26/2026 02:04:00,06/26/2026 - 02:04,DWI/DUI,Arrest,Adelphi Rd
+2026-00170186,06/24/2026 13:00:00,06/26/2026 - 10:37,Damage to State Property,CBE,5200 block of Greenbelt Rd
+2026-00171031,06/27/2026 02:10:00,06/27/2026 - 02:10,DWI/DUI,Arrest,University Blvd
+2026-00171867,06/28/2026 03:09:00,06/28/2026 - 03:09,DWI/DUI,Arrest,Lot 12a
+2026-00172385,06/28/2026 21:49:00,06/28/2026 - 21:49,DWI/DUI,Arrest,Lot 1b
+2026-00172489,06/29/2026 01:13:00,06/29/2026 - 01:13,DWI/DUI,Arrest,3800 block of Stadium Dr
+2026-00173286,06/29/2026 19:52:00,06/29/2026 - 20:10,Assist Other Agency,CBE,College Ave
+2026-00173748,06/30/2026 07:50:00,06/30/2026 - 08:05,Sex Offense,Arrest,4100 block of Fieldhouse Dr
+2026-00174035,06/30/2026 15:59:00,06/30/2026 - 15:59,Check on the  Welfare,CBE,6718 Glenn Dale Rd
+2026-00174176,06/30/2026 20:05:00,06/30/2026 - 20:05,Warrant/Summons Service,Arrest,University Blvd

@@ -1,0 +1,97 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2019-00036729,07/01/2019 03:16:00,07/01/2019 - 03:16,DWI/DUI,Arrest,Baltimore Ave
+2019-00036874,06/27/2019 20:30:00,07/01/2019 - 17:31,Theft,Arrest,4300 block of Knox Rd
+2019-00037012,07/02/2019 13:49:00,07/02/2019 - 13:49,Injured/Sick Person,CBE,Kim Engineering Building at 8228 Paint Branch Dr
+2019-00037046,07/02/2019 17:35:00,07/02/2019 - 17:38,Injured/Sick Person,CBE,4100 block of Campus Dr
+2019-00037127,07/03/2019 01:39:00,07/03/2019 - 01:39,DWI/DUI,Arrest,"Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2019-00037230,07/03/2019 18:00:00,07/03/2019 - 18:44,Burglary,Warrant Issued,4300 block of Knox Rd
+2019-00037257,07/03/2019 22:58:00,07/03/2019 - 22:58,Warrant/Summons Service,Arrest,Baltimore Ave
+2019-00037271,07/04/2019 00:14:00,07/04/2019 - 00:14,Traffic Arrest,Arrest,Guilford Rd
+2019-00037367,07/04/2019 21:57:00,07/04/2019 - 21:57,Animal Complaint,CBE,3500 block of University Blvd
+2019-00037412,07/05/2019 08:00:00,07/05/2019 - 08:24,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200 Valley Dr"
+2019-00037556,07/05/2019 23:10:00,07/05/2019 - 23:10,CDS Violation,Arrest,Baltimore Ave
+2019-00037564,07/05/2019 23:55:00,07/05/2019 - 23:55,CDS Violation,Arrest,Campus Dr
+2019-00037713,07/07/2019 00:23:00,07/07/2019 - 00:23,DWI/DUI,Arrest,Baltimore Ave
+2019-00037783,07/07/2019 03:25:00,07/07/2019 - 03:25,DWI/DUI,Arrest,Baltimore Ave
+2019-00038017,07/08/2019 08:50:00,07/08/2019 - 08:50,Threat Assessment,Arrest,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200 Valley Dr"
+2019-00038034,07/08/2019 10:24:00,07/08/2019 - 10:24,Injured/Sick Person,CBE,5800 block of University Research Ct
+2019-00038080,07/08/2019 14:46:00,07/08/2019 - 14:46,Title IX Incident Non Criminal,CBE,Artemesia Building at 8400 Baltimore Ave
+2019-00038195,07/08/2019 23:53:00,07/08/2019 - 23:53,Warrant/Summons Service,Arrest,Stadium Dr
+2019-00038227,07/09/2019 01:36:00,07/09/2019 - 01:36,DWI/DUI,Arrest,Campus Dr
+2019-00038231,07/09/2019 01:56:00,07/09/2019 - 01:56,CDS Violation,Arrest,Baltimore Ave
+2019-00038272,07/09/2019 09:00:00,07/09/2019 - 09:09,Dept Property Damage/Loss,CBE,Pocomoke at 7569 Baltimore Ave
+2019-00038273,06/18/2019 08:00:00,07/09/2019 - 09:27,Theft,Active/Pending,"Bio Psych, Biology-Psychology Building at 4094 Campus Dr"
+2019-00038352,07/09/2019 19:00:00,07/09/2019 - 19:00,Hate Bias Incident,CBE,7600 block of Library Ln
+2019-00038513,07/10/2019 03:12:00,07/10/2019 - 10:28,Suspicious Activity,Investigation Pending,7600 block of Library Ln
+2019-00038592,07/09/2019 20:30:00,07/10/2019 - 16:52,Theft from Auto,Unfounded,Lot 17d
+2019-00038604,07/10/2019 18:12:00,07/10/2019 - 18:21,Other Incident,CBE,4300 block of Rowalt Dr
+2019-00038647,07/11/2019 00:36:00,07/11/2019 - 00:36,CDS Violation,Arrest,Campus Dr
+2019-00038661,07/11/2019 01:24:00,07/11/2019 - 01:24,DWI/DUI,Arrest,Baltimore Ave
+2019-00038669,07/11/2019 03:07:00,07/11/2019 - 03:07,DWI/DUI,Arrest,"College Park Shopping Center, CVS at 7300 Baltimore Ave"
+2019-00038832,07/11/2019 22:40:00,07/11/2019 - 22:40,DWI/DUI,Arrest,Baltimore Ave
+2019-00038883,07/12/2019 01:50:00,07/12/2019 - 01:50,DWI/DUI,Arrest,"College Park Metro, Metro at 4600 River Rd"
+2019-00038962,07/12/2019 14:41:00,07/12/2019 - 14:41,Warrant/Summons Service,Arrest,University Blvd
+2019-00039021,07/12/2019 23:47:00,07/12/2019 - 23:47,Warrant/Summons Service,CBE,Calvert Park at 4811 Drexel Rd
+2019-00039044,07/13/2019 02:08:00,07/13/2019 - 02:08,DWI/DUI,Arrest,Pocomoke at 7569 Baltimore Ave
+2019-00039195,07/13/2019 22:43:00,07/13/2019 - 22:46,Noise Complaint,CBE,"Leonardtown #239, Leonardtown Apartment 10 at 4610 Norwich Rd"
+2019-00039221,07/14/2019 02:20:00,07/14/2019 - 02:21,DWI/DUI,Arrest,Baltimore Ave
+2019-00039607,07/15/2019 14:00:00,07/15/2019 - 19:23,Sex Offense,CBE,"Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2019-00039679,07/16/2019 01:22:00,07/16/2019 - 01:22,DWI/DUI,Arrest,Greenbelt Station Pky
+2019-00039776,07/16/2019 12:30:00,07/16/2019 - 13:19,Theft,Arrest,"Benjamin, Benjamin Bldg, Benjamin Building at 3942 Campus Dr"
+2019-00039781,07/16/2019 13:48:00,07/16/2019 - 13:48,Theft,Arrest,"Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282 Chapel Ln"
+2019-00039784,07/16/2019 14:39:00,07/16/2019 - 15:11,Suspicious Person/Auto,CBE,"Lee Building, South Administration at 7809 Regents Dr"
+2019-00039789,07/16/2019 15:12:00,07/16/2019 - 16:04,Theft,Arrest,"Lee Building, South Administration at 7809 Regents Dr"
+2019-00039869,07/17/2019 02:30:00,07/17/2019 - 02:38,CDS Violation,Arrest,University Blvd
+2019-00039912,07/17/2019 12:50:00,07/17/2019 - 12:55,Injured/Sick Person,CBE,7600 block of Library Ln
+2019-00039919,07/17/2019 14:39:00,07/17/2019 - 14:39,Trespassing,Arrest,3500 block of University Blvd
+2019-00039921,07/17/2019 15:49:00,07/17/2019 - 15:49,Trespassing,CBE,"Tawes, Tawes Hall at 7751 Alumni Dr"
+2019-00039984,07/17/2019 23:43:00,07/17/2019 - 23:43,DWI/DUI,Arrest,4500 block of College Ave
+2019-00039989,07/18/2019 02:10:00,07/18/2019 - 02:10,DWI/DUI,Arrest,Baltimore Ave
+2019-00039990,07/18/2019 02:13:00,07/18/2019 - 02:13,DWI/DUI,Arrest,Severn at 5245 Greenbelt Rd
+2019-00040324,07/19/2019 20:35:00,07/19/2019 - 22:08,Other Incident,CBE,4100 block of Valley Dr
+2019-00040335,07/19/2019 23:25:00,07/19/2019 - 23:25,Alcohol Violation,Arrest,Knox Rd
+2019-00040348,07/20/2019 00:20:00,07/20/2019 - 00:20,Alcohol Violation,Arrest,Knox Rd
+2019-00040357,07/20/2019 01:38:00,07/20/2019 - 01:38,DWI/DUI,Arrest,Baltimore Ave
+2019-00040567,07/21/2019 01:41:00,07/21/2019 - 01:41,DWI/DUI,Arrest,Baltimore Ave
+2019-00040624,07/20/2019 19:36:00,07/21/2019 - 11:16,Telephone/EMail Misuse,CBE,4700 block of Pontiac St
+2019-00040711,07/21/2019 23:28:00,07/21/2019 - 23:28,DWI/DUI,Arrest,Baltimore Ave
+2019-00040720,07/22/2019 00:26:00,07/22/2019 - 00:26,DWI/DUI,Arrest,Baltimore Ave
+2019-00040724,07/22/2019 00:50:00,07/22/2019 - 00:50,DWI/DUI,Arrest,Baltimore Ave
+2019-00040777,07/22/2019 06:30:00,07/22/2019 - 09:06,Theft,Arrest,Denton at 3854 Stadium Dr
+2019-00041063,07/24/2019 01:50:00,07/24/2019 - 01:54,Warrant/Summons Service,Arrest,The Hotel at 7777 Baltimore Ave
+2019-00041097,07/23/2019,07/24/2019 - 09:44,Other Incident,Unfounded,"Van Munching, Van Munching Hall at 7699 Mowatt Ln"
+2019-00041132,07/22/2019 07:00:00,07/24/2019 - 12:46,Damage to State Property,CBE,7000 block of Preinkert Dr
+2019-00041171,07/23/2019 02:00:00,07/24/2019 - 17:29,Assault,CBE,8000 block of Boteler Ln
+2019-00041172,07/16/2019 14:00:00,07/24/2019 - 17:42,Theft,Arrest,3900 block of Campus Dr
+2019-00041247,07/25/2019 03:03:00,07/25/2019 - 03:03,CDS Violation,Arrest,Campus Dr
+2019-00041476,07/25/2019 08:00:00,07/26/2019 - 05:46,Damage to State Property,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254 Stadium Dr"
+2019-00041546,07/26/2019 16:06:00,07/26/2019 - 16:06,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2019-00041644,07/27/2019 01:31:00,07/27/2019 - 01:31,DWI/DUI,Arrest,University Blvd
+2019-00041646,07/27/2019 01:54:00,07/27/2019 - 01:54,DWI/DUI,Arrest,Campus Dr
+2019-00041647,07/27/2019 02:17:00,07/27/2019 - 02:17,Injured/Sick Person,CBE,Campus Dr
+2019-00041816,07/27/2019 23:47:00,07/27/2019 - 23:47,Warrant/Summons Service,Arrest,Adelphi Rd
+2019-00041827,07/28/2019 00:49:00,07/28/2019 - 00:49,DWI/DUI,Arrest,Baltimore Ave
+2019-00041836,07/28/2019 02:01:00,07/28/2019 - 02:01,DWI/DUI,Arrest,Baltimore Ave
+2019-00041837,07/28/2019 02:40:00,07/28/2019 - 02:40,DWI/DUI,Arrest,Baltimore Ave
+2019-00041844,07/28/2019 03:42:00,07/28/2019 - 03:42,Injured/Sick Person,CBE,Marathon
+2019-00041848,07/28/2019 04:12:00,07/28/2019 - 04:12,DWI/DUI,Arrest,Lot P2
+2019-00041849,07/28/2019 04:13:00,07/28/2019 - 04:13,DWI/DUI,Arrest,University Blvd
+2019-00042000,07/03/2019 18:00:00,07/28/2019 - 22:50,Burglary,Warrant Issued,4300 block of Knox Rd
+2019-00042001,07/03/2019 18:00:00,07/28/2019 - 22:50,Burglary,Warrant Issued,4300 block of Knox Rd
+2019-00042027,07/29/2019 01:07:00,07/29/2019 - 01:07,DWI/DUI,Arrest,Baltimore Ave
+2019-00042072,07/29/2019 09:02:00,07/29/2019 - 09:12,Injured/Sick Person,CBE,"Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2019-00042097,07/29/2019 11:35:00,07/29/2019 - 11:45,Damaged Property,CBE,4200 block of Lehigh Rd
+2019-00042107,07/25/2019 14:00:00,07/29/2019 - 13:37,Assist Other Agency,CBE,4300 block of Hartwick Rd
+2019-00042109,07/29/2019 14:16:00,07/29/2019 - 14:16,Injured/Sick Person,CBE,4300 block of Knox Rd
+2019-00042180,07/29/2019 13:30:00,07/29/2019 - 19:50,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"
+2019-00042184,06/01/2019 02:17:00,07/29/2019 - 21:30,Theft,Active/Pending,North Gate at 4306 Campus Dr
+2019-00042272,07/29/2019 22:30:00,07/30/2019 - 10:46,Theft,Investigation Pending,6800 block of Preinkert Dr
+2019-00042297,07/30/2019 14:43:00,07/30/2019 - 14:43,Injured/Sick Person,CBE,Ellicott at 4052 Stadium Dr
+2019-00042298,07/30/2019 13:00:00,07/30/2019 - 14:49,Accident - Departmental,Active/Pending,4900 block of Rhode Island Ave
+2019-00042372,07/31/2019 00:12:00,07/31/2019 - 00:12,CDS Violation,Arrest,Baltimore Ave
+2019-00042379,07/31/2019 00:25:00,07/31/2019 - 00:25,CDS Violation,Arrest,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2019-00042404,07/29/2019 15:00:00,07/31/2019 - 01:18,Damage to State Property,Active/Pending,Pocomoke at 7569 Baltimore Ave
+2019-00042496,07/31/2019 09:07:00,07/31/2019 - 09:07,Injured/Sick Person,CBE,Artemesia Building at 8400 Baltimore Ave
+2019-00042518,07/31/2019 13:05:00,07/31/2019 - 13:28,Theft,Active/Pending,"Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2019-00042582,07/31/2019 22:18:00,07/31/2019 - 22:18,CDS Violation,Juvenile Arrest,Campus Dr
+2019-00042631,08/01/2019 00:02:00,08/01/2019 - 00:02,DWI/DUI,Arrest,4400 block of Knox Rd

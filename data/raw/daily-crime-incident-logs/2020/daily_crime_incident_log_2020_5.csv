@@ -1,0 +1,38 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00032177,04/30/2020 10:51:00,05/02/2020 - 16:07,Police Information,Active/Pending,7500 block of Baltimore Ave
+2020-00032500,05/03/2020 19:42:00,05/03/2020 - 19:42,Assist Other Agency,CBE,Baltimore Ave
+2020-00032503,05/03/2020 20:29:00,05/03/2020 - 20:29,Emergency Petition,CBE,8000 block of Regents Dr
+2020-00032505,05/03/2020 21:43:00,05/03/2020 - 21:43,Alarm,CBE,5600 Rivertech Ct
+2020-00032618,05/01/2020 15:00:00,05/04/2020 - 12:34,Dept Property Damage/Loss,CBE,9500 Sea Shadow
+2020-00032637,05/04/2020 14:43:00,05/04/2020 - 14:43,Suspicious Activity,CBE,8700 block of Boteler Ln
+2020-00032863,05/05/2020 19:05:00,05/05/2020 - 19:07,Suspicious Activity,CBE,4000 block of Union Dr
+2020-00032982,08/01/2018,05/06/2020 - 08:19,Rape,CBE,3800 block of Stadium Dr
+2020-00033060,05/06/2020 18:02:00,05/06/2020 - 18:02,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00033227,05/07/2020 11:20:00,05/07/2020 - 11:26,Injured/Sick Person,CBE,
+2020-00033684,05/09/2020 00:04:00,05/09/2020 - 00:04,Suspicious Person/Auto,CBE,8100 block of Regents Dr
+2020-00033697,05/08/2020 22:00:00,05/09/2020 - 02:08,Vandalism,Investigation Pending,Presidential Dr
+2020-00033727,05/09/2020 07:31:00,05/09/2020 - 07:31,Fire,CBE,7500 block of Calvert Service Ln
+2020-00034135,05/10/2020 21:22:00,05/10/2020 - 23:36,Theft,Investigation Pending,4200 block of Stadium Dr
+2020-00034144,05/10/2020 21:22:00,05/10/2020 - 23:36,Burglary,Arrest,4200 block of Stadium Dr
+2020-00034261,05/11/2020 12:21:00,05/11/2020 - 12:21,Injured/Sick Person,CBE,300 block of Ehrensberger Dr
+2020-00035106,05/15/2020 01:00:00,05/15/2020 - 14:38,Theft,Active/Pending,Alpha Epsilon Phi at 11 Fraternity Row
+2020-00035178,05/15/2020 23:55:00,05/15/2020 - 23:55,Other Incident,CBE,7900 block of Regents Dr
+2020-00036052,05/18/2020 19:05:00,05/18/2020 - 19:05,Title IX Incident Non Criminal,CBE,Garage B at 4025 Stadium Dr
+2020-00036225,05/18/2020 18:30:00,05/19/2020 - 10:23,Theft from Auto,Investigation Pending,7700 block of Adelphi Rd
+2020-00036308,05/19/2020 20:42:00,05/19/2020 - 20:42,Emergency Petition,Active/Pending,Sigma Kappa at 10 Fraternity Row
+2020-00036548,05/21/2020 03:06:00,05/21/2020 - 03:06,Injured/Sick Person,CBE,Energy Plant at 7743 Baltimore Ave
+2020-00036595,05/21/2020 12:47:00,05/21/2020 - 12:47,Injured/Sick Person,CBE,7500 block of Calvert Service Ln
+2020-00036816,05/22/2020 10:00:00,05/22/2020 - 10:55,Damage to State Property,CBE,5200 block of Greenbelt Rd
+2020-00037049,03/13/2020 15:00:00,05/23/2020 - 13:32,Theft,Investigation Pending,4000 block of Stadium Dr
+2020-00037184,05/24/2020 01:00:00,05/24/2020 - 01:28,Alarm,Active/Pending,3800 block of Golf Course Rd
+2020-00037357,05/24/2020 21:19:00,05/24/2020 - 21:19,Damage to State Property,CBE,4400 block of Stadium Dr
+2020-00037564,03/22/2020 14:00:00,05/25/2020 - 16:56,Theft,Investigation Pending,4000 block of Stadium Dr
+2020-00037723,03/12/2020 16:00:00,05/26/2020 - 13:24,Theft,Investigation Pending,7000 block of Preinkert Dr
+2020-00037859,05/27/2020 08:00:00,05/27/2020 - 08:07,Damage to State Property,CBE,
+2020-00037881,03/15/2020 14:00:00,05/27/2020 - 10:51,Theft,Investigation Pending,4100 block of Farm Dr
+2020-00037948,05/27/2020 20:25:00,05/27/2020 - 20:30,Accident - Departmental,CBE,3800 block of Campus Dr
+2020-00038039,05/10/2020 22:09:00,05/28/2020 - 11:07,Telephone/EMail Misuse,Investigation Pending,7500 block of Baltimore Ave
+2020-00038087,03/12/2020 15:00:00,05/28/2020 - 17:07,Theft,Investigation Pending,4100 block of Valley Dr
+2020-00038210,05/29/2020 11:38:00,05/29/2020 - 11:47,Assist Other Agency,CBE,4700 block of Melbourne Pl
+2020-00038441,05/30/2020 12:59:00,05/30/2020 - 12:59,Theft,Investigation Pending,3800 block of Stadium Dr
+2020-00038791,05/27/2020 22:30:00,05/31/2020 - 21:42,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125 Paint Branch Dr"

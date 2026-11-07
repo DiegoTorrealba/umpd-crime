@@ -1,0 +1,88 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00033674,05/01/2021 01:27:00,05/01/2021 - 01:27,DWI/DUI,Arrest,University Blvd
+2021-00033691,05/01/2021 02:42:00,05/01/2021 - 02:42,DWI/DUI,Arrest,University Blvd
+2021-00033699,05/01/2021 04:01:00,05/01/2021 - 04:01,DWI/DUI,Arrest,University Blvd
+2021-00033700,05/01/2021 04:12:00,05/01/2021 - 04:12,DWI/DUI,Arrest,University Blvd
+2021-00033734,04/30/2021 10:00:00,05/01/2021 - 11:15,Vandalism,Investigation Pending,8000 block of Hagerstown Dr
+2021-00033956,05/02/2021 02:23:00,05/02/2021 - 02:23,DWI/DUI,Arrest,University Blvd
+2021-00034217,05/03/2021 01:51:00,05/03/2021 - 01:51,DWI/DUI,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00034233,05/03/2021 04:29:00,05/03/2021 - 04:29,Emergency Petition,CBE,7300 block of Baltimore Ave
+2021-00034324,05/03/2021 14:27:00,05/03/2021 - 14:27,Emergency Petition,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2021-00034344,04/29/2021 14:30:00,05/03/2021 - 17:35,Damage to State Property,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00034411,05/04/2021 00:23:00,05/04/2021 - 00:23,Emergency Petition,CBE,University Blvd
+2021-00034441,05/04/2021 09:13:00,05/04/2021 - 09:13,Injured/Sick Person,CBE,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531 College Ave"
+2021-00034544,05/04/2021 16:07:00,05/04/2021 - 16:08,Trespassing,CBE,8000 block of Regents Dr
+2021-00034546,05/04/2021 07:30:00,05/04/2021 - 16:14,Burglary,Investigation Pending,3400 block of Tulane Dr
+2021-00034550,05/04/2021 16:54:00,05/04/2021 - 16:54,Theft,Arrest,3400 block of Tulane Dr
+2021-00034551,05/03/2021 09:30:00,05/04/2021 - 17:02,Theft,Investigation Pending,3400 block of Tulane Dr
+2021-00034560,05/04/2021 16:00:00,05/04/2021 - 19:46,Vandalism,Investigation Pending,Lot H
+2021-00034702,05/05/2021 09:00:00,05/05/2021 - 09:13,Injured/Sick Person,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00034823,05/05/2021 12:00:00,05/05/2021 - 17:30,Suspicious Activity,Active/Pending,3400 block of Tulane Dr
+2021-00034843,05/05/2021 18:30:00,05/05/2021 - 19:20,Assist Other Agency,CBE,5100 block of Navahoe St
+2021-00034883,05/05/2021 21:57:00,05/05/2021 - 21:57,DWI/DUI,Arrest,Baltimore Ave
+2021-00035001,05/05/2021 21:00:00,05/06/2021 - 08:48,Vandalism,Investigation Pending,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1 Fraternity Row"
+2021-00035042,04/28/2021 09:00:00,05/06/2021 - 11:33,Police Information,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00035075,05/06/2021 13:45:00,05/06/2021 - 14:25,Injured/Sick Person,CBE,4400 block of Stadium Dr
+2021-00035101,05/06/2021 16:47:00,05/06/2021 - 16:47,Injured/Sick Person,CBE,6400 block of Baltimore Ave
+2021-00035225,05/07/2021 01:51:00,05/07/2021 - 01:51,Theft,CBE,4400 block of Knox Rd
+2021-00035256,05/07/2021 05:11:00,05/07/2021 - 05:11,Trespassing,CBE,"88, Martin Hall at 4298 Campus Dr"
+2021-00035276,05/07/2021 08:24:00,05/07/2021 - 08:24,Trespassing,Arrest,4200 block of Campus Dr
+2021-00035428,05/07/2021 20:30:00,05/07/2021 - 21:47,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310 Knox Rd"
+2021-00035470,05/08/2021 00:45:00,05/08/2021 - 00:45,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00035475,05/08/2021 01:10:00,05/08/2021 - 01:10,DWI/DUI,Arrest,Baltimore Ave
+2021-00035566,05/08/2021 11:00:00,05/08/2021 - 11:06,Emergency Petition,CBE,8200 block of Baltimore Ave
+2021-00035761,05/09/2021 04:19:00,05/09/2021 - 04:19,Injured/Sick Person,CBE,8100 block of La Plata Dr
+2021-00035772,05/09/2021 06:10:00,05/09/2021 - 06:10,DWI/DUI,Arrest,Baltimore Ave
+2021-00036066,05/10/2021 05:20:00,05/10/2021 - 05:20,Emergency Petition,CBE,8300 block of Baltimore Ave
+2021-00036921,05/11/2021 19:30:00,05/12/2021 - 20:41,Vandalism,Investigation Pending,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1 Fraternity Row"
+2021-00036932,05/12/2021 21:30:00,05/12/2021 - 21:43,Trespassing,Arrest,McKeldin Mall
+2021-00036954,05/13/2021 02:32:00,05/13/2021 - 02:32,CDS Violation,Arrest,Baltimore Ave
+2021-00037061,05/13/2021 12:20:00,05/13/2021 - 12:33,Assist Other Agency,CBE,University Blvd
+2021-00037066,05/12/2021 22:48:00,05/13/2021 - 14:02,Assist Other Agency,CBE,7604 Hopkins Ave
+2021-00037218,05/14/2021 09:00:00,05/14/2021 - 09:07,Hazardous Condition,CBE,4000 block of Campus Dr
+2021-00037360,05/15/2021 00:06:00,05/15/2021 - 00:06,CDS Violation,Arrest,Greenbelt Rd
+2021-00037368,05/15/2021 01:10:00,05/15/2021 - 01:17,Assist Other Agency,CBE,8100 block of Baltimore Ave
+2021-00037373,05/15/2021 02:07:00,05/15/2021 - 02:07,DWI/DUI,Arrest,University Blvd
+2021-00037502,04/30/2021 09:00:00,05/15/2021 - 15:27,Theft,Active/Pending,7500 block of Calvert Service Ln
+2021-00037620,05/15/2021 23:40:00,05/15/2021 - 23:46,Injured/Sick Person,CBE,4600 block of College Ave
+2021-00037662,05/16/2021 02:10:00,05/16/2021 - 02:10,Injured/Sick Person,CBE,7400 block of Preinkert Dr
+2021-00037680,05/16/2021 03:56:00,05/16/2021 - 03:56,DWI/DUI,Arrest,3700 block of Campus Dr
+2021-00037692,05/16/2021 06:59:00,05/16/2021 - 06:59,Trespassing,CBE,8100 block of Regents Dr
+2021-00037923,05/17/2021 00:27:00,05/17/2021 - 00:27,Injured/Sick Person,CBE,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2021-00037989,05/14/2021 11:09:00,05/17/2021 - 09:18,Dept Property Damage/Loss,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2021-00038095,05/17/2021 14:45:00,05/17/2021 - 15:09,Theft from Auto,CBE,4100 block of Union Ln
+2021-00038100,05/10/2021 17:00:00,05/17/2021 - 15:49,Vandalism,CBE,8200 block of Alumni Dr
+2021-00038228,05/18/2021 00:48:00,05/18/2021 - 00:48,CDS Violation,Arrest,University Blvd
+2021-00038247,05/18/2021 01:45:00,05/18/2021 - 01:45,DWI/DUI,Arrest,Baltimore Ave
+2021-00038490,05/14/2021 17:00:00,05/18/2021 - 16:48,Fraud,Investigation Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2021-00038621,05/19/2021 00:19:00,05/19/2021 - 00:19,DWI/DUI,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00039135,05/19/2021 14:00:00,05/20/2021 - 17:58,Injured Officer,CBE,7100 block of 51st Ave
+2021-00039362,05/21/2021 12:58:00,05/21/2021 - 12:58,Injured/Sick Person,CBE,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
+2021-00039363,05/21/2021 13:21:00,05/21/2021 - 13:21,Assist Other Agency,CBE,4500 block of Campus Dr
+2021-00039388,05/21/2021 15:38:00,05/21/2021 - 15:38,Trespassing,CBE,
+2021-00039390,04/03/2021 16:00:00,05/21/2021 - 15:42,Theft,Investigation Pending,7500 block of Mowatt Ln
+2021-00039709,05/16/2021 10:00:00,05/23/2021 - 00:17,Theft,Active/Pending,4300 block of Rowalt Dr
+2021-00039737,05/23/2021 03:10:00,05/23/2021 - 03:10,Disorderly Conduct,Arrest,College Ave
+2021-00039740,05/23/2021 04:12:00,05/23/2021 - 04:12,DWI/DUI,Arrest,Adelphi Rd
+2021-00039741,05/23/2021 04:14:00,05/23/2021 - 04:14,Suspicious Activity,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00039743,05/20/2021 22:00:00,05/23/2021 - 05:17,Vandalism,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00039948,05/23/2021 23:15:00,05/23/2021 - 23:15,Traffic Arrest,Arrest,Jull Hall at 4196 Stadium Dr
+2021-00039950,05/23/2021 23:36:00,05/23/2021 - 23:36,DWI/DUI,Arrest,Baltimore Ave
+2021-00040033,05/21/2021 17:00:00,05/24/2021 - 11:34,Theft,Investigation Pending,7900 block of Regents Dr
+2021-00040092,05/24/2021 18:45:00,05/24/2021 - 19:19,Theft,Summons Issued,8100 block of Paint Branch Dr
+2021-00040110,05/21/2021 20:40:00,05/24/2021 - 21:50,Other Incident,CBE,4300 block of Knox Rd
+2021-00040226,05/25/2021 08:20:00,05/25/2021 - 08:26,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2021-00040515,05/26/2021 01:21:00,05/26/2021 - 01:21,DWI/DUI,Arrest,Campus Dr
+2021-00040583,05/26/2021 14:30:00,05/26/2021 - 07:24,Injured/Sick Person,CBE,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
+2021-00040693,05/17/2021 13:00:00,05/26/2021 - 17:07,Theft,Investigation Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2021-00040907,05/27/2021 07:10:00,05/27/2021 - 07:17,Trespassing,Arrest,7500 block of Mowatt Ln
+2021-00040918,05/18/2021 18:00:00,05/27/2021 - 09:32,Theft,Unfounded,8100 block of Paint Branch Dr
+2021-00040986,05/27/2021 15:48:00,05/27/2021 - 15:48,Burglary,Arrest,8200 block of Paint Branch Dr
+2021-00040988,05/23/2021 00:10:00,05/27/2021 - 18:57,Fraud,Investigation Pending,7600 block of Library Ln
+2021-00041042,05/27/2021 22:12:00,05/27/2021 - 22:12,Vandalism,Unfounded,"Frat 5, Phi Kappa Tau Fraternity at 5 Fraternity Row"
+2021-00041075,05/27/2021 23:43:00,05/27/2021 - 23:43,CDS Violation,Arrest,Baltimore Ave
+2021-00041087,05/28/2021 00:55:00,05/28/2021 - 00:55,Hazardous Condition,CBE,4200 block of Lehigh Rd
+2021-00041109,05/28/2021 03:34:00,05/28/2021 - 03:34,Title IX Incident Non Criminal,CBE,3400 block of Tulane Dr
+2021-00041207,05/01/2020 07:00:00,05/28/2021 - 13:55,Theft,Investigation Pending,8100 block of Regents Dr
+2021-00041540,05/29/2021 19:00:00,05/29/2021 - 19:00,CDS Violation,CBE,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00041607,05/30/2021 00:29:00,05/30/2021 - 00:29,DWI/DUI,Arrest,Metzerott Rd

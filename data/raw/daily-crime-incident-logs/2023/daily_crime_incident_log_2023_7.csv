@@ -1,0 +1,84 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2023-00057472,07/01/2023 00:50:00,07/01/2023 - 01:03,Assist Other Agency,Active/Pending,4800 block of Delaware St
+2023-00057640,07/01/2023 16:57:00,07/01/2023 - 16:57,Recovered Stolen Motor Vehicle,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2023-00057648,07/01/2023 18:55:00,07/01/2023 - 18:55,Assault,Arrest,Paint Branch Dr
+2023-00057666,07/01/2023 22:33:00,07/01/2023 - 22:54,Robbery,Active/Pending,"PGUC, UMGC Parking Garage at 347 Ehrensberger Dr"
+2023-00057673,07/01/2023 23:42:00,07/01/2023 - 23:42,Fraud,Arrest,3400 block of Tulane Dr
+2023-00057826,07/02/2023 15:20:00,07/02/2023 - 15:20,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2023-00057931,07/02/2023 23:13:00,07/02/2023 - 23:13,Stolen Motor Vehicle,CBE,Campus Dr
+2023-00057985,07/03/2023 02:14:00,07/03/2023 - 02:14,DWI/DUI,Arrest,Baltimore Ave
+2023-00058042,07/03/2023 05:30:00,07/03/2023 - 05:50,Trespassing,Arrest,"Leonardtown #250, Leonardtown Community Center at 7559 Yale Ave"
+2023-00058770,06/20/2023 09:45:00,07/05/2023 - 11:02,Damage to State Property,Active/Pending,"Graham Cracker, Lot 15"
+2023-00059100,07/05/2023 12:40:00,07/06/2023 - 09:12,Other Incident,CBE,"Clarice Smith Performing Arts Center, CSPAC at 8270 Alumni Dr"
+2023-00059112,06/30/2023 06:00:00,07/06/2023 - 09:52,Lost Property,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801 Alumni Dr"
+2023-00059130,07/06/2023 11:33:00,07/06/2023 - 11:33,Damage to State Property,CBE,Baltimore Ave
+2023-00059661,07/08/2023 01:39:00,07/08/2023 - 01:39,DWI/DUI,Arrest,Melbourne Pl
+2023-00059670,07/08/2023 03:06:00,07/08/2023 - 03:06,Injured/Sick Person,CBE,4100 block of Stadium Dr
+2023-00059672,07/08/2023 03:36:00,07/08/2023 - 03:36,DWI/DUI,Arrest,Baltimore Ave
+2023-00059675,07/08/2023 04:46:00,07/08/2023 - 04:46,DWI/DUI,Arrest,Baltimore Ave
+2023-00059869,07/08/2023 22:00:00,07/08/2023 - 23:02,Other Incident,Investigation Pending,"16, Baltimore, Baltimore Hall at 7497 Calvert Service Ln"
+2023-00059906,07/09/2023 02:37:00,07/09/2023 - 02:37,Injured/Sick Person,CBE,"4, Ritchie Coliseum at 7675 Baltimore Ave"
+2023-00059916,07/09/2023 02:00:00,07/09/2023 - 03:07,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854 Stadium Dr"
+2023-00060034,07/09/2023 14:50:00,07/09/2023 - 14:59,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2023-00060272,07/10/2023 07:25:00,07/10/2023 - 07:25,Warrant/Summons Service,Arrest,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2023-00060294,04/18/2023 09:00:00,07/10/2023 - 09:20,Suicide,CBE,3400 block of Tulane Dr
+2023-00060295,06/30/2023 15:00:00,07/10/2023 - 09:42,Theft,Unfounded,"4, Ritchie Coliseum at 7675 Baltimore Ave"
+2023-00060334,07/10/2023 15:01:00,07/10/2023 - 15:01,Damage to State Property,CBE,Health Center at 3983 Campus Dr
+2023-00060539,07/11/2023 07:00:00,07/11/2023 - 07:15,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118 Stadium Dr
+2023-00060660,07/11/2023 15:30:00,07/11/2023 - 16:07,Suspicious Activity,CBE,Lot 9b
+2023-00061383,07/13/2023 17:00:00,07/13/2023 - 22:18,Suspicious Activity,CBE,4200 block of Lehigh Rd
+2023-00061619,07/14/2023 00:00:00,07/14/2023 - 09:57,Suspicious Activity,CBE,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300 Metzerott Rd"
+2023-00061652,07/14/2023 13:00:00,07/14/2023 - 13:48,Damage to State Property,Active/Pending,Southbound 95  / 198
+2023-00061878,07/15/2023 02:08:00,07/15/2023 - 02:08,Assist Other Agency,CBE,"Cornerstone, Cornerstone Grill at 7325 Baltimore Ave"
+2023-00061892,07/15/2023 03:27:00,07/15/2023 - 03:27,DWI/DUI,Arrest,Branchville Rd
+2023-00062116,07/15/2023 22:04:00,07/15/2023 - 22:04,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
+2023-00062215,07/16/2023 02:55:00,07/16/2023 - 02:55,DWI/DUI,Arrest,University Blvd
+2023-00062309,07/16/2023 13:25:00,07/16/2023 - 13:25,Injured/Sick Person,CBE,3800 block of Golf Course Rd
+2023-00062320,07/16/2023 14:59:00,07/16/2023 - 14:59,Vandalism,CBE,La Plata Hall at 8160 La Plata Dr
+2023-00062402,07/16/2023 01:00:00,07/16/2023 - 20:17,Other Incident,Investigation Pending,UMGC Hotel at 348 Ehrensberger Dr
+2023-00062565,07/17/2023 07:00:00,07/17/2023 - 08:24,Other Incident,CBE,"46, Marie Mount, Marie Mount Hall at 7814 Regents Dr"
+2023-00062818,07/17/2023 21:48:00,07/17/2023 - 21:57,Other Incident,Investigation Pending,Paint Branch Building at 4505 Campus Dr
+2023-00062971,07/17/2023 16:00:00,07/18/2023 - 10:58,Title IX Incident Non Criminal,CBE,7600 block of Library Ln
+2023-00062985,07/17/2023 15:00:00,07/18/2023 - 12:09,Theft,Unfounded,7300 block of Preinkert Dr
+2023-00063403,07/19/2023 17:45:00,07/19/2023 - 18:45,Recovered Stolen Motor Vehicle,Arrest,Campus Dr
+2023-00063422,07/19/2023 21:30:00,07/19/2023 - 21:30,Injured/Sick Person,CBE,"11, The Hall at 4656 Hotel Dr"
+2023-00063440,07/19/2023 23:14:00,07/19/2023 - 23:14,Recovered Stolen Motor Vehicle,CBE,UMGC Inn & Conference Center at 345 Ehrensberger Dr
+2023-00063545,07/20/2023 08:40:00,07/20/2023 - 08:40,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2023-00063592,07/19/2023 23:00:00,07/20/2023 - 11:58,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951 Denton Service Ln"
+2023-00063593,07/20/2023 12:05:00,07/20/2023 - 12:05,Emergency Petition,CBE,Health Center at 3983 Campus Dr
+2023-00063596,07/16/2023 19:00:00,07/20/2023 - 12:26,Theft,CBE,8100 block of Boteler Ln
+2023-00063699,07/20/2023 21:05:00,07/20/2023 - 21:09,Robbery,Active/Pending,Chapel Field
+2023-00063877,07/21/2023 10:30:00,07/21/2023 - 10:34,Other Incident,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903 Preinkert Dr"
+2023-00063879,07/21/2023 07:00:00,07/21/2023 - 11:24,Animal Complaint,CBE,265 at 4311 Rowalt Dr
+2023-00063884,07/21/2023 12:51:00,07/21/2023 - 12:51,Assist Other Agency,CBE,Admissions Welcome Center at 7777 Baltimore Ave
+2023-00063990,07/21/2023 18:35:00,07/21/2023 - 18:42,Pedestrian Struck,CBE,Hotel Dr
+2023-00064079,07/22/2023 02:39:00,07/22/2023 - 02:39,DWI/DUI,Arrest,University Blvd
+2023-00064169,07/20/2023 12:00:00,07/22/2023 - 11:14,Theft,Investigation Pending,8600 block of Boteler Ln
+2023-00064187,02/28/2023 15:00:00,07/22/2023 - 13:38,Theft,Investigation Pending,3900 block of Campus Dr
+2023-00064289,07/21/2023 09:10:00,07/22/2023 - 19:42,Burglary,Investigation Pending,"64, Dorchester, Dorchester Hall at 3947 Campus Dr"
+2023-00064290,07/22/2023 20:00:00,07/22/2023 - 20:00,Theft,Arrest,"Clarion Inn, Lidl at 8601 Baltimore Ave"
+2023-00064291,07/20/2023 15:00:00,07/22/2023 - 20:13,Theft,Investigation Pending,University Courtyard #6 at 8600 Boteler Ln
+2023-00064414,07/23/2023 02:01:00,07/23/2023 - 02:01,DWI/DUI,Arrest,Metzerott Rd
+2023-00064894,07/24/2023 10:25:00,07/24/2023 - 10:30,Hazardous Condition,CBE,7500 block of Mowatt Ln
+2023-00064935,07/24/2023 13:28:00,07/24/2023 - 13:28,CDS Violation,Arrest,Baltimore Ave
+2023-00065027,07/24/2023 18:55:00,07/24/2023 - 18:55,DWI/DUI,Arrest,Baltimore Ave
+2023-00065033,07/24/2023 07:00:00,07/24/2023 - 20:33,Assault,CBE,"Nyumburu, Nyumburu Cultural Center at 4018 Campus Dr"
+2023-00065221,07/24/2023 22:40:00,07/25/2023 - 09:50,Stolen Motor Vehicle,Investigation Pending,University Courtyard #4 at 8400 Boteler Ln
+2023-00065253,07/23/2023 22:30:00,07/25/2023 - 13:06,Extortion,CBE,4300 block of Rowalt Dr
+2023-00065271,07/25/2023 05:40:00,07/25/2023 - 16:14,Vandalism,Warrant Issued,Admissions Welcome Center at 7777 Baltimore Ave
+2023-00065281,07/25/2023 16:00:00,07/25/2023 - 17:34,Other Incident,CBE,4300 block of Chapel Ln
+2023-00065538,07/26/2023 06:20:00,07/26/2023 - 08:36,Vandalism,Investigation Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2023-00065552,07/26/2023 09:43:00,07/26/2023 - 09:46,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462 Stadium Dr"
+2023-00065627,07/26/2023 16:30:00,07/26/2023 - 16:45,Injured/Sick Person,CBE,"79, Turner Hall, Visitor Center at 7736 Baltimore Ave"
+2023-00065700,07/26/2023 15:30:00,07/26/2023 - 20:46,Theft from Auto,Investigation Pending,Lot R4
+2023-00065925,07/27/2023 07:30:00,07/27/2023 - 16:17,Theft,CBE,"Pyon Chen, Pyon-Chen Hall at 8097 La Plata Dr"
+2023-00065961,07/23/2023 17:00:00,07/27/2023 - 19:04,Suspicious Activity,CBE,4600 block of College Ave
+2023-00066236,07/27/2023 17:30:00,07/28/2023 - 12:38,Theft,Investigation Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834 Campus Dr"
+2023-00066282,07/28/2023 12:50:00,07/28/2023 - 15:51,Stolen Motor Vehicle,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2023-00066472,07/29/2023 00:10:00,07/29/2023 - 00:10,DWI/DUI,Arrest,University Blvd
+2023-00066474,07/29/2023 00:13:00,07/29/2023 - 00:13,DWI/DUI,Arrest,CP AMF Bowling Alley at 9021 Baltimore Ave
+2023-00066672,07/27/2023 20:00:00,07/29/2023 - 18:38,Vehicle Tampering,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591 Mowatt Ln"
+2023-00067143,07/31/2023 08:23:00,07/31/2023 - 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128 Valley Dr"
+2023-00067153,07/28/2023 16:30:00,07/31/2023 - 08:47,Damage to State Property,Unfounded,7600 block of Regents Dr
+2023-00067263,07/27/2023 16:00:00,07/31/2023 - 12:13,Theft,Investigation Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949 Campus Dr"
+2023-00067280,07/28/2023 09:00:00,07/31/2023 - 12:52,Other Incident,CBE,4100 block of Campus Dr

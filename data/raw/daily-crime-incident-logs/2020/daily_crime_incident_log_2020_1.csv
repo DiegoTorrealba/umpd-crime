@@ -1,0 +1,107 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00000039,01/01/2020 02:27:00,01/01/2020 - 02:27,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2020-00000149,01/01/2020 13:20:00,01/01/2020 - 14:11,Theft,Juvenile Arrest,3400 block of Tulane Dr
+2020-00000210,01/01/2020 21:31:00,01/01/2020 - 21:31,DWI/DUI,Arrest,Baltimore Ave
+2020-00000226,01/01/2020 22:30:00,01/01/2020 - 22:46,CDS Violation,Arrest,4600 block of Calvert Rd
+2020-00000269,01/02/2020 01:30:00,01/02/2020 - 01:30,DWI/DUI,Arrest,Baltimore Ave
+2020-00000380,12/16/2019 10:00:00,01/02/2020 - 10:32,Theft,Investigation Pending,3800 block of Campus Dr
+2020-00000408,01/02/2020 12:34:00,01/02/2020 - 12:34,Injured/Sick Person,CBE,"John S. Toll Physics Building, Physics, Physics Building at 4150 Campus Dr"
+2020-00000410,12/18/2019 08:00:00,01/02/2020 - 12:54,Theft,Investigation Pending,"Chem Nuc, Chemical & Nuclear Engineering at 4418 Stadium Dr"
+2020-00000535,01/03/2020 01:43:00,01/03/2020 - 01:43,DWI/DUI,Arrest,9100 block of Baltimore Ave
+2020-00000693,12/29/2019 11:50:00,01/03/2020 - 15:59,Dept Property Damage/Loss,Active/Pending,Pocomoke at 7569 Baltimore Ave
+2020-00000828,01/03/2020 23:06:00,01/03/2020 - 23:06,DWI/DUI,Arrest,Baltimore Ave
+2020-00001021,01/04/2020 23:21:00,01/04/2020 - 23:21,Emergency Petition,CBE,7700 block of Adelphi Rd
+2020-00001025,01/05/2020 00:10:00,01/04/2020 - 23:54,Injured/Sick Person,CBE,3500 block of University Blvd
+2020-00001035,01/05/2020 01:07:00,01/05/2020 - 01:07,DWI/DUI,Arrest,Baltimore Ave
+2020-00001290,01/06/2020 06:27:00,01/06/2020 - 06:27,Injured/Sick Person,CBE,4200 block of Landscape Ln
+2020-00001428,12/20/2019 14:30:00,01/06/2020 - 13:40,Damage to State Property,CBE,Lot S3
+2020-00001462,01/06/2020 17:36:00,01/06/2020 - 17:36,Other Incident,CBE,Elkton at 3981 Denton Service Ln
+2020-00001539,12/17/2019 13:00:00,01/06/2020 - 23:19,Theft,CBE,7500 block of Calvert Service Ln
+2020-00001755,01/07/2020 17:15:00,01/07/2020 - 17:15,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2020-00001775,01/07/2020 19:13:00,01/07/2020 - 19:13,Injured/Sick Person,CBE,Paint Branch Dr
+2020-00001779,01/07/2020 20:24:00,01/07/2020 - 20:24,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500 Paint Branch Dr"
+2020-00001975,07/09/2014 12:00:00,01/08/2020 - 14:55,Other Incident,CBE,Pocomoke at 7569 Baltimore Ave
+2020-00002136,01/09/2020 01:24:00,01/09/2020 - 01:24,DWI/DUI,Arrest,Baltimore Ave
+2020-00002144,01/09/2020 02:50:00,01/09/2020 - 02:50,DWI/DUI,Arrest,Baltimore Ave
+2020-00002166,01/09/2020 05:05:00,01/09/2020 - 05:09,CDS Violation,Arrest,4200 block of Guilford Dr
+2020-00002320,05/01/2017 00:01:00,01/09/2020 - 20:50,Other Incident,Investigation Pending,"Allegany, Allegany Hall at 4299 Lehigh Rd"
+2020-00002331,01/08/2020 18:00:00,01/09/2020 - 22:29,Vandalism,Active/Pending,Lot 11b
+2020-00002460,01/10/2020 01:39:00,01/10/2020 - 01:39,DWI/DUI,Arrest,4700 block of Pontiac St
+2020-00002477,01/10/2020 02:38:00,01/10/2020 - 02:38,DWI/DUI,Arrest,Baltimore Ave
+2020-00002541,01/10/2020 10:03:00,01/10/2020 - 10:03,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056 Regents Dr"
+2020-00002563,01/10/2020 10:22:00,01/10/2020 - 11:09,Suspicious Activity,CBE,"Nyumburu, Nyumburu Cultural Center at 4018 Campus Dr"
+2020-00002704,01/10/2020 23:33:00,01/10/2020 - 23:33,Warrant/Summons Service,Arrest,Baltimore Ave
+2020-00002709,01/11/2020 00:05:00,01/11/2020 - 00:07,Suspicious Person/Auto,Arrest,Catholic Student Center at 4141 Guilford Dr
+2020-00002711,01/11/2020 00:30:00,01/11/2020 - 00:30,DWI/DUI,Arrest,Adelphi Rd
+2020-00002727,01/11/2020 02:37:00,01/11/2020 - 02:37,DWI/DUI,Arrest,Baltimore Ave
+2020-00002777,01/11/2020 12:45:00,01/11/2020 - 14:10,Theft,Arrest,Varsity Sports Teamhouse at 4117 Stadium Dr
+2020-00002835,01/11/2020 20:25:00,01/11/2020 - 20:25,Other Incident,CBE,"Lefrak, Lefrak Hall at 7251 Preinkert Dr"
+2020-00002913,01/12/2020 07:07:00,01/12/2020 - 07:07,Theft from Auto,Arrest,"College Park Fire Station, Company 12 at 8115 Baltimore Ave"
+2020-00003335,01/13/2020 15:52:00,01/13/2020 - 15:52,Assist Other Agency,Arrest,"Terrapin Row, Terrapin Row #2, Terrapin Row 2, TR2 at 4300 Hartwick Rd"
+2020-00003581,01/14/2020 12:35:00,01/14/2020 - 12:41,Injured/Sick Person,CBE,4463 Rossborough Ln
+2020-00003857,12/14/2019 07:00:00,01/15/2020 - 11:13,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00003876,12/18/2019 08:00:00,01/15/2020 - 14:00,Recovered Stolen Motor Vehicle,CBE,4300 block of Campus Dr
+2020-00003910,01/15/2020 16:56:00,01/15/2020 - 16:56,Warrant/Summons Service,Arrest,Baltimore Ave
+2020-00004080,01/16/2020 12:50:00,01/16/2020 - 12:57,Accident - Departmental,CBE,Baltimore Ave
+2020-00004101,01/16/2020 15:43:00,01/16/2020 - 15:43,Recovered Stolen Motor Vehicle,Arrest,Baltimore Ave
+2020-00004264,01/17/2020 01:03:00,01/17/2020 - 01:03,Warrant/Summons Service,Arrest,University Blvd
+2020-00004301,01/17/2020 04:30:00,01/17/2020 - 05:50,Injured/Sick Person,CBE,6900 block of Preinkert Dr
+2020-00004477,01/15/2020 12:00:00,01/17/2020 - 20:41,Theft,Investigation Pending,"Charles, Charles Hall at 4405 Lehigh Rd"
+2020-00004547,01/18/2020 00:31:00,01/18/2020 - 00:31,DWI/DUI,Arrest,Baltimore Ave
+2020-00004658,01/18/2020 10:46:00,01/18/2020 - 10:46,Injured/Sick Person,CBE,"Ritchie, Ritchie Coliseum at 7675 Baltimore Ave"
+2020-00004671,01/18/2020 12:21:00,01/18/2020 - 12:21,Injured/Sick Person,CBE,"Ritchie, Ritchie Coliseum at 7675 Baltimore Ave"
+2020-00004708,01/18/2020 18:12:00,01/18/2020 - 20:25,Accident - Departmental,CBE,Dorsey Rd / Harmans Rd
+2020-00005261,01/18/2020 16:30:00,01/20/2020 - 18:38,Theft from Auto,Investigation Pending,Garage D at 4155 Terrapin Trl
+2020-00005440,01/21/2020 14:35:00,01/21/2020 - 14:35,Theft from Auto,Arrest,5100 block of Campus Dr
+2020-00005443,01/21/2020 09:30:00,01/21/2020 - 16:10,Theft from Auto,Investigation Pending,
+2020-00005500,01/21/2020 17:00:00,01/21/2020 - 21:58,Lost Property,CBE,3900 block of Campus Dr
+2020-00005588,01/21/2020 21:30:00,01/22/2020 - 08:38,Theft from Auto,Investigation Pending,4300 block of Rowalt Dr
+2020-00005615,01/22/2020 10:56:00,01/22/2020 - 10:56,Injured/Sick Person,CBE,7500 block of Baltimore Ave
+2020-00005625,01/21/2020 07:00:00,01/22/2020 - 12:18,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2020-00005632,01/22/2020 13:25:00,01/22/2020 - 13:55,Vandalism,Arrest,Diamondback Dr
+2020-00005652,01/06/2020 08:00:00,01/22/2020 - 15:10,Theft,Investigation Pending,7500 block of Calvert Service Ln
+2020-00005680,01/22/2020 16:52:00,01/22/2020 - 16:52,Injured/Sick Person,CBE,3900 block of Campus Dr
+2020-00005691,01/22/2020 14:30:00,01/22/2020 - 18:26,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00005698,01/22/2020 12:12:00,01/22/2020 - 19:12,Suspicious Person/Auto,CBE,Calvert Rd
+2020-00005816,01/21/2020 08:15:00,01/23/2020 - 08:34,Theft from Auto,Investigation Pending,
+2020-00005844,01/23/2020 12:38:00,01/23/2020 - 12:38,Trespassing,CBE,5000 block of College Ave
+2020-00006012,01/23/2020 23:50:00,01/23/2020 - 23:50,CDS Violation,Arrest,Greenbelt Rd
+2020-00006056,01/24/2020 00:56:00,01/24/2020 - 00:56,DWI/DUI,Arrest,Baltimore Ave
+2020-00006107,01/24/2020 06:08:00,01/24/2020 - 06:08,Injured/Sick Person,CBE,7500 block of Regents Dr
+2020-00006136,01/21/2020 09:30:00,01/24/2020 - 09:10,Threat Assessment,Investigation Pending,4200 block of Lehigh Rd
+2020-00006141,01/23/2020 09:30:00,01/24/2020 - 09:53,Theft,Investigation Pending,4000 block of Campus Dr
+2020-00006161,01/24/2020 13:30:00,01/24/2020 - 13:53,Theft,CBE,3900 block of Campus Dr
+2020-00006163,01/24/2020 12:00:00,01/24/2020 - 14:19,Theft from Auto,Investigation Pending,
+2020-00006167,01/24/2020 15:10:00,01/24/2020 - 15:10,Hazardous Condition,CBE,Garage C at 8056 Regents Dr
+2020-00006269,01/25/2020 00:35:00,01/25/2020 - 00:35,DWI/DUI,Arrest,Severn at 5245 Greenbelt Rd
+2020-00006515,12/17/2019 17:00:00,01/25/2020 - 17:19,Theft,Investigation Pending,4000 block of Stadium Dr
+2020-00006580,01/26/2020 00:17:00,01/26/2020 - 00:17,Injured/Sick Person,CBE,7500 block of Mowatt Ln
+2020-00006606,01/26/2020 02:17:00,01/26/2020 - 02:17,Injured/Sick Person,CBE,4700 block of College Ave
+2020-00006608,01/26/2020 02:50:00,01/26/2020 - 02:50,DWI/DUI,Arrest,7500 block of Regents Dr
+2020-00006924,01/26/2020 23:07:00,01/26/2020 - 23:07,CDS Violation,CBE,8200 block of Boteler Ln
+2020-00007031,01/24/2020 17:00:00,01/27/2020 - 09:15,Burglary,Investigation Pending,8000 block of Regents Dr
+2020-00007090,01/27/2020 06:30:00,01/27/2020 - 12:02,Damage to State Property,Active/Pending,3900 block of Denton Service Ln
+2020-00007108,01/27/2020 14:13:00,01/27/2020 - 14:13,Recovered Stolen Motor Vehicle,Arrest,Baltimore Ave
+2020-00007260,01/28/2020 02:33:00,01/28/2020 - 02:33,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2020-00007261,01/28/2020,01/28/2020 - 02:38,Injured/Sick Person,CBE,7600 block of Preinkert Dr
+2020-00007282,01/28/2020 07:04:00,01/28/2020 - 07:33,Check on the  Welfare,CBE,8500 block of Boteler Ln
+2020-00007349,12/17/2019 19:00:00,01/28/2020 - 14:12,Theft,Investigation Pending,7000 block of Preinkert Dr
+2020-00007411,01/28/2020 18:15:00,01/28/2020 - 18:30,Injured/Sick Person,CBE,4100 block of Valley Dr
+2020-00007525,01/28/2020 23:29:00,01/28/2020 - 23:29,CDS Violation,Arrest,Greenbelt Rd
+2020-00007551,01/29/2020 00:28:00,01/29/2020 - 00:28,Alcohol Violation,Arrest,College Ave
+2020-00007557,01/29/2020 00:43:00,01/29/2020 - 00:43,Alcohol Violation,Arrest,College Ave
+2020-00007684,01/29/2020 15:08:00,01/29/2020 - 15:08,Theft,Active/Pending,7600 block of Mowatt Ln
+2020-00007863,01/30/2020 00:01:00,01/30/2020 - 00:01,CDS Violation,Arrest,Baltimore Ave
+2020-00007898,01/30/2020 01:48:00,01/30/2020 - 01:48,DWI/DUI,Arrest,Baltimore Ave
+2020-00008038,01/30/2020 17:45:00,01/30/2020 - 17:49,Injured/Sick Person,CBE,4400 block of Rossborough Ln
+2020-00008046,01/30/2020 18:09:00,01/30/2020 - 18:09,CDS Violation,CBE,3900 block of Denton Service Ln
+2020-00008059,12/17/2019,01/30/2020 - 18:58,Other Incident,CBE,6900 block of Preinkert Dr
+2020-00008118,01/31/2020 00:37:00,01/31/2020 - 00:37,Alcohol Violation,Arrest,7400 block of Princeton Ave
+2020-00008120,01/31/2020 00:39:00,01/31/2020 - 00:39,CDS Violation,CBE,7300 block of Baltimore Ave
+2020-00008176,01/31/2020 02:28:00,01/31/2020 - 02:28,CDS Violation,Arrest,Garage C at 8056 Regents Dr
+2020-00008234,01/30/2020 17:15:00,01/31/2020 - 08:51,Vandalism,Investigation Pending,5650 River Tech Ct
+2020-00008249,01/30/2020 21:00:00,01/31/2020 - 09:46,Vandalism,Investigation Pending,4300 block of Knox Rd
+2020-00008263,02/01/2019 09:00:00,01/31/2020 - 11:16,Other Incident,Active/Pending,8500 block of Paint Branch Dr
+2020-00008264,01/29/2020 18:00:00,01/31/2020 - 11:19,Theft,Investigation Pending,3900 block of Denton Service Ln
+2020-00008342,01/31/2020 20:39:00,01/31/2020 - 20:39,CDS Violation,CBE,3800 block of Stadium Dr
+2020-00008419,01/31/2020 23:31:00,01/31/2020 - 23:31,Injured/Sick Person,CBE,3900 block of Campus Dr

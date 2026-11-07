@@ -1,0 +1,88 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00008732,01/28/2021 18:49:00,02/01/2021 - 10:34,Harassment/Stalking,Active/Pending,4000 block of Campus Dr
+2021-00008883,02/01/2021 22:41:00,02/01/2021 - 22:41,Injured/Sick Person,CBE,4300 block of Knox Rd
+2021-00009050,02/02/2021 10:09:00,02/02/2021 - 10:09,Other Incident,CBE,4300 block of Hartwick Rd
+2021-00009116,01/25/2021 08:00:00,02/02/2021 - 15:52,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00009150,02/02/2021 18:30:00,02/02/2021 - 18:44,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951 Denton Service Ln"
+2021-00009227,02/02/2021 23:42:00,02/02/2021 - 23:47,CDS Violation,Arrest,300 block of Ehrensberger Dr
+2021-00009230,02/03/2021 01:24:00,02/03/2021 - 01:24,CDS Violation,CBE,Lot 2a
+2021-00009249,02/03/2021 06:21:00,02/03/2021 - 06:21,Assist Other Agency,CBE,4200 block of Valley Dr
+2021-00009262,02/02/2021 17:22:00,02/03/2021 - 08:53,Vandalism,CBE,"Prince Frederick, Prince Frederick Hall at 7030 Preinkert Dr"
+2021-00009409,02/04/2021 00:11:00,02/04/2021 - 00:11,DWI/DUI,Arrest,7500 block of Mowatt Ln
+2021-00009427,02/04/2021 01:45:00,02/04/2021 - 01:45,Traffic Offense,CBE,University Blvd
+2021-00009507,02/04/2021 16:36:00,02/04/2021 - 16:36,Trespassing,CBE,Adelphi Rd
+2021-00009617,02/05/2021 03:30:00,02/05/2021 - 03:34,Burglary,CBE,4200 block of Lehigh Rd
+2021-00009715,02/05/2021 15:16:00,02/05/2021 - 15:31,Warrant/Summons Service,Arrest,University Courtyard #5 at 8500 Boteler Ln
+2021-00009797,02/05/2021 21:54:00,02/05/2021 - 21:54,CDS Violation,Arrest,Lot A
+2021-00009970,02/06/2021 11:44:00,02/06/2021 - 11:44,Injured/Sick Person,CBE,7500 block of Dickinson Ave
+2021-00010079,02/06/2021 21:43:00,02/06/2021 - 21:43,CDS Violation,CBE,Jull Hall at 4196 Stadium Dr
+2021-00010104,10/01/2020,02/07/2021 - 00:23,Other Incident,CBE,3900 block of Denton Service Ln
+2021-00010112,02/07/2021 00:55:00,02/07/2021 - 00:55,DWI/DUI,Arrest,Baltimore Ave
+2021-00010467,02/08/2021 15:28:00,02/08/2021 - 15:57,Vandalism,Arrest,7500 block of Regents Dr
+2021-00010558,02/08/2021 23:42:00,02/08/2021 - 23:42,CDS Violation,Arrest,4000 block of Stadium Dr
+2021-00010813,02/09/2021 17:38:00,02/09/2021 - 17:38,CDS Violation,Arrest,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00010938,02/10/2021 04:35:00,02/10/2021 - 04:35,Suspicious Activity,CBE,7500 block of Mowatt Ln
+2021-00011070,02/10/2021 14:27:00,02/10/2021 - 14:27,Other Incident,Active/Pending,"89, C. D. Mote, Jr. Engineering Laboratory at 8136 Paint Branch Dr"
+2021-00011071,02/10/2021 13:30:00,02/10/2021 - 14:29,Assist Other Agency,CBE,4400 block of Lehigh Rd
+2021-00011131,02/10/2021 18:32:00,02/10/2021 - 18:32,Other Incident,CBE,7700 block of Adelphi Rd
+2021-00011418,02/10/2021 16:40:00,02/11/2021 - 17:47,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00011518,02/11/2021 23:33:00,02/11/2021 - 23:33,DWI/DUI,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245 Greenbelt Rd"
+2021-00011566,02/12/2021 02:16:00,02/12/2021 - 02:16,CDS Violation,Summons Issued,4000 block of Stadium Dr
+2021-00011689,01/01/2017,02/12/2021 - 11:38,Fraud,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00011719,02/12/2021 13:30:00,02/12/2021 - 13:50,Injured/Sick Person,CBE,7400 block of Preinkert Dr
+2021-00011762,02/12/2021 17:41:00,02/12/2021 - 17:41,CDS Violation,Arrest,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00011766,02/12/2021 18:00:00,02/12/2021 - 18:30,Injured/Sick Person,CBE,4600 block of Hotel Dr
+2021-00011882,02/13/2021 00:05:00,02/13/2021 - 00:05,Alcohol Violation,CBE,8000 block of Hagerstown Dr
+2021-00011902,02/13/2021 00:42:00,02/13/2021 - 00:42,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00011935,02/13/2021 02:34:00,02/13/2021 - 02:34,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250 Lehigh Rd"
+2021-00011954,02/13/2021 03:53:00,02/13/2021 - 03:53,DWI/DUI,Arrest,University Blvd
+2021-00012094,02/04/2021 21:30:00,02/13/2021 - 16:41,Theft,Arrest,3900 block of Denton Service Ln
+2021-00012183,02/13/2021 22:42:00,02/13/2021 - 22:42,Animal Complaint,CBE,Baltimore Ave
+2021-00012219,02/13/2021 23:00:00,02/13/2021 - 23:59,Injured/Sick Person,CBE,McKeldin Mall
+2021-00012255,02/14/2021 01:29:00,02/14/2021 - 01:29,Injured/Sick Person,CBE,4300 block of Guilford Dr
+2021-00012274,02/14/2021 02:11:00,02/14/2021 - 02:19,Alcohol Violation,CBE,3900 block of Denton Service Ln
+2021-00012282,02/14/2021 03:48:00,02/14/2021 - 03:48,DWI/DUI,Arrest,Frat Row
+2021-00012526,02/15/2021 00:24:00,02/15/2021 - 00:24,Fire,CBE,7500 block of Calvert Service Ln
+2021-00012665,01/22/2021 09:53:00,02/15/2021 - 13:13,Other Incident,CBE,8500 block of Paint Branch Dr
+2021-00012911,02/16/2021 10:50:00,02/16/2021 - 11:04,Emergency Petition,CBE,Cumberland Hall at 4250 Farm Dr
+2021-00013155,02/17/2021 07:17:00,02/17/2021 - 07:17,Trespassing,Arrest,4100 block of Union Ln
+2021-00013209,02/17/2021 12:14:00,02/17/2021 - 12:14,Fire,CBE,7600 block of Baltimore Ave
+2021-00013454,02/18/2021 06:00:00,02/18/2021 - 12:56,Theft from Auto,Investigation Pending,8000 block of Regents Dr
+2021-00013469,02/18/2021 14:56:00,02/18/2021 - 14:56,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00013702,02/15/2021 08:00:00,02/19/2021 - 10:18,Other Incident,CBE,8200 block of Baltimore Ave
+2021-00013748,02/19/2021 14:27:00,02/19/2021 - 14:27,CDS Violation,CBE,"98, Centreville, Centreville Hall at 4243 Valley Dr"
+2021-00013803,02/19/2021 17:22:00,02/19/2021 - 17:22,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243 Valley Dr"
+2021-00013883,02/20/2021 00:37:00,02/20/2021 - 00:37,CDS Violation,Arrest,Baltimore Ave
+2021-00013937,02/20/2021 06:03:00,02/20/2021 - 08:10,Damage to State Property,CBE,8200 block of Paint Branch Dr
+2021-00013953,02/20/2021 06:00:00,02/20/2021 - 10:59,Other Incident,Investigation Pending,8100 block of La Plata Dr
+2021-00014073,02/20/2021 18:05:00,02/20/2021 - 18:05,Injured/Sick Person,CBE,7600 block of Library Ln
+2021-00014077,02/20/2021 20:17:00,02/20/2021 - 20:17,Emergency Petition,CBE,8100 block of Baltimore Ave
+2021-00014082,02/20/2021 07:00:00,02/20/2021 - 20:53,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917 Denton Service Ln"
+2021-00014087,02/20/2021 21:57:00,02/20/2021 - 21:57,CDS Violation,Arrest,"Center for Young Children, CYC at 4028 Valley Dr"
+2021-00014123,02/20/2021 23:49:00,02/20/2021 - 23:49,DWI/DUI,Arrest,Baltimore Ave
+2021-00014130,02/21/2021 00:18:00,02/21/2021 - 00:18,CDS Violation,Arrest,4400 block of Knox Rd
+2021-00014145,02/21/2021 01:57:00,02/21/2021 - 01:57,DWI/DUI,Arrest,Knox Rd
+2021-00014295,02/21/2021 19:44:00,02/21/2021 - 19:44,CDS Violation,Arrest,7200 block of Baltimore Ave
+2021-00014395,02/19/2021 14:00:00,02/22/2021 - 06:16,Burglary,Arrest,4000 block of Union Dr
+2021-00014469,02/19/2021 17:00:00,02/22/2021 - 12:50,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00014470,02/21/2021 16:22:00,02/22/2021 - 12:54,Telephone/EMail Misuse,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00014513,02/20/2021 14:59:00,02/22/2021 - 17:39,Other Incident,CBE,4100 block of Terrapin Trl
+2021-00014587,02/22/2021 21:40:00,02/22/2021 - 22:05,Assist Other Agency,CBE,4700 block of Tecumseh St
+2021-00014710,02/22/2021 16:00:00,02/23/2021 - 07:37,Damage to State Property,Active/Pending,8100 block of Paint Branch Dr
+2021-00014720,02/23/2021 08:53:00,02/23/2021 - 08:53,Trespassing,Arrest,4100 block of Union Ln
+2021-00014831,02/23/2021 19:43:00,02/23/2021 - 19:43,Injured/Sick Person,CBE,"14, Harford Hall at 7660 Regents Dr"
+2021-00015089,02/24/2021 12:53:00,02/24/2021 - 12:53,Other Service Call,CBE,
+2021-00015112,02/24/2021 15:23:00,02/24/2021 - 15:23,Injured/Sick Person,CBE,8000 block of Regents Dr
+2021-00015314,02/25/2021 00:55:00,02/25/2021 - 00:55,DWI/DUI,Arrest,Greenbelt Rd
+2021-00015433,02/25/2021 09:47:00,02/25/2021 - 09:47,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00015667,02/26/2021 00:11:00,02/26/2021 - 00:11,CDS Violation,Arrest,Hotel Dr
+2021-00015725,02/26/2021 03:23:00,02/26/2021 - 03:23,Weapon Violation,Arrest,University Blvd
+2021-00015789,02/26/2021 11:52:00,02/26/2021 - 11:52,CDS Violation,Arrest,University Blvd
+2021-00015811,02/24/2021 16:00:00,02/26/2021 - 13:14,Theft,Summons Issued,300 block of Ehrensberger Dr
+2021-00015845,02/24/2021 11:50:00,02/26/2021 - 15:40,Burglary,Investigation Pending,"88, Martin Hall at 4298 Campus Dr"
+2021-00015891,02/26/2021 18:45:00,02/26/2021 - 18:45,Warrant/Summons Service,Arrest,8300 block of Baltimore Ave
+2021-00016016,02/27/2021 02:30:00,02/27/2021 - 02:27,Noise Complaint,CBE,"70, Caroline Hall at 7154 Preinkert Dr"
+2021-00016019,02/27/2021 03:35:00,02/27/2021 - 03:23,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2021-00016082,02/26/2021 21:00:00,02/27/2021 - 12:01,Assist Other Agency,CBE,8900 block of 34th Ave
+2021-00016167,02/27/2021 17:03:00,02/27/2021 - 17:20,Assist Other Agency,CBE,4500 block of College Ave
+2021-00016420,02/28/2021 21:53:00,02/28/2021 - 21:53,Injured/Sick Person,CBE,"61, Queen Anne, Queen Anne's Hall at 7645 Preinkert Dr"

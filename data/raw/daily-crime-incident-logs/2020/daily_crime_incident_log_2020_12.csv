@@ -1,0 +1,53 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2020-00086172,11/15/2020,12/01/2020 - 09:46,Damage to State Property,Active/Pending,4200 block of Campus Dr
+2020-00086415,12/02/2020 10:35:00,12/02/2020 - 10:35,Damage to State Property,CBE,3800 block of Campus Dr
+2020-00086456,12/01/2020 15:05:00,12/02/2020 - 16:18,Missing Person/Runaway,CBE,4100 block of Valley Dr
+2020-00086454,11/28/2020 15:17:00,12/02/2020 - 16:28,Dept Property Damage/Loss,CBE,7500 block of Baltimore Ave
+2020-00086458,10/19/2020 14:00:00,12/02/2020 - 17:00,Theft,Investigation Pending,3900 block of Campus Dr
+2020-00086471,12/02/2020 18:39:00,12/02/2020 - 18:39,CDS Violation,Arrest,8900 block of Paint Branch Dr
+2020-00086679,11/22/2020 12:00:00,12/03/2020 - 10:53,Theft,Active/Pending,3900 block of Campus Dr
+2020-00086684,12/03/2020 10:00:00,12/03/2020 - 11:14,Injured/Sick Person,CBE,8600 block of Boteler Ln
+2020-00086689,12/03/2020 11:00:00,12/03/2020 - 12:16,Emergency Petition,CBE,4200 block of Lehigh Rd
+2020-00086699,12/02/2020 06:55:00,12/03/2020 - 13:45,Other Incident,CBE,3900 block of Campus Dr
+2020-00086760,12/03/2020 19:59:00,12/03/2020 - 19:59,Trespassing,CBE,4100 block of Fieldhouse Dr
+2020-00086869,12/04/2020 01:27:00,12/04/2020 - 01:27,Alcohol Violation,Arrest,College Ave
+2020-00086934,12/03/2020 12:25:00,12/04/2020 - 04:30,Theft,Investigation Pending,4200 block of Fieldhouse Dr
+2020-00087161,12/05/2020 01:48:00,12/05/2020 - 01:48,Injured/Sick Person,CBE,7000 block of Preinkert Dr
+2020-00087368,12/05/2020 11:52:00,12/05/2020 - 21:22,Theft from Auto,Active/Pending,300 block of Ehrensberger Dr
+2020-00087655,12/06/2020 23:14:00,12/06/2020 - 23:14,Weapon Violation,Active/Pending,4400 block of Lehigh Rd
+2020-00087665,12/07/2020 00:29:00,12/07/2020 - 00:29,Trespassing,Arrest,3800 block of Campus Dr
+2020-00087851,12/07/2020 20:56:00,12/07/2020 - 21:21,Theft,Investigation Pending,4000 block of Stadium Dr
+2020-00087906,12/08/2020 00:59:00,12/08/2020 - 00:59,CDS Violation,Active/Pending,Adelphi Rd / Stanford St
+2020-00087921,12/08/2020 02:40:00,12/08/2020 - 02:40,Other Incident,CBE,4300 block of Campus Dr
+2020-00087960,12/07/2020 16:00:00,12/08/2020 - 08:03,Theft from Auto,Active/Pending,7100 block of Preinkert Dr
+2020-00087965,12/07/2020 14:30:00,12/08/2020 - 09:17,Theft from Auto,Active/Pending,Garage C at 8056 Regents Dr
+2020-00088049,11/25/2020 09:00:00,12/08/2020 - 15:08,Other Incident,CBE,3900 block of Campus Dr
+2020-00088108,12/08/2020 21:17:00,12/08/2020 - 21:17,DWI/DUI,Arrest,Baltimore Ave
+2020-00088153,12/09/2020 02:12:00,12/09/2020 - 02:12,CDS Violation,Arrest,University Blvd
+2020-00088380,12/09/2020 23:47:00,12/09/2020 - 23:47,Emergency Petition,CBE,4100 block of Farm Dr
+2020-00088651,12/10/2020 15:53:00,12/10/2020 - 15:53,Other Incident,CBE,3900 block of Campus Dr
+2020-00088721,12/10/2020 21:26:00,12/10/2020 - 21:26,CDS Violation,Arrest,
+2020-00088727,12/10/2020 22:55:00,12/10/2020 - 22:55,CDS Violation,Arrest,Garage C at 8056 Regents Dr
+2020-00088789,12/11/2020 03:46:00,12/11/2020 - 03:46,DWI/DUI,Arrest,University Blvd
+2020-00088992,12/12/2020 00:31:00,12/12/2020 - 00:31,Alcohol Violation,Arrest,College Ave
+2020-00089196,12/13/2020 00:02:00,12/13/2020 - 00:02,CDS Violation,Arrest,Baltimore Ave
+2020-00089210,12/13/2020 03:49:00,12/13/2020 - 03:49,Trespassing,CBE,Stadium Dr / Farm Dr
+2020-00089426,12/13/2020 23:58:00,12/13/2020 - 23:58,CDS Violation,Arrest,Berwyn Rd
+2020-00089859,12/15/2020 12:33:00,12/15/2020 - 12:33,Emergency Petition,CBE,3900 block of Denton Service Ln
+2020-00089949,12/11/2020 21:00:00,12/15/2020 - 17:47,Theft from Auto,Active/Pending,8300 block of Boteler Ln
+2020-00089984,12/15/2020 21:40:00,12/15/2020 - 21:40,Trespassing,CBE,
+2020-00090533,12/17/2020 10:51:00,12/17/2020 - 10:51,Injured/Sick Person,CBE,4100 block of Valley Dr
+2020-00090564,12/17/2020 14:50:00,12/17/2020 - 14:50,Check on the  Welfare,CBE,6900 block of Preinkert Dr
+2020-00090605,12/17/2020 22:06:00,12/17/2020 - 22:06,Emergency Petition,CBE,11  Fraternity Row
+2020-00090611,12/17/2020 23:09:00,12/17/2020 - 23:09,Recovered Stolen Motor Vehicle,Active/Pending,3800 block of Stadium Dr
+2020-00090626,12/18/2020 01:27:00,12/18/2020 - 01:27,Alcohol Violation,Arrest,College Ave
+2020-00091390,12/21/2020 00:45:00,12/21/2020 - 00:45,Injured/Sick Person,CBE,6900 block of Preinkert Dr
+2020-00091479,12/18/2020 09:00:00,12/21/2020 - 09:06,Lost Property,CBE,"Seneca Building, UC Center, University Centre at 4716 Pontiac St"
+2020-00091638,12/22/2020 00:43:00,12/22/2020 - 00:43,Injured/Sick Person,CBE,4300 block of Rowalt Dr
+2020-00091684,12/22/2020 03:57:00,12/22/2020 - 03:57,Vandalism,Arrest,Lot 4b / Paint Branch Dr
+2020-00091764,12/22/2020 13:39:00,12/22/2020 - 13:59,Injured/Sick Person,CBE,3400 block of Tulane Dr
+2020-00091861,12/22/2020 18:41:00,12/22/2020 - 18:41,Other Incident,CBE,8100 block of Boteler Ln
+2020-00092140,12/23/2020 22:21:00,12/23/2020 - 22:21,CDS Violation,Arrest,7500 block of Mowatt Ln
+2020-00092278,12/24/2010 12:33:00,12/24/2020 - 12:22,Other Incident,CBE,7600 block of Mowatt Ln
+2020-00093313,12/27/2020 23:57:00,12/27/2020 - 23:57,Weapon Violation,Arrest,9000 block of Baltimore Ave
+2020-00094093,12/30/2020 20:49:00,12/30/2020 - 20:49,CDS Violation,Arrest,Baltimore Ave

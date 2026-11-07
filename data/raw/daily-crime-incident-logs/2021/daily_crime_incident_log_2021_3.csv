@@ -1,0 +1,84 @@
+umpd_case_number,date_occurred,report_date,crime_type,disposition,location
+2021-00016708,03/01/2021 07:00:00,03/01/2021 - 19:51,Fraud,Investigation Pending,4200 block of Farm Dr
+2021-00017093,03/02/2021 22:44:00,03/02/2021 - 22:44,CDS Violation,Arrest,8100 block of La Plata Dr
+2021-00017308,03/03/2021 17:19:00,03/03/2021 - 17:19,Other Incident,CBE,"College Park Fire Station, Company 12 at 8115 Baltimore Ave"
+2021-00017309,03/03/2021 17:10:00,03/03/2021 - 17:20,Other Incident,CBE,4100 block of Campus Dr
+2021-00017379,03/03/2021 23:03:00,03/03/2021 - 23:03,CDS Violation,CBE,4200 block of Valley Dr
+2021-00017409,03/04/2021 00:30:00,03/04/2021 - 00:30,DWI/DUI,Arrest,Baltimore Ave
+2021-00017414,03/04/2021 00:18:00,03/04/2021 - 00:43,Injured/Sick Person,CBE,4300 block of Hartwick Rd
+2021-00017430,03/04/2021 02:36:00,03/04/2021 - 02:36,DWI/DUI,Arrest,8400 block of Baltimore Ave
+2021-00017520,03/04/2021 09:17:00,03/04/2021 - 09:17,Assault,CBE,7700 block of Diamondback Dr
+2021-00017544,03/04/2021 10:53:00,03/04/2021 - 10:53,Telephone/EMail Misuse,Investigation Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00017550,03/04/2021 12:08:00,03/04/2021 - 12:08,Injured/Sick Person,CBE,6900 block of Preinkert Dr
+2021-00017556,03/04/2021 09:00:00,03/04/2021 - 13:24,Suspicious Activity,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131 Campus Dr"
+2021-00017558,03/01/2021 18:52:00,03/04/2021 - 13:49,Threat Assessment,Active/Pending,7700 block of Baltimore Ave
+2021-00017809,03/05/2021 07:00:00,03/05/2021 - 08:19,Suspicious Activity,CBE,7700 block of Alumni Dr
+2021-00017910,03/05/2021 17:02:00,03/05/2021 - 17:02,Assist Other Agency,CBE,7300 block of Princeton Ave
+2021-00018263,03/06/2021 19:25:00,03/06/2021 - 19:25,Suspicious Activity,CBE,4000 block of Fieldhouse Dr
+2021-00018294,03/06/2021 21:27:00,03/06/2021 - 21:27,CDS Violation,Arrest,7800 block of Regents Dr
+2021-00018356,03/07/2021 00:18:00,03/07/2021 - 00:18,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325 Baltimore Ave"
+2021-00018357,03/07/2021 00:21:00,03/07/2021 - 00:21,CDS Violation,Arrest,4100 block of Farm Dr
+2021-00018384,03/07/2021 03:15:00,03/07/2021 - 03:15,Injured/Sick Person,CBE,"Delta Gamma, Delta Gamma Sorority at 4518 Knox Rd"
+2021-00018503,03/05/2021 17:30:00,03/07/2021 - 15:54,Accident - Departmental,CBE,1119 Mermaid Dr
+2021-00018795,03/08/2021 11:00:00,03/08/2021 - 11:15,Hazardous Condition,CBE,8000 block of Greenmead Dr
+2021-00019024,06/23/2020 03:23:00,03/09/2021 - 09:11,Harassment/Stalking,Active/Pending,4500 block of Campus Dr
+2021-00019180,11/01/2020 00:01:00,03/09/2021 - 18:10,Theft,Investigation Pending,3400 block of Tulane Dr
+2021-00019378,02/02/2021 08:00:00,03/10/2021 - 11:27,Harassment/Stalking,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00019410,03/10/2021 15:12:00,03/10/2021 - 15:12,Dept Property Damage/Loss,CBE,Graduate Hills Apartment #291 at 3413 Tulane Dr
+2021-00019565,03/11/2021 00:59:00,03/11/2021 - 00:59,Warrant/Summons Service,Arrest,University Blvd
+2021-00019725,03/11/2021 13:00:00,03/11/2021 - 14:51,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2021-00019854,03/11/2021 21:00:00,03/11/2021 - 21:22,Emergency Petition,CBE,8100 block of La Plata Dr
+2021-00019934,03/12/2021 07:30:00,03/12/2021 - 07:30,Damage to State Property,Active/Pending,"Arena Drive Parking Garage, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155 Terrapin Trl"
+2021-00020096,03/12/2021 22:51:00,03/12/2021 - 23:10,Assist Other Agency,CBE,7600 block of Baltimore Ave
+2021-00020217,03/13/2021 11:36:00,03/13/2021 - 11:36,Injured/Sick Person,CBE,4200 block of Lehigh Rd
+2021-00020221,03/04/2021 07:00:00,03/13/2021 - 11:57,Telephone/EMail Misuse,Warrant Issued,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00020237,03/12/2021 15:30:00,03/13/2021 - 12:30,Damage to State Property,Active/Pending,"Bioscience, Bioscience Research Building at 4066 Campus Dr"
+2021-00020378,03/13/2021 21:52:00,03/13/2021 - 21:52,Assist Other Agency,CBE,8700 block of Baltimore Ave
+2021-00020508,03/14/2021 10:35:00,03/14/2021 - 10:38,Other Incident,CBE,9  Fraternity Row
+2021-00020949,03/15/2021 17:10:00,03/15/2021 - 17:10,CDS Violation,Arrest,Dartmouth Ave
+2021-00021124,03/16/2021 00:45:00,03/16/2021 - 00:45,CDS Violation,Arrest,
+2021-00021426,03/16/2021 23:49:00,03/16/2021 - 23:49,DWI/DUI,Arrest,Baltimore Ave
+2021-00021514,03/17/2021 09:55:00,03/17/2021 - 13:31,Suspicious Activity,CBE,"88, Martin Hall at 4298 Campus Dr"
+2021-00021517,05/30/2018 07:00:00,03/17/2021 - 14:03,Fraud,Unfounded,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00021524,03/17/2021 15:57:00,03/17/2021 - 15:57,Damage to State Property,CBE,4300 block of Stadium Dr
+2021-00021974,03/18/2021 13:00:00,03/19/2021 - 06:25,Theft from Auto,Investigation Pending,3400 block of Tulane Dr
+2021-00022004,03/18/2021 21:00:00,03/19/2021 - 10:02,Theft from Auto,Investigation Pending,
+2021-00022011,03/19/2021 11:27:00,03/19/2021 - 11:27,Emergency Petition,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00022208,03/20/2021 01:41:00,03/20/2021 - 01:41,CDS Violation,CBE,University Blvd
+2021-00022421,03/20/2021 16:00:00,03/20/2021 - 19:42,Emergency Petition,CBE,4300 block of Knox Rd
+2021-00022457,03/20/2021 22:10:00,03/20/2021 - 22:10,DWI/DUI,Arrest,Preinkert Dr
+2021-00022476,03/20/2021 22:10:00,03/21/2021 - 00:41,Other Incident,Arrest,Preinkert Dr
+2021-00022498,03/21/2021 04:40:00,03/21/2021 - 04:40,Check on the  Welfare,CBE,7800 block of Championship Ln
+2021-00022541,03/21/2021 10:22:00,03/21/2021 - 10:22,Injured/Sick Person,CBE,7800 block of Alumni Dr
+2021-00022830,03/22/2021 13:15:00,03/22/2021 - 13:24,Assist Other Agency,CBE,9500 block of Baltimore Ave
+2021-00022854,03/22/2021 15:11:00,03/22/2021 - 15:11,Emergency Petition,CBE,Health Center at 3983 Campus Dr
+2021-00022858,03/22/2021 15:43:00,03/22/2021 - 15:43,Injured/Sick Person,CBE,Health Center at 3983 Campus Dr
+2021-00022915,03/22/2021 20:34:00,03/22/2021 - 20:34,DWI/DUI,Arrest,8000 block of Regents Dr
+2021-00022969,03/22/2021 23:54:00,03/22/2021 - 23:54,CDS Violation,Arrest,CP AMF Bowling Alley at 9021 Baltimore Ave
+2021-00023005,03/23/2021 02:54:00,03/23/2021 - 02:54,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318 Knox Rd"
+2021-00023111,03/23/2021 13:42:00,03/23/2021 - 13:47,Disorderly Conduct,CBE,8000 block of Regents Dr
+2021-00023189,01/21/2021 12:00:00,03/23/2021 - 21:27,Theft,Investigation Pending,7500 block of Regents Dr
+2021-00023221,03/24/2021 00:16:00,03/24/2021 - 00:16,CDS Violation,Arrest,University Blvd
+2021-00023506,03/24/2021 23:10:00,03/24/2021 - 23:10,Suspicious Activity,CBE,Lot K5
+2021-00023674,03/25/2021 15:41:00,03/25/2021 - 15:41,Suspicious Person/Auto,CBE,3400 block of Tulane Dr
+2021-00023728,03/25/2021 19:26:00,03/25/2021 - 19:26,Telephone/EMail Misuse,Active/Pending,6900 block of Preinkert Dr
+2021-00023739,03/21/2021 13:30:00,03/25/2021 - 19:56,Theft,Active/Pending,7800 block of Championship Ln
+2021-00023803,03/25/2021 23:19:00,03/25/2021 - 23:19,CDS Violation,Arrest,1  Fraternity Row
+2021-00023961,03/25/2021 13:00:00,03/26/2021 - 14:40,Theft,Summons Issued,"E. A. Fernandez Idea Factory, Idea Factory at 4462 Stadium Dr"
+2021-00023968,03/11/2021 01:00:00,03/26/2021 - 15:29,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569 Baltimore Ave"
+2021-00023975,03/23/2021 15:00:00,03/26/2021 - 16:00,Dept Property Damage/Loss,CBE,1205 Will O Brook Dr Dr
+2021-00024023,03/26/2021 19:15:00,03/26/2021 - 19:16,Vandalism,Arrest,Lot 11b
+2021-00024339,03/27/2021 19:08:00,03/27/2021 - 19:08,CDS Violation,Arrest,University Blvd
+2021-00024350,03/27/2021 20:25:00,03/27/2021 - 20:25,DWI/DUI,Arrest,University Blvd
+2021-00024357,03/27/2021 21:27:00,03/27/2021 - 21:27,DWI/DUI,Arrest,University Blvd
+2021-00024633,03/29/2021 01:25:00,03/29/2021 - 01:25,DWI/DUI,Arrest,Baltimore Ave
+2021-00024663,03/29/2021 06:13:00,03/29/2021 - 06:13,Traffic Offense,CBE,North Gate at 4306 Campus Dr
+2021-00024727,03/27/2021 20:00:00,03/29/2021 - 12:51,Burglary,Warrant Issued,"Commons 6, SCC 6, South Campus Commons 6 at 6901 Preinkert Dr"
+2021-00024728,03/29/2021 12:59:00,03/29/2021 - 12:59,Assist Other Agency,Active/Pending,4500 block of College Ave
+2021-00024801,03/29/2021 17:30:00,03/29/2021 - 18:06,Injured/Sick Person,CBE,University Blvd
+2021-00024861,03/29/2021 22:33:00,03/29/2021 - 22:33,DWI/DUI,Arrest,"11, The Hall at 4656 Hotel Dr"
+2021-00024862,03/29/2021 22:34:00,03/29/2021 - 22:34,CDS Violation,Arrest,University Blvd
+2021-00024930,03/30/2021 05:32:00,03/30/2021 - 05:32,Suspicious Person/Auto,CBE,4400 block of Technology Dr
+2021-00025050,03/30/2021 12:10:00,03/30/2021 - 15:40,Other Incident,CBE,4100 block of Valley Dr
+2021-00025051,03/30/2021 16:42:00,03/30/2021 - 16:42,Suspicious Person/Auto,Active/Pending,4100 block of Stadium Dr
+2021-00025276,03/30/2021 14:00:00,03/31/2021 - 12:49,Damage to State Property,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972 Campus Dr"
