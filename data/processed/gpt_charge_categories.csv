@@ -1,0 +1,443 @@
+source_position,charge_label,category
+1,"(Driving, Attempting to drive) veh. while impaired by alcohol",Impaired driving and related driving restrictions
+2,"(Driving, Attempting to drive) veh. while under the influence of alcohol",Impaired driving and related driving restrictions
+16,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se",Impaired driving and related driving restrictions
+20,"(Driving, Attempting to drive) motor veh. with alcohol in blood in violation of restriction",Impaired driving and related driving restrictions
+36,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance",Impaired driving and related driving restrictions
+37,"(Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely",Impaired driving and related driving restrictions
+75,"(Driving, Attempting to drive) veh. while under the influence of (alcohol, alcohol per se) while transporting a minor",Impaired driving and related driving restrictions
+80,"Driving,attempt to drive veh. not equipped with an ingition interlock as required by Ignition Interlock System Prog",Impaired driving and related driving restrictions
+143,"Driving motor vehicle within 12 hours after arrest for violation of (TR 21-902, CR, Title 2, Subtitle 5, CR 3-211)",Impaired driving and related driving restrictions
+195,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance while transporting a minor",Impaired driving and related driving restrictions
+288,"(Driving, Attempting to drive) veh. while impaired by alcohol while transporting a minor",Impaired driving and related driving restrictions
+350,"(Driving, Attempting to drive) veh. while impaired by drug(s) or drug(s) and alcohol while transporting a minor",Impaired driving and related driving restrictions
+3,"THEFT: $100 TO UNDER $1,500","Theft, theft schemes and unauthorized use or removal of property"
+7,Motor Vehicle Theft/Unlawful Taking,"Theft, theft schemes and unauthorized use or removal of property"
+9,"THEFT: $1,500 TO UNDER $25,000","Theft, theft schemes and unauthorized use or removal of property"
+17,Unauthorized Removal of Property (Veh/Motor Veh/Horse/Vessel),"Theft, theft schemes and unauthorized use or removal of property"
+29,"Theft: Less $1,000 Value","Theft, theft schemes and unauthorized use or removal of property"
+51,Theft Less Than $100,"Theft, theft schemes and unauthorized use or removal of property"
+59,"THEFT SCHEME: $1,500 TO UNDER $25,000","Theft, theft schemes and unauthorized use or removal of property"
+72,"Theft: $1,000 to Under $10,000","Theft, theft schemes and unauthorized use or removal of property"
+81,Motor Vehicle Theft,"Theft, theft schemes and unauthorized use or removal of property"
+83,"THEFT SCHEME: $100 TO UNDER $1,500","Theft, theft schemes and unauthorized use or removal of property"
+130,"THEFT: $25,000 TO UNDER $100,000","Theft, theft schemes and unauthorized use or removal of property"
+132,"Theft - Scheme:  Less $1,000","Theft, theft schemes and unauthorized use or removal of property"
+197,Theft or Duplication of State-Owned Keys,"Theft, theft schemes and unauthorized use or removal of property"
+230,Unauthorized Use of Rented Motor Vehicle,"Theft, theft schemes and unauthorized use or removal of property"
+291,"THEFT SCHEME: $100,000 PLUS","Theft, theft schemes and unauthorized use or removal of property"
+303,"THEFT SCHEME: $25,000 TO UNDER $100,000","Theft, theft schemes and unauthorized use or removal of property"
+311,"THEFT: $100 TO UNDER $1,500-All Other","Theft, theft schemes and unauthorized use or removal of property"
+315,"THEFT: $100 TO UNDER $1,500-Bicycle","Theft, theft schemes and unauthorized use or removal of property"
+316,Theft Less Than $100 From Building,"Theft, theft schemes and unauthorized use or removal of property"
+317,"THEFT: $100 TO UNDER $1,500-From Building","Theft, theft schemes and unauthorized use or removal of property"
+318,Unauth Removal of Property,"Theft, theft schemes and unauthorized use or removal of property"
+319,Theft Less Than $100 From Motor Vehicle,"Theft, theft schemes and unauthorized use or removal of property"
+320,"THEFT: $1,500 TO UNDER $25,000-All Other","Theft, theft schemes and unauthorized use or removal of property"
+321,Unauth Removal of Motor Vehicle,"Theft, theft schemes and unauthorized use or removal of property"
+322,Theft Less Than $100 Shoplifting,"Theft, theft schemes and unauthorized use or removal of property"
+334,"THEFT: $1,500 TO UNDER $25,000-From Building","Theft, theft schemes and unauthorized use or removal of property"
+338,"THEFT: $100 TO UNDER $1,500-Shoplifting","Theft, theft schemes and unauthorized use or removal of property"
+345,MOTOR VEHICLE/UNLAWFUL TAKING,"Theft, theft schemes and unauthorized use or removal of property"
+348,"THEFT: $100 TO UNDER $1,500-From Motor Vehicle","Theft, theft schemes and unauthorized use or removal of property"
+349,"THEFT: $1,500 TO UNDER $25,000-From Motor Vehicle","Theft, theft schemes and unauthorized use or removal of property"
+359,"THEFT SCHEME: $1,500 TO UNDER $25,000-Bicycle","Theft, theft schemes and unauthorized use or removal of property"
+360,"THEFT SCHEME: $100 TO UNDER $1,500-Bicycle","Theft, theft schemes and unauthorized use or removal of property"
+366,Theft Less Than $100 Vehicle Part,"Theft, theft schemes and unauthorized use or removal of property"
+367,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other","Theft, theft schemes and unauthorized use or removal of property"
+377,Theft Less Than $100 Bicycle,"Theft, theft schemes and unauthorized use or removal of property"
+384,"THEFT SCHEME: $100 TO UNDER $1,500-All Other","Theft, theft schemes and unauthorized use or removal of property"
+386,"THEFT SCHEME: $1,500 TO UNDER $25,000-Purse-Snatching","Theft, theft schemes and unauthorized use or removal of property"
+406,"THEFT: $25,000 TO UNDER $100,000-All Other","Theft, theft schemes and unauthorized use or removal of property"
+407,"THEFT SCHEME: $1,500 TO UNDER $25,000-From Motor Vehicle","Theft, theft schemes and unauthorized use or removal of property"
+408,"THEFT SCHEME: $100,000 PLUS-From Motor Vehicle","Theft, theft schemes and unauthorized use or removal of property"
+411,"THEFT: $100,000 PLUS-All Other","Theft, theft schemes and unauthorized use or removal of property"
+414,"THEFT: $1,500 TO UNDER $25,000-Bicycle","Theft, theft schemes and unauthorized use or removal of property"
+419,"THEFT: $100 TO UNDER $1,500-Vehicle Part","Theft, theft schemes and unauthorized use or removal of property"
+422,Grocery Cart removal,"Theft, theft schemes and unauthorized use or removal of property"
+429,"THEFT SCHEME: $100,000 PLUS-All Other","Theft, theft schemes and unauthorized use or removal of property"
+431,"THEFT: $1,500 TO UNDER $25,000-Vehicle Part","Theft, theft schemes and unauthorized use or removal of property"
+436,"THEFT SCHEME: $25,000 TO UNDER $100,000-All Other","Theft, theft schemes and unauthorized use or removal of property"
+4,Assault-1st Degree,"Assault, endangerment and unlawful restraint"
+38,Assault-2nd Degree,"Assault, endangerment and unlawful restraint"
+39,Simple Assault,"Assault, endangerment and unlawful restraint"
+93,Reckless Endangerment,"Assault, endangerment and unlawful restraint"
+149,False Imprisonment,"Assault, endangerment and unlawful restraint"
+201,Assault-2nd Degree-Law Enforcement Officer,"Assault, endangerment and unlawful restraint"
+335,"ASSAULT-SEC DEGREE-Simple, Not Aggravated","Assault, endangerment and unlawful restraint"
+337,"ASSAULT SEC DEG-LE Officer,Parole/Probation Agent - Aggravated","Assault, endangerment and unlawful restraint"
+341,"ASSAULT-SEC DEGREE-Hands,Fist,Feet,Etc-Aggravated Injury","Assault, endangerment and unlawful restraint"
+354,ATT-ASSAULT-SEC DEGREE,"Assault, endangerment and unlawful restraint"
+364,ASSAULT-FIRST DEGREE,"Assault, endangerment and unlawful restraint"
+417,"Assault Sec Deg-LE Officer, Parole/Probation Agent, Fire/EMS-Simple,Not Agg","Assault, endangerment and unlawful restraint"
+126,Robbery,Robbery
+385,ROBBERY,Robbery
+6,Dangerous Weapon on School Prop,Weapons and ammunition
+97,Firearm Possession with a Felony conviction,Weapons and ammunition
+98,Handgun in Vehicle,Weapons and ammunition
+99,Possession of Firearm or Ammo being under the age of 21,Weapons and ammunition
+144,Deadly Weapon - Conceal,Weapons and ammunition
+146,Handgun On Person,Weapons and ammunition
+247,Registration Firearm: Illegal Possesion,Weapons and ammunition
+260,CDS: Posssion of Firearms,Weapons and ammunition
+273,"Carrying, Wearing, or Transporting Hangun While Under the Influence: Alcohol or CDS",Weapons and ammunition
+274,Loaded Handgun in Vehicle,Weapons and ammunition
+277,CDS: Distribute Etc with Firearm,Weapons and ammunition
+278,Firearm/Drug Trafficking Crime,Weapons and ammunition
+279,Handgun Use during the commission of a Felony or violent crime,Weapons and ammunition
+297,DETACH MAG OVER 10 RNDS,Weapons and ammunition
+298,Loaded Handgun on Person,Weapons and ammunition
+323,ASSAULT WEAPON POSS/SELL,Weapons and ammunition
+368,ASSAULT WEAPON/ MAG. USE,Weapons and ammunition
+369,FIREARM USE/FEL-VIOL CRIME,Weapons and ammunition
+405,Dangerous Weapon-Int/Injure,Weapons and ammunition
+420,"Possess Electronic Control Device (Stun Gun/Taser), Violent Crime Conviction",Weapons and ammunition
+11,Malicious Destruction Property/Value -$1000,"Property damage, burning and tampering"
+27,Malicious Destruction of Proper/Value $1000+,"Property damage, burning and tampering"
+70,School Molest Etc Other Lock,"Property damage, burning and tampering"
+110,Malicious Destruction Property/Value Less than $500,"Property damage, burning and tampering"
+212,Malicious Burning 2nd Degree,"Property damage, burning and tampering"
+244,Malicious Destruction - Scheme/Value over $1000,"Property damage, burning and tampering"
+376,"(Riding on, Tampering with, Removing part of) (bicycle, EPMAD, motor scooter) w/o owner permission","Property damage, burning and tampering"
+381,"Willfully (damage, tamper with) motor vehicle without owner's consent","Property damage, burning and tampering"
+12,Race/Religion Property Damage: Institution,Bias-related conduct and property damage
+243,RACE/RELIG HARAS: PERSON,Bias-related conduct and property damage
+424,USE HATE ITEM/SYMBOL,Bias-related conduct and property damage
+18,Burglary/2nd Degree,"Burglary, vehicle break-ins and burglary tools"
+43,Rogue and Vagabond,"Burglary, vehicle break-ins and burglary tools"
+61,Burglary 2nd Degree,"Burglary, vehicle break-ins and burglary tools"
+118,Burglary 4th Degree Theft,"Burglary, vehicle break-ins and burglary tools"
+120,Burglary 4th Degree,"Burglary, vehicle break-ins and burglary tools"
+147,Burglary 1st Degree,"Burglary, vehicle break-ins and burglary tools"
+150,Burglary-4th Degree/Tools,"Burglary, vehicle break-ins and burglary tools"
+250,Burglary - 4th Degree/Permit Tool Use,"Burglary, vehicle break-ins and burglary tools"
+296,Burglary Tools-Mot. Veh/Possess,"Burglary, vehicle break-ins and burglary tools"
+331,BURGLARY/2ND DEGREE/GENERAL,"Burglary, vehicle break-ins and burglary tools"
+339,BURGLARY-4TH DEGREE/TOOLS,"Burglary, vehicle break-ins and burglary tools"
+344,BURGLARY-4TH DEGREE THEFT,"Burglary, vehicle break-ins and burglary tools"
+346,BURGLARY-FOURTH DEGREE-STOREHOUSE,"Burglary, vehicle break-ins and burglary tools"
+347,BURGLARY-FOURTH DEGREE-DWELLING,"Burglary, vehicle break-ins and burglary tools"
+391,BURGLARY-THIRD DEGREE,"Burglary, vehicle break-ins and burglary tools"
+421,BURGLARY-FIRST DEGREE,"Burglary, vehicle break-ins and burglary tools"
+30,School Trespassing On Ground,Trespassing and unlawful entry
+42,Trespassing Public Agency During Hours,Trespassing and unlawful entry
+47,Trespass-Posted Property,Trespassing and unlawful entry
+50,School Trespassing/Refuse to leave buidling,Trespassing and unlawful entry
+62,Unlawful Entry,Trespassing and unlawful entry
+84,Trespass: Private Property,Trespassing and unlawful entry
+90,Trespassing Public Agency After Hour,Trespassing and unlawful entry
+253,School Trespassing/Damage Property,Trespassing and unlawful entry
+22,Harass,"Threats, harassment, stalking and extortion"
+41,Threat of Mass Violence,"Threats, harassment, stalking and extortion"
+69,Telephone Misuse: Repeat Calls,"Threats, harassment, stalking and extortion"
+76,Telephone Misuse: Obscene,"Threats, harassment, stalking and extortion"
+77,Telephone Misuse: Single Call,"Threats, harassment, stalking and extortion"
+226,Threats-Send/Deliver injury,"Threats, harassment, stalking and extortion"
+232,Electronic Mail Harassment,"Threats, harassment, stalking and extortion"
+233,Stalking,"Threats, harassment, stalking and extortion"
+412,Print Extort Threat/of Crime,"Threats, harassment, stalking and extortion"
+40,False Statement to State Official,"Court order violations, obstruction, police evasion and related justice offenses"
+55,Attempt by driver to elude uniformed police by means other than failing to stop and fleeing on foot,"Court order violations, obstruction, police evasion and related justice offenses"
+68,Peace Order:  Fail to Comply,"Court order violations, obstruction, police evasion and related justice offenses"
+107,Fail Obey Reasonable/Lawful order of Law Enforcement Officer,"Court order violations, obstruction, police evasion and related justice offenses"
+123,Resist/Interfere with Arrest,"Court order violations, obstruction, police evasion and related justice offenses"
+125,False Statement to Officer,"Court order violations, obstruction, police evasion and related justice offenses"
+179,Attempt by driver to elude uniformed police by fleeing on foot,"Court order violations, obstruction, police evasion and related justice offenses"
+181,Attempt by driver to elude police in official police veh. by failing to stop,"Court order violations, obstruction, police evasion and related justice offenses"
+188,Obstructing and Hindering,"Court order violations, obstruction, police evasion and related justice offenses"
+189,Attempt by driver to elude police in official police veh. by fleeing on foot,"Court order violations, obstruction, police evasion and related justice offenses"
+191,ALTER PHYS EVIDENCE CRIM PROC,"Court order violations, obstruction, police evasion and related justice offenses"
+198,Veh. driver giving false and fictitious name to uniformed police,"Court order violations, obstruction, police evasion and related justice offenses"
+210,Bribe/Attempt Public Employee,"Court order violations, obstruction, police evasion and related justice offenses"
+219,Willfully disobeying lawful order and direction of police officer,"Court order violations, obstruction, police evasion and related justice offenses"
+234,Violate Exparte or Protective Order,"Court order violations, obstruction, police evasion and related justice offenses"
+236,False Statement to Peace Officer,"Court order violations, obstruction, police evasion and related justice offenses"
+251,Possess Contraband in a  place of Confinement,"Court order violations, obstruction, police evasion and related justice offenses"
+265,Attempt by driver to elude uniformed police by failing to stop veh.,"Court order violations, obstruction, police evasion and related justice offenses"
+299,Attempt by driver to elude police official police veh. by means other than failing to stop and fleeing on foot,"Court order violations, obstruction, police evasion and related justice offenses"
+309,Refusing to sign a traffic citation after request,"Court order violations, obstruction, police evasion and related justice offenses"
+352,Obstruct Justice,"Court order violations, obstruction, police evasion and related justice offenses"
+371,False Statement to Officer Cause,"Court order violations, obstruction, police evasion and related justice offenses"
+432,Escape - Second Degree,"Court order violations, obstruction, police evasion and related justice offenses"
+78,Warrant from Outside Agency,Warrants and no-charge records
+79,Suspicion - Arrested and Released without Charges,Warrants and no-charge records
+141,Suspicion/No Charges,Warrants and no-charge records
+34,School: Disturb Operation,"Public order, nuisance and public safety"
+54,Disorderly Conduct,"Public order, nuisance and public safety"
+91,Urinating or Defecating in Public,"Public order, nuisance and public safety"
+131,False Alarm/Fire: Cause,"Public order, nuisance and public safety"
+142,Fireworks Discharge without the required permit,"Public order, nuisance and public safety"
+235,Wearing of mask to conceal identity of wearer,"Public order, nuisance and public safety"
+275,False Statement - Destructive Device  (Statement/Rumor as a destructive device),"Public order, nuisance and public safety"
+353,Disturb Peace Hinder Passage,"Public order, nuisance and public safety"
+394,Litter/Dump Under 100 lbs,"Public order, nuisance and public safety"
+413,Disturbing the Peace,"Public order, nuisance and public safety"
+216,Contribute to Conditions of Child,Child welfare
+124,Sex Offense Fourth Degree,Sexual assault and unlawful sexual contact
+140,Rape Second Degree,Sexual assault and unlawful sexual contact
+342,Sex Offense- 4TH Degree-Sex Contact,Sexual assault and unlawful sexual contact
+427,Sex Offense Third Degree,Sexual assault and unlawful sexual contact
+439,Rape Second-Without Consent,Sexual assault and unlawful sexual contact
+73,Child Porn Computers,Sexual exploitation of children
+74,Child Porn Promote/Disturb,Sexual exploitation of children
+121,Trespass- Peeping Tom,"Voyeurism, surveillance and intimate images"
+280,Private Place - Prurient Intent (Visual Surveillance),"Voyeurism, surveillance and intimate images"
+375,Peeping Tom,"Voyeurism, surveillance and intimate images"
+393,DIST INTIMATE/SEX IMAGE,"Voyeurism, surveillance and intimate images"
+425,Private Place-Prurient Intent,"Voyeurism, surveillance and intimate images"
+430,Vis Surv-Private Area,"Voyeurism, surveillance and intimate images"
+437,Camera - Private Residence,"Voyeurism, surveillance and intimate images"
+87,Obscene Matter Sale to Minors,"Indecency, obscene materials and prostitution-related offenses"
+111,Indecent Exposure,"Indecency, obscene materials and prostitution-related offenses"
+312,Public Indecency,"Indecency, obscene materials and prostitution-related offenses"
+363,PROCURE/SOL PROSTITUTION/ASSIG,"Indecency, obscene materials and prostitution-related offenses"
+415,Obscene Matter/Possession with Intent to Distribute,"Indecency, obscene materials and prostitution-related offenses"
+416,Obscene Matter/Publish/Distribute,"Indecency, obscene materials and prostitution-related offenses"
+94,Alcohol Beverage/Open Container/Retail Establishment: w/o Authorization,"Alcohol possession, consumption, furnishing and public intoxication"
+102,CONSUME ALC BEV PUBLIC,"Alcohol possession, consumption, furnishing and public intoxication"
+105,Consuming/Possessing Open Alcoholic Beverage in Public,"Alcohol possession, consumption, furnishing and public intoxication"
+106,Driver consuming alcoholic beverage in passenger area of motor veh. on hwy,"Alcohol possession, consumption, furnishing and public intoxication"
+165,INTOXICATED ENDANGER,"Alcohol possession, consumption, furnishing and public intoxication"
+168,Alc Bev-Furnishing  Alcohol to Persons under 21,"Alcohol possession, consumption, furnishing and public intoxication"
+211,Occupant - Possess Alcoholic Bev. in Motor Vehicle,"Alcohol possession, consumption, furnishing and public intoxication"
+213,Underage Possession: Alcoholic Beverage,"Alcohol possession, consumption, furnishing and public intoxication"
+221,POSSESS OPEN CONTR PUBLIC,"Alcohol possession, consumption, furnishing and public intoxication"
+224,Misrepresentation of Age to Obtain Alcoholic Beverages,"Alcohol possession, consumption, furnishing and public intoxication"
+276,INTOXICATED PUBLIC DISTURB,"Alcohol possession, consumption, furnishing and public intoxication"
+282,Alcoholic Beverages - Consumption,"Alcohol possession, consumption, furnishing and public intoxication"
+372,Possession of open container,"Alcohol possession, consumption, furnishing and public intoxication"
+400,Open Container: Alcohol Prohibited Place,"Alcohol possession, consumption, furnishing and public intoxication"
+10,CDS:Possession Marijuana L/T 10 grams,"Drug possession, use and paraphernalia (including cannabis)"
+15,CDS: POSS MARIJUANA 10 GM+,"Drug possession, use and paraphernalia (including cannabis)"
+52,CDS: Possess-Not Marijuana,"Drug possession, use and paraphernalia (including cannabis)"
+89,CDS - Inhale Harmful Substance,"Drug possession, use and paraphernalia (including cannabis)"
+158,CDS: Possess Paraphernalia,"Drug possession, use and paraphernalia (including cannabis)"
+295,CDS Prescription/Remove Label,"Drug possession, use and paraphernalia (including cannabis)"
+325,CDS: POSS PARAPHERNALIA,"Drug possession, use and paraphernalia (including cannabis)"
+326,CDS: POSS-CANNABIS OVER CIVIL USE,"Drug possession, use and paraphernalia (including cannabis)"
+327,Smoking Cannabis in Public,"Drug possession, use and paraphernalia (including cannabis)"
+328,CDS:Possession Cannabis-Personal Amount,"Drug possession, use and paraphernalia (including cannabis)"
+332,CDS:Possession Cannabis-Civil Amount,"Drug possession, use and paraphernalia (including cannabis)"
+343,CDS: POSSESS-NOT CANNABIS,"Drug possession, use and paraphernalia (including cannabis)"
+390,Marijuana Possession - Personal Use Amount,"Drug possession, use and paraphernalia (including cannabis)"
+392,Possession or Receive CDS while Confined/Detained,"Drug possession, use and paraphernalia (including cannabis)"
+395,CDS Opiate without Prescription,"Drug possession, use and paraphernalia (including cannabis)"
+418,Marijuana Possession - Civil Use Amount,"Drug possession, use and paraphernalia (including cannabis)"
+103,CDS:Poss w/Intent to Distribute,"Drug manufacture, distribution, packaging and intent to distribute"
+122,CDS:Manufacture/Distribute LSD/PCP,"Drug manufacture, distribution, packaging and intent to distribute"
+129,Fake CDS: Possession with intent to Distribute,"Drug manufacture, distribution, packaging and intent to distribute"
+155,CDS Possession wtih Intent to Distribute: School Bus/Property,"Drug manufacture, distribution, packaging and intent to distribute"
+157,CDS: Poss w/intent: PCP/LSD,"Drug manufacture, distribution, packaging and intent to distribute"
+163,CDS Possession with Intent to Distribute: School Bus/Property,"Drug manufacture, distribution, packaging and intent to distribute"
+167,Marijuana Packing Possesion/Distribute,"Drug manufacture, distribution, packaging and intent to distribute"
+245,CDS Dist - Other,"Drug manufacture, distribution, packaging and intent to distribute"
+256,CDS Poss w/intent to Distribute,"Drug manufacture, distribution, packaging and intent to distribute"
+294,CDS:Possess with intent to Distribute:Narcotic,"Drug manufacture, distribution, packaging and intent to distribute"
+307,Manufacture CDS,"Drug manufacture, distribution, packaging and intent to distribute"
+324,CDS POSS W/INT TO DIST,"Drug manufacture, distribution, packaging and intent to distribute"
+356,CDS POSS W/INT DIST-CANNABIS,"Drug manufacture, distribution, packaging and intent to distribute"
+433,CDS DIST: SCHOOL PROP/BUS,"Drug manufacture, distribution, packaging and intent to distribute"
+434,CDS Packaging Material Possesion/Distribute,"Drug manufacture, distribution, packaging and intent to distribute"
+435,CDS: POSS W/I DIST: NARC,"Drug manufacture, distribution, packaging and intent to distribute"
+45,Fraud - Personal Identity to Avoid Prosecution,"Fraud, forgery, false identification and financial offenses"
+46,Possess/Use False Government Identification Document,"Fraud, forgery, false identification and financial offenses"
+58,Bad Check/30 Dy Plot/NSF,"Fraud, forgery, false identification and financial offenses"
+60,FRAUD-PER. IDENT. AVOID PROS,"Fraud, forgery, false identification and financial offenses"
+64,FRAUD IDENT INFO THFT $100-<$1500,"Fraud, forgery, false identification and financial offenses"
+86,Possessing fictitious license,"Fraud, forgery, false identification and financial offenses"
+152,Credit Card/Another Charge Less Than $100,"Fraud, forgery, false identification and financial offenses"
+153,Credit Card: Steal Another's,"Fraud, forgery, false identification and financial offenses"
+154,Use/Disclose Credit Card Numbers,"Fraud, forgery, false identification and financial offenses"
+159,Forgery of Private Documents,"Fraud, forgery, false identification and financial offenses"
+160,Forgery Private Document Possess,"Fraud, forgery, false identification and financial offenses"
+161,Issue False Document as a True Counterfeit,"Fraud, forgery, false identification and financial offenses"
+172,CRED CRD-PERSONATN/$10K TO <$100K,"Fraud, forgery, false identification and financial offenses"
+173,Credit Card Equipment to Produce,"Fraud, forgery, false identification and financial offenses"
+174,Credit Card Sign Anothers,"Fraud, forgery, false identification and financial offenses"
+175,Credit Card: Counterfeit,"Fraud, forgery, false identification and financial offenses"
+176,False Credit Card: Charge Goods Less Than $500,"Fraud, forgery, false identification and financial offenses"
+177,"Use Credit Card to Obtain Property by Counterfeit, Etc.","Fraud, forgery, false identification and financial offenses"
+206,False Documentation: Under 21 w/False Age/DOB/Card/Document,"Fraud, forgery, false identification and financial offenses"
+223,CRD CRD FALSE CLM-SL L/T $100,"Fraud, forgery, false identification and financial offenses"
+228,"CRED CRD/ANOT. CHARG L/T $1,000","Fraud, forgery, false identification and financial offenses"
+229,FRAUD ID INFO THFT $1500-<$25K,"Fraud, forgery, false identification and financial offenses"
+231,Credit Card/Stolen:Recieve,"Fraud, forgery, false identification and financial offenses"
+305,Possession Etc. Re-encoder/Skimming Device,"Fraud, forgery, false identification and financial offenses"
+306,Credit Card/Another Charge $100<$1500,"Fraud, forgery, false identification and financial offenses"
+355,CRED CRD/ANOT CHRG $1500-<$25K,"Fraud, forgery, false identification and financial offenses"
+365,Knowing Sale/Issue False ID,"Fraud, forgery, false identification and financial offenses"
+373,Embezzle Misappropriate,"Fraud, forgery, false identification and financial offenses"
+382,CREDIT CARD/ANOTH CHG 100K+,"Fraud, forgery, false identification and financial offenses"
+383,CRED CRD-PERSONTN/$100-<$1500,"Fraud, forgery, false identification and financial offenses"
+397,CRED CARD PERSONTN $1500-<$25K,"Fraud, forgery, false identification and financial offenses"
+404,FALSE CRD CRD: CHRG GOODS L/T $100,"Fraud, forgery, false identification and financial offenses"
+409,Possession: False Identification,"Fraud, forgery, false identification and financial offenses"
+410,Currency: Manufacture/Counterfeit,"Fraud, forgery, false identification and financial offenses"
+237,Computer/Ill.Acc/Alter Data,Unauthorized computer access and data damage
+238,Computer/Ill.Acc/Damage,Unauthorized computer access and data damage
+314,Computers Illegal Access,Unauthorized computer access and data damage
+13,"Negligent driving veh. in careless and imprudent manner endangering property, life and person",Moving violations and road-user safety
+14,Reckless driving veh. in wanton and willfull disregard for safety of persons and property,Moving violations and road-user safety
+21,Driving veh. in excess of reasonable and prudent speed on hwy.,Moving violations and road-user safety
+25,Driver failing to make left turn from left turn lane,Moving violations and road-user safety
+26,Driver failure to obey properly placed traffic control device instructions,Moving violations and road-user safety
+44,Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement,Moving violations and road-user safety
+56,Driver of motor veh. following veh. closer than reasonable and prudent,Moving violations and road-user safety
+57,"Failure of driver to drive to curb upon signal by (emergency, police) veh.",Moving violations and road-user safety
+63,Failure to control veh. speed on hwy. to avoid collision,Moving violations and road-user safety
+65,Driving motor veh. in manner inteded to cause wheel spinning,Moving violations and road-user safety
+66,Driving veh. on hwy. at speed exceeding speed limit by 30 to 39 mph,Moving violations and road-user safety
+67,Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.,Moving violations and road-user safety
+85,"Driver fail to make required stop at (signal, sign, pavement mark)",Moving violations and road-user safety
+88,Driving veh. on hwy. at speed exceeding speed limit by 40 mph and over,Moving violations and road-user safety
+96,Driving veh. on sidewalk and sidewalk area where prohibited,Moving violations and road-user safety
+109,Unsafe backing of motor veh.,Moving violations and road-user safety
+112,Driver fail to stop at red traffic signal before right turn,Moving violations and road-user safety
+113,Failure to drive veh. on right half of roadway when required,Moving violations and road-user safety
+114,Driver fail to stop at steady circular red signal,Moving violations and road-user safety
+128,Driver changing lanes when unsafe,Moving violations and road-user safety
+133,Driver failure to stop at stop sign line,Moving violations and road-user safety
+135,Driver failure to make left turn from extreme left lane,Moving violations and road-user safety
+136,Driver making improper turn at intersection,Moving violations and road-user safety
+137,Driver turning veh. without giving appropriate signal as required,Moving violations and road-user safety
+145,"Failure to reduce speed in dangerous (weather, highway conditions)",Moving violations and road-user safety
+148,Driving veh. on hwy. at speed exceeding speed limit by 20 to 29 mph.,Moving violations and road-user safety
+166,Driving left of center line on raodway with 4 lanes for two-way traffic w/o authorization,Moving violations and road-user safety
+169,"Driver failure to stop before (entering, crossing) hwy. from private (road, driveway)",Moving violations and road-user safety
+178,Driver permitting person to occupy area of vehicle primarily intended to carry cargo,Moving violations and road-user safety
+182,"Operating (bicycle, EPAMD, motor scooter) on (hwy., roadway) wearing headset covering both ears",Moving violations and road-user safety
+184,Driver making prohibited U-turn on crest of grade,Moving violations and road-user safety
+190,Driving veh. on hwy at speed exceeding speed limit of 65 mph by 20 to 29 mph,Moving violations and road-user safety
+192,Operator failure to use seat belt,Moving violations and road-user safety
+194,Passenger age 16 or more in rear seat of motor veh. w/o seat belt restraint (Secondary Action),Moving violations and road-user safety
+199,Driver failing to give turn signal continuously during last 100' of travel before turning,Moving violations and road-user safety
+203,"Fail of driver mk lane chng avail lane not immed adj stopped,standing,park(com veh,prov maint, emer veh,serv veh,tow trk)",Moving violations and road-user safety
+209,Driver failure to make right turn from right roadway curb and edge,Moving violations and road-user safety
+217,Driver use of motor veh. horn on hwy. when not reasonably necessary for safety,Moving violations and road-user safety
+218,"Fail of drvr slow to reas & prud spd while pass stopped,stand,park(com maint veh, emer veh, serv veh)",Moving violations and road-user safety
+222,Driver fail to exercise caution at intersection with flashing yellow signal,Moving violations and road-user safety
+240,Failure to drive designated one way direction on posted roadway,Moving violations and road-user safety
+242,Driving veh. on hwy. at speed exceeding speed limit by 1 to 9 mph,Moving violations and road-user safety
+248,Driver failure to obey designated lane directions,Moving violations and road-user safety
+252,Driver when turning left failure to yield right-of-way to veh. approaching from opposite direction,Moving violations and road-user safety
+259,"Oper. m/v with (operator, occupant under age 16) not restrained by (seat belt, child safety seat)",Moving violations and road-user safety
+263,"Driver failure to yield right-of-way (entering, crossing) hwy. from private (road, driveway)",Moving violations and road-user safety
+264,Driving on median strip on divided hwy.,Moving violations and road-user safety
+266,Failure to drive on right hand roadway of divided hwy.,Moving violations and road-user safety
+284,Driver failure to sound horn warning to pedestrian,Moving violations and road-user safety
+285,Driver failure to stop for pedestrian in crosswalk not contributing to accident,Moving violations and road-user safety
+286,Exceeding highway work zone speed limit,Moving violations and road-user safety
+301,"Fail of drvr slow to reas & prud spd while pass stopped,stand,park veh on hwy disp(vis sig,haz lts, rd flrs or oth caut sig)",Moving violations and road-user safety
+302,Failure to reduce speed on curve,Moving violations and road-user safety
+313,"Fail driver mk lane chng avail lane not immed adj stopped,standing,parked veh on hwy disp(vis sig,haz lts,rd flrs or caut sig)",Moving violations and road-user safety
+330,"Driver starting veh. from (stopped, standing, parked) position when unsafe",Moving violations and road-user safety
+333,Driver failure to exercise due care to avoid pedestrian collison,Moving violations and road-user safety
+340,"Driving veh. onto controlled access hwy. from unauthorized (entrance, exit)",Moving violations and road-user safety
+358,Failure of veh. to yield intersection right-of-way to another veh.,Moving violations and road-user safety
+379,"Failure to yield right-of-way to pedestrian upon entering (alley, driveway, building)",Moving violations and road-user safety
+398,Driving motor veh. in manner intended to cause excessive noise,Moving violations and road-user safety
+399,Driver using hands to use a handheld telephone while motor vehicle is in motion,Moving violations and road-user safety
+428,"Failure of driver driving below (speed limit, normal speed of traffic) to keep right",Moving violations and road-user safety
+438,"Individual (operating, riding) on motorcycle w/o wearing required headgear protection",Moving violations and road-user safety
+440,Driver failure to obey traffic device on making turn,Moving violations and road-user safety
+71,"(Stopping, Parking, Leaving standing) veh. on hwy. outside business and residential district","Parking, stopping and roadway obstruction"
+108,Causing standing veh. to obstruct free veh. passage of roadway,"Parking, stopping and roadway obstruction"
+207,"(Standing, Parking) veh. within 20 feet of crosswalk (excludes Baltimore City)","Parking, stopping and roadway obstruction"
+208,"(Stopping, Standing, Parking) on veh. crossing or highway when prohibited","Parking, stopping and roadway obstruction"
+220,"(Stopping, Standing, Parking) veh. on crosswalk","Parking, stopping and roadway obstruction"
+246,"(Stopping, Standing, Parking) veh. in intersection","Parking, stopping and roadway obstruction"
+378,"(Stopping, Standing, Parking) veh. on sidewalk","Parking, stopping and roadway obstruction"
+401,"(Standing, Parking) veh. w/i 30 ft. of (flashing signal, (stop, yield) sign, traffic control signal)","Parking, stopping and roadway obstruction"
+402,"(Standing, Parking) veh. wherever prohibited by official sign","Parking, stopping and roadway obstruction"
+426,"(Parking, Standing) veh. on roadway in no passing zone","Parking, stopping and roadway obstruction"
+31,Failure to immediately return and remain at scene of accident involving bodily injury,Duties after a vehicle crash
+32,Failure to immediately stop veh. at scene of accident involving bodily injury,Duties after a vehicle crash
+186,"Failure to stop after accident involving damage to attended (veh., property)",Duties after a vehicle crash
+225,"Failure to return to and remain at scene of accident involving attended (veh. damage, property damage)",Duties after a vehicle crash
+254,Failure of driver inolved in accident to render reasonable assistance to injured person,Duties after a vehicle crash
+255,"Failure of veh. driver in (bodily injury, death, attended veh., attended property) accident to furnish req. ID and lic.",Duties after a vehicle crash
+270,"Failure of veh. driver to stop after unattended (veh., propety) damage accident",Duties after a vehicle crash
+388,"Failure of veh. driver in accident to locate and notify owner of unattended (veh., property) of damage",Duties after a vehicle crash
+24,Displaying expired registration plates(s) issued by any state,"Licensing, registration and insurance"
+35,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization","Licensing, registration and insurance"
+49,"Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege","Licensing, registration and insurance"
+92,Failure to display registration card upon demand by police officer,"Licensing, registration and insurance"
+95,Driving veh. in violation of restricted license requirement,"Licensing, registration and insurance"
+115,"(Knowingly driving, Owner knowingly permitting to be driven) uninsured veh.","Licensing, registration and insurance"
+116,Driving veh. on hwy. with suspended registration,"Licensing, registration and insurance"
+117,"Person driving motor veh. on (hwy., public use property) on revoked lic. and privilege","Licensing, registration and insurance"
+134,Possessing more than one driver's license at any one time,"Licensing, registration and insurance"
+171,Knowingly driving uninsured vehicle,"Licensing, registration and insurance"
+180,Driving veh. in violation of provisional license requirement,"Licensing, registration and insurance"
+187,Holder of learner's permit driving w/o req. supervision,"Licensing, registration and insurance"
+193,Failure of individual driving on hwy. to display lic. to uniformed police on demand,"Licensing, registration and insurance"
+200,Driving veh. on hwy. on expired lic.,"Licensing, registration and insurance"
+214,Unlawful possession of expired veh. reg. plates,"Licensing, registration and insurance"
+215,"Failure to maintain legible registration plate free from (foreign materials, covers)","Licensing, registration and insurance"
+227,Failure of licensee to notify Adm. of change of address within 30 days,"Licensing, registration and insurance"
+241,Failure to attach veh. reg. plates at front and rear,"Licensing, registration and insurance"
+249,"Person driving motor veh. on (hwy., public use property) on suspended out of state lic.","Licensing, registration and insurance"
+267,"(Displaying, Permitting to be displayed) reg. plate(s) issued (for other veh., to other person)","Licensing, registration and insurance"
+268,"Driving unregistered (motor vehicle, trailer, semitrailer or pole trailer) on highway","Licensing, registration and insurance"
+269,Unauthorized display and use of reg. plate,"Licensing, registration and insurance"
+271,Holder of learner's permit driving with unauthorized person occupying front seat,"Licensing, registration and insurance"
+272,Possessing more than one current driver's license at any one time,"Licensing, registration and insurance"
+281,Driving commercial motor veh. while lic./privilege suspended in this state,"Licensing, registration and insurance"
+287,Driving veh. on hwy w/o current registration plates and validation tabs,"Licensing, registration and insurance"
+292,Failure to carry registration card within vehicle,"Licensing, registration and insurance"
+300,Attempting to drive veh. on hwy. on expired lic.,"Licensing, registration and insurance"
+310,Permitting veh. to be driven on hwy. w/o current registration and validation tabs issued by Adm,"Licensing, registration and insurance"
+329,Failure to display tab on plates of veh. as required by Adm,"Licensing, registration and insurance"
+336,Driving veh. on hwy. with revoked registration,"Licensing, registration and insurance"
+351,"(Lending lic. to another, Knowingly permitting use of lic. by another)","Licensing, registration and insurance"
+361,Failure of individual driving on hwy. to have lic. with him,"Licensing, registration and insurance"
+362,Operating Unregistered Motor Veh,"Licensing, registration and insurance"
+389,"Driving veh. on hwy. with (canceled, suspended, revoked) reg","Licensing, registration and insurance"
+396,Failure to notify Adm. of address change within 30 days,"Licensing, registration and insurance"
+403,Driving commercial motor veh. without required license for that class of vehicle,"Licensing, registration and insurance"
+423,"Driving motor veh. while lic. suspended under (17-106, 26-204, 26-206, 27-103)","Licensing, registration and insurance"
+28,"Driving (veh., equipment) on hwy. with (lamp, device) improperly displaying white light from rear","Vehicle equipment, lighting and roadworthiness"
+33,"Failure of veh. on hwy. to display (lighted lamps, illuminating devices) in unfavorable visibility conditions","Vehicle equipment, lighting and roadworthiness"
+48,Failure to properly equip and locate headlamps on motor veh.,"Vehicle equipment, lighting and roadworthiness"
+162,"(Motor veh., Trailer, Semitrailer, Pole trailer) w/o required stop lamps equipment","Vehicle equipment, lighting and roadworthiness"
+170,Driving veh. w/o adequate rear reg. plate illumination,"Vehicle equipment, lighting and roadworthiness"
+183,"Use (bicycle, mot. scooter) on hwy. w/o functioning frontt lgt. and rear reflector or lght during unfavorable visibliity cond.","Vehicle equipment, lighting and roadworthiness"
+204,Failure to equip veh. with required rear stop lamp,"Vehicle equipment, lighting and roadworthiness"
+205,"(Driving, Causing to be driven, Knowingly permitting to be driven) unsafe veh. on hwy.","Vehicle equipment, lighting and roadworthiness"
+262,"(Headlight, Taillight, Stoplight, Turn Signal, ID light(s), Clearance light(s), Marker light(s) ) inoperative","Vehicle equipment, lighting and roadworthiness"
+289,"Driving (motor veh., trailer, semitrailer) on hwy. with metal tires in contact with road","Vehicle equipment, lighting and roadworthiness"
+290,Person driving motor veh. on hwy. w/o tires in safe operating condition as required by Adm.,"Vehicle equipment, lighting and roadworthiness"
+293,Failure to equip motor veh. with adequate vision outside mirror,"Vehicle equipment, lighting and roadworthiness"
+304,Failure to display two lighted front lamps when required,"Vehicle equipment, lighting and roadworthiness"
+357,"(Motor veh., Trailer, Combination end veh.) mfrd. after June 1, 1971, w/o adequate tail lamps","Vehicle equipment, lighting and roadworthiness"
+374,Person driving trailer on hwy. w/o tires in safe operating condition as required by Adm.,"Vehicle equipment, lighting and roadworthiness"
+380,Driving a motor vehicle without lighted head lamps or fog lights while operating windshield wipers(2nd Action),"Vehicle equipment, lighting and roadworthiness"
+387,Failure to equip. hwy. veh. with required lamps and reflectors,"Vehicle equipment, lighting and roadworthiness"
+441,Operating veh. on hwy. with unauthorized window tinting material,"Vehicle equipment, lighting and roadworthiness"
+442,Failure to display and reflect red color light on lamps and reflectors as req.,"Vehicle equipment, lighting and roadworthiness"
+5,Other Dangerous Weapon,Source descriptors and incomplete labels
+8,Automobiles,Source descriptors and incomplete labels
+19,Forced Entry,Source descriptors and incomplete labels
+23,A Course of Conduct,Source descriptors and incomplete labels
+53,Dangerous Nonnarcotics,Source descriptors and incomplete labels
+82,Other Vehicles,Source descriptors and incomplete labels
+100,Regulated firearm,Source descriptors and incomplete labels
+101,Stolen/Sell etc.,Source descriptors and incomplete labels
+104,"Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP)",Source descriptors and incomplete labels
+119,Attempted Forced Entry,Source descriptors and incomplete labels
+127,"strong arm-hands,fists,feet,etc.",Source descriptors and incomplete labels
+138,Opium or cocaine and derivatives),Source descriptors and incomplete labels
+139,Synthetic Narcotics,Source descriptors and incomplete labels
+151,Knife or Cutting Instrument,Source descriptors and incomplete labels
+156,Dangerous Nonnarcotic,Source descriptors and incomplete labels
+164,Marijuana,Source descriptors and incomplete labels
+185,Tag Lights,Source descriptors and incomplete labels
+196,"Hands, Fist, Feet, Etc.",Source descriptors and incomplete labels
+202,Simple,Source descriptors and incomplete labels
+239,"Less than $10,000",Source descriptors and incomplete labels
+257,Other Dangerous Drugs (Do not use for Narcotics,Source descriptors and incomplete labels
+258,"Crack, Cocaine, LSD or PCP)",Source descriptors and incomplete labels
+261,Trucks and Buses,Source descriptors and incomplete labels
+283,while driving motor vehicle on highway,Source descriptors and incomplete labels
+308,Marijuna,Source descriptors and incomplete labels
+370,Headlights,Source descriptors and incomplete labels
