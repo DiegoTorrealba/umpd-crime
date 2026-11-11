@@ -4,10 +4,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23315,01/04/2022 - 15:13,2021-00088547,,Black,Female,"THEFT: $100 TO UNDER $1,500"
 23316,01/09/2022 - 02:26,2022-00001605,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while impaired by alcohol while transporting a minor; (Driving, Attempting to drive) veh. while under the influence of (alcohol, alcohol per se) while transporting a minor; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23320,01/16/2022 - 00:40,2022-00002966,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
-23319,01/16/2022 - 02:10,2022-00002978,,Black,Male,Malicious Destruction Property/Value -$1000
 23319,01/16/2022 - 02:10,2022-00002978,,Black,Male,Burglary 4th Degree; Unlawful Entry
 23319,01/16/2022 - 02:10,2022-00002978,,Black,Male,Obstructing and Hindering
 23319,01/16/2022 - 02:10,2022-00002978,,Black,Male,Burglary-4th Degree/Tools
+23319,01/16/2022 - 02:10,2022-00002978,,Black,Male,Malicious Destruction Property/Value -$1000
 23321,01/21/2022 - 01:45,2022-00004171,,Black,Male,Urinating or Defecating in Public
 23322,01/23/2022 - 01:36,2022-00004807,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23349,01/26/2022 - 09:00,2021-00073763,,Black,Male,"THEFT: $100 TO UNDER $1,500"
@@ -122,9 +122,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23435,05/24/2022 - 23:55,2022-00037938,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23451,05/26/2022 - 11:17,2022-00038386,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23438,05/26/2022 - 17:57,2022-00038463,,Black,Male,CDS:Possession Marijuana L/T 10 grams
+23619,05/27/2022 - 12:00,2021-00083563,,Black,Male,CDS: Possess-Not Marijuana; Synthetic Narcotics
 23618,05/27/2022 - 12:00,2021-00083563,,Black,Male,CDS Prescription/Remove Label; CDS: Possess-Not Marijuana; Synthetic Narcotics
 23470,05/27/2022 - 12:00,2022-00028533,,Asian/Pacific Islander,Male,Unauthorized Removal of Property (Veh/Motor Veh/Horse/Vessel)
-23619,05/27/2022 - 12:00,2021-00083563,,Black,Male,CDS: Possess-Not Marijuana; Synthetic Narcotics
 23448,05/29/2022 - 23:52,2022-00039414,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver consuming alcoholic beverage in passenger area of motor veh. on hwy"
 23441,05/31/2022 - 01:10,2022-00039690,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23444,06/01/2022 - 01:14,2022-00040040,,Black,Male,CDS: POSS MARIJUANA 10 GM+
@@ -134,10 +134,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23454,06/03/2022 - 14:27,2022-00040834,,Black,Female,Disorderly Conduct; Malicious Destruction Property/Value -$1000; Resist/Interfere with Arrest
 899,06/03/2022 - 15:07,2022-00040832,,Black,Male,Burglary Tools-Mot. Veh/Possess; Motor Vehicle Theft/Unlawful Taking; Automobiles
 23446,06/04/2022 - 03:04,2022-00041026,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Carrying, Wearing, or Transporting Hangun While Under the Influence: Alcohol or CDS; CDS: Possess-Not Marijuana; Opium or cocaine and derivatives); DETACH MAG OVER 10 RNDS; Handgun in Vehicle; Handgun On Person; Loaded Handgun in Vehicle; Loaded Handgun on Person"
-23450,06/05/2022 - 18:20,2022-00035525,,Black,Male,Malicious Destruction Property/Value -$1000
 23449,06/05/2022 - 18:20,2022-00032241,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23449,06/05/2022 - 18:20,2022-00032241,,Black,Male,Malicious Destruction Property/Value -$1000
 23450,06/05/2022 - 18:20,2022-00035525,,Black,Male,"THEFT: $100 TO UNDER $1,500"
+23450,06/05/2022 - 18:20,2022-00035525,,Black,Male,Malicious Destruction Property/Value -$1000
 23447,06/05/2022 - 18:45,2022-00041346,,Black,Male,Possess/Use False Government Identification Document
 23516,06/06/2022 - 00:00,2021-00046132,,White,Male,Attempt by driver to elude police official police veh. by means other than failing to stop and fleeing on foot
 23460,06/10/2022 - 00:00,2020-00062681,,Black,Male,"THEFT: $25,000 TO UNDER $100,000"
@@ -151,26 +151,26 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23459,06/27/2022 - 00:12,2022-00047192,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Failure to drive on right hand roadway of divided hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23463,06/29/2022 - 05:00,2022-00047768,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Attempting to drive veh. on hwy. on expired lic.; Driving veh. in excess of reasonable and prudent speed on hwy.; Driving veh. on hwy. at speed exceeding speed limit by 30 to 39 mph; Fail of drvr slow to reas & prud spd while pass stopped,stand,park veh on hwy disp(vis sig,haz lts, rd flrs or oth caut sig); Failure of driver to drive to curb upon signal by (emergency, police) veh.; Failure to reduce speed on curve; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23465,07/01/2022 - 00:42,2022-00048201,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23538,07/02/2022 - 00:00,2021-00087512,,Black,Male,"Motor Vehicle Theft/Unlawful Taking; Automobiles; Rogue and Vagabond; THEFT SCHEME: $25,000 TO UNDER $100,000"
 23537,07/02/2022 - 00:00,2021-00087080,,Black,Male,Motor Vehicle Theft/Unlawful Taking; Automobiles
+23538,07/02/2022 - 00:00,2021-00087512,,Black,Male,"Motor Vehicle Theft/Unlawful Taking; Automobiles; Rogue and Vagabond; THEFT SCHEME: $25,000 TO UNDER $100,000"
 23466,07/03/2022 - 01:59,2022-00048719,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
-23468,07/03/2022 - 23:23,2022-00048934,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23467,07/03/2022 - 23:23,2022-00048931,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+23468,07/03/2022 - 23:23,2022-00048934,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23469,07/04/2022 - 00:59,2022-00048952,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23473,07/04/2022 - 01:11,2022-00048953,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 23475,07/08/2022 - 01:09,2022-00050151,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 23476,07/09/2022 - 03:02,2022-00050436,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23477,07/10/2022 - 01:09,2022-00050597,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23478,07/10/2022 - 02:27,2022-00050614,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23505,07/12/2022 - 00:00,2020-00040876,,Black,Male,Rogue and Vagabond
-23505,07/12/2022 - 00:00,2020-00040876,,Black,Male,Theft Less Than $100
-23507,07/12/2022 - 00:00,2020-00040689,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23506,07/12/2022 - 00:00,2020-00042601,,Black,Male,Malicious Destruction Property/Value Less than $500
 23506,07/12/2022 - 00:00,2020-00042601,,Black,Male,Rogue and Vagabond
 23507,07/12/2022 - 00:00,2020-00040689,,Black,Male,"Theft Less Than $100; THEFT: $1,500 TO UNDER $25,000"
 23507,07/12/2022 - 00:00,2020-00040689,,Black,Male,Malicious Destruction Property/Value Less than $500
 23507,07/12/2022 - 00:00,2020-00040689,,Black,Male,Rogue and Vagabond
 23506,07/12/2022 - 00:00,2020-00042601,,Black,Male,"THEFT: $100 TO UNDER $1,500"
+23505,07/12/2022 - 00:00,2020-00040876,,Black,Male,Rogue and Vagabond
+23505,07/12/2022 - 00:00,2020-00040876,,Black,Male,Theft Less Than $100
+23507,07/12/2022 - 00:00,2020-00040689,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23479,07/12/2022 - 02:20,2022-00051236,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23480,07/14/2022 - 15:51,2022-00051999,,Black,Male,Indecent Exposure; School Trespassing On Ground
 23481,07/14/2022 - 23:45,2022-00052092,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -180,13 +180,6 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23485,07/20/2022 - 02:08,2022-00053384,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23572,07/20/2022 - 12:00,2020-00009800,,Black,Male,Credit Card: Counterfeit; Credit Card: Steal Another's; Possession Etc. Re-encoder/Skimming Device; Use/Disclose Credit Card Numbers
 900,07/21/2022 - 11:37,2022-00010581,,Black,Male,Rape Second Degree
-23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card/Another Charge $100<$1500
-23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card/Another Charge Less Than $100
-23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card: Steal Another's
-23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,"THEFT: $100 TO UNDER $1,500"
-23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Use/Disclose Credit Card Numbers
-23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Credit Card/Another Charge $100<$1500
-23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Credit Card/Another Charge Less Than $100
 23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Credit Card: Steal Another's
 23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,"THEFT: $100 TO UNDER $1,500"
 23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Use/Disclose Credit Card Numbers
@@ -195,16 +188,23 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23508,07/23/2022 - 00:00,2019-00049490,,Black,Female,Credit Card: Steal Another's
 23508,07/23/2022 - 00:00,2019-00049490,,Black,Female,"THEFT: $100 TO UNDER $1,500"
 23508,07/23/2022 - 00:00,2019-00049490,,Black,Female,Use/Disclose Credit Card Numbers
+23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card/Another Charge $100<$1500
+23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card/Another Charge Less Than $100
+23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Credit Card: Steal Another's
+23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,"THEFT: $100 TO UNDER $1,500"
+23509,07/23/2022 - 00:00,2019-00049503,,Black,Female,Use/Disclose Credit Card Numbers
+23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Credit Card/Another Charge $100<$1500
+23510,07/23/2022 - 00:00,2019-00049701,,Black,Female,Credit Card/Another Charge Less Than $100
 23486,07/23/2022 - 00:05,2022-00054114,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23487,07/23/2022 - 17:04,2022-00054309,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23504,07/24/2022 - 01:54,2022-00054399,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver consuming alcoholic beverage in passenger area of motor veh. on hwy; Driver failure to obey properly placed traffic control device instructions; Driver failure to stop at stop sign line; Driving veh. in violation of restricted license requirement; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23503,07/25/2022 - 00:26,2022-00054618,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23488,07/25/2022 - 00:53,2022-00054618,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23489,07/25/2022 - 12:07,2022-00054714,,Black,Male,Burglary 2nd Degree; Attempted Forced Entry
-23500,07/26/2022 - 00:00,2021-00091172,,Black,Male,Indecent Exposure; School: Disturb Operation
-23500,07/26/2022 - 00:00,2021-00091172,,Black,Male,Disorderly Conduct
 23499,07/26/2022 - 00:00,2021-00091171,,Black,Male,Indecent Exposure
 23499,07/26/2022 - 00:00,2021-00091171,,Black,Male,Disorderly Conduct
+23500,07/26/2022 - 00:00,2021-00091172,,Black,Male,Indecent Exposure; School: Disturb Operation
+23500,07/26/2022 - 00:00,2021-00091172,,Black,Male,Disorderly Conduct
 23496,07/26/2022 - 00:34,2022-00054850,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver changing lanes when unsafe; Driver fail to stop at steady circular red signal; Driver failure to obey properly placed traffic control device instructions; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23497,07/26/2022 - 03:40,2022-00054863,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23490,07/26/2022 - 13:13,2022-00054944,,Black,Male,Indecent Exposure; School Trespassing On Ground
@@ -309,10 +309,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23610,10/29/2022 - 00:50,2022-00082497,,Asian/Pacific Islander,Male,Disorderly Conduct
 23611,10/31/2022 - 02:40,2022-00082517,,Black,Male,FRAUD-PER. IDENT. AVOID PROS
 23608,11/02/2022 - 12:03,2022-00083822,,White,Male,"THEFT: $1,500 TO UNDER $25,000"
+23612,11/02/2022 - 16:04,2022-00067210,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23612,11/02/2022 - 16:04,2022-00067210,,Black,Male,Malicious Destruction Property/Value -$1000
 23614,11/02/2022 - 16:04,2022-00068999,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23614,11/02/2022 - 16:04,2022-00068999,,Black,Male,Malicious Destruction Property/Value -$1000
-23612,11/02/2022 - 16:04,2022-00067210,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23609,11/03/2022 - 22:04,2022-00084172,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23613,11/04/2022 - 22:30,2022-00084479,,White,Male,Disorderly Conduct
 23638,11/10/2022 - 08:00,2022-00072896,,Black,Male,"THEFT: $100 TO UNDER $1,500"

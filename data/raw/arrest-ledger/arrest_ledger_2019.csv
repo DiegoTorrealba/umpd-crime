@@ -96,10 +96,6 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22023,02/28/2019 - 21:45,2019-00011798,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22004,02/28/2019 - 22:16,2019-00011799,,White,Male,CDS: POSS MARIJUANA 10 GM+
 22000,03/01/2019 - 00:20,2019-00011829,,White,Male,CDS:Possession Marijuana L/T 10 grams
-22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
-22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,Driver fail to stop at steady circular red signal; Driver failure to obey properly placed traffic control device instructions
-22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,Failure to drive veh. on right half of roadway when required
-22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,Reckless driving veh. in wanton and willfull disregard for safety of persons and property
 22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,Driver failure to obey properly placed traffic control device instructions
 22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person"
@@ -108,6 +104,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,Driver failure to stop at stop sign line; Driving veh. in violation of restricted license requirement; Failure to drive veh. on right half of roadway when required
 22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person"
+22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
+22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,Driver fail to stop at steady circular red signal; Driver failure to obey properly placed traffic control device instructions
+22009,03/01/2019 - 02:11,2019-00011860,,Black,Male,Failure to drive veh. on right half of roadway when required
+22008,03/01/2019 - 02:11,2019-00011861,,Black,Male,Reckless driving veh. in wanton and willfull disregard for safety of persons and property
 22011,03/01/2019 - 03:25,2019-00011889,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22002,03/01/2019 - 23:50,2019-00012045,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22003,03/01/2019 - 23:51,2019-00012045,,,,CDS Possession wtih Intent to Distribute: School Bus/Property; Dangerous Nonnarcotic; CDS: Poss w/intent: PCP/LSD; CDS: Possess-Not Marijuana; Dangerous Nonnarcotics
@@ -167,9 +167,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22060,04/05/2019 - 00:43,2019-00019188,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22096,04/05/2019 - 01:26,2019-00019214,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; CDS:Possession Marijuana L/T 10 grams"
 22058,04/05/2019 - 02:11,2019-00019223,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver changing lanes when unsafe; Driver failure to obey properly placed traffic control device instructions; Driving left of center line on raodway with 4 lanes for two-way traffic w/o authorization; Failure to display registration card upon demand by police officer; Failure to drive veh. on right half of roadway when required; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-22117,04/05/2019 - 22:38,2019-00019430,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22073,04/05/2019 - 22:38,2019-00019430,,White,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 22073,04/05/2019 - 22:38,2019-00019430,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+22117,04/05/2019 - 22:38,2019-00019430,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22072,04/06/2019 - 00:51,2019-00019458,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22071,04/06/2019 - 02:41,2019-00019470,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; CDS:Possession Marijuana L/T 10 grams"
 22063,04/06/2019 - 15:06,2019-00019595,,Black,Male,"THEFT: $100 TO UNDER $1,500"
@@ -201,9 +201,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22092,04/16/2019 - 02:00,2019-00021496,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver changing lanes when unsafe; Driver fail to stop at steady circular red signal; Driver failure to obey properly placed traffic control device instructions; Driver failure to stop before (entering, crossing) hwy. from private (road, driveway); Driver of motor veh. following veh. closer than reasonable and prudent; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 22097,04/16/2019 - 23:47,2019-00021701,,White,Female,CDS:Possession Marijuana L/T 10 grams
 22099,04/17/2019 - 00:22,2019-00021715,,White,Male,CDS:Possession Marijuana L/T 10 grams
-22119,04/17/2019 - 02:03,2019-00021739,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22119,04/17/2019 - 02:03,2019-00021739,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 22119,04/17/2019 - 02:03,2019-00021739,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
+22119,04/17/2019 - 02:03,2019-00021739,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22102,04/17/2019 - 21:12,2019-00021904,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22104,04/18/2019 - 01:45,2019-00021965,,White,Female,CDS:Possession Marijuana L/T 10 grams
 22108,04/19/2019 - 03:10,2019-00022161,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of (alcohol, alcohol per se) while transporting a minor"
@@ -313,15 +313,15 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22218,06/03/2019 - 01:37,2019-00031451,,Black,Male,CDS: POSS MARIJUANA 10 GM+
 22222,06/03/2019 - 16:51,2019-00031542,,Black,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to make left turn from extreme left lane; Driver failure to obey properly placed traffic control device instructions; Driving left of center line on raodway with 4 lanes for two-way traffic w/o authorization; Failure to control veh. speed on hwy. to avoid collision; Failure to drive veh. on right half of roadway when required; Failure to stop after accident involving damage to attended (veh., property); Holder of learner's permit driving w/o req. supervision; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 22254,06/04/2019 - 00:00,2019-00025056,,,,Malicious Destruction Property/Value -$1000
-22223,06/04/2019 - 00:03,2019-00022735,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 22224,06/04/2019 - 00:03,2019-00031600,,Black,Female,Burglary-4th Degree/Tools
+22223,06/04/2019 - 00:03,2019-00022735,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 22226,06/06/2019 - 02:21,2019-00031981,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22239,06/07/2019 - 00:00,2019-00026412,,White,Male,Assault-2nd Degree; Simple Assault
-22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,FRAUD-PER. IDENT. AVOID PROS
-22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,Rogue and Vagabond
 22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,Malicious Destruction Property/Value -$1000
 22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,Obstructing and Hindering
+22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,FRAUD-PER. IDENT. AVOID PROS
+22234,06/07/2019 - 17:54,2019-00032248,,Black,Male,Rogue and Vagabond
 22246,06/08/2019 - 02:18,2019-00032306,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Assault-2nd Degree; Simple Assault; CDS:Possession Marijuana L/T 10 grams; Resist/Interfere with Arrest"
 22230,06/09/2019 - 02:14,2019-00032485,,Black,Male,Attempt by driver to elude police in official police veh. by fleeing on foot; Obstructing and Hindering; Theft Less Than $100
 22232,06/09/2019 - 23:20,2019-00032646,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -388,10 +388,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22290,07/17/2019 - 23:59,2019-00039984,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 22322,07/18/2019 - 02:13,2019-00039990,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 22291,07/18/2019 - 02:17,2019-00039989,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-22369,07/18/2019 - 08:00,2018-00067770,,Black,Male,Burglary 2nd Degree; Unlawful Entry
 22370,07/18/2019 - 08:00,2018-00060031,,Black,Male,Burglary 2nd Degree; Unlawful Entry
 22355,07/18/2019 - 08:00,2019-00006138,,Black,Male,Burglary 2nd Degree; Unlawful Entry
 22371,07/18/2019 - 08:00,2018-00071283,,Black,Male,Burglary 2nd Degree; Unlawful Entry
+22369,07/18/2019 - 08:00,2018-00067770,,Black,Male,Burglary 2nd Degree; Unlawful Entry
 22323,07/19/2019 - 00:00,2019-00005479,,Black,Male,"Issue False Document as a True Counterfeit; THEFT SCHEME: $1,500 TO UNDER $25,000; THEFT: $1,500 TO UNDER $25,000"
 22329,07/19/2019 - 23:40,2019-00040335,,White,Male,False Documentation: Under 21 w/False Age/DOB/Card/Document
 22298,07/20/2019 - 00:30,2019-00040348,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public
@@ -546,8 +546,8 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 22461,09/29/2019 - 19:02,2019-00056971,,Black,Male,School Trespassing On Ground
 22470,09/30/2019 - 00:19,2019-00057003,,White,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 22468,10/01/2019 - 00:05,2019-00057277,,White,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely"
-22466,10/02/2019 - 00:24,2019-00057575,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22467,10/02/2019 - 00:24,2019-00057571,,Black,Male,CDS:Possession Marijuana L/T 10 grams
+22466,10/02/2019 - 00:24,2019-00057575,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22472,10/03/2019 - 12:45,2019-00054427,,Asian/Pacific Islander,Female,CRD CRD FALSE CLM-SL L/T $100; Credit Card: Steal Another's
 22476,10/04/2019 - 00:00,2019-00058083,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 22477,10/04/2019 - 00:40,2019-00058083,,Black,Male,CDS:Possession Marijuana L/T 10 grams; Warrant from Outside Agency

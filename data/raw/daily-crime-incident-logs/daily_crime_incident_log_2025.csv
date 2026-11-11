@@ -682,8 +682,8 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2025-00120365,05/18/2025 10:00:00,05/19/2025 - 09:20,Theft,Investigation Pending,4600 block of Rossborough Ln
 2025-00103454,05/17/2025 12:00:00,05/19/2025 - 14:21,Theft,Active/Pending,4300 block of Chapel Ln
 2025-00103455,05/19/2025 08:00:00,05/19/2025 - 14:33,Theft,Active/Pending,Lot 1b
-2025-00103457,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,University Blvd / Stadium Dr
 2025-00103456,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,Baltimore Ave
+2025-00103457,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,University Blvd / Stadium Dr
 2025-00120934,05/10/2025 00:00:00,05/19/2025 - 23:03,Damage to State Property,CBE,3900 block of Campus Dr
 2025-00121280,05/20/2025 03:13:00,05/20/2025 - 06:56,Theft,Investigation Pending,Lot 4a
 2025-00121421,06/08/2023 12:00:00,05/20/2025 - 09:51,Fraud,Active/Pending,5600 block of Rivertech Ct

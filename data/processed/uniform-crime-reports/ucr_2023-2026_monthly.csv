@@ -1,0 +1,3025 @@
+year,crime,crime_type,month,count
+2025,Drug/Narcotic Violations,crimes_against_property,Jan,1
+2025,Drug Equipment Violations,crimes_against_property,Jan,2
+2025,Pornography/Obscene Material,crimes_against_property,Jan,0
+2025,Prostitution,crimes_against_property,Jan,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Jan,0
+2025,Purchasing Prostitution,crimes_against_property,Jan,0
+2025,Weapon Law Violations,crimes_against_property,Jan,0
+2025,Animal Cruelty,crimes_against_property,Jan,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jan,0
+2025,Disorderly Conduct,crimes_against_property,Jan,0
+2025,Driving Under the Influence,crimes_against_property,Jan,17
+2025,Drunkeness,crimes_against_property,Jan,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Jan,0
+2025,Liquor Law Violations,crimes_against_property,Jan,0
+2025,Trespassing of Real Property,crimes_against_property,Jan,0
+2025,Betting/Wagering,crimes_against_property,Jan,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Jan,0
+2025,Gambling Equipment Violations,crimes_against_property,Jan,0
+2025,Sports Tampering,crimes_against_property,Jan,0
+2025,All Other Offenses,crimes_against_property,Jan,0
+2025,Robbery,crimes_against_persons,Jan,0
+2025,Arson,crimes_against_persons,Jan,0
+2025,Extortion/Blackmail,crimes_against_persons,Jan,0
+2025,Burglary/Breaking or Entering,crimes_against_persons,Jan,0
+2025,Pocket-picking,crimes_against_persons,Jan,0
+2025,Purse-snatching,crimes_against_persons,Jan,0
+2025,Shoplifting,crimes_against_persons,Jan,0
+2025,Theft From Building,crimes_against_persons,Jan,6
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Jan,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Jan,0
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jan,0
+2025,All Other Larceny,crimes_against_persons,Jan,12
+2025,Motor Vehicle Theft,crimes_against_persons,Jan,1
+2025,Counterfeiting/Forgery,crimes_against_persons,Jan,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jan,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jan,0
+2025,Impersonation,crimes_against_persons,Jan,0
+2025,Welfare Fraud,crimes_against_persons,Jan,0
+2025,Wire Fraud,crimes_against_persons,Jan,0
+2025,Identity Theft,crimes_against_persons,Jan,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Jan,0
+2025,Embezzlement,crimes_against_persons,Jan,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jan,0
+2025,Destruction/Vandalism,crimes_against_persons,Jan,1
+2025,Bribery,crimes_against_persons,Jan,0
+2025,Bad Checks,crimes_against_persons,Jan,0
+2025,All Other Offenses,crimes_against_persons,Jan,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Jan,0
+2025,Negligent Manslaughter,crimes_against_society,Jan,0
+2025,Justifiable Homicide,crimes_against_society,Jan,0
+2025,Kidnapping/Abduction,crimes_against_society,Jan,0
+2025,Rape,crimes_against_society,Jan,0
+2025,Sodomy,crimes_against_society,Jan,0
+2025,Sexual Assault w/ Object,crimes_against_society,Jan,0
+2025,Fondling,crimes_against_society,Jan,1
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jan,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jan,0
+2025,Aggravated Assault,crimes_against_society,Jan,0
+2025,Simple Assault,crimes_against_society,Jan,0
+2025,Intimidation,crimes_against_society,Jan,0
+2025,Incest,crimes_against_society,Jan,0
+2025,Statutory Rape,crimes_against_society,Jan,0
+2025,All Other Offenses,crimes_against_society,Jan,0
+2024,Drug/Narcotic Violations,crimes_against_property,Jan,1
+2024,Drug Equipment Violations,crimes_against_property,Jan,0
+2024,Pornography/Obscene Material,crimes_against_property,Jan,0
+2024,Prostitution,crimes_against_property,Jan,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Jan,0
+2024,Purchasing Prostitution,crimes_against_property,Jan,0
+2024,Weapon Law Violations,crimes_against_property,Jan,0
+2024,Animal Cruelty,crimes_against_property,Jan,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jan,0
+2024,Disorderly Conduct,crimes_against_property,Jan,2
+2024,Driving Under the Influence,crimes_against_property,Jan,10
+2024,Drunkeness,crimes_against_property,Jan,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Jan,0
+2024,Liquor Law Violations,crimes_against_property,Jan,0
+2024,Trespassing of Real Property,crimes_against_property,Jan,0
+2024,Betting/Wagering,crimes_against_property,Jan,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Jan,0
+2024,Gambling Equipment Violations,crimes_against_property,Jan,0
+2024,Sports Tampering,crimes_against_property,Jan,0
+2024,All Other Offenses,crimes_against_property,Jan,1
+2024,Robbery,crimes_against_persons,Jan,0
+2024,Arson,crimes_against_persons,Jan,0
+2024,Extortion/Blackmail,crimes_against_persons,Jan,2
+2024,Burglary/Breaking or Entering,crimes_against_persons,Jan,1
+2024,Pocket-picking,crimes_against_persons,Jan,0
+2024,Purse-snatching,crimes_against_persons,Jan,0
+2024,Shoplifting,crimes_against_persons,Jan,0
+2024,Theft From Building,crimes_against_persons,Jan,5
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Jan,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Jan,2
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jan,0
+2024,All Other Larceny,crimes_against_persons,Jan,6
+2024,Motor Vehicle Theft,crimes_against_persons,Jan,1
+2024,Counterfeiting/Forgery,crimes_against_persons,Jan,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jan,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jan,2
+2024,Impersonation,crimes_against_persons,Jan,0
+2024,Welfare Fraud,crimes_against_persons,Jan,0
+2024,Wire Fraud,crimes_against_persons,Jan,0
+2024,Identity Theft,crimes_against_persons,Jan,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Jan,0
+2024,Embezzlement,crimes_against_persons,Jan,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jan,0
+2024,Destruction/Vandalism,crimes_against_persons,Jan,16
+2024,Bribery,crimes_against_persons,Jan,0
+2024,Bad Checks,crimes_against_persons,Jan,0
+2024,All Other Offenses,crimes_against_persons,Jan,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Jan,0
+2024,Negligent Manslaughter,crimes_against_society,Jan,0
+2024,Justifiable Homicide,crimes_against_society,Jan,0
+2024,Kidnapping/Abduction,crimes_against_society,Jan,0
+2024,Rape,crimes_against_society,Jan,0
+2024,Sodomy,crimes_against_society,Jan,0
+2024,Sexual Assault w/ Object,crimes_against_society,Jan,0
+2024,Fondling,crimes_against_society,Jan,1
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jan,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jan,0
+2024,Aggravated Assault,crimes_against_society,Jan,0
+2024,Simple Assault,crimes_against_society,Jan,0
+2024,Intimidation,crimes_against_society,Jan,0
+2024,Incest,crimes_against_society,Jan,0
+2024,Statutory Rape,crimes_against_society,Jan,0
+2024,All Other Offenses,crimes_against_society,Jan,0
+2023,Robbery,crimes_against_persons,Jan,0
+2023,Arson,crimes_against_persons,Jan,0
+2023,Extortion/Blackmail,crimes_against_persons,Jan,2
+2023,Burglary/Breaking or Entering,crimes_against_persons,Jan,1
+2023,Pocket-picking,crimes_against_persons,Jan,0
+2023,Purse-snatching,crimes_against_persons,Jan,0
+2023,Shoplifting,crimes_against_persons,Jan,3
+2023,Theft From Building,crimes_against_persons,Jan,5
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Jan,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Jan,1
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jan,1
+2023,All Other Larceny,crimes_against_persons,Jan,12
+2023,Motor Vehicle Theft,crimes_against_persons,Jan,1
+2023,Counterfeiting/Forgery,crimes_against_persons,Jan,0
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jan,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jan,0
+2023,Impersonation,crimes_against_persons,Jan,0
+2023,Welfare Fraud,crimes_against_persons,Jan,0
+2023,Wire Fraud,crimes_against_persons,Jan,0
+2023,Identity Theft,crimes_against_persons,Jan,1
+2023,Hacking/Computer Invasion,crimes_against_persons,Jan,0
+2023,Embezzlement,crimes_against_persons,Jan,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jan,0
+2023,Destruction/Vandalism,crimes_against_persons,Jan,11
+2023,Bribery,crimes_against_persons,Jan,0
+2023,Bad Checks,crimes_against_persons,Jan,0
+2023,All Other Offenses,crimes_against_persons,Jan,1
+2023,Drug/Narcotic Violations,crimes_against_property,Jan,5
+2023,Drug Equipment Violations,crimes_against_property,Jan,0
+2023,Pornography/Obscene Material,crimes_against_property,Jan,0
+2023,Prostitution,crimes_against_property,Jan,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Jan,0
+2023,Purchasing Prostitution,crimes_against_property,Jan,0
+2023,Weapon Law Violations,crimes_against_property,Jan,0
+2023,Animal Cruelty,crimes_against_property,Jan,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jan,0
+2023,Disorderly Conduct,crimes_against_property,Jan,0
+2023,Driving Under the Influence,crimes_against_property,Jan,5
+2023,Drunkeness,crimes_against_property,Jan,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Jan,0
+2023,Liquor Law Violations,crimes_against_property,Jan,0
+2023,Trespassing of Real Property,crimes_against_property,Jan,1
+2023,Betting/Wagering,crimes_against_property,Jan,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Jan,0
+2023,Gambling Equipment Violations,crimes_against_property,Jan,0
+2023,Sports Tampering,crimes_against_property,Jan,0
+2023,All Other Offenses,crimes_against_property,Jan,0
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Jan,0
+2023,Negligent Manslaughter,crimes_against_society,Jan,0
+2023,Justifiable Homicide,crimes_against_society,Jan,0
+2023,Kidnapping/Abduction,crimes_against_society,Jan,0
+2023,Rape,crimes_against_society,Jan,0
+2023,Sodomy,crimes_against_society,Jan,0
+2023,Sexual Assault w/ Object,crimes_against_society,Jan,0
+2023,Fondling,crimes_against_society,Jan,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jan,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jan,0
+2023,Aggravated Assault,crimes_against_society,Jan,0
+2023,Simple Assault,crimes_against_society,Jan,0
+2023,Intimidation,crimes_against_society,Jan,0
+2023,Incest,crimes_against_society,Jan,0
+2023,Statutory Rape,crimes_against_society,Jan,0
+2023,All Other Offenses,crimes_against_society,Jan,0
+2026,Drug/Narcotic Violations,crimes_against_property,Jan,0
+2026,Drug Equipment Violations,crimes_against_property,Jan,0
+2026,Pornography/Obscene Material,crimes_against_property,Jan,0
+2026,Prostitution,crimes_against_property,Jan,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Jan,0
+2026,Purchasing Prostitution,crimes_against_property,Jan,0
+2026,Weapon Law Violations,crimes_against_property,Jan,1
+2026,Animal Cruelty,crimes_against_property,Jan,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jan,0
+2026,Disorderly Conduct,crimes_against_property,Jan,0
+2026,Driving Under the Influence,crimes_against_property,Jan,10
+2026,Drunkeness,crimes_against_property,Jan,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Jan,0
+2026,Liquor Law Violations,crimes_against_property,Jan,0
+2026,Trespassing of Real Property,crimes_against_property,Jan,0
+2026,Betting/Wagering,crimes_against_property,Jan,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Jan,0
+2026,Gambling Equipment Violations,crimes_against_property,Jan,0
+2026,Sports Tampering,crimes_against_property,Jan,0
+2026,All Other Offenses,crimes_against_property,Jan,0
+2026,Robbery,crimes_against_persons,Jan,0
+2026,Arson,crimes_against_persons,Jan,0
+2026,Extortion/Blackmail,crimes_against_persons,Jan,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Jan,1
+2026,Pocket-picking,crimes_against_persons,Jan,0
+2026,Purse-snatching,crimes_against_persons,Jan,0
+2026,Shoplifting,crimes_against_persons,Jan,0
+2026,Theft From Building,crimes_against_persons,Jan,1
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Jan,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Jan,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jan,0
+2026,All Other Larceny,crimes_against_persons,Jan,8
+2026,Motor Vehicle Theft,crimes_against_persons,Jan,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Jan,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jan,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jan,0
+2026,Impersonation,crimes_against_persons,Jan,0
+2026,Welfare Fraud,crimes_against_persons,Jan,0
+2026,Wire Fraud,crimes_against_persons,Jan,0
+2026,Identity Theft,crimes_against_persons,Jan,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Jan,0
+2026,Embezzlement,crimes_against_persons,Jan,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jan,0
+2026,Destruction/Vandalism,crimes_against_persons,Jan,1
+2026,Bribery,crimes_against_persons,Jan,0
+2026,Bad Checks,crimes_against_persons,Jan,0
+2026,All Other Offenses,crimes_against_persons,Jan,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Jan,0
+2026,Negligent Manslaughter,crimes_against_society,Jan,0
+2026,Justifiable Homicide,crimes_against_society,Jan,0
+2026,Kidnapping/Abduction,crimes_against_society,Jan,0
+2026,Rape,crimes_against_society,Jan,0
+2026,Sodomy,crimes_against_society,Jan,0
+2026,Sexual Assault w/ Object,crimes_against_society,Jan,0
+2026,Fondling,crimes_against_society,Jan,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jan,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jan,0
+2026,Aggravated Assault,crimes_against_society,Jan,0
+2026,Simple Assault,crimes_against_society,Jan,0
+2026,Intimidation,crimes_against_society,Jan,0
+2026,Incest,crimes_against_society,Jan,0
+2026,Statutory Rape,crimes_against_society,Jan,0
+2026,All Other Offenses,crimes_against_society,Jan,0
+2025,Drug/Narcotic Violations,crimes_against_property,Feb,1
+2025,Drug Equipment Violations,crimes_against_property,Feb,0
+2025,Pornography/Obscene Material,crimes_against_property,Feb,1
+2025,Prostitution,crimes_against_property,Feb,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Feb,0
+2025,Purchasing Prostitution,crimes_against_property,Feb,0
+2025,Weapon Law Violations,crimes_against_property,Feb,1
+2025,Animal Cruelty,crimes_against_property,Feb,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Feb,0
+2025,Disorderly Conduct,crimes_against_property,Feb,2
+2025,Driving Under the Influence,crimes_against_property,Feb,11
+2025,Drunkeness,crimes_against_property,Feb,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Feb,0
+2025,Liquor Law Violations,crimes_against_property,Feb,0
+2025,Trespassing of Real Property,crimes_against_property,Feb,2
+2025,Betting/Wagering,crimes_against_property,Feb,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Feb,0
+2025,Gambling Equipment Violations,crimes_against_property,Feb,0
+2025,Sports Tampering,crimes_against_property,Feb,0
+2025,All Other Offenses,crimes_against_property,Feb,1
+2025,Robbery,crimes_against_persons,Feb,0
+2025,Arson,crimes_against_persons,Feb,0
+2025,Extortion/Blackmail,crimes_against_persons,Feb,0
+2025,Burglary/Breaking or Entering,crimes_against_persons,Feb,0
+2025,Pocket-picking,crimes_against_persons,Feb,0
+2025,Purse-snatching,crimes_against_persons,Feb,0
+2025,Shoplifting,crimes_against_persons,Feb,0
+2025,Theft From Building,crimes_against_persons,Feb,4
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Feb,1
+2025,Theft From Motor Vehicle,crimes_against_persons,Feb,1
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Feb,0
+2025,All Other Larceny,crimes_against_persons,Feb,18
+2025,Motor Vehicle Theft,crimes_against_persons,Feb,0
+2025,Counterfeiting/Forgery,crimes_against_persons,Feb,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Feb,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Feb,0
+2025,Impersonation,crimes_against_persons,Feb,0
+2025,Welfare Fraud,crimes_against_persons,Feb,0
+2025,Wire Fraud,crimes_against_persons,Feb,0
+2025,Identity Theft,crimes_against_persons,Feb,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Feb,0
+2025,Embezzlement,crimes_against_persons,Feb,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Feb,0
+2025,Destruction/Vandalism,crimes_against_persons,Feb,8
+2025,Bribery,crimes_against_persons,Feb,0
+2025,Bad Checks,crimes_against_persons,Feb,0
+2025,All Other Offenses,crimes_against_persons,Feb,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Feb,0
+2025,Negligent Manslaughter,crimes_against_society,Feb,0
+2025,Justifiable Homicide,crimes_against_society,Feb,0
+2025,Kidnapping/Abduction,crimes_against_society,Feb,0
+2025,Rape,crimes_against_society,Feb,0
+2025,Sodomy,crimes_against_society,Feb,0
+2025,Sexual Assault w/ Object,crimes_against_society,Feb,0
+2025,Fondling,crimes_against_society,Feb,2
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Feb,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Feb,0
+2025,Aggravated Assault,crimes_against_society,Feb,0
+2025,Simple Assault,crimes_against_society,Feb,2
+2025,Intimidation,crimes_against_society,Feb,0
+2025,Incest,crimes_against_society,Feb,0
+2025,Statutory Rape,crimes_against_society,Feb,0
+2025,All Other Offenses,crimes_against_society,Feb,0
+2024,Drug/Narcotic Violations,crimes_against_property,Feb,3
+2024,Drug Equipment Violations,crimes_against_property,Feb,1
+2024,Pornography/Obscene Material,crimes_against_property,Feb,0
+2024,Prostitution,crimes_against_property,Feb,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Feb,0
+2024,Purchasing Prostitution,crimes_against_property,Feb,0
+2024,Weapon Law Violations,crimes_against_property,Feb,0
+2024,Animal Cruelty,crimes_against_property,Feb,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Feb,0
+2024,Disorderly Conduct,crimes_against_property,Feb,3
+2024,Driving Under the Influence,crimes_against_property,Feb,9
+2024,Drunkeness,crimes_against_property,Feb,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Feb,0
+2024,Liquor Law Violations,crimes_against_property,Feb,3
+2024,Trespassing of Real Property,crimes_against_property,Feb,2
+2024,Betting/Wagering,crimes_against_property,Feb,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Feb,0
+2024,Gambling Equipment Violations,crimes_against_property,Feb,0
+2024,Sports Tampering,crimes_against_property,Feb,0
+2024,All Other Offenses,crimes_against_property,Feb,3
+2024,Robbery,crimes_against_persons,Feb,0
+2024,Arson,crimes_against_persons,Feb,0
+2024,Extortion/Blackmail,crimes_against_persons,Feb,2
+2024,Burglary/Breaking or Entering,crimes_against_persons,Feb,0
+2024,Pocket-picking,crimes_against_persons,Feb,0
+2024,Purse-snatching,crimes_against_persons,Feb,0
+2024,Shoplifting,crimes_against_persons,Feb,0
+2024,Theft From Building,crimes_against_persons,Feb,11
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Feb,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Feb,2
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Feb,0
+2024,All Other Larceny,crimes_against_persons,Feb,31
+2024,Motor Vehicle Theft,crimes_against_persons,Feb,1
+2024,Counterfeiting/Forgery,crimes_against_persons,Feb,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Feb,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Feb,6
+2024,Impersonation,crimes_against_persons,Feb,0
+2024,Welfare Fraud,crimes_against_persons,Feb,0
+2024,Wire Fraud,crimes_against_persons,Feb,0
+2024,Identity Theft,crimes_against_persons,Feb,2
+2024,Hacking/Computer Invasion,crimes_against_persons,Feb,0
+2024,Embezzlement,crimes_against_persons,Feb,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Feb,0
+2024,Destruction/Vandalism,crimes_against_persons,Feb,10
+2024,Bribery,crimes_against_persons,Feb,0
+2024,Bad Checks,crimes_against_persons,Feb,0
+2024,All Other Offenses,crimes_against_persons,Feb,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Feb,0
+2024,Negligent Manslaughter,crimes_against_society,Feb,0
+2024,Justifiable Homicide,crimes_against_society,Feb,0
+2024,Kidnapping/Abduction,crimes_against_society,Feb,0
+2024,Rape,crimes_against_society,Feb,0
+2024,Sodomy,crimes_against_society,Feb,0
+2024,Sexual Assault w/ Object,crimes_against_society,Feb,0
+2024,Fondling,crimes_against_society,Feb,1
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Feb,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Feb,0
+2024,Aggravated Assault,crimes_against_society,Feb,0
+2024,Simple Assault,crimes_against_society,Feb,1
+2024,Intimidation,crimes_against_society,Feb,0
+2024,Incest,crimes_against_society,Feb,0
+2024,Statutory Rape,crimes_against_society,Feb,0
+2024,All Other Offenses,crimes_against_society,Feb,0
+2023,Robbery,crimes_against_persons,Feb,0
+2023,Arson,crimes_against_persons,Feb,0
+2023,Extortion/Blackmail,crimes_against_persons,Feb,1
+2023,Burglary/Breaking or Entering,crimes_against_persons,Feb,0
+2023,Pocket-picking,crimes_against_persons,Feb,0
+2023,Purse-snatching,crimes_against_persons,Feb,0
+2023,Shoplifting,crimes_against_persons,Feb,3
+2023,Theft From Building,crimes_against_persons,Feb,5
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Feb,1
+2023,Theft From Motor Vehicle,crimes_against_persons,Feb,2
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Feb,0
+2023,All Other Larceny,crimes_against_persons,Feb,17
+2023,Motor Vehicle Theft,crimes_against_persons,Feb,4
+2023,Counterfeiting/Forgery,crimes_against_persons,Feb,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Feb,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Feb,0
+2023,Impersonation,crimes_against_persons,Feb,0
+2023,Welfare Fraud,crimes_against_persons,Feb,0
+2023,Wire Fraud,crimes_against_persons,Feb,0
+2023,Identity Theft,crimes_against_persons,Feb,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Feb,0
+2023,Embezzlement,crimes_against_persons,Feb,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Feb,0
+2023,Destruction/Vandalism,crimes_against_persons,Feb,7
+2023,Bribery,crimes_against_persons,Feb,0
+2023,Bad Checks,crimes_against_persons,Feb,0
+2023,All Other Offenses,crimes_against_persons,Feb,0
+2023,Drug/Narcotic Violations,crimes_against_property,Feb,9
+2023,Drug Equipment Violations,crimes_against_property,Feb,1
+2023,Pornography/Obscene Material,crimes_against_property,Feb,0
+2023,Prostitution,crimes_against_property,Feb,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Feb,0
+2023,Purchasing Prostitution,crimes_against_property,Feb,0
+2023,Weapon Law Violations,crimes_against_property,Feb,2
+2023,Animal Cruelty,crimes_against_property,Feb,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Feb,0
+2023,Disorderly Conduct,crimes_against_property,Feb,0
+2023,Driving Under the Influence,crimes_against_property,Feb,13
+2023,Drunkeness,crimes_against_property,Feb,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Feb,0
+2023,Liquor Law Violations,crimes_against_property,Feb,0
+2023,Trespassing of Real Property,crimes_against_property,Feb,0
+2023,Betting/Wagering,crimes_against_property,Feb,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Feb,0
+2023,Gambling Equipment Violations,crimes_against_property,Feb,0
+2023,Sports Tampering,crimes_against_property,Feb,0
+2023,All Other Offenses,crimes_against_property,Feb,0
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Feb,0
+2023,Negligent Manslaughter,crimes_against_society,Feb,0
+2023,Justifiable Homicide,crimes_against_society,Feb,0
+2023,Kidnapping/Abduction,crimes_against_society,Feb,0
+2023,Rape,crimes_against_society,Feb,0
+2023,Sodomy,crimes_against_society,Feb,0
+2023,Sexual Assault w/ Object,crimes_against_society,Feb,0
+2023,Fondling,crimes_against_society,Feb,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Feb,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Feb,0
+2023,Aggravated Assault,crimes_against_society,Feb,1
+2023,Simple Assault,crimes_against_society,Feb,4
+2023,Intimidation,crimes_against_society,Feb,0
+2023,Incest,crimes_against_society,Feb,0
+2023,Statutory Rape,crimes_against_society,Feb,0
+2023,All Other Offenses,crimes_against_society,Feb,0
+2026,Drug/Narcotic Violations,crimes_against_property,Feb,0
+2026,Drug Equipment Violations,crimes_against_property,Feb,2
+2026,Pornography/Obscene Material,crimes_against_property,Feb,0
+2026,Prostitution,crimes_against_property,Feb,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Feb,0
+2026,Purchasing Prostitution,crimes_against_property,Feb,0
+2026,Weapon Law Violations,crimes_against_property,Feb,0
+2026,Animal Cruelty,crimes_against_property,Feb,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Feb,0
+2026,Disorderly Conduct,crimes_against_property,Feb,0
+2026,Driving Under the Influence,crimes_against_property,Feb,17
+2026,Drunkeness,crimes_against_property,Feb,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Feb,0
+2026,Liquor Law Violations,crimes_against_property,Feb,0
+2026,Trespassing of Real Property,crimes_against_property,Feb,0
+2026,Betting/Wagering,crimes_against_property,Feb,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Feb,0
+2026,Gambling Equipment Violations,crimes_against_property,Feb,0
+2026,Sports Tampering,crimes_against_property,Feb,0
+2026,All Other Offenses,crimes_against_property,Feb,0
+2026,Robbery,crimes_against_persons,Feb,0
+2026,Arson,crimes_against_persons,Feb,0
+2026,Extortion/Blackmail,crimes_against_persons,Feb,1
+2026,Burglary/Breaking or Entering,crimes_against_persons,Feb,2
+2026,Pocket-picking,crimes_against_persons,Feb,0
+2026,Purse-snatching,crimes_against_persons,Feb,0
+2026,Shoplifting,crimes_against_persons,Feb,0
+2026,Theft From Building,crimes_against_persons,Feb,5
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Feb,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Feb,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Feb,1
+2026,All Other Larceny,crimes_against_persons,Feb,23
+2026,Motor Vehicle Theft,crimes_against_persons,Feb,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Feb,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Feb,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Feb,0
+2026,Impersonation,crimes_against_persons,Feb,0
+2026,Welfare Fraud,crimes_against_persons,Feb,0
+2026,Wire Fraud,crimes_against_persons,Feb,0
+2026,Identity Theft,crimes_against_persons,Feb,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Feb,0
+2026,Embezzlement,crimes_against_persons,Feb,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Feb,0
+2026,Destruction/Vandalism,crimes_against_persons,Feb,5
+2026,Bribery,crimes_against_persons,Feb,0
+2026,Bad Checks,crimes_against_persons,Feb,0
+2026,All Other Offenses,crimes_against_persons,Feb,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Feb,0
+2026,Negligent Manslaughter,crimes_against_society,Feb,0
+2026,Justifiable Homicide,crimes_against_society,Feb,0
+2026,Kidnapping/Abduction,crimes_against_society,Feb,0
+2026,Rape,crimes_against_society,Feb,0
+2026,Sodomy,crimes_against_society,Feb,0
+2026,Sexual Assault w/ Object,crimes_against_society,Feb,0
+2026,Fondling,crimes_against_society,Feb,1
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Feb,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Feb,0
+2026,Aggravated Assault,crimes_against_society,Feb,0
+2026,Simple Assault,crimes_against_society,Feb,2
+2026,Intimidation,crimes_against_society,Feb,0
+2026,Incest,crimes_against_society,Feb,0
+2026,Statutory Rape,crimes_against_society,Feb,0
+2026,All Other Offenses,crimes_against_society,Feb,0
+2025,Drug/Narcotic Violations,crimes_against_property,Mar,1
+2025,Drug Equipment Violations,crimes_against_property,Mar,0
+2025,Pornography/Obscene Material,crimes_against_property,Mar,0
+2025,Prostitution,crimes_against_property,Mar,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Mar,0
+2025,Purchasing Prostitution,crimes_against_property,Mar,0
+2025,Weapon Law Violations,crimes_against_property,Mar,0
+2025,Animal Cruelty,crimes_against_property,Mar,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Mar,0
+2025,Disorderly Conduct,crimes_against_property,Mar,1
+2025,Driving Under the Influence,crimes_against_property,Mar,19
+2025,Drunkeness,crimes_against_property,Mar,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Mar,0
+2025,Liquor Law Violations,crimes_against_property,Mar,0
+2025,Trespassing of Real Property,crimes_against_property,Mar,0
+2025,Betting/Wagering,crimes_against_property,Mar,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Mar,0
+2025,Gambling Equipment Violations,crimes_against_property,Mar,0
+2025,Sports Tampering,crimes_against_property,Mar,0
+2025,All Other Offenses,crimes_against_property,Mar,0
+2025,Robbery,crimes_against_persons,Mar,0
+2025,Arson,crimes_against_persons,Mar,0
+2025,Extortion/Blackmail,crimes_against_persons,Mar,1
+2025,Burglary/Breaking or Entering,crimes_against_persons,Mar,0
+2025,Pocket-picking,crimes_against_persons,Mar,0
+2025,Purse-snatching,crimes_against_persons,Mar,0
+2025,Shoplifting,crimes_against_persons,Mar,0
+2025,Theft From Building,crimes_against_persons,Mar,5
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Mar,1
+2025,Theft From Motor Vehicle,crimes_against_persons,Mar,2
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Mar,1
+2025,All Other Larceny,crimes_against_persons,Mar,9
+2025,Motor Vehicle Theft,crimes_against_persons,Mar,0
+2025,Counterfeiting/Forgery,crimes_against_persons,Mar,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Mar,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Mar,0
+2025,Impersonation,crimes_against_persons,Mar,0
+2025,Welfare Fraud,crimes_against_persons,Mar,0
+2025,Wire Fraud,crimes_against_persons,Mar,0
+2025,Identity Theft,crimes_against_persons,Mar,1
+2025,Hacking/Computer Invasion,crimes_against_persons,Mar,0
+2025,Embezzlement,crimes_against_persons,Mar,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Mar,0
+2025,Destruction/Vandalism,crimes_against_persons,Mar,8
+2025,Bribery,crimes_against_persons,Mar,0
+2025,Bad Checks,crimes_against_persons,Mar,0
+2025,All Other Offenses,crimes_against_persons,Mar,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Mar,0
+2025,Negligent Manslaughter,crimes_against_society,Mar,0
+2025,Justifiable Homicide,crimes_against_society,Mar,0
+2025,Kidnapping/Abduction,crimes_against_society,Mar,0
+2025,Rape,crimes_against_society,Mar,0
+2025,Sodomy,crimes_against_society,Mar,0
+2025,Sexual Assault w/ Object,crimes_against_society,Mar,0
+2025,Fondling,crimes_against_society,Mar,1
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Mar,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Mar,0
+2025,Aggravated Assault,crimes_against_society,Mar,0
+2025,Simple Assault,crimes_against_society,Mar,2
+2025,Intimidation,crimes_against_society,Mar,0
+2025,Incest,crimes_against_society,Mar,0
+2025,Statutory Rape,crimes_against_society,Mar,0
+2025,All Other Offenses,crimes_against_society,Mar,0
+2024,Drug/Narcotic Violations,crimes_against_property,Mar,3
+2024,Drug Equipment Violations,crimes_against_property,Mar,1
+2024,Pornography/Obscene Material,crimes_against_property,Mar,0
+2024,Prostitution,crimes_against_property,Mar,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Mar,0
+2024,Purchasing Prostitution,crimes_against_property,Mar,0
+2024,Weapon Law Violations,crimes_against_property,Mar,0
+2024,Animal Cruelty,crimes_against_property,Mar,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Mar,0
+2024,Disorderly Conduct,crimes_against_property,Mar,0
+2024,Driving Under the Influence,crimes_against_property,Mar,9
+2024,Drunkeness,crimes_against_property,Mar,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Mar,0
+2024,Liquor Law Violations,crimes_against_property,Mar,0
+2024,Trespassing of Real Property,crimes_against_property,Mar,1
+2024,Betting/Wagering,crimes_against_property,Mar,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Mar,0
+2024,Gambling Equipment Violations,crimes_against_property,Mar,0
+2024,Sports Tampering,crimes_against_property,Mar,0
+2024,All Other Offenses,crimes_against_property,Mar,3
+2024,Robbery,crimes_against_persons,Mar,0
+2024,Arson,crimes_against_persons,Mar,0
+2024,Extortion/Blackmail,crimes_against_persons,Mar,1
+2024,Burglary/Breaking or Entering,crimes_against_persons,Mar,0
+2024,Pocket-picking,crimes_against_persons,Mar,0
+2024,Purse-snatching,crimes_against_persons,Mar,0
+2024,Shoplifting,crimes_against_persons,Mar,0
+2024,Theft From Building,crimes_against_persons,Mar,9
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Mar,1
+2024,Theft From Motor Vehicle,crimes_against_persons,Mar,3
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Mar,0
+2024,All Other Larceny,crimes_against_persons,Mar,35
+2024,Motor Vehicle Theft,crimes_against_persons,Mar,0
+2024,Counterfeiting/Forgery,crimes_against_persons,Mar,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Mar,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Mar,0
+2024,Impersonation,crimes_against_persons,Mar,0
+2024,Welfare Fraud,crimes_against_persons,Mar,0
+2024,Wire Fraud,crimes_against_persons,Mar,0
+2024,Identity Theft,crimes_against_persons,Mar,1
+2024,Hacking/Computer Invasion,crimes_against_persons,Mar,0
+2024,Embezzlement,crimes_against_persons,Mar,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Mar,0
+2024,Destruction/Vandalism,crimes_against_persons,Mar,17
+2024,Bribery,crimes_against_persons,Mar,0
+2024,Bad Checks,crimes_against_persons,Mar,0
+2024,All Other Offenses,crimes_against_persons,Mar,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Mar,0
+2024,Negligent Manslaughter,crimes_against_society,Mar,0
+2024,Justifiable Homicide,crimes_against_society,Mar,0
+2024,Kidnapping/Abduction,crimes_against_society,Mar,0
+2024,Rape,crimes_against_society,Mar,0
+2024,Sodomy,crimes_against_society,Mar,0
+2024,Sexual Assault w/ Object,crimes_against_society,Mar,0
+2024,Fondling,crimes_against_society,Mar,1
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Mar,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Mar,0
+2024,Aggravated Assault,crimes_against_society,Mar,0
+2024,Simple Assault,crimes_against_society,Mar,1
+2024,Intimidation,crimes_against_society,Mar,1
+2024,Incest,crimes_against_society,Mar,0
+2024,Statutory Rape,crimes_against_society,Mar,0
+2024,All Other Offenses,crimes_against_society,Mar,0
+2023,Robbery,crimes_against_persons,Mar,0
+2023,Arson,crimes_against_persons,Mar,0
+2023,Extortion/Blackmail,crimes_against_persons,Mar,3
+2023,Burglary/Breaking or Entering,crimes_against_persons,Mar,5
+2023,Pocket-picking,crimes_against_persons,Mar,0
+2023,Purse-snatching,crimes_against_persons,Mar,0
+2023,Shoplifting,crimes_against_persons,Mar,0
+2023,Theft From Building,crimes_against_persons,Mar,6
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Mar,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Mar,0
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Mar,1
+2023,All Other Larceny,crimes_against_persons,Mar,26
+2023,Motor Vehicle Theft,crimes_against_persons,Mar,0
+2023,Counterfeiting/Forgery,crimes_against_persons,Mar,0
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Mar,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Mar,0
+2023,Impersonation,crimes_against_persons,Mar,0
+2023,Welfare Fraud,crimes_against_persons,Mar,0
+2023,Wire Fraud,crimes_against_persons,Mar,1
+2023,Identity Theft,crimes_against_persons,Mar,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Mar,0
+2023,Embezzlement,crimes_against_persons,Mar,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Mar,0
+2023,Destruction/Vandalism,crimes_against_persons,Mar,13
+2023,Bribery,crimes_against_persons,Mar,0
+2023,Bad Checks,crimes_against_persons,Mar,0
+2023,All Other Offenses,crimes_against_persons,Mar,0
+2023,Drug/Narcotic Violations,crimes_against_property,Mar,3
+2023,Drug Equipment Violations,crimes_against_property,Mar,1
+2023,Pornography/Obscene Material,crimes_against_property,Mar,0
+2023,Prostitution,crimes_against_property,Mar,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Mar,0
+2023,Purchasing Prostitution,crimes_against_property,Mar,0
+2023,Weapon Law Violations,crimes_against_property,Mar,0
+2023,Animal Cruelty,crimes_against_property,Mar,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Mar,0
+2023,Disorderly Conduct,crimes_against_property,Mar,4
+2023,Driving Under the Influence,crimes_against_property,Mar,8
+2023,Drunkeness,crimes_against_property,Mar,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Mar,0
+2023,Liquor Law Violations,crimes_against_property,Mar,0
+2023,Trespassing of Real Property,crimes_against_property,Mar,1
+2023,Betting/Wagering,crimes_against_property,Mar,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Mar,0
+2023,Gambling Equipment Violations,crimes_against_property,Mar,0
+2023,Sports Tampering,crimes_against_property,Mar,0
+2023,All Other Offenses,crimes_against_property,Mar,3
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Mar,0
+2023,Negligent Manslaughter,crimes_against_society,Mar,0
+2023,Justifiable Homicide,crimes_against_society,Mar,0
+2023,Kidnapping/Abduction,crimes_against_society,Mar,0
+2023,Rape,crimes_against_society,Mar,1
+2023,Sodomy,crimes_against_society,Mar,2
+2023,Sexual Assault w/ Object,crimes_against_society,Mar,0
+2023,Fondling,crimes_against_society,Mar,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Mar,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Mar,0
+2023,Aggravated Assault,crimes_against_society,Mar,1
+2023,Simple Assault,crimes_against_society,Mar,3
+2023,Intimidation,crimes_against_society,Mar,0
+2023,Incest,crimes_against_society,Mar,0
+2023,Statutory Rape,crimes_against_society,Mar,0
+2023,All Other Offenses,crimes_against_society,Mar,0
+2026,Drug/Narcotic Violations,crimes_against_property,Mar,3
+2026,Drug Equipment Violations,crimes_against_property,Mar,2
+2026,Pornography/Obscene Material,crimes_against_property,Mar,0
+2026,Prostitution,crimes_against_property,Mar,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Mar,0
+2026,Purchasing Prostitution,crimes_against_property,Mar,0
+2026,Weapon Law Violations,crimes_against_property,Mar,0
+2026,Animal Cruelty,crimes_against_property,Mar,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Mar,0
+2026,Disorderly Conduct,crimes_against_property,Mar,0
+2026,Driving Under the Influence,crimes_against_property,Mar,23
+2026,Drunkeness,crimes_against_property,Mar,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Mar,0
+2026,Liquor Law Violations,crimes_against_property,Mar,0
+2026,Trespassing of Real Property,crimes_against_property,Mar,0
+2026,Betting/Wagering,crimes_against_property,Mar,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Mar,0
+2026,Gambling Equipment Violations,crimes_against_property,Mar,0
+2026,Sports Tampering,crimes_against_property,Mar,0
+2026,All Other Offenses,crimes_against_property,Mar,0
+2026,Robbery,crimes_against_persons,Mar,0
+2026,Arson,crimes_against_persons,Mar,0
+2026,Extortion/Blackmail,crimes_against_persons,Mar,1
+2026,Burglary/Breaking or Entering,crimes_against_persons,Mar,2
+2026,Pocket-picking,crimes_against_persons,Mar,0
+2026,Purse-snatching,crimes_against_persons,Mar,0
+2026,Shoplifting,crimes_against_persons,Mar,0
+2026,Theft From Building,crimes_against_persons,Mar,6
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Mar,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Mar,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Mar,1
+2026,All Other Larceny,crimes_against_persons,Mar,10
+2026,Motor Vehicle Theft,crimes_against_persons,Mar,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Mar,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Mar,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Mar,3
+2026,Impersonation,crimes_against_persons,Mar,0
+2026,Welfare Fraud,crimes_against_persons,Mar,0
+2026,Wire Fraud,crimes_against_persons,Mar,0
+2026,Identity Theft,crimes_against_persons,Mar,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Mar,0
+2026,Embezzlement,crimes_against_persons,Mar,1
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Mar,0
+2026,Destruction/Vandalism,crimes_against_persons,Mar,6
+2026,Bribery,crimes_against_persons,Mar,0
+2026,Bad Checks,crimes_against_persons,Mar,0
+2026,All Other Offenses,crimes_against_persons,Mar,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Mar,0
+2026,Negligent Manslaughter,crimes_against_society,Mar,0
+2026,Justifiable Homicide,crimes_against_society,Mar,0
+2026,Kidnapping/Abduction,crimes_against_society,Mar,0
+2026,Rape,crimes_against_society,Mar,0
+2026,Sodomy,crimes_against_society,Mar,0
+2026,Sexual Assault w/ Object,crimes_against_society,Mar,0
+2026,Fondling,crimes_against_society,Mar,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Mar,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Mar,0
+2026,Aggravated Assault,crimes_against_society,Mar,0
+2026,Simple Assault,crimes_against_society,Mar,1
+2026,Intimidation,crimes_against_society,Mar,0
+2026,Incest,crimes_against_society,Mar,0
+2026,Statutory Rape,crimes_against_society,Mar,0
+2026,All Other Offenses,crimes_against_society,Mar,0
+2025,Drug/Narcotic Violations,crimes_against_property,Apr,2
+2025,Drug Equipment Violations,crimes_against_property,Apr,0
+2025,Pornography/Obscene Material,crimes_against_property,Apr,0
+2025,Prostitution,crimes_against_property,Apr,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Apr,0
+2025,Purchasing Prostitution,crimes_against_property,Apr,0
+2025,Weapon Law Violations,crimes_against_property,Apr,1
+2025,Animal Cruelty,crimes_against_property,Apr,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Apr,0
+2025,Disorderly Conduct,crimes_against_property,Apr,1
+2025,Driving Under the Influence,crimes_against_property,Apr,10
+2025,Drunkeness,crimes_against_property,Apr,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Apr,0
+2025,Liquor Law Violations,crimes_against_property,Apr,0
+2025,Trespassing of Real Property,crimes_against_property,Apr,1
+2025,Betting/Wagering,crimes_against_property,Apr,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Apr,0
+2025,Gambling Equipment Violations,crimes_against_property,Apr,0
+2025,Sports Tampering,crimes_against_property,Apr,0
+2025,All Other Offenses,crimes_against_property,Apr,1
+2025,Robbery,crimes_against_persons,Apr,0
+2025,Arson,crimes_against_persons,Apr,0
+2025,Extortion/Blackmail,crimes_against_persons,Apr,1
+2025,Burglary/Breaking or Entering,crimes_against_persons,Apr,0
+2025,Pocket-picking,crimes_against_persons,Apr,0
+2025,Purse-snatching,crimes_against_persons,Apr,0
+2025,Shoplifting,crimes_against_persons,Apr,0
+2025,Theft From Building,crimes_against_persons,Apr,2
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Apr,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Apr,0
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Apr,1
+2025,All Other Larceny,crimes_against_persons,Apr,20
+2025,Motor Vehicle Theft,crimes_against_persons,Apr,4
+2025,Counterfeiting/Forgery,crimes_against_persons,Apr,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Apr,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Apr,1
+2025,Impersonation,crimes_against_persons,Apr,0
+2025,Welfare Fraud,crimes_against_persons,Apr,0
+2025,Wire Fraud,crimes_against_persons,Apr,0
+2025,Identity Theft,crimes_against_persons,Apr,1
+2025,Hacking/Computer Invasion,crimes_against_persons,Apr,0
+2025,Embezzlement,crimes_against_persons,Apr,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Apr,0
+2025,Destruction/Vandalism,crimes_against_persons,Apr,7
+2025,Bribery,crimes_against_persons,Apr,0
+2025,Bad Checks,crimes_against_persons,Apr,0
+2025,All Other Offenses,crimes_against_persons,Apr,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Apr,0
+2025,Negligent Manslaughter,crimes_against_society,Apr,0
+2025,Justifiable Homicide,crimes_against_society,Apr,0
+2025,Kidnapping/Abduction,crimes_against_society,Apr,0
+2025,Rape,crimes_against_society,Apr,0
+2025,Sodomy,crimes_against_society,Apr,0
+2025,Sexual Assault w/ Object,crimes_against_society,Apr,0
+2025,Fondling,crimes_against_society,Apr,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Apr,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Apr,0
+2025,Aggravated Assault,crimes_against_society,Apr,0
+2025,Simple Assault,crimes_against_society,Apr,2
+2025,Intimidation,crimes_against_society,Apr,0
+2025,Incest,crimes_against_society,Apr,0
+2025,Statutory Rape,crimes_against_society,Apr,0
+2025,All Other Offenses,crimes_against_society,Apr,0
+2024,Drug/Narcotic Violations,crimes_against_property,Apr,2
+2024,Drug Equipment Violations,crimes_against_property,Apr,0
+2024,Pornography/Obscene Material,crimes_against_property,Apr,0
+2024,Prostitution,crimes_against_property,Apr,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Apr,0
+2024,Purchasing Prostitution,crimes_against_property,Apr,0
+2024,Weapon Law Violations,crimes_against_property,Apr,0
+2024,Animal Cruelty,crimes_against_property,Apr,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Apr,0
+2024,Disorderly Conduct,crimes_against_property,Apr,0
+2024,Driving Under the Influence,crimes_against_property,Apr,11
+2024,Drunkeness,crimes_against_property,Apr,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Apr,0
+2024,Liquor Law Violations,crimes_against_property,Apr,0
+2024,Trespassing of Real Property,crimes_against_property,Apr,1
+2024,Betting/Wagering,crimes_against_property,Apr,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Apr,0
+2024,Gambling Equipment Violations,crimes_against_property,Apr,0
+2024,Sports Tampering,crimes_against_property,Apr,0
+2024,All Other Offenses,crimes_against_property,Apr,1
+2024,Robbery,crimes_against_persons,Apr,0
+2024,Arson,crimes_against_persons,Apr,0
+2024,Extortion/Blackmail,crimes_against_persons,Apr,0
+2024,Burglary/Breaking or Entering,crimes_against_persons,Apr,2
+2024,Pocket-picking,crimes_against_persons,Apr,0
+2024,Purse-snatching,crimes_against_persons,Apr,0
+2024,Shoplifting,crimes_against_persons,Apr,0
+2024,Theft From Building,crimes_against_persons,Apr,14
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Apr,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Apr,3
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Apr,1
+2024,All Other Larceny,crimes_against_persons,Apr,51
+2024,Motor Vehicle Theft,crimes_against_persons,Apr,0
+2024,Counterfeiting/Forgery,crimes_against_persons,Apr,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Apr,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Apr,2
+2024,Impersonation,crimes_against_persons,Apr,0
+2024,Welfare Fraud,crimes_against_persons,Apr,0
+2024,Wire Fraud,crimes_against_persons,Apr,0
+2024,Identity Theft,crimes_against_persons,Apr,1
+2024,Hacking/Computer Invasion,crimes_against_persons,Apr,0
+2024,Embezzlement,crimes_against_persons,Apr,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Apr,0
+2024,Destruction/Vandalism,crimes_against_persons,Apr,14
+2024,Bribery,crimes_against_persons,Apr,0
+2024,Bad Checks,crimes_against_persons,Apr,0
+2024,All Other Offenses,crimes_against_persons,Apr,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Apr,0
+2024,Negligent Manslaughter,crimes_against_society,Apr,0
+2024,Justifiable Homicide,crimes_against_society,Apr,0
+2024,Kidnapping/Abduction,crimes_against_society,Apr,0
+2024,Rape,crimes_against_society,Apr,0
+2024,Sodomy,crimes_against_society,Apr,0
+2024,Sexual Assault w/ Object,crimes_against_society,Apr,0
+2024,Fondling,crimes_against_society,Apr,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Apr,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Apr,0
+2024,Aggravated Assault,crimes_against_society,Apr,0
+2024,Simple Assault,crimes_against_society,Apr,0
+2024,Intimidation,crimes_against_society,Apr,0
+2024,Incest,crimes_against_society,Apr,0
+2024,Statutory Rape,crimes_against_society,Apr,0
+2024,All Other Offenses,crimes_against_society,Apr,0
+2023,Robbery,crimes_against_persons,Apr,0
+2023,Arson,crimes_against_persons,Apr,0
+2023,Extortion/Blackmail,crimes_against_persons,Apr,3
+2023,Burglary/Breaking or Entering,crimes_against_persons,Apr,1
+2023,Pocket-picking,crimes_against_persons,Apr,0
+2023,Purse-snatching,crimes_against_persons,Apr,0
+2023,Shoplifting,crimes_against_persons,Apr,0
+2023,Theft From Building,crimes_against_persons,Apr,6
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Apr,1
+2023,Theft From Motor Vehicle,crimes_against_persons,Apr,3
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Apr,0
+2023,All Other Larceny,crimes_against_persons,Apr,23
+2023,Motor Vehicle Theft,crimes_against_persons,Apr,3
+2023,Counterfeiting/Forgery,crimes_against_persons,Apr,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Apr,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Apr,1
+2023,Impersonation,crimes_against_persons,Apr,0
+2023,Welfare Fraud,crimes_against_persons,Apr,0
+2023,Wire Fraud,crimes_against_persons,Apr,0
+2023,Identity Theft,crimes_against_persons,Apr,1
+2023,Hacking/Computer Invasion,crimes_against_persons,Apr,0
+2023,Embezzlement,crimes_against_persons,Apr,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Apr,0
+2023,Destruction/Vandalism,crimes_against_persons,Apr,14
+2023,Bribery,crimes_against_persons,Apr,0
+2023,Bad Checks,crimes_against_persons,Apr,0
+2023,All Other Offenses,crimes_against_persons,Apr,0
+2023,Drug/Narcotic Violations,crimes_against_property,Apr,1
+2023,Drug Equipment Violations,crimes_against_property,Apr,0
+2023,Pornography/Obscene Material,crimes_against_property,Apr,0
+2023,Prostitution,crimes_against_property,Apr,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Apr,0
+2023,Purchasing Prostitution,crimes_against_property,Apr,0
+2023,Weapon Law Violations,crimes_against_property,Apr,0
+2023,Animal Cruelty,crimes_against_property,Apr,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Apr,0
+2023,Disorderly Conduct,crimes_against_property,Apr,1
+2023,Driving Under the Influence,crimes_against_property,Apr,7
+2023,Drunkeness,crimes_against_property,Apr,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Apr,0
+2023,Liquor Law Violations,crimes_against_property,Apr,0
+2023,Trespassing of Real Property,crimes_against_property,Apr,2
+2023,Betting/Wagering,crimes_against_property,Apr,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Apr,0
+2023,Gambling Equipment Violations,crimes_against_property,Apr,0
+2023,Sports Tampering,crimes_against_property,Apr,0
+2023,All Other Offenses,crimes_against_property,Apr,2
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Apr,0
+2023,Negligent Manslaughter,crimes_against_society,Apr,0
+2023,Justifiable Homicide,crimes_against_society,Apr,0
+2023,Kidnapping/Abduction,crimes_against_society,Apr,0
+2023,Rape,crimes_against_society,Apr,0
+2023,Sodomy,crimes_against_society,Apr,0
+2023,Sexual Assault w/ Object,crimes_against_society,Apr,0
+2023,Fondling,crimes_against_society,Apr,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Apr,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Apr,0
+2023,Aggravated Assault,crimes_against_society,Apr,0
+2023,Simple Assault,crimes_against_society,Apr,4
+2023,Intimidation,crimes_against_society,Apr,0
+2023,Incest,crimes_against_society,Apr,0
+2023,Statutory Rape,crimes_against_society,Apr,0
+2023,All Other Offenses,crimes_against_society,Apr,0
+2026,Drug/Narcotic Violations,crimes_against_property,Apr,1
+2026,Drug Equipment Violations,crimes_against_property,Apr,1
+2026,Pornography/Obscene Material,crimes_against_property,Apr,0
+2026,Prostitution,crimes_against_property,Apr,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Apr,0
+2026,Purchasing Prostitution,crimes_against_property,Apr,0
+2026,Weapon Law Violations,crimes_against_property,Apr,0
+2026,Animal Cruelty,crimes_against_property,Apr,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Apr,0
+2026,Disorderly Conduct,crimes_against_property,Apr,1
+2026,Driving Under the Influence,crimes_against_property,Apr,25
+2026,Drunkeness,crimes_against_property,Apr,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Apr,0
+2026,Liquor Law Violations,crimes_against_property,Apr,0
+2026,Trespassing of Real Property,crimes_against_property,Apr,2
+2026,Betting/Wagering,crimes_against_property,Apr,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Apr,0
+2026,Gambling Equipment Violations,crimes_against_property,Apr,0
+2026,Sports Tampering,crimes_against_property,Apr,0
+2026,All Other Offenses,crimes_against_property,Apr,0
+2026,Robbery,crimes_against_persons,Apr,0
+2026,Arson,crimes_against_persons,Apr,0
+2026,Extortion/Blackmail,crimes_against_persons,Apr,1
+2026,Burglary/Breaking or Entering,crimes_against_persons,Apr,3
+2026,Pocket-picking,crimes_against_persons,Apr,0
+2026,Purse-snatching,crimes_against_persons,Apr,0
+2026,Shoplifting,crimes_against_persons,Apr,1
+2026,Theft From Building,crimes_against_persons,Apr,5
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Apr,1
+2026,Theft From Motor Vehicle,crimes_against_persons,Apr,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Apr,0
+2026,All Other Larceny,crimes_against_persons,Apr,16
+2026,Motor Vehicle Theft,crimes_against_persons,Apr,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Apr,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Apr,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Apr,0
+2026,Impersonation,crimes_against_persons,Apr,0
+2026,Welfare Fraud,crimes_against_persons,Apr,0
+2026,Wire Fraud,crimes_against_persons,Apr,0
+2026,Identity Theft,crimes_against_persons,Apr,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Apr,0
+2026,Embezzlement,crimes_against_persons,Apr,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Apr,0
+2026,Destruction/Vandalism,crimes_against_persons,Apr,9
+2026,Bribery,crimes_against_persons,Apr,0
+2026,Bad Checks,crimes_against_persons,Apr,0
+2026,All Other Offenses,crimes_against_persons,Apr,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Apr,0
+2026,Negligent Manslaughter,crimes_against_society,Apr,0
+2026,Justifiable Homicide,crimes_against_society,Apr,0
+2026,Kidnapping/Abduction,crimes_against_society,Apr,0
+2026,Rape,crimes_against_society,Apr,0
+2026,Sodomy,crimes_against_society,Apr,0
+2026,Sexual Assault w/ Object,crimes_against_society,Apr,0
+2026,Fondling,crimes_against_society,Apr,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Apr,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Apr,0
+2026,Aggravated Assault,crimes_against_society,Apr,0
+2026,Simple Assault,crimes_against_society,Apr,4
+2026,Intimidation,crimes_against_society,Apr,0
+2026,Incest,crimes_against_society,Apr,0
+2026,Statutory Rape,crimes_against_society,Apr,0
+2026,All Other Offenses,crimes_against_society,Apr,0
+2025,Drug/Narcotic Violations,crimes_against_property,May,2
+2025,Drug Equipment Violations,crimes_against_property,May,1
+2025,Pornography/Obscene Material,crimes_against_property,May,0
+2025,Prostitution,crimes_against_property,May,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,May,0
+2025,Purchasing Prostitution,crimes_against_property,May,0
+2025,Weapon Law Violations,crimes_against_property,May,1
+2025,Animal Cruelty,crimes_against_property,May,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,May,0
+2025,Disorderly Conduct,crimes_against_property,May,1
+2025,Driving Under the Influence,crimes_against_property,May,16
+2025,Drunkeness,crimes_against_property,May,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,May,0
+2025,Liquor Law Violations,crimes_against_property,May,0
+2025,Trespassing of Real Property,crimes_against_property,May,0
+2025,Betting/Wagering,crimes_against_property,May,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,May,0
+2025,Gambling Equipment Violations,crimes_against_property,May,0
+2025,Sports Tampering,crimes_against_property,May,0
+2025,All Other Offenses,crimes_against_property,May,0
+2025,Robbery,crimes_against_persons,May,0
+2025,Arson,crimes_against_persons,May,0
+2025,Extortion/Blackmail,crimes_against_persons,May,2
+2025,Burglary/Breaking or Entering,crimes_against_persons,May,2
+2025,Pocket-picking,crimes_against_persons,May,0
+2025,Purse-snatching,crimes_against_persons,May,0
+2025,Shoplifting,crimes_against_persons,May,0
+2025,Theft From Building,crimes_against_persons,May,10
+2025,Theft From Coin-Operated Machine,crimes_against_persons,May,1
+2025,Theft From Motor Vehicle,crimes_against_persons,May,0
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,May,1
+2025,All Other Larceny,crimes_against_persons,May,26
+2025,Motor Vehicle Theft,crimes_against_persons,May,1
+2025,Counterfeiting/Forgery,crimes_against_persons,May,1
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,May,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,May,1
+2025,Impersonation,crimes_against_persons,May,0
+2025,Welfare Fraud,crimes_against_persons,May,0
+2025,Wire Fraud,crimes_against_persons,May,0
+2025,Identity Theft,crimes_against_persons,May,0
+2025,Hacking/Computer Invasion,crimes_against_persons,May,0
+2025,Embezzlement,crimes_against_persons,May,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,May,0
+2025,Destruction/Vandalism,crimes_against_persons,May,16
+2025,Bribery,crimes_against_persons,May,0
+2025,Bad Checks,crimes_against_persons,May,0
+2025,All Other Offenses,crimes_against_persons,May,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,May,0
+2025,Negligent Manslaughter,crimes_against_society,May,0
+2025,Justifiable Homicide,crimes_against_society,May,0
+2025,Kidnapping/Abduction,crimes_against_society,May,0
+2025,Rape,crimes_against_society,May,1
+2025,Sodomy,crimes_against_society,May,0
+2025,Sexual Assault w/ Object,crimes_against_society,May,0
+2025,Fondling,crimes_against_society,May,1
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,May,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,May,0
+2025,Aggravated Assault,crimes_against_society,May,0
+2025,Simple Assault,crimes_against_society,May,2
+2025,Intimidation,crimes_against_society,May,0
+2025,Incest,crimes_against_society,May,0
+2025,Statutory Rape,crimes_against_society,May,0
+2025,All Other Offenses,crimes_against_society,May,0
+2024,Drug/Narcotic Violations,crimes_against_property,May,1
+2024,Drug Equipment Violations,crimes_against_property,May,1
+2024,Pornography/Obscene Material,crimes_against_property,May,0
+2024,Prostitution,crimes_against_property,May,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,May,1
+2024,Purchasing Prostitution,crimes_against_property,May,0
+2024,Weapon Law Violations,crimes_against_property,May,0
+2024,Animal Cruelty,crimes_against_property,May,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,May,0
+2024,Disorderly Conduct,crimes_against_property,May,1
+2024,Driving Under the Influence,crimes_against_property,May,6
+2024,Drunkeness,crimes_against_property,May,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,May,0
+2024,Liquor Law Violations,crimes_against_property,May,0
+2024,Trespassing of Real Property,crimes_against_property,May,1
+2024,Betting/Wagering,crimes_against_property,May,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,May,0
+2024,Gambling Equipment Violations,crimes_against_property,May,0
+2024,Sports Tampering,crimes_against_property,May,0
+2024,All Other Offenses,crimes_against_property,May,1
+2024,Robbery,crimes_against_persons,May,0
+2024,Arson,crimes_against_persons,May,0
+2024,Extortion/Blackmail,crimes_against_persons,May,1
+2024,Burglary/Breaking or Entering,crimes_against_persons,May,0
+2024,Pocket-picking,crimes_against_persons,May,0
+2024,Purse-snatching,crimes_against_persons,May,0
+2024,Shoplifting,crimes_against_persons,May,0
+2024,Theft From Building,crimes_against_persons,May,4
+2024,Theft From Coin-Operated Machine,crimes_against_persons,May,1
+2024,Theft From Motor Vehicle,crimes_against_persons,May,0
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,May,3
+2024,All Other Larceny,crimes_against_persons,May,34
+2024,Motor Vehicle Theft,crimes_against_persons,May,0
+2024,Counterfeiting/Forgery,crimes_against_persons,May,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,May,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,May,0
+2024,Impersonation,crimes_against_persons,May,0
+2024,Welfare Fraud,crimes_against_persons,May,0
+2024,Wire Fraud,crimes_against_persons,May,0
+2024,Identity Theft,crimes_against_persons,May,0
+2024,Hacking/Computer Invasion,crimes_against_persons,May,0
+2024,Embezzlement,crimes_against_persons,May,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,May,0
+2024,Destruction/Vandalism,crimes_against_persons,May,22
+2024,Bribery,crimes_against_persons,May,0
+2024,Bad Checks,crimes_against_persons,May,0
+2024,All Other Offenses,crimes_against_persons,May,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,May,0
+2024,Negligent Manslaughter,crimes_against_society,May,0
+2024,Justifiable Homicide,crimes_against_society,May,0
+2024,Kidnapping/Abduction,crimes_against_society,May,0
+2024,Rape,crimes_against_society,May,0
+2024,Sodomy,crimes_against_society,May,0
+2024,Sexual Assault w/ Object,crimes_against_society,May,0
+2024,Fondling,crimes_against_society,May,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,May,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,May,0
+2024,Aggravated Assault,crimes_against_society,May,0
+2024,Simple Assault,crimes_against_society,May,2
+2024,Intimidation,crimes_against_society,May,1
+2024,Incest,crimes_against_society,May,0
+2024,Statutory Rape,crimes_against_society,May,0
+2024,All Other Offenses,crimes_against_society,May,0
+2023,Robbery,crimes_against_persons,May,0
+2023,Arson,crimes_against_persons,May,1
+2023,Extortion/Blackmail,crimes_against_persons,May,0
+2023,Burglary/Breaking or Entering,crimes_against_persons,May,2
+2023,Pocket-picking,crimes_against_persons,May,0
+2023,Purse-snatching,crimes_against_persons,May,0
+2023,Shoplifting,crimes_against_persons,May,0
+2023,Theft From Building,crimes_against_persons,May,12
+2023,Theft From Coin-Operated Machine,crimes_against_persons,May,0
+2023,Theft From Motor Vehicle,crimes_against_persons,May,0
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,May,4
+2023,All Other Larceny,crimes_against_persons,May,26
+2023,Motor Vehicle Theft,crimes_against_persons,May,1
+2023,Counterfeiting/Forgery,crimes_against_persons,May,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,May,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,May,0
+2023,Impersonation,crimes_against_persons,May,0
+2023,Welfare Fraud,crimes_against_persons,May,0
+2023,Wire Fraud,crimes_against_persons,May,0
+2023,Identity Theft,crimes_against_persons,May,0
+2023,Hacking/Computer Invasion,crimes_against_persons,May,0
+2023,Embezzlement,crimes_against_persons,May,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,May,0
+2023,Destruction/Vandalism,crimes_against_persons,May,24
+2023,Bribery,crimes_against_persons,May,0
+2023,Bad Checks,crimes_against_persons,May,0
+2023,All Other Offenses,crimes_against_persons,May,0
+2023,Drug/Narcotic Violations,crimes_against_property,May,2
+2023,Drug Equipment Violations,crimes_against_property,May,0
+2023,Pornography/Obscene Material,crimes_against_property,May,0
+2023,Prostitution,crimes_against_property,May,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,May,0
+2023,Purchasing Prostitution,crimes_against_property,May,1
+2023,Weapon Law Violations,crimes_against_property,May,1
+2023,Animal Cruelty,crimes_against_property,May,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,May,0
+2023,Disorderly Conduct,crimes_against_property,May,4
+2023,Driving Under the Influence,crimes_against_property,May,11
+2023,Drunkeness,crimes_against_property,May,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,May,0
+2023,Liquor Law Violations,crimes_against_property,May,0
+2023,Trespassing of Real Property,crimes_against_property,May,0
+2023,Betting/Wagering,crimes_against_property,May,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,May,0
+2023,Gambling Equipment Violations,crimes_against_property,May,0
+2023,Sports Tampering,crimes_against_property,May,0
+2023,All Other Offenses,crimes_against_property,May,4
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,May,0
+2023,Negligent Manslaughter,crimes_against_society,May,0
+2023,Justifiable Homicide,crimes_against_society,May,0
+2023,Kidnapping/Abduction,crimes_against_society,May,0
+2023,Rape,crimes_against_society,May,0
+2023,Sodomy,crimes_against_society,May,0
+2023,Sexual Assault w/ Object,crimes_against_society,May,0
+2023,Fondling,crimes_against_society,May,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,May,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,May,0
+2023,Aggravated Assault,crimes_against_society,May,0
+2023,Simple Assault,crimes_against_society,May,6
+2023,Intimidation,crimes_against_society,May,0
+2023,Incest,crimes_against_society,May,0
+2023,Statutory Rape,crimes_against_society,May,0
+2023,All Other Offenses,crimes_against_society,May,0
+2026,Drug/Narcotic Violations,crimes_against_property,May,2
+2026,Drug Equipment Violations,crimes_against_property,May,1
+2026,Pornography/Obscene Material,crimes_against_property,May,0
+2026,Prostitution,crimes_against_property,May,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,May,0
+2026,Purchasing Prostitution,crimes_against_property,May,0
+2026,Weapon Law Violations,crimes_against_property,May,0
+2026,Animal Cruelty,crimes_against_property,May,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,May,0
+2026,Disorderly Conduct,crimes_against_property,May,0
+2026,Driving Under the Influence,crimes_against_property,May,40
+2026,Drunkeness,crimes_against_property,May,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,May,0
+2026,Liquor Law Violations,crimes_against_property,May,0
+2026,Trespassing of Real Property,crimes_against_property,May,2
+2026,Betting/Wagering,crimes_against_property,May,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,May,0
+2026,Gambling Equipment Violations,crimes_against_property,May,0
+2026,Sports Tampering,crimes_against_property,May,0
+2026,All Other Offenses,crimes_against_property,May,1
+2026,Robbery,crimes_against_persons,May,0
+2026,Arson,crimes_against_persons,May,0
+2026,Extortion/Blackmail,crimes_against_persons,May,1
+2026,Burglary/Breaking or Entering,crimes_against_persons,May,0
+2026,Pocket-picking,crimes_against_persons,May,0
+2026,Purse-snatching,crimes_against_persons,May,0
+2026,Shoplifting,crimes_against_persons,May,1
+2026,Theft From Building,crimes_against_persons,May,2
+2026,Theft From Coin-Operated Machine,crimes_against_persons,May,0
+2026,Theft From Motor Vehicle,crimes_against_persons,May,1
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,May,0
+2026,All Other Larceny,crimes_against_persons,May,9
+2026,Motor Vehicle Theft,crimes_against_persons,May,2
+2026,Counterfeiting/Forgery,crimes_against_persons,May,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,May,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,May,0
+2026,Impersonation,crimes_against_persons,May,0
+2026,Welfare Fraud,crimes_against_persons,May,0
+2026,Wire Fraud,crimes_against_persons,May,0
+2026,Identity Theft,crimes_against_persons,May,0
+2026,Hacking/Computer Invasion,crimes_against_persons,May,0
+2026,Embezzlement,crimes_against_persons,May,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,May,0
+2026,Destruction/Vandalism,crimes_against_persons,May,9
+2026,Bribery,crimes_against_persons,May,0
+2026,Bad Checks,crimes_against_persons,May,0
+2026,All Other Offenses,crimes_against_persons,May,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,May,0
+2026,Negligent Manslaughter,crimes_against_society,May,0
+2026,Justifiable Homicide,crimes_against_society,May,0
+2026,Kidnapping/Abduction,crimes_against_society,May,0
+2026,Rape,crimes_against_society,May,0
+2026,Sodomy,crimes_against_society,May,0
+2026,Sexual Assault w/ Object,crimes_against_society,May,0
+2026,Fondling,crimes_against_society,May,1
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,May,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,May,0
+2026,Aggravated Assault,crimes_against_society,May,0
+2026,Simple Assault,crimes_against_society,May,2
+2026,Intimidation,crimes_against_society,May,1
+2026,Incest,crimes_against_society,May,0
+2026,Statutory Rape,crimes_against_society,May,0
+2026,All Other Offenses,crimes_against_society,May,0
+2025,Drug/Narcotic Violations,crimes_against_property,Jun,0
+2025,Drug Equipment Violations,crimes_against_property,Jun,1
+2025,Pornography/Obscene Material,crimes_against_property,Jun,0
+2025,Prostitution,crimes_against_property,Jun,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Jun,0
+2025,Purchasing Prostitution,crimes_against_property,Jun,0
+2025,Weapon Law Violations,crimes_against_property,Jun,0
+2025,Animal Cruelty,crimes_against_property,Jun,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jun,0
+2025,Disorderly Conduct,crimes_against_property,Jun,1
+2025,Driving Under the Influence,crimes_against_property,Jun,9
+2025,Drunkeness,crimes_against_property,Jun,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Jun,0
+2025,Liquor Law Violations,crimes_against_property,Jun,0
+2025,Trespassing of Real Property,crimes_against_property,Jun,0
+2025,Betting/Wagering,crimes_against_property,Jun,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Jun,0
+2025,Gambling Equipment Violations,crimes_against_property,Jun,0
+2025,Sports Tampering,crimes_against_property,Jun,0
+2025,All Other Offenses,crimes_against_property,Jun,3
+2025,Robbery,crimes_against_persons,Jun,0
+2025,Arson,crimes_against_persons,Jun,0
+2025,Extortion/Blackmail,crimes_against_persons,Jun,0
+2025,Burglary/Breaking or Entering,crimes_against_persons,Jun,0
+2025,Pocket-picking,crimes_against_persons,Jun,0
+2025,Purse-snatching,crimes_against_persons,Jun,0
+2025,Shoplifting,crimes_against_persons,Jun,0
+2025,Theft From Building,crimes_against_persons,Jun,2
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Jun,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Jun,1
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jun,0
+2025,All Other Larceny,crimes_against_persons,Jun,10
+2025,Motor Vehicle Theft,crimes_against_persons,Jun,0
+2025,Counterfeiting/Forgery,crimes_against_persons,Jun,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jun,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jun,0
+2025,Impersonation,crimes_against_persons,Jun,0
+2025,Welfare Fraud,crimes_against_persons,Jun,0
+2025,Wire Fraud,crimes_against_persons,Jun,0
+2025,Identity Theft,crimes_against_persons,Jun,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Jun,0
+2025,Embezzlement,crimes_against_persons,Jun,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jun,0
+2025,Destruction/Vandalism,crimes_against_persons,Jun,2
+2025,Bribery,crimes_against_persons,Jun,0
+2025,Bad Checks,crimes_against_persons,Jun,0
+2025,All Other Offenses,crimes_against_persons,Jun,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Jun,0
+2025,Negligent Manslaughter,crimes_against_society,Jun,0
+2025,Justifiable Homicide,crimes_against_society,Jun,0
+2025,Kidnapping/Abduction,crimes_against_society,Jun,0
+2025,Rape,crimes_against_society,Jun,0
+2025,Sodomy,crimes_against_society,Jun,0
+2025,Sexual Assault w/ Object,crimes_against_society,Jun,0
+2025,Fondling,crimes_against_society,Jun,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jun,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jun,0
+2025,Aggravated Assault,crimes_against_society,Jun,0
+2025,Simple Assault,crimes_against_society,Jun,0
+2025,Intimidation,crimes_against_society,Jun,0
+2025,Incest,crimes_against_society,Jun,0
+2025,Statutory Rape,crimes_against_society,Jun,0
+2025,All Other Offenses,crimes_against_society,Jun,0
+2024,Drug/Narcotic Violations,crimes_against_property,Jun,0
+2024,Drug Equipment Violations,crimes_against_property,Jun,0
+2024,Pornography/Obscene Material,crimes_against_property,Jun,0
+2024,Prostitution,crimes_against_property,Jun,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Jun,0
+2024,Purchasing Prostitution,crimes_against_property,Jun,0
+2024,Weapon Law Violations,crimes_against_property,Jun,0
+2024,Animal Cruelty,crimes_against_property,Jun,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jun,0
+2024,Disorderly Conduct,crimes_against_property,Jun,0
+2024,Driving Under the Influence,crimes_against_property,Jun,14
+2024,Drunkeness,crimes_against_property,Jun,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Jun,0
+2024,Liquor Law Violations,crimes_against_property,Jun,0
+2024,Trespassing of Real Property,crimes_against_property,Jun,0
+2024,Betting/Wagering,crimes_against_property,Jun,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Jun,0
+2024,Gambling Equipment Violations,crimes_against_property,Jun,0
+2024,Sports Tampering,crimes_against_property,Jun,0
+2024,All Other Offenses,crimes_against_property,Jun,1
+2024,Robbery,crimes_against_persons,Jun,1
+2024,Arson,crimes_against_persons,Jun,0
+2024,Extortion/Blackmail,crimes_against_persons,Jun,4
+2024,Burglary/Breaking or Entering,crimes_against_persons,Jun,0
+2024,Pocket-picking,crimes_against_persons,Jun,0
+2024,Purse-snatching,crimes_against_persons,Jun,0
+2024,Shoplifting,crimes_against_persons,Jun,0
+2024,Theft From Building,crimes_against_persons,Jun,3
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Jun,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Jun,3
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jun,1
+2024,All Other Larceny,crimes_against_persons,Jun,15
+2024,Motor Vehicle Theft,crimes_against_persons,Jun,2
+2024,Counterfeiting/Forgery,crimes_against_persons,Jun,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jun,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jun,0
+2024,Impersonation,crimes_against_persons,Jun,0
+2024,Welfare Fraud,crimes_against_persons,Jun,0
+2024,Wire Fraud,crimes_against_persons,Jun,0
+2024,Identity Theft,crimes_against_persons,Jun,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Jun,0
+2024,Embezzlement,crimes_against_persons,Jun,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jun,0
+2024,Destruction/Vandalism,crimes_against_persons,Jun,5
+2024,Bribery,crimes_against_persons,Jun,0
+2024,Bad Checks,crimes_against_persons,Jun,0
+2024,All Other Offenses,crimes_against_persons,Jun,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Jun,0
+2024,Negligent Manslaughter,crimes_against_society,Jun,0
+2024,Justifiable Homicide,crimes_against_society,Jun,0
+2024,Kidnapping/Abduction,crimes_against_society,Jun,0
+2024,Rape,crimes_against_society,Jun,0
+2024,Sodomy,crimes_against_society,Jun,0
+2024,Sexual Assault w/ Object,crimes_against_society,Jun,0
+2024,Fondling,crimes_against_society,Jun,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jun,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jun,0
+2024,Aggravated Assault,crimes_against_society,Jun,0
+2024,Simple Assault,crimes_against_society,Jun,2
+2024,Intimidation,crimes_against_society,Jun,0
+2024,Incest,crimes_against_society,Jun,0
+2024,Statutory Rape,crimes_against_society,Jun,0
+2024,All Other Offenses,crimes_against_society,Jun,0
+2023,Robbery,crimes_against_persons,Jun,0
+2023,Arson,crimes_against_persons,Jun,0
+2023,Extortion/Blackmail,crimes_against_persons,Jun,1
+2023,Burglary/Breaking or Entering,crimes_against_persons,Jun,0
+2023,Pocket-picking,crimes_against_persons,Jun,0
+2023,Purse-snatching,crimes_against_persons,Jun,0
+2023,Shoplifting,crimes_against_persons,Jun,0
+2023,Theft From Building,crimes_against_persons,Jun,2
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Jun,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Jun,1
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jun,1
+2023,All Other Larceny,crimes_against_persons,Jun,12
+2023,Motor Vehicle Theft,crimes_against_persons,Jun,2
+2023,Counterfeiting/Forgery,crimes_against_persons,Jun,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jun,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jun,0
+2023,Impersonation,crimes_against_persons,Jun,0
+2023,Welfare Fraud,crimes_against_persons,Jun,0
+2023,Wire Fraud,crimes_against_persons,Jun,0
+2023,Identity Theft,crimes_against_persons,Jun,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Jun,0
+2023,Embezzlement,crimes_against_persons,Jun,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jun,0
+2023,Destruction/Vandalism,crimes_against_persons,Jun,12
+2023,Bribery,crimes_against_persons,Jun,0
+2023,Bad Checks,crimes_against_persons,Jun,0
+2023,All Other Offenses,crimes_against_persons,Jun,0
+2023,Drug/Narcotic Violations,crimes_against_property,Jun,2
+2023,Drug Equipment Violations,crimes_against_property,Jun,1
+2023,Pornography/Obscene Material,crimes_against_property,Jun,0
+2023,Prostitution,crimes_against_property,Jun,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Jun,0
+2023,Purchasing Prostitution,crimes_against_property,Jun,0
+2023,Weapon Law Violations,crimes_against_property,Jun,0
+2023,Animal Cruelty,crimes_against_property,Jun,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jun,0
+2023,Disorderly Conduct,crimes_against_property,Jun,1
+2023,Driving Under the Influence,crimes_against_property,Jun,7
+2023,Drunkeness,crimes_against_property,Jun,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Jun,0
+2023,Liquor Law Violations,crimes_against_property,Jun,0
+2023,Trespassing of Real Property,crimes_against_property,Jun,3
+2023,Betting/Wagering,crimes_against_property,Jun,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Jun,0
+2023,Gambling Equipment Violations,crimes_against_property,Jun,0
+2023,Sports Tampering,crimes_against_property,Jun,0
+2023,All Other Offenses,crimes_against_property,Jun,1
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Jun,0
+2023,Negligent Manslaughter,crimes_against_society,Jun,0
+2023,Justifiable Homicide,crimes_against_society,Jun,0
+2023,Kidnapping/Abduction,crimes_against_society,Jun,0
+2023,Rape,crimes_against_society,Jun,0
+2023,Sodomy,crimes_against_society,Jun,0
+2023,Sexual Assault w/ Object,crimes_against_society,Jun,0
+2023,Fondling,crimes_against_society,Jun,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jun,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jun,0
+2023,Aggravated Assault,crimes_against_society,Jun,0
+2023,Simple Assault,crimes_against_society,Jun,3
+2023,Intimidation,crimes_against_society,Jun,0
+2023,Incest,crimes_against_society,Jun,0
+2023,Statutory Rape,crimes_against_society,Jun,0
+2023,All Other Offenses,crimes_against_society,Jun,0
+2026,Drug/Narcotic Violations,crimes_against_property,Jun,0
+2026,Drug Equipment Violations,crimes_against_property,Jun,0
+2026,Pornography/Obscene Material,crimes_against_property,Jun,0
+2026,Prostitution,crimes_against_property,Jun,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Jun,0
+2026,Purchasing Prostitution,crimes_against_property,Jun,0
+2026,Weapon Law Violations,crimes_against_property,Jun,0
+2026,Animal Cruelty,crimes_against_property,Jun,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jun,0
+2026,Disorderly Conduct,crimes_against_property,Jun,0
+2026,Driving Under the Influence,crimes_against_property,Jun,27
+2026,Drunkeness,crimes_against_property,Jun,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Jun,0
+2026,Liquor Law Violations,crimes_against_property,Jun,0
+2026,Trespassing of Real Property,crimes_against_property,Jun,0
+2026,Betting/Wagering,crimes_against_property,Jun,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Jun,0
+2026,Gambling Equipment Violations,crimes_against_property,Jun,0
+2026,Sports Tampering,crimes_against_property,Jun,0
+2026,All Other Offenses,crimes_against_property,Jun,1
+2026,Robbery,crimes_against_persons,Jun,0
+2026,Arson,crimes_against_persons,Jun,0
+2026,Extortion/Blackmail,crimes_against_persons,Jun,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Jun,1
+2026,Pocket-picking,crimes_against_persons,Jun,0
+2026,Purse-snatching,crimes_against_persons,Jun,0
+2026,Shoplifting,crimes_against_persons,Jun,0
+2026,Theft From Building,crimes_against_persons,Jun,0
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Jun,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Jun,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jun,0
+2026,All Other Larceny,crimes_against_persons,Jun,5
+2026,Motor Vehicle Theft,crimes_against_persons,Jun,1
+2026,Counterfeiting/Forgery,crimes_against_persons,Jun,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jun,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jun,0
+2026,Impersonation,crimes_against_persons,Jun,0
+2026,Welfare Fraud,crimes_against_persons,Jun,0
+2026,Wire Fraud,crimes_against_persons,Jun,0
+2026,Identity Theft,crimes_against_persons,Jun,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Jun,0
+2026,Embezzlement,crimes_against_persons,Jun,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jun,0
+2026,Destruction/Vandalism,crimes_against_persons,Jun,3
+2026,Bribery,crimes_against_persons,Jun,0
+2026,Bad Checks,crimes_against_persons,Jun,0
+2026,All Other Offenses,crimes_against_persons,Jun,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Jun,0
+2026,Negligent Manslaughter,crimes_against_society,Jun,0
+2026,Justifiable Homicide,crimes_against_society,Jun,0
+2026,Kidnapping/Abduction,crimes_against_society,Jun,0
+2026,Rape,crimes_against_society,Jun,0
+2026,Sodomy,crimes_against_society,Jun,0
+2026,Sexual Assault w/ Object,crimes_against_society,Jun,0
+2026,Fondling,crimes_against_society,Jun,1
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jun,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jun,0
+2026,Aggravated Assault,crimes_against_society,Jun,0
+2026,Simple Assault,crimes_against_society,Jun,0
+2026,Intimidation,crimes_against_society,Jun,0
+2026,Incest,crimes_against_society,Jun,0
+2026,Statutory Rape,crimes_against_society,Jun,0
+2026,All Other Offenses,crimes_against_society,Jun,0
+2025,Drug/Narcotic Violations,crimes_against_property,Jul,2
+2025,Drug Equipment Violations,crimes_against_property,Jul,2
+2025,Pornography/Obscene Material,crimes_against_property,Jul,0
+2025,Prostitution,crimes_against_property,Jul,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Jul,0
+2025,Purchasing Prostitution,crimes_against_property,Jul,0
+2025,Weapon Law Violations,crimes_against_property,Jul,1
+2025,Animal Cruelty,crimes_against_property,Jul,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jul,0
+2025,Disorderly Conduct,crimes_against_property,Jul,1
+2025,Driving Under the Influence,crimes_against_property,Jul,14
+2025,Drunkeness,crimes_against_property,Jul,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Jul,0
+2025,Liquor Law Violations,crimes_against_property,Jul,0
+2025,Trespassing of Real Property,crimes_against_property,Jul,0
+2025,Betting/Wagering,crimes_against_property,Jul,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Jul,0
+2025,Gambling Equipment Violations,crimes_against_property,Jul,0
+2025,Sports Tampering,crimes_against_property,Jul,0
+2025,All Other Offenses,crimes_against_property,Jul,1
+2025,Robbery,crimes_against_persons,Jul,0
+2025,Arson,crimes_against_persons,Jul,0
+2025,Extortion/Blackmail,crimes_against_persons,Jul,0
+2025,Burglary/Breaking or Entering,crimes_against_persons,Jul,4
+2025,Pocket-picking,crimes_against_persons,Jul,0
+2025,Purse-snatching,crimes_against_persons,Jul,0
+2025,Shoplifting,crimes_against_persons,Jul,0
+2025,Theft From Building,crimes_against_persons,Jul,8
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Jul,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Jul,2
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jul,1
+2025,All Other Larceny,crimes_against_persons,Jul,14
+2025,Motor Vehicle Theft,crimes_against_persons,Jul,1
+2025,Counterfeiting/Forgery,crimes_against_persons,Jul,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jul,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jul,0
+2025,Impersonation,crimes_against_persons,Jul,0
+2025,Welfare Fraud,crimes_against_persons,Jul,0
+2025,Wire Fraud,crimes_against_persons,Jul,0
+2025,Identity Theft,crimes_against_persons,Jul,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Jul,0
+2025,Embezzlement,crimes_against_persons,Jul,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jul,0
+2025,Destruction/Vandalism,crimes_against_persons,Jul,9
+2025,Bribery,crimes_against_persons,Jul,0
+2025,Bad Checks,crimes_against_persons,Jul,0
+2025,All Other Offenses,crimes_against_persons,Jul,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Jul,0
+2025,Negligent Manslaughter,crimes_against_society,Jul,0
+2025,Justifiable Homicide,crimes_against_society,Jul,0
+2025,Kidnapping/Abduction,crimes_against_society,Jul,0
+2025,Rape,crimes_against_society,Jul,0
+2025,Sodomy,crimes_against_society,Jul,0
+2025,Sexual Assault w/ Object,crimes_against_society,Jul,0
+2025,Fondling,crimes_against_society,Jul,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jul,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jul,0
+2025,Aggravated Assault,crimes_against_society,Jul,0
+2025,Simple Assault,crimes_against_society,Jul,1
+2025,Intimidation,crimes_against_society,Jul,0
+2025,Incest,crimes_against_society,Jul,0
+2025,Statutory Rape,crimes_against_society,Jul,0
+2025,All Other Offenses,crimes_against_society,Jul,0
+2024,Drug/Narcotic Violations,crimes_against_property,Jul,1
+2024,Drug Equipment Violations,crimes_against_property,Jul,2
+2024,Pornography/Obscene Material,crimes_against_property,Jul,0
+2024,Prostitution,crimes_against_property,Jul,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Jul,2
+2024,Purchasing Prostitution,crimes_against_property,Jul,0
+2024,Weapon Law Violations,crimes_against_property,Jul,0
+2024,Animal Cruelty,crimes_against_property,Jul,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jul,0
+2024,Disorderly Conduct,crimes_against_property,Jul,0
+2024,Driving Under the Influence,crimes_against_property,Jul,26
+2024,Drunkeness,crimes_against_property,Jul,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Jul,0
+2024,Liquor Law Violations,crimes_against_property,Jul,0
+2024,Trespassing of Real Property,crimes_against_property,Jul,0
+2024,Betting/Wagering,crimes_against_property,Jul,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Jul,0
+2024,Gambling Equipment Violations,crimes_against_property,Jul,0
+2024,Sports Tampering,crimes_against_property,Jul,0
+2024,All Other Offenses,crimes_against_property,Jul,1
+2024,Robbery,crimes_against_persons,Jul,0
+2024,Arson,crimes_against_persons,Jul,0
+2024,Extortion/Blackmail,crimes_against_persons,Jul,1
+2024,Burglary/Breaking or Entering,crimes_against_persons,Jul,0
+2024,Pocket-picking,crimes_against_persons,Jul,0
+2024,Purse-snatching,crimes_against_persons,Jul,0
+2024,Shoplifting,crimes_against_persons,Jul,0
+2024,Theft From Building,crimes_against_persons,Jul,3
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Jul,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Jul,4
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jul,2
+2024,All Other Larceny,crimes_against_persons,Jul,18
+2024,Motor Vehicle Theft,crimes_against_persons,Jul,2
+2024,Counterfeiting/Forgery,crimes_against_persons,Jul,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jul,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jul,0
+2024,Impersonation,crimes_against_persons,Jul,0
+2024,Welfare Fraud,crimes_against_persons,Jul,0
+2024,Wire Fraud,crimes_against_persons,Jul,0
+2024,Identity Theft,crimes_against_persons,Jul,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Jul,0
+2024,Embezzlement,crimes_against_persons,Jul,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jul,0
+2024,Destruction/Vandalism,crimes_against_persons,Jul,14
+2024,Bribery,crimes_against_persons,Jul,0
+2024,Bad Checks,crimes_against_persons,Jul,0
+2024,All Other Offenses,crimes_against_persons,Jul,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Jul,0
+2024,Negligent Manslaughter,crimes_against_society,Jul,0
+2024,Justifiable Homicide,crimes_against_society,Jul,0
+2024,Kidnapping/Abduction,crimes_against_society,Jul,0
+2024,Rape,crimes_against_society,Jul,0
+2024,Sodomy,crimes_against_society,Jul,0
+2024,Sexual Assault w/ Object,crimes_against_society,Jul,0
+2024,Fondling,crimes_against_society,Jul,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jul,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jul,0
+2024,Aggravated Assault,crimes_against_society,Jul,0
+2024,Simple Assault,crimes_against_society,Jul,1
+2024,Intimidation,crimes_against_society,Jul,0
+2024,Incest,crimes_against_society,Jul,0
+2024,Statutory Rape,crimes_against_society,Jul,0
+2024,All Other Offenses,crimes_against_society,Jul,0
+2023,Robbery,crimes_against_persons,Jul,2
+2023,Arson,crimes_against_persons,Jul,0
+2023,Extortion/Blackmail,crimes_against_persons,Jul,1
+2023,Burglary/Breaking or Entering,crimes_against_persons,Jul,1
+2023,Pocket-picking,crimes_against_persons,Jul,0
+2023,Purse-snatching,crimes_against_persons,Jul,0
+2023,Shoplifting,crimes_against_persons,Jul,1
+2023,Theft From Building,crimes_against_persons,Jul,2
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Jul,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Jul,1
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jul,0
+2023,All Other Larceny,crimes_against_persons,Jul,7
+2023,Motor Vehicle Theft,crimes_against_persons,Jul,3
+2023,Counterfeiting/Forgery,crimes_against_persons,Jul,0
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jul,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jul,0
+2023,Impersonation,crimes_against_persons,Jul,0
+2023,Welfare Fraud,crimes_against_persons,Jul,0
+2023,Wire Fraud,crimes_against_persons,Jul,0
+2023,Identity Theft,crimes_against_persons,Jul,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Jul,0
+2023,Embezzlement,crimes_against_persons,Jul,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jul,0
+2023,Destruction/Vandalism,crimes_against_persons,Jul,5
+2023,Bribery,crimes_against_persons,Jul,0
+2023,Bad Checks,crimes_against_persons,Jul,0
+2023,All Other Offenses,crimes_against_persons,Jul,0
+2023,Drug/Narcotic Violations,crimes_against_property,Jul,2
+2023,Drug Equipment Violations,crimes_against_property,Jul,0
+2023,Pornography/Obscene Material,crimes_against_property,Jul,0
+2023,Prostitution,crimes_against_property,Jul,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Jul,0
+2023,Purchasing Prostitution,crimes_against_property,Jul,0
+2023,Weapon Law Violations,crimes_against_property,Jul,0
+2023,Animal Cruelty,crimes_against_property,Jul,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jul,0
+2023,Disorderly Conduct,crimes_against_property,Jul,0
+2023,Driving Under the Influence,crimes_against_property,Jul,11
+2023,Drunkeness,crimes_against_property,Jul,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Jul,0
+2023,Liquor Law Violations,crimes_against_property,Jul,0
+2023,Trespassing of Real Property,crimes_against_property,Jul,1
+2023,Betting/Wagering,crimes_against_property,Jul,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Jul,0
+2023,Gambling Equipment Violations,crimes_against_property,Jul,0
+2023,Sports Tampering,crimes_against_property,Jul,0
+2023,All Other Offenses,crimes_against_property,Jul,1
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Jul,0
+2023,Negligent Manslaughter,crimes_against_society,Jul,0
+2023,Justifiable Homicide,crimes_against_society,Jul,0
+2023,Kidnapping/Abduction,crimes_against_society,Jul,0
+2023,Rape,crimes_against_society,Jul,0
+2023,Sodomy,crimes_against_society,Jul,0
+2023,Sexual Assault w/ Object,crimes_against_society,Jul,0
+2023,Fondling,crimes_against_society,Jul,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jul,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jul,0
+2023,Aggravated Assault,crimes_against_society,Jul,0
+2023,Simple Assault,crimes_against_society,Jul,2
+2023,Intimidation,crimes_against_society,Jul,0
+2023,Incest,crimes_against_society,Jul,0
+2023,Statutory Rape,crimes_against_society,Jul,0
+2023,All Other Offenses,crimes_against_society,Jul,0
+2026,Drug/Narcotic Violations,crimes_against_property,Jul,2
+2026,Drug Equipment Violations,crimes_against_property,Jul,0
+2026,Pornography/Obscene Material,crimes_against_property,Jul,0
+2026,Prostitution,crimes_against_property,Jul,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Jul,0
+2026,Purchasing Prostitution,crimes_against_property,Jul,0
+2026,Weapon Law Violations,crimes_against_property,Jul,0
+2026,Animal Cruelty,crimes_against_property,Jul,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Jul,0
+2026,Disorderly Conduct,crimes_against_property,Jul,0
+2026,Driving Under the Influence,crimes_against_property,Jul,20
+2026,Drunkeness,crimes_against_property,Jul,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Jul,0
+2026,Liquor Law Violations,crimes_against_property,Jul,0
+2026,Trespassing of Real Property,crimes_against_property,Jul,0
+2026,Betting/Wagering,crimes_against_property,Jul,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Jul,0
+2026,Gambling Equipment Violations,crimes_against_property,Jul,0
+2026,Sports Tampering,crimes_against_property,Jul,0
+2026,All Other Offenses,crimes_against_property,Jul,2
+2026,Robbery,crimes_against_persons,Jul,0
+2026,Arson,crimes_against_persons,Jul,0
+2026,Extortion/Blackmail,crimes_against_persons,Jul,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Jul,0
+2026,Pocket-picking,crimes_against_persons,Jul,0
+2026,Purse-snatching,crimes_against_persons,Jul,0
+2026,Shoplifting,crimes_against_persons,Jul,0
+2026,Theft From Building,crimes_against_persons,Jul,1
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Jul,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Jul,1
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Jul,0
+2026,All Other Larceny,crimes_against_persons,Jul,3
+2026,Motor Vehicle Theft,crimes_against_persons,Jul,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Jul,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Jul,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Jul,0
+2026,Impersonation,crimes_against_persons,Jul,0
+2026,Welfare Fraud,crimes_against_persons,Jul,0
+2026,Wire Fraud,crimes_against_persons,Jul,0
+2026,Identity Theft,crimes_against_persons,Jul,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Jul,0
+2026,Embezzlement,crimes_against_persons,Jul,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Jul,0
+2026,Destruction/Vandalism,crimes_against_persons,Jul,3
+2026,Bribery,crimes_against_persons,Jul,0
+2026,Bad Checks,crimes_against_persons,Jul,0
+2026,All Other Offenses,crimes_against_persons,Jul,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Jul,0
+2026,Negligent Manslaughter,crimes_against_society,Jul,0
+2026,Justifiable Homicide,crimes_against_society,Jul,0
+2026,Kidnapping/Abduction,crimes_against_society,Jul,0
+2026,Rape,crimes_against_society,Jul,0
+2026,Sodomy,crimes_against_society,Jul,0
+2026,Sexual Assault w/ Object,crimes_against_society,Jul,0
+2026,Fondling,crimes_against_society,Jul,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Jul,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Jul,0
+2026,Aggravated Assault,crimes_against_society,Jul,1
+2026,Simple Assault,crimes_against_society,Jul,2
+2026,Intimidation,crimes_against_society,Jul,0
+2026,Incest,crimes_against_society,Jul,0
+2026,Statutory Rape,crimes_against_society,Jul,0
+2026,All Other Offenses,crimes_against_society,Jul,0
+2025,Drug/Narcotic Violations,crimes_against_property,Aug,2
+2025,Drug Equipment Violations,crimes_against_property,Aug,0
+2025,Pornography/Obscene Material,crimes_against_property,Aug,0
+2025,Prostitution,crimes_against_property,Aug,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Aug,0
+2025,Purchasing Prostitution,crimes_against_property,Aug,0
+2025,Weapon Law Violations,crimes_against_property,Aug,0
+2025,Animal Cruelty,crimes_against_property,Aug,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Aug,0
+2025,Disorderly Conduct,crimes_against_property,Aug,0
+2025,Driving Under the Influence,crimes_against_property,Aug,22
+2025,Drunkeness,crimes_against_property,Aug,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Aug,0
+2025,Liquor Law Violations,crimes_against_property,Aug,0
+2025,Trespassing of Real Property,crimes_against_property,Aug,2
+2025,Betting/Wagering,crimes_against_property,Aug,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Aug,0
+2025,Gambling Equipment Violations,crimes_against_property,Aug,0
+2025,Sports Tampering,crimes_against_property,Aug,0
+2025,All Other Offenses,crimes_against_property,Aug,0
+2025,Robbery,crimes_against_persons,Aug,0
+2025,Arson,crimes_against_persons,Aug,0
+2025,Extortion/Blackmail,crimes_against_persons,Aug,0
+2025,Burglary/Breaking or Entering,crimes_against_persons,Aug,2
+2025,Pocket-picking,crimes_against_persons,Aug,0
+2025,Purse-snatching,crimes_against_persons,Aug,0
+2025,Shoplifting,crimes_against_persons,Aug,0
+2025,Theft From Building,crimes_against_persons,Aug,10
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Aug,1
+2025,Theft From Motor Vehicle,crimes_against_persons,Aug,3
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Aug,0
+2025,All Other Larceny,crimes_against_persons,Aug,6
+2025,Motor Vehicle Theft,crimes_against_persons,Aug,0
+2025,Counterfeiting/Forgery,crimes_against_persons,Aug,2
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Aug,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Aug,0
+2025,Impersonation,crimes_against_persons,Aug,0
+2025,Welfare Fraud,crimes_against_persons,Aug,0
+2025,Wire Fraud,crimes_against_persons,Aug,0
+2025,Identity Theft,crimes_against_persons,Aug,1
+2025,Hacking/Computer Invasion,crimes_against_persons,Aug,0
+2025,Embezzlement,crimes_against_persons,Aug,2
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Aug,0
+2025,Destruction/Vandalism,crimes_against_persons,Aug,9
+2025,Bribery,crimes_against_persons,Aug,0
+2025,Bad Checks,crimes_against_persons,Aug,0
+2025,All Other Offenses,crimes_against_persons,Aug,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Aug,0
+2025,Negligent Manslaughter,crimes_against_society,Aug,0
+2025,Justifiable Homicide,crimes_against_society,Aug,0
+2025,Kidnapping/Abduction,crimes_against_society,Aug,0
+2025,Rape,crimes_against_society,Aug,2
+2025,Sodomy,crimes_against_society,Aug,0
+2025,Sexual Assault w/ Object,crimes_against_society,Aug,0
+2025,Fondling,crimes_against_society,Aug,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Aug,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Aug,0
+2025,Aggravated Assault,crimes_against_society,Aug,0
+2025,Simple Assault,crimes_against_society,Aug,0
+2025,Intimidation,crimes_against_society,Aug,0
+2025,Incest,crimes_against_society,Aug,0
+2025,Statutory Rape,crimes_against_society,Aug,0
+2025,All Other Offenses,crimes_against_society,Aug,0
+2024,Drug/Narcotic Violations,crimes_against_property,Aug,2
+2024,Drug Equipment Violations,crimes_against_property,Aug,0
+2024,Pornography/Obscene Material,crimes_against_property,Aug,0
+2024,Prostitution,crimes_against_property,Aug,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Aug,0
+2024,Purchasing Prostitution,crimes_against_property,Aug,0
+2024,Weapon Law Violations,crimes_against_property,Aug,0
+2024,Animal Cruelty,crimes_against_property,Aug,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Aug,0
+2024,Disorderly Conduct,crimes_against_property,Aug,0
+2024,Driving Under the Influence,crimes_against_property,Aug,15
+2024,Drunkeness,crimes_against_property,Aug,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Aug,0
+2024,Liquor Law Violations,crimes_against_property,Aug,0
+2024,Trespassing of Real Property,crimes_against_property,Aug,0
+2024,Betting/Wagering,crimes_against_property,Aug,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Aug,0
+2024,Gambling Equipment Violations,crimes_against_property,Aug,0
+2024,Sports Tampering,crimes_against_property,Aug,0
+2024,All Other Offenses,crimes_against_property,Aug,1
+2024,Robbery,crimes_against_persons,Aug,0
+2024,Arson,crimes_against_persons,Aug,0
+2024,Extortion/Blackmail,crimes_against_persons,Aug,0
+2024,Burglary/Breaking or Entering,crimes_against_persons,Aug,1
+2024,Pocket-picking,crimes_against_persons,Aug,0
+2024,Purse-snatching,crimes_against_persons,Aug,0
+2024,Shoplifting,crimes_against_persons,Aug,0
+2024,Theft From Building,crimes_against_persons,Aug,9
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Aug,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Aug,2
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Aug,0
+2024,All Other Larceny,crimes_against_persons,Aug,10
+2024,Motor Vehicle Theft,crimes_against_persons,Aug,2
+2024,Counterfeiting/Forgery,crimes_against_persons,Aug,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Aug,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Aug,1
+2024,Impersonation,crimes_against_persons,Aug,0
+2024,Welfare Fraud,crimes_against_persons,Aug,0
+2024,Wire Fraud,crimes_against_persons,Aug,0
+2024,Identity Theft,crimes_against_persons,Aug,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Aug,1
+2024,Embezzlement,crimes_against_persons,Aug,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Aug,0
+2024,Destruction/Vandalism,crimes_against_persons,Aug,5
+2024,Bribery,crimes_against_persons,Aug,0
+2024,Bad Checks,crimes_against_persons,Aug,0
+2024,All Other Offenses,crimes_against_persons,Aug,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Aug,0
+2024,Negligent Manslaughter,crimes_against_society,Aug,0
+2024,Justifiable Homicide,crimes_against_society,Aug,0
+2024,Kidnapping/Abduction,crimes_against_society,Aug,0
+2024,Rape,crimes_against_society,Aug,1
+2024,Sodomy,crimes_against_society,Aug,0
+2024,Sexual Assault w/ Object,crimes_against_society,Aug,0
+2024,Fondling,crimes_against_society,Aug,3
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Aug,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Aug,0
+2024,Aggravated Assault,crimes_against_society,Aug,0
+2024,Simple Assault,crimes_against_society,Aug,0
+2024,Intimidation,crimes_against_society,Aug,0
+2024,Incest,crimes_against_society,Aug,0
+2024,Statutory Rape,crimes_against_society,Aug,0
+2024,All Other Offenses,crimes_against_society,Aug,0
+2023,Robbery,crimes_against_persons,Aug,0
+2023,Arson,crimes_against_persons,Aug,0
+2023,Extortion/Blackmail,crimes_against_persons,Aug,0
+2023,Burglary/Breaking or Entering,crimes_against_persons,Aug,0
+2023,Pocket-picking,crimes_against_persons,Aug,0
+2023,Purse-snatching,crimes_against_persons,Aug,0
+2023,Shoplifting,crimes_against_persons,Aug,0
+2023,Theft From Building,crimes_against_persons,Aug,5
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Aug,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Aug,5
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Aug,1
+2023,All Other Larceny,crimes_against_persons,Aug,11
+2023,Motor Vehicle Theft,crimes_against_persons,Aug,5
+2023,Counterfeiting/Forgery,crimes_against_persons,Aug,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Aug,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Aug,0
+2023,Impersonation,crimes_against_persons,Aug,0
+2023,Welfare Fraud,crimes_against_persons,Aug,0
+2023,Wire Fraud,crimes_against_persons,Aug,0
+2023,Identity Theft,crimes_against_persons,Aug,1
+2023,Hacking/Computer Invasion,crimes_against_persons,Aug,0
+2023,Embezzlement,crimes_against_persons,Aug,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Aug,0
+2023,Destruction/Vandalism,crimes_against_persons,Aug,5
+2023,Bribery,crimes_against_persons,Aug,0
+2023,Bad Checks,crimes_against_persons,Aug,0
+2023,All Other Offenses,crimes_against_persons,Aug,0
+2023,Drug/Narcotic Violations,crimes_against_property,Aug,0
+2023,Drug Equipment Violations,crimes_against_property,Aug,0
+2023,Pornography/Obscene Material,crimes_against_property,Aug,0
+2023,Prostitution,crimes_against_property,Aug,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Aug,0
+2023,Purchasing Prostitution,crimes_against_property,Aug,0
+2023,Weapon Law Violations,crimes_against_property,Aug,0
+2023,Animal Cruelty,crimes_against_property,Aug,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Aug,0
+2023,Disorderly Conduct,crimes_against_property,Aug,0
+2023,Driving Under the Influence,crimes_against_property,Aug,10
+2023,Drunkeness,crimes_against_property,Aug,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Aug,0
+2023,Liquor Law Violations,crimes_against_property,Aug,0
+2023,Trespassing of Real Property,crimes_against_property,Aug,0
+2023,Betting/Wagering,crimes_against_property,Aug,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Aug,0
+2023,Gambling Equipment Violations,crimes_against_property,Aug,0
+2023,Sports Tampering,crimes_against_property,Aug,0
+2023,All Other Offenses,crimes_against_property,Aug,1
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Aug,0
+2023,Negligent Manslaughter,crimes_against_society,Aug,0
+2023,Justifiable Homicide,crimes_against_society,Aug,0
+2023,Kidnapping/Abduction,crimes_against_society,Aug,0
+2023,Rape,crimes_against_society,Aug,0
+2023,Sodomy,crimes_against_society,Aug,0
+2023,Sexual Assault w/ Object,crimes_against_society,Aug,0
+2023,Fondling,crimes_against_society,Aug,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Aug,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Aug,0
+2023,Aggravated Assault,crimes_against_society,Aug,0
+2023,Simple Assault,crimes_against_society,Aug,2
+2023,Intimidation,crimes_against_society,Aug,0
+2023,Incest,crimes_against_society,Aug,0
+2023,Statutory Rape,crimes_against_society,Aug,0
+2023,All Other Offenses,crimes_against_society,Aug,0
+2026,Drug/Narcotic Violations,crimes_against_property,Aug,0
+2026,Drug Equipment Violations,crimes_against_property,Aug,0
+2026,Pornography/Obscene Material,crimes_against_property,Aug,0
+2026,Prostitution,crimes_against_property,Aug,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Aug,0
+2026,Purchasing Prostitution,crimes_against_property,Aug,0
+2026,Weapon Law Violations,crimes_against_property,Aug,0
+2026,Animal Cruelty,crimes_against_property,Aug,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Aug,0
+2026,Disorderly Conduct,crimes_against_property,Aug,1
+2026,Driving Under the Influence,crimes_against_property,Aug,42
+2026,Drunkeness,crimes_against_property,Aug,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Aug,0
+2026,Liquor Law Violations,crimes_against_property,Aug,0
+2026,Trespassing of Real Property,crimes_against_property,Aug,2
+2026,Betting/Wagering,crimes_against_property,Aug,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Aug,0
+2026,Gambling Equipment Violations,crimes_against_property,Aug,0
+2026,Sports Tampering,crimes_against_property,Aug,0
+2026,All Other Offenses,crimes_against_property,Aug,1
+2026,Robbery,crimes_against_persons,Aug,0
+2026,Arson,crimes_against_persons,Aug,0
+2026,Extortion/Blackmail,crimes_against_persons,Aug,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Aug,4
+2026,Pocket-picking,crimes_against_persons,Aug,0
+2026,Purse-snatching,crimes_against_persons,Aug,0
+2026,Shoplifting,crimes_against_persons,Aug,0
+2026,Theft From Building,crimes_against_persons,Aug,4
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Aug,1
+2026,Theft From Motor Vehicle,crimes_against_persons,Aug,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Aug,0
+2026,All Other Larceny,crimes_against_persons,Aug,14
+2026,Motor Vehicle Theft,crimes_against_persons,Aug,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Aug,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Aug,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Aug,0
+2026,Impersonation,crimes_against_persons,Aug,0
+2026,Welfare Fraud,crimes_against_persons,Aug,0
+2026,Wire Fraud,crimes_against_persons,Aug,0
+2026,Identity Theft,crimes_against_persons,Aug,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Aug,0
+2026,Embezzlement,crimes_against_persons,Aug,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Aug,0
+2026,Destruction/Vandalism,crimes_against_persons,Aug,2
+2026,Bribery,crimes_against_persons,Aug,0
+2026,Bad Checks,crimes_against_persons,Aug,0
+2026,All Other Offenses,crimes_against_persons,Aug,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Aug,0
+2026,Negligent Manslaughter,crimes_against_society,Aug,0
+2026,Justifiable Homicide,crimes_against_society,Aug,0
+2026,Kidnapping/Abduction,crimes_against_society,Aug,0
+2026,Rape,crimes_against_society,Aug,0
+2026,Sodomy,crimes_against_society,Aug,0
+2026,Sexual Assault w/ Object,crimes_against_society,Aug,0
+2026,Fondling,crimes_against_society,Aug,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Aug,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Aug,0
+2026,Aggravated Assault,crimes_against_society,Aug,0
+2026,Simple Assault,crimes_against_society,Aug,1
+2026,Intimidation,crimes_against_society,Aug,0
+2026,Incest,crimes_against_society,Aug,0
+2026,Statutory Rape,crimes_against_society,Aug,0
+2026,All Other Offenses,crimes_against_society,Aug,0
+2025,Drug/Narcotic Violations,crimes_against_property,Sep,5
+2025,Drug Equipment Violations,crimes_against_property,Sep,0
+2025,Pornography/Obscene Material,crimes_against_property,Sep,0
+2025,Prostitution,crimes_against_property,Sep,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Sep,0
+2025,Purchasing Prostitution,crimes_against_property,Sep,0
+2025,Weapon Law Violations,crimes_against_property,Sep,0
+2025,Animal Cruelty,crimes_against_property,Sep,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Sep,0
+2025,Disorderly Conduct,crimes_against_property,Sep,1
+2025,Driving Under the Influence,crimes_against_property,Sep,11
+2025,Drunkeness,crimes_against_property,Sep,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Sep,0
+2025,Liquor Law Violations,crimes_against_property,Sep,2
+2025,Trespassing of Real Property,crimes_against_property,Sep,0
+2025,Betting/Wagering,crimes_against_property,Sep,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Sep,0
+2025,Gambling Equipment Violations,crimes_against_property,Sep,0
+2025,Sports Tampering,crimes_against_property,Sep,0
+2025,All Other Offenses,crimes_against_property,Sep,0
+2025,Robbery,crimes_against_persons,Sep,0
+2025,Arson,crimes_against_persons,Sep,0
+2025,Extortion/Blackmail,crimes_against_persons,Sep,1
+2025,Burglary/Breaking or Entering,crimes_against_persons,Sep,5
+2025,Pocket-picking,crimes_against_persons,Sep,0
+2025,Purse-snatching,crimes_against_persons,Sep,0
+2025,Shoplifting,crimes_against_persons,Sep,0
+2025,Theft From Building,crimes_against_persons,Sep,9
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Sep,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Sep,4
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Sep,1
+2025,All Other Larceny,crimes_against_persons,Sep,38
+2025,Motor Vehicle Theft,crimes_against_persons,Sep,1
+2025,Counterfeiting/Forgery,crimes_against_persons,Sep,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Sep,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Sep,0
+2025,Impersonation,crimes_against_persons,Sep,0
+2025,Welfare Fraud,crimes_against_persons,Sep,0
+2025,Wire Fraud,crimes_against_persons,Sep,0
+2025,Identity Theft,crimes_against_persons,Sep,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Sep,0
+2025,Embezzlement,crimes_against_persons,Sep,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Sep,0
+2025,Destruction/Vandalism,crimes_against_persons,Sep,14
+2025,Bribery,crimes_against_persons,Sep,0
+2025,Bad Checks,crimes_against_persons,Sep,0
+2025,All Other Offenses,crimes_against_persons,Sep,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Sep,0
+2025,Negligent Manslaughter,crimes_against_society,Sep,0
+2025,Justifiable Homicide,crimes_against_society,Sep,0
+2025,Kidnapping/Abduction,crimes_against_society,Sep,0
+2025,Rape,crimes_against_society,Sep,0
+2025,Sodomy,crimes_against_society,Sep,0
+2025,Sexual Assault w/ Object,crimes_against_society,Sep,0
+2025,Fondling,crimes_against_society,Sep,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Sep,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Sep,0
+2025,Aggravated Assault,crimes_against_society,Sep,1
+2025,Simple Assault,crimes_against_society,Sep,2
+2025,Intimidation,crimes_against_society,Sep,1
+2025,Incest,crimes_against_society,Sep,0
+2025,Statutory Rape,crimes_against_society,Sep,0
+2025,All Other Offenses,crimes_against_society,Sep,0
+2024,Drug/Narcotic Violations,crimes_against_property,Sep,2
+2024,Drug Equipment Violations,crimes_against_property,Sep,1
+2024,Pornography/Obscene Material,crimes_against_property,Sep,0
+2024,Prostitution,crimes_against_property,Sep,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Sep,1
+2024,Purchasing Prostitution,crimes_against_property,Sep,0
+2024,Weapon Law Violations,crimes_against_property,Sep,0
+2024,Animal Cruelty,crimes_against_property,Sep,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Sep,0
+2024,Disorderly Conduct,crimes_against_property,Sep,1
+2024,Driving Under the Influence,crimes_against_property,Sep,7
+2024,Drunkeness,crimes_against_property,Sep,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Sep,0
+2024,Liquor Law Violations,crimes_against_property,Sep,0
+2024,Trespassing of Real Property,crimes_against_property,Sep,0
+2024,Betting/Wagering,crimes_against_property,Sep,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Sep,0
+2024,Gambling Equipment Violations,crimes_against_property,Sep,0
+2024,Sports Tampering,crimes_against_property,Sep,0
+2024,All Other Offenses,crimes_against_property,Sep,1
+2024,Robbery,crimes_against_persons,Sep,0
+2024,Arson,crimes_against_persons,Sep,0
+2024,Extortion/Blackmail,crimes_against_persons,Sep,2
+2024,Burglary/Breaking or Entering,crimes_against_persons,Sep,1
+2024,Pocket-picking,crimes_against_persons,Sep,0
+2024,Purse-snatching,crimes_against_persons,Sep,0
+2024,Shoplifting,crimes_against_persons,Sep,0
+2024,Theft From Building,crimes_against_persons,Sep,6
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Sep,1
+2024,Theft From Motor Vehicle,crimes_against_persons,Sep,1
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Sep,2
+2024,All Other Larceny,crimes_against_persons,Sep,69
+2024,Motor Vehicle Theft,crimes_against_persons,Sep,2
+2024,Counterfeiting/Forgery,crimes_against_persons,Sep,1
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Sep,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Sep,0
+2024,Impersonation,crimes_against_persons,Sep,0
+2024,Welfare Fraud,crimes_against_persons,Sep,0
+2024,Wire Fraud,crimes_against_persons,Sep,0
+2024,Identity Theft,crimes_against_persons,Sep,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Sep,0
+2024,Embezzlement,crimes_against_persons,Sep,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Sep,0
+2024,Destruction/Vandalism,crimes_against_persons,Sep,14
+2024,Bribery,crimes_against_persons,Sep,0
+2024,Bad Checks,crimes_against_persons,Sep,0
+2024,All Other Offenses,crimes_against_persons,Sep,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Sep,0
+2024,Negligent Manslaughter,crimes_against_society,Sep,0
+2024,Justifiable Homicide,crimes_against_society,Sep,0
+2024,Kidnapping/Abduction,crimes_against_society,Sep,0
+2024,Rape,crimes_against_society,Sep,0
+2024,Sodomy,crimes_against_society,Sep,0
+2024,Sexual Assault w/ Object,crimes_against_society,Sep,0
+2024,Fondling,crimes_against_society,Sep,1
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Sep,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Sep,0
+2024,Aggravated Assault,crimes_against_society,Sep,1
+2024,Simple Assault,crimes_against_society,Sep,1
+2024,Intimidation,crimes_against_society,Sep,0
+2024,Incest,crimes_against_society,Sep,0
+2024,Statutory Rape,crimes_against_society,Sep,0
+2024,All Other Offenses,crimes_against_society,Sep,0
+2023,Robbery,crimes_against_persons,Sep,0
+2023,Arson,crimes_against_persons,Sep,0
+2023,Extortion/Blackmail,crimes_against_persons,Sep,1
+2023,Burglary/Breaking or Entering,crimes_against_persons,Sep,3
+2023,Pocket-picking,crimes_against_persons,Sep,0
+2023,Purse-snatching,crimes_against_persons,Sep,0
+2023,Shoplifting,crimes_against_persons,Sep,0
+2023,Theft From Building,crimes_against_persons,Sep,5
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Sep,1
+2023,Theft From Motor Vehicle,crimes_against_persons,Sep,2
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Sep,2
+2023,All Other Larceny,crimes_against_persons,Sep,39
+2023,Motor Vehicle Theft,crimes_against_persons,Sep,2
+2023,Counterfeiting/Forgery,crimes_against_persons,Sep,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Sep,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Sep,0
+2023,Impersonation,crimes_against_persons,Sep,0
+2023,Welfare Fraud,crimes_against_persons,Sep,0
+2023,Wire Fraud,crimes_against_persons,Sep,0
+2023,Identity Theft,crimes_against_persons,Sep,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Sep,0
+2023,Embezzlement,crimes_against_persons,Sep,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Sep,0
+2023,Destruction/Vandalism,crimes_against_persons,Sep,13
+2023,Bribery,crimes_against_persons,Sep,0
+2023,Bad Checks,crimes_against_persons,Sep,0
+2023,All Other Offenses,crimes_against_persons,Sep,0
+2023,Drug/Narcotic Violations,crimes_against_property,Sep,1
+2023,Drug Equipment Violations,crimes_against_property,Sep,0
+2023,Pornography/Obscene Material,crimes_against_property,Sep,0
+2023,Prostitution,crimes_against_property,Sep,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Sep,0
+2023,Purchasing Prostitution,crimes_against_property,Sep,0
+2023,Weapon Law Violations,crimes_against_property,Sep,0
+2023,Animal Cruelty,crimes_against_property,Sep,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Sep,0
+2023,Disorderly Conduct,crimes_against_property,Sep,2
+2023,Driving Under the Influence,crimes_against_property,Sep,3
+2023,Drunkeness,crimes_against_property,Sep,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Sep,0
+2023,Liquor Law Violations,crimes_against_property,Sep,0
+2023,Trespassing of Real Property,crimes_against_property,Sep,1
+2023,Betting/Wagering,crimes_against_property,Sep,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Sep,0
+2023,Gambling Equipment Violations,crimes_against_property,Sep,0
+2023,Sports Tampering,crimes_against_property,Sep,0
+2023,All Other Offenses,crimes_against_property,Sep,0
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Sep,0
+2023,Negligent Manslaughter,crimes_against_society,Sep,0
+2023,Justifiable Homicide,crimes_against_society,Sep,0
+2023,Kidnapping/Abduction,crimes_against_society,Sep,0
+2023,Rape,crimes_against_society,Sep,1
+2023,Sodomy,crimes_against_society,Sep,1
+2023,Sexual Assault w/ Object,crimes_against_society,Sep,0
+2023,Fondling,crimes_against_society,Sep,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Sep,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Sep,0
+2023,Aggravated Assault,crimes_against_society,Sep,1
+2023,Simple Assault,crimes_against_society,Sep,4
+2023,Intimidation,crimes_against_society,Sep,0
+2023,Incest,crimes_against_society,Sep,0
+2023,Statutory Rape,crimes_against_society,Sep,0
+2023,All Other Offenses,crimes_against_society,Sep,0
+2026,Drug/Narcotic Violations,crimes_against_property,Sep,0
+2026,Drug Equipment Violations,crimes_against_property,Sep,0
+2026,Pornography/Obscene Material,crimes_against_property,Sep,0
+2026,Prostitution,crimes_against_property,Sep,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Sep,0
+2026,Purchasing Prostitution,crimes_against_property,Sep,0
+2026,Weapon Law Violations,crimes_against_property,Sep,0
+2026,Animal Cruelty,crimes_against_property,Sep,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Sep,0
+2026,Disorderly Conduct,crimes_against_property,Sep,0
+2026,Driving Under the Influence,crimes_against_property,Sep,0
+2026,Drunkeness,crimes_against_property,Sep,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Sep,0
+2026,Liquor Law Violations,crimes_against_property,Sep,0
+2026,Trespassing of Real Property,crimes_against_property,Sep,0
+2026,Betting/Wagering,crimes_against_property,Sep,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Sep,0
+2026,Gambling Equipment Violations,crimes_against_property,Sep,0
+2026,Sports Tampering,crimes_against_property,Sep,0
+2026,All Other Offenses,crimes_against_property,Sep,0
+2026,Robbery,crimes_against_persons,Sep,0
+2026,Arson,crimes_against_persons,Sep,0
+2026,Extortion/Blackmail,crimes_against_persons,Sep,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Sep,0
+2026,Pocket-picking,crimes_against_persons,Sep,0
+2026,Purse-snatching,crimes_against_persons,Sep,0
+2026,Shoplifting,crimes_against_persons,Sep,0
+2026,Theft From Building,crimes_against_persons,Sep,0
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Sep,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Sep,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Sep,0
+2026,All Other Larceny,crimes_against_persons,Sep,0
+2026,Motor Vehicle Theft,crimes_against_persons,Sep,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Sep,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Sep,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Sep,0
+2026,Impersonation,crimes_against_persons,Sep,0
+2026,Welfare Fraud,crimes_against_persons,Sep,0
+2026,Wire Fraud,crimes_against_persons,Sep,0
+2026,Identity Theft,crimes_against_persons,Sep,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Sep,0
+2026,Embezzlement,crimes_against_persons,Sep,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Sep,0
+2026,Destruction/Vandalism,crimes_against_persons,Sep,0
+2026,Bribery,crimes_against_persons,Sep,0
+2026,Bad Checks,crimes_against_persons,Sep,0
+2026,All Other Offenses,crimes_against_persons,Sep,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Sep,0
+2026,Negligent Manslaughter,crimes_against_society,Sep,0
+2026,Justifiable Homicide,crimes_against_society,Sep,0
+2026,Kidnapping/Abduction,crimes_against_society,Sep,0
+2026,Rape,crimes_against_society,Sep,0
+2026,Sodomy,crimes_against_society,Sep,0
+2026,Sexual Assault w/ Object,crimes_against_society,Sep,0
+2026,Fondling,crimes_against_society,Sep,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Sep,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Sep,0
+2026,Aggravated Assault,crimes_against_society,Sep,0
+2026,Simple Assault,crimes_against_society,Sep,0
+2026,Intimidation,crimes_against_society,Sep,0
+2026,Incest,crimes_against_society,Sep,0
+2026,Statutory Rape,crimes_against_society,Sep,0
+2026,All Other Offenses,crimes_against_society,Sep,0
+2025,Drug/Narcotic Violations,crimes_against_property,Oct,0
+2025,Drug Equipment Violations,crimes_against_property,Oct,0
+2025,Pornography/Obscene Material,crimes_against_property,Oct,0
+2025,Prostitution,crimes_against_property,Oct,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Oct,0
+2025,Purchasing Prostitution,crimes_against_property,Oct,0
+2025,Weapon Law Violations,crimes_against_property,Oct,0
+2025,Animal Cruelty,crimes_against_property,Oct,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Oct,0
+2025,Disorderly Conduct,crimes_against_property,Oct,1
+2025,Driving Under the Influence,crimes_against_property,Oct,16
+2025,Drunkeness,crimes_against_property,Oct,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Oct,0
+2025,Liquor Law Violations,crimes_against_property,Oct,1
+2025,Trespassing of Real Property,crimes_against_property,Oct,0
+2025,Betting/Wagering,crimes_against_property,Oct,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Oct,0
+2025,Gambling Equipment Violations,crimes_against_property,Oct,0
+2025,Sports Tampering,crimes_against_property,Oct,0
+2025,All Other Offenses,crimes_against_property,Oct,1
+2025,Robbery,crimes_against_persons,Oct,0
+2025,Arson,crimes_against_persons,Oct,0
+2025,Extortion/Blackmail,crimes_against_persons,Oct,3
+2025,Burglary/Breaking or Entering,crimes_against_persons,Oct,1
+2025,Pocket-picking,crimes_against_persons,Oct,0
+2025,Purse-snatching,crimes_against_persons,Oct,0
+2025,Shoplifting,crimes_against_persons,Oct,0
+2025,Theft From Building,crimes_against_persons,Oct,5
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Oct,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Oct,1
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Oct,2
+2025,All Other Larceny,crimes_against_persons,Oct,30
+2025,Motor Vehicle Theft,crimes_against_persons,Oct,2
+2025,Counterfeiting/Forgery,crimes_against_persons,Oct,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Oct,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Oct,0
+2025,Impersonation,crimes_against_persons,Oct,0
+2025,Welfare Fraud,crimes_against_persons,Oct,0
+2025,Wire Fraud,crimes_against_persons,Oct,0
+2025,Identity Theft,crimes_against_persons,Oct,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Oct,0
+2025,Embezzlement,crimes_against_persons,Oct,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Oct,0
+2025,Destruction/Vandalism,crimes_against_persons,Oct,14
+2025,Bribery,crimes_against_persons,Oct,0
+2025,Bad Checks,crimes_against_persons,Oct,0
+2025,All Other Offenses,crimes_against_persons,Oct,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Oct,0
+2025,Negligent Manslaughter,crimes_against_society,Oct,0
+2025,Justifiable Homicide,crimes_against_society,Oct,0
+2025,Kidnapping/Abduction,crimes_against_society,Oct,0
+2025,Rape,crimes_against_society,Oct,1
+2025,Sodomy,crimes_against_society,Oct,0
+2025,Sexual Assault w/ Object,crimes_against_society,Oct,0
+2025,Fondling,crimes_against_society,Oct,2
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Oct,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Oct,0
+2025,Aggravated Assault,crimes_against_society,Oct,1
+2025,Simple Assault,crimes_against_society,Oct,4
+2025,Intimidation,crimes_against_society,Oct,0
+2025,Incest,crimes_against_society,Oct,0
+2025,Statutory Rape,crimes_against_society,Oct,0
+2025,All Other Offenses,crimes_against_society,Oct,0
+2024,Drug/Narcotic Violations,crimes_against_property,Oct,9
+2024,Drug Equipment Violations,crimes_against_property,Oct,2
+2024,Pornography/Obscene Material,crimes_against_property,Oct,0
+2024,Prostitution,crimes_against_property,Oct,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Oct,0
+2024,Purchasing Prostitution,crimes_against_property,Oct,0
+2024,Weapon Law Violations,crimes_against_property,Oct,0
+2024,Animal Cruelty,crimes_against_property,Oct,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Oct,0
+2024,Disorderly Conduct,crimes_against_property,Oct,3
+2024,Driving Under the Influence,crimes_against_property,Oct,8
+2024,Drunkeness,crimes_against_property,Oct,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Oct,0
+2024,Liquor Law Violations,crimes_against_property,Oct,0
+2024,Trespassing of Real Property,crimes_against_property,Oct,2
+2024,Betting/Wagering,crimes_against_property,Oct,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Oct,0
+2024,Gambling Equipment Violations,crimes_against_property,Oct,0
+2024,Sports Tampering,crimes_against_property,Oct,0
+2024,All Other Offenses,crimes_against_property,Oct,0
+2024,Robbery,crimes_against_persons,Oct,0
+2024,Arson,crimes_against_persons,Oct,0
+2024,Extortion/Blackmail,crimes_against_persons,Oct,1
+2024,Burglary/Breaking or Entering,crimes_against_persons,Oct,0
+2024,Pocket-picking,crimes_against_persons,Oct,0
+2024,Purse-snatching,crimes_against_persons,Oct,0
+2024,Shoplifting,crimes_against_persons,Oct,0
+2024,Theft From Building,crimes_against_persons,Oct,10
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Oct,2
+2024,Theft From Motor Vehicle,crimes_against_persons,Oct,1
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Oct,7
+2024,All Other Larceny,crimes_against_persons,Oct,63
+2024,Motor Vehicle Theft,crimes_against_persons,Oct,1
+2024,Counterfeiting/Forgery,crimes_against_persons,Oct,1
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Oct,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Oct,0
+2024,Impersonation,crimes_against_persons,Oct,0
+2024,Welfare Fraud,crimes_against_persons,Oct,0
+2024,Wire Fraud,crimes_against_persons,Oct,0
+2024,Identity Theft,crimes_against_persons,Oct,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Oct,0
+2024,Embezzlement,crimes_against_persons,Oct,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Oct,0
+2024,Destruction/Vandalism,crimes_against_persons,Oct,18
+2024,Bribery,crimes_against_persons,Oct,0
+2024,Bad Checks,crimes_against_persons,Oct,0
+2024,All Other Offenses,crimes_against_persons,Oct,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Oct,0
+2024,Negligent Manslaughter,crimes_against_society,Oct,0
+2024,Justifiable Homicide,crimes_against_society,Oct,0
+2024,Kidnapping/Abduction,crimes_against_society,Oct,0
+2024,Rape,crimes_against_society,Oct,0
+2024,Sodomy,crimes_against_society,Oct,0
+2024,Sexual Assault w/ Object,crimes_against_society,Oct,0
+2024,Fondling,crimes_against_society,Oct,1
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Oct,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Oct,0
+2024,Aggravated Assault,crimes_against_society,Oct,0
+2024,Simple Assault,crimes_against_society,Oct,2
+2024,Intimidation,crimes_against_society,Oct,0
+2024,Incest,crimes_against_society,Oct,0
+2024,Statutory Rape,crimes_against_society,Oct,0
+2024,All Other Offenses,crimes_against_society,Oct,0
+2023,Robbery,crimes_against_persons,Oct,1
+2023,Arson,crimes_against_persons,Oct,0
+2023,Extortion/Blackmail,crimes_against_persons,Oct,1
+2023,Burglary/Breaking or Entering,crimes_against_persons,Oct,1
+2023,Pocket-picking,crimes_against_persons,Oct,0
+2023,Purse-snatching,crimes_against_persons,Oct,0
+2023,Shoplifting,crimes_against_persons,Oct,0
+2023,Theft From Building,crimes_against_persons,Oct,4
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Oct,2
+2023,Theft From Motor Vehicle,crimes_against_persons,Oct,4
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Oct,2
+2023,All Other Larceny,crimes_against_persons,Oct,35
+2023,Motor Vehicle Theft,crimes_against_persons,Oct,2
+2023,Counterfeiting/Forgery,crimes_against_persons,Oct,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Oct,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Oct,0
+2023,Impersonation,crimes_against_persons,Oct,0
+2023,Welfare Fraud,crimes_against_persons,Oct,0
+2023,Wire Fraud,crimes_against_persons,Oct,0
+2023,Identity Theft,crimes_against_persons,Oct,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Oct,0
+2023,Embezzlement,crimes_against_persons,Oct,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Oct,0
+2023,Destruction/Vandalism,crimes_against_persons,Oct,22
+2023,Bribery,crimes_against_persons,Oct,0
+2023,Bad Checks,crimes_against_persons,Oct,0
+2023,All Other Offenses,crimes_against_persons,Oct,0
+2023,Drug/Narcotic Violations,crimes_against_property,Oct,1
+2023,Drug Equipment Violations,crimes_against_property,Oct,0
+2023,Pornography/Obscene Material,crimes_against_property,Oct,0
+2023,Prostitution,crimes_against_property,Oct,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Oct,0
+2023,Purchasing Prostitution,crimes_against_property,Oct,0
+2023,Weapon Law Violations,crimes_against_property,Oct,0
+2023,Animal Cruelty,crimes_against_property,Oct,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Oct,0
+2023,Disorderly Conduct,crimes_against_property,Oct,0
+2023,Driving Under the Influence,crimes_against_property,Oct,9
+2023,Drunkeness,crimes_against_property,Oct,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Oct,0
+2023,Liquor Law Violations,crimes_against_property,Oct,0
+2023,Trespassing of Real Property,crimes_against_property,Oct,2
+2023,Betting/Wagering,crimes_against_property,Oct,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Oct,0
+2023,Gambling Equipment Violations,crimes_against_property,Oct,0
+2023,Sports Tampering,crimes_against_property,Oct,0
+2023,All Other Offenses,crimes_against_property,Oct,0
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Oct,0
+2023,Negligent Manslaughter,crimes_against_society,Oct,0
+2023,Justifiable Homicide,crimes_against_society,Oct,0
+2023,Kidnapping/Abduction,crimes_against_society,Oct,0
+2023,Rape,crimes_against_society,Oct,0
+2023,Sodomy,crimes_against_society,Oct,1
+2023,Sexual Assault w/ Object,crimes_against_society,Oct,0
+2023,Fondling,crimes_against_society,Oct,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Oct,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Oct,0
+2023,Aggravated Assault,crimes_against_society,Oct,2
+2023,Simple Assault,crimes_against_society,Oct,2
+2023,Intimidation,crimes_against_society,Oct,0
+2023,Incest,crimes_against_society,Oct,0
+2023,Statutory Rape,crimes_against_society,Oct,0
+2023,All Other Offenses,crimes_against_society,Oct,0
+2026,Drug/Narcotic Violations,crimes_against_property,Oct,0
+2026,Drug Equipment Violations,crimes_against_property,Oct,0
+2026,Pornography/Obscene Material,crimes_against_property,Oct,0
+2026,Prostitution,crimes_against_property,Oct,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Oct,0
+2026,Purchasing Prostitution,crimes_against_property,Oct,0
+2026,Weapon Law Violations,crimes_against_property,Oct,0
+2026,Animal Cruelty,crimes_against_property,Oct,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Oct,0
+2026,Disorderly Conduct,crimes_against_property,Oct,0
+2026,Driving Under the Influence,crimes_against_property,Oct,0
+2026,Drunkeness,crimes_against_property,Oct,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Oct,0
+2026,Liquor Law Violations,crimes_against_property,Oct,0
+2026,Trespassing of Real Property,crimes_against_property,Oct,0
+2026,Betting/Wagering,crimes_against_property,Oct,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Oct,0
+2026,Gambling Equipment Violations,crimes_against_property,Oct,0
+2026,Sports Tampering,crimes_against_property,Oct,0
+2026,All Other Offenses,crimes_against_property,Oct,0
+2026,Robbery,crimes_against_persons,Oct,0
+2026,Arson,crimes_against_persons,Oct,0
+2026,Extortion/Blackmail,crimes_against_persons,Oct,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Oct,0
+2026,Pocket-picking,crimes_against_persons,Oct,0
+2026,Purse-snatching,crimes_against_persons,Oct,0
+2026,Shoplifting,crimes_against_persons,Oct,0
+2026,Theft From Building,crimes_against_persons,Oct,0
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Oct,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Oct,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Oct,0
+2026,All Other Larceny,crimes_against_persons,Oct,0
+2026,Motor Vehicle Theft,crimes_against_persons,Oct,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Oct,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Oct,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Oct,0
+2026,Impersonation,crimes_against_persons,Oct,0
+2026,Welfare Fraud,crimes_against_persons,Oct,0
+2026,Wire Fraud,crimes_against_persons,Oct,0
+2026,Identity Theft,crimes_against_persons,Oct,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Oct,0
+2026,Embezzlement,crimes_against_persons,Oct,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Oct,0
+2026,Destruction/Vandalism,crimes_against_persons,Oct,0
+2026,Bribery,crimes_against_persons,Oct,0
+2026,Bad Checks,crimes_against_persons,Oct,0
+2026,All Other Offenses,crimes_against_persons,Oct,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Oct,0
+2026,Negligent Manslaughter,crimes_against_society,Oct,0
+2026,Justifiable Homicide,crimes_against_society,Oct,0
+2026,Kidnapping/Abduction,crimes_against_society,Oct,0
+2026,Rape,crimes_against_society,Oct,0
+2026,Sodomy,crimes_against_society,Oct,0
+2026,Sexual Assault w/ Object,crimes_against_society,Oct,0
+2026,Fondling,crimes_against_society,Oct,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Oct,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Oct,0
+2026,Aggravated Assault,crimes_against_society,Oct,0
+2026,Simple Assault,crimes_against_society,Oct,0
+2026,Intimidation,crimes_against_society,Oct,0
+2026,Incest,crimes_against_society,Oct,0
+2026,Statutory Rape,crimes_against_society,Oct,0
+2026,All Other Offenses,crimes_against_society,Oct,0
+2025,Drug/Narcotic Violations,crimes_against_property,Nov,4
+2025,Drug Equipment Violations,crimes_against_property,Nov,1
+2025,Pornography/Obscene Material,crimes_against_property,Nov,0
+2025,Prostitution,crimes_against_property,Nov,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Nov,0
+2025,Purchasing Prostitution,crimes_against_property,Nov,0
+2025,Weapon Law Violations,crimes_against_property,Nov,0
+2025,Animal Cruelty,crimes_against_property,Nov,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Nov,0
+2025,Disorderly Conduct,crimes_against_property,Nov,1
+2025,Driving Under the Influence,crimes_against_property,Nov,21
+2025,Drunkeness,crimes_against_property,Nov,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Nov,0
+2025,Liquor Law Violations,crimes_against_property,Nov,0
+2025,Trespassing of Real Property,crimes_against_property,Nov,2
+2025,Betting/Wagering,crimes_against_property,Nov,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Nov,0
+2025,Gambling Equipment Violations,crimes_against_property,Nov,0
+2025,Sports Tampering,crimes_against_property,Nov,0
+2025,All Other Offenses,crimes_against_property,Nov,0
+2025,Robbery,crimes_against_persons,Nov,1
+2025,Arson,crimes_against_persons,Nov,0
+2025,Extortion/Blackmail,crimes_against_persons,Nov,3
+2025,Burglary/Breaking or Entering,crimes_against_persons,Nov,1
+2025,Pocket-picking,crimes_against_persons,Nov,0
+2025,Purse-snatching,crimes_against_persons,Nov,0
+2025,Shoplifting,crimes_against_persons,Nov,0
+2025,Theft From Building,crimes_against_persons,Nov,4
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Nov,2
+2025,Theft From Motor Vehicle,crimes_against_persons,Nov,2
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Nov,2
+2025,All Other Larceny,crimes_against_persons,Nov,49
+2025,Motor Vehicle Theft,crimes_against_persons,Nov,1
+2025,Counterfeiting/Forgery,crimes_against_persons,Nov,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Nov,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Nov,0
+2025,Impersonation,crimes_against_persons,Nov,0
+2025,Welfare Fraud,crimes_against_persons,Nov,0
+2025,Wire Fraud,crimes_against_persons,Nov,0
+2025,Identity Theft,crimes_against_persons,Nov,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Nov,0
+2025,Embezzlement,crimes_against_persons,Nov,1
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Nov,0
+2025,Destruction/Vandalism,crimes_against_persons,Nov,12
+2025,Bribery,crimes_against_persons,Nov,0
+2025,Bad Checks,crimes_against_persons,Nov,0
+2025,All Other Offenses,crimes_against_persons,Nov,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Nov,0
+2025,Negligent Manslaughter,crimes_against_society,Nov,0
+2025,Justifiable Homicide,crimes_against_society,Nov,0
+2025,Kidnapping/Abduction,crimes_against_society,Nov,0
+2025,Rape,crimes_against_society,Nov,1
+2025,Sodomy,crimes_against_society,Nov,0
+2025,Sexual Assault w/ Object,crimes_against_society,Nov,0
+2025,Fondling,crimes_against_society,Nov,1
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Nov,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Nov,0
+2025,Aggravated Assault,crimes_against_society,Nov,1
+2025,Simple Assault,crimes_against_society,Nov,4
+2025,Intimidation,crimes_against_society,Nov,0
+2025,Incest,crimes_against_society,Nov,0
+2025,Statutory Rape,crimes_against_society,Nov,0
+2025,All Other Offenses,crimes_against_society,Nov,0
+2024,Drug/Narcotic Violations,crimes_against_property,Nov,2
+2024,Drug Equipment Violations,crimes_against_property,Nov,1
+2024,Pornography/Obscene Material,crimes_against_property,Nov,0
+2024,Prostitution,crimes_against_property,Nov,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Nov,0
+2024,Purchasing Prostitution,crimes_against_property,Nov,0
+2024,Weapon Law Violations,crimes_against_property,Nov,0
+2024,Animal Cruelty,crimes_against_property,Nov,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Nov,0
+2024,Disorderly Conduct,crimes_against_property,Nov,0
+2024,Driving Under the Influence,crimes_against_property,Nov,10
+2024,Drunkeness,crimes_against_property,Nov,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Nov,0
+2024,Liquor Law Violations,crimes_against_property,Nov,0
+2024,Trespassing of Real Property,crimes_against_property,Nov,2
+2024,Betting/Wagering,crimes_against_property,Nov,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Nov,0
+2024,Gambling Equipment Violations,crimes_against_property,Nov,0
+2024,Sports Tampering,crimes_against_property,Nov,0
+2024,All Other Offenses,crimes_against_property,Nov,0
+2024,Robbery,crimes_against_persons,Nov,0
+2024,Arson,crimes_against_persons,Nov,0
+2024,Extortion/Blackmail,crimes_against_persons,Nov,2
+2024,Burglary/Breaking or Entering,crimes_against_persons,Nov,2
+2024,Pocket-picking,crimes_against_persons,Nov,0
+2024,Purse-snatching,crimes_against_persons,Nov,0
+2024,Shoplifting,crimes_against_persons,Nov,0
+2024,Theft From Building,crimes_against_persons,Nov,3
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Nov,0
+2024,Theft From Motor Vehicle,crimes_against_persons,Nov,1
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Nov,2
+2024,All Other Larceny,crimes_against_persons,Nov,21
+2024,Motor Vehicle Theft,crimes_against_persons,Nov,1
+2024,Counterfeiting/Forgery,crimes_against_persons,Nov,0
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Nov,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Nov,0
+2024,Impersonation,crimes_against_persons,Nov,0
+2024,Welfare Fraud,crimes_against_persons,Nov,0
+2024,Wire Fraud,crimes_against_persons,Nov,0
+2024,Identity Theft,crimes_against_persons,Nov,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Nov,0
+2024,Embezzlement,crimes_against_persons,Nov,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Nov,0
+2024,Destruction/Vandalism,crimes_against_persons,Nov,10
+2024,Bribery,crimes_against_persons,Nov,0
+2024,Bad Checks,crimes_against_persons,Nov,0
+2024,All Other Offenses,crimes_against_persons,Nov,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Nov,0
+2024,Negligent Manslaughter,crimes_against_society,Nov,0
+2024,Justifiable Homicide,crimes_against_society,Nov,0
+2024,Kidnapping/Abduction,crimes_against_society,Nov,0
+2024,Rape,crimes_against_society,Nov,0
+2024,Sodomy,crimes_against_society,Nov,0
+2024,Sexual Assault w/ Object,crimes_against_society,Nov,0
+2024,Fondling,crimes_against_society,Nov,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Nov,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Nov,0
+2024,Aggravated Assault,crimes_against_society,Nov,0
+2024,Simple Assault,crimes_against_society,Nov,4
+2024,Intimidation,crimes_against_society,Nov,0
+2024,Incest,crimes_against_society,Nov,0
+2024,Statutory Rape,crimes_against_society,Nov,0
+2024,All Other Offenses,crimes_against_society,Nov,0
+2023,Robbery,crimes_against_persons,Nov,0
+2023,Arson,crimes_against_persons,Nov,0
+2023,Extortion/Blackmail,crimes_against_persons,Nov,0
+2023,Burglary/Breaking or Entering,crimes_against_persons,Nov,3
+2023,Pocket-picking,crimes_against_persons,Nov,1
+2023,Purse-snatching,crimes_against_persons,Nov,0
+2023,Shoplifting,crimes_against_persons,Nov,0
+2023,Theft From Building,crimes_against_persons,Nov,12
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Nov,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Nov,1
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Nov,1
+2023,All Other Larceny,crimes_against_persons,Nov,31
+2023,Motor Vehicle Theft,crimes_against_persons,Nov,7
+2023,Counterfeiting/Forgery,crimes_against_persons,Nov,1
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Nov,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Nov,1
+2023,Impersonation,crimes_against_persons,Nov,0
+2023,Welfare Fraud,crimes_against_persons,Nov,0
+2023,Wire Fraud,crimes_against_persons,Nov,0
+2023,Identity Theft,crimes_against_persons,Nov,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Nov,0
+2023,Embezzlement,crimes_against_persons,Nov,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Nov,0
+2023,Destruction/Vandalism,crimes_against_persons,Nov,17
+2023,Bribery,crimes_against_persons,Nov,0
+2023,Bad Checks,crimes_against_persons,Nov,0
+2023,All Other Offenses,crimes_against_persons,Nov,2
+2023,Drug/Narcotic Violations,crimes_against_property,Nov,2
+2023,Drug Equipment Violations,crimes_against_property,Nov,0
+2023,Pornography/Obscene Material,crimes_against_property,Nov,0
+2023,Prostitution,crimes_against_property,Nov,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Nov,0
+2023,Purchasing Prostitution,crimes_against_property,Nov,0
+2023,Weapon Law Violations,crimes_against_property,Nov,1
+2023,Animal Cruelty,crimes_against_property,Nov,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Nov,0
+2023,Disorderly Conduct,crimes_against_property,Nov,1
+2023,Driving Under the Influence,crimes_against_property,Nov,7
+2023,Drunkeness,crimes_against_property,Nov,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Nov,0
+2023,Liquor Law Violations,crimes_against_property,Nov,0
+2023,Trespassing of Real Property,crimes_against_property,Nov,1
+2023,Betting/Wagering,crimes_against_property,Nov,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Nov,0
+2023,Gambling Equipment Violations,crimes_against_property,Nov,0
+2023,Sports Tampering,crimes_against_property,Nov,0
+2023,All Other Offenses,crimes_against_property,Nov,0
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Nov,0
+2023,Negligent Manslaughter,crimes_against_society,Nov,0
+2023,Justifiable Homicide,crimes_against_society,Nov,0
+2023,Kidnapping/Abduction,crimes_against_society,Nov,0
+2023,Rape,crimes_against_society,Nov,0
+2023,Sodomy,crimes_against_society,Nov,0
+2023,Sexual Assault w/ Object,crimes_against_society,Nov,0
+2023,Fondling,crimes_against_society,Nov,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Nov,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Nov,0
+2023,Aggravated Assault,crimes_against_society,Nov,2
+2023,Simple Assault,crimes_against_society,Nov,4
+2023,Intimidation,crimes_against_society,Nov,0
+2023,Incest,crimes_against_society,Nov,0
+2023,Statutory Rape,crimes_against_society,Nov,0
+2023,All Other Offenses,crimes_against_society,Nov,0
+2026,Drug/Narcotic Violations,crimes_against_property,Nov,0
+2026,Drug Equipment Violations,crimes_against_property,Nov,0
+2026,Pornography/Obscene Material,crimes_against_property,Nov,0
+2026,Prostitution,crimes_against_property,Nov,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Nov,0
+2026,Purchasing Prostitution,crimes_against_property,Nov,0
+2026,Weapon Law Violations,crimes_against_property,Nov,0
+2026,Animal Cruelty,crimes_against_property,Nov,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Nov,0
+2026,Disorderly Conduct,crimes_against_property,Nov,0
+2026,Driving Under the Influence,crimes_against_property,Nov,0
+2026,Drunkeness,crimes_against_property,Nov,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Nov,0
+2026,Liquor Law Violations,crimes_against_property,Nov,0
+2026,Trespassing of Real Property,crimes_against_property,Nov,0
+2026,Betting/Wagering,crimes_against_property,Nov,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Nov,0
+2026,Gambling Equipment Violations,crimes_against_property,Nov,0
+2026,Sports Tampering,crimes_against_property,Nov,0
+2026,All Other Offenses,crimes_against_property,Nov,0
+2026,Robbery,crimes_against_persons,Nov,0
+2026,Arson,crimes_against_persons,Nov,0
+2026,Extortion/Blackmail,crimes_against_persons,Nov,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Nov,0
+2026,Pocket-picking,crimes_against_persons,Nov,0
+2026,Purse-snatching,crimes_against_persons,Nov,0
+2026,Shoplifting,crimes_against_persons,Nov,0
+2026,Theft From Building,crimes_against_persons,Nov,0
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Nov,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Nov,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Nov,0
+2026,All Other Larceny,crimes_against_persons,Nov,0
+2026,Motor Vehicle Theft,crimes_against_persons,Nov,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Nov,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Nov,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Nov,0
+2026,Impersonation,crimes_against_persons,Nov,0
+2026,Welfare Fraud,crimes_against_persons,Nov,0
+2026,Wire Fraud,crimes_against_persons,Nov,0
+2026,Identity Theft,crimes_against_persons,Nov,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Nov,0
+2026,Embezzlement,crimes_against_persons,Nov,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Nov,0
+2026,Destruction/Vandalism,crimes_against_persons,Nov,0
+2026,Bribery,crimes_against_persons,Nov,0
+2026,Bad Checks,crimes_against_persons,Nov,0
+2026,All Other Offenses,crimes_against_persons,Nov,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Nov,0
+2026,Negligent Manslaughter,crimes_against_society,Nov,0
+2026,Justifiable Homicide,crimes_against_society,Nov,0
+2026,Kidnapping/Abduction,crimes_against_society,Nov,0
+2026,Rape,crimes_against_society,Nov,0
+2026,Sodomy,crimes_against_society,Nov,0
+2026,Sexual Assault w/ Object,crimes_against_society,Nov,0
+2026,Fondling,crimes_against_society,Nov,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Nov,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Nov,0
+2026,Aggravated Assault,crimes_against_society,Nov,0
+2026,Simple Assault,crimes_against_society,Nov,0
+2026,Intimidation,crimes_against_society,Nov,0
+2026,Incest,crimes_against_society,Nov,0
+2026,Statutory Rape,crimes_against_society,Nov,0
+2026,All Other Offenses,crimes_against_society,Nov,0
+2025,Drug/Narcotic Violations,crimes_against_property,Dec,1
+2025,Drug Equipment Violations,crimes_against_property,Dec,2
+2025,Pornography/Obscene Material,crimes_against_property,Dec,0
+2025,Prostitution,crimes_against_property,Dec,0
+2025,Assisting or Promoting Prostitution,crimes_against_property,Dec,0
+2025,Purchasing Prostitution,crimes_against_property,Dec,0
+2025,Weapon Law Violations,crimes_against_property,Dec,1
+2025,Animal Cruelty,crimes_against_property,Dec,0
+2025,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Dec,0
+2025,Disorderly Conduct,crimes_against_property,Dec,0
+2025,Driving Under the Influence,crimes_against_property,Dec,16
+2025,Drunkeness,crimes_against_property,Dec,0
+2025,"Family Offenses, Nonviolent",crimes_against_property,Dec,0
+2025,Liquor Law Violations,crimes_against_property,Dec,0
+2025,Trespassing of Real Property,crimes_against_property,Dec,1
+2025,Betting/Wagering,crimes_against_property,Dec,0
+2025,Operating/Promoting/Assisting Gambling,crimes_against_property,Dec,0
+2025,Gambling Equipment Violations,crimes_against_property,Dec,0
+2025,Sports Tampering,crimes_against_property,Dec,0
+2025,All Other Offenses,crimes_against_property,Dec,0
+2025,Robbery,crimes_against_persons,Dec,0
+2025,Arson,crimes_against_persons,Dec,0
+2025,Extortion/Blackmail,crimes_against_persons,Dec,2
+2025,Burglary/Breaking or Entering,crimes_against_persons,Dec,0
+2025,Pocket-picking,crimes_against_persons,Dec,1
+2025,Purse-snatching,crimes_against_persons,Dec,0
+2025,Shoplifting,crimes_against_persons,Dec,0
+2025,Theft From Building,crimes_against_persons,Dec,6
+2025,Theft From Coin-Operated Machine,crimes_against_persons,Dec,0
+2025,Theft From Motor Vehicle,crimes_against_persons,Dec,0
+2025,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Dec,2
+2025,All Other Larceny,crimes_against_persons,Dec,9
+2025,Motor Vehicle Theft,crimes_against_persons,Dec,0
+2025,Counterfeiting/Forgery,crimes_against_persons,Dec,0
+2025,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Dec,0
+2025,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Dec,0
+2025,Impersonation,crimes_against_persons,Dec,0
+2025,Welfare Fraud,crimes_against_persons,Dec,0
+2025,Wire Fraud,crimes_against_persons,Dec,0
+2025,Identity Theft,crimes_against_persons,Dec,0
+2025,Hacking/Computer Invasion,crimes_against_persons,Dec,0
+2025,Embezzlement,crimes_against_persons,Dec,0
+2025,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Dec,0
+2025,Destruction/Vandalism,crimes_against_persons,Dec,5
+2025,Bribery,crimes_against_persons,Dec,0
+2025,Bad Checks,crimes_against_persons,Dec,0
+2025,All Other Offenses,crimes_against_persons,Dec,0
+2025,Murder & Nonnegligent Manslaughter,crimes_against_society,Dec,0
+2025,Negligent Manslaughter,crimes_against_society,Dec,0
+2025,Justifiable Homicide,crimes_against_society,Dec,0
+2025,Kidnapping/Abduction,crimes_against_society,Dec,0
+2025,Rape,crimes_against_society,Dec,0
+2025,Sodomy,crimes_against_society,Dec,0
+2025,Sexual Assault w/ Object,crimes_against_society,Dec,0
+2025,Fondling,crimes_against_society,Dec,0
+2025,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Dec,0
+2025,"Human Trafficking, Involuntary Servitude",crimes_against_society,Dec,0
+2025,Aggravated Assault,crimes_against_society,Dec,0
+2025,Simple Assault,crimes_against_society,Dec,0
+2025,Intimidation,crimes_against_society,Dec,0
+2025,Incest,crimes_against_society,Dec,0
+2025,Statutory Rape,crimes_against_society,Dec,0
+2025,All Other Offenses,crimes_against_society,Dec,0
+2024,Drug/Narcotic Violations,crimes_against_property,Dec,2
+2024,Drug Equipment Violations,crimes_against_property,Dec,0
+2024,Pornography/Obscene Material,crimes_against_property,Dec,0
+2024,Prostitution,crimes_against_property,Dec,0
+2024,Assisting or Promoting Prostitution,crimes_against_property,Dec,0
+2024,Purchasing Prostitution,crimes_against_property,Dec,0
+2024,Weapon Law Violations,crimes_against_property,Dec,0
+2024,Animal Cruelty,crimes_against_property,Dec,0
+2024,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Dec,0
+2024,Disorderly Conduct,crimes_against_property,Dec,2
+2024,Driving Under the Influence,crimes_against_property,Dec,13
+2024,Drunkeness,crimes_against_property,Dec,0
+2024,"Family Offenses, Nonviolent",crimes_against_property,Dec,0
+2024,Liquor Law Violations,crimes_against_property,Dec,0
+2024,Trespassing of Real Property,crimes_against_property,Dec,3
+2024,Betting/Wagering,crimes_against_property,Dec,0
+2024,Operating/Promoting/Assisting Gambling,crimes_against_property,Dec,0
+2024,Gambling Equipment Violations,crimes_against_property,Dec,0
+2024,Sports Tampering,crimes_against_property,Dec,0
+2024,All Other Offenses,crimes_against_property,Dec,3
+2024,Robbery,crimes_against_persons,Dec,0
+2024,Arson,crimes_against_persons,Dec,0
+2024,Extortion/Blackmail,crimes_against_persons,Dec,1
+2024,Burglary/Breaking or Entering,crimes_against_persons,Dec,0
+2024,Pocket-picking,crimes_against_persons,Dec,0
+2024,Purse-snatching,crimes_against_persons,Dec,0
+2024,Shoplifting,crimes_against_persons,Dec,0
+2024,Theft From Building,crimes_against_persons,Dec,7
+2024,Theft From Coin-Operated Machine,crimes_against_persons,Dec,1
+2024,Theft From Motor Vehicle,crimes_against_persons,Dec,4
+2024,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Dec,0
+2024,All Other Larceny,crimes_against_persons,Dec,11
+2024,Motor Vehicle Theft,crimes_against_persons,Dec,0
+2024,Counterfeiting/Forgery,crimes_against_persons,Dec,1
+2024,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Dec,0
+2024,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Dec,0
+2024,Impersonation,crimes_against_persons,Dec,0
+2024,Welfare Fraud,crimes_against_persons,Dec,0
+2024,Wire Fraud,crimes_against_persons,Dec,0
+2024,Identity Theft,crimes_against_persons,Dec,0
+2024,Hacking/Computer Invasion,crimes_against_persons,Dec,0
+2024,Embezzlement,crimes_against_persons,Dec,0
+2024,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Dec,0
+2024,Destruction/Vandalism,crimes_against_persons,Dec,6
+2024,Bribery,crimes_against_persons,Dec,0
+2024,Bad Checks,crimes_against_persons,Dec,0
+2024,All Other Offenses,crimes_against_persons,Dec,0
+2024,Murder & Nonnegligent Manslaughter,crimes_against_society,Dec,0
+2024,Negligent Manslaughter,crimes_against_society,Dec,0
+2024,Justifiable Homicide,crimes_against_society,Dec,0
+2024,Kidnapping/Abduction,crimes_against_society,Dec,0
+2024,Rape,crimes_against_society,Dec,0
+2024,Sodomy,crimes_against_society,Dec,0
+2024,Sexual Assault w/ Object,crimes_against_society,Dec,0
+2024,Fondling,crimes_against_society,Dec,0
+2024,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Dec,0
+2024,"Human Trafficking, Involuntary Servitude",crimes_against_society,Dec,0
+2024,Aggravated Assault,crimes_against_society,Dec,0
+2024,Simple Assault,crimes_against_society,Dec,3
+2024,Intimidation,crimes_against_society,Dec,0
+2024,Incest,crimes_against_society,Dec,0
+2024,Statutory Rape,crimes_against_society,Dec,0
+2024,All Other Offenses,crimes_against_society,Dec,0
+2023,Robbery,crimes_against_persons,Dec,0
+2023,Arson,crimes_against_persons,Dec,0
+2023,Extortion/Blackmail,crimes_against_persons,Dec,0
+2023,Burglary/Breaking or Entering,crimes_against_persons,Dec,3
+2023,Pocket-picking,crimes_against_persons,Dec,0
+2023,Purse-snatching,crimes_against_persons,Dec,0
+2023,Shoplifting,crimes_against_persons,Dec,0
+2023,Theft From Building,crimes_against_persons,Dec,7
+2023,Theft From Coin-Operated Machine,crimes_against_persons,Dec,0
+2023,Theft From Motor Vehicle,crimes_against_persons,Dec,2
+2023,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Dec,2
+2023,All Other Larceny,crimes_against_persons,Dec,12
+2023,Motor Vehicle Theft,crimes_against_persons,Dec,1
+2023,Counterfeiting/Forgery,crimes_against_persons,Dec,0
+2023,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Dec,0
+2023,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Dec,0
+2023,Impersonation,crimes_against_persons,Dec,0
+2023,Welfare Fraud,crimes_against_persons,Dec,0
+2023,Wire Fraud,crimes_against_persons,Dec,0
+2023,Identity Theft,crimes_against_persons,Dec,0
+2023,Hacking/Computer Invasion,crimes_against_persons,Dec,0
+2023,Embezzlement,crimes_against_persons,Dec,0
+2023,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Dec,0
+2023,Destruction/Vandalism,crimes_against_persons,Dec,14
+2023,Bribery,crimes_against_persons,Dec,0
+2023,Bad Checks,crimes_against_persons,Dec,0
+2023,All Other Offenses,crimes_against_persons,Dec,0
+2023,Drug/Narcotic Violations,crimes_against_property,Dec,3
+2023,Drug Equipment Violations,crimes_against_property,Dec,0
+2023,Pornography/Obscene Material,crimes_against_property,Dec,0
+2023,Prostitution,crimes_against_property,Dec,0
+2023,Assisting or Promoting Prostitution,crimes_against_property,Dec,0
+2023,Purchasing Prostitution,crimes_against_property,Dec,0
+2023,Weapon Law Violations,crimes_against_property,Dec,0
+2023,Animal Cruelty,crimes_against_property,Dec,0
+2023,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Dec,0
+2023,Disorderly Conduct,crimes_against_property,Dec,1
+2023,Driving Under the Influence,crimes_against_property,Dec,6
+2023,Drunkeness,crimes_against_property,Dec,0
+2023,"Family Offenses, Nonviolent",crimes_against_property,Dec,0
+2023,Liquor Law Violations,crimes_against_property,Dec,0
+2023,Trespassing of Real Property,crimes_against_property,Dec,1
+2023,Betting/Wagering,crimes_against_property,Dec,0
+2023,Operating/Promoting/Assisting Gambling,crimes_against_property,Dec,0
+2023,Gambling Equipment Violations,crimes_against_property,Dec,0
+2023,Sports Tampering,crimes_against_property,Dec,0
+2023,All Other Offenses,crimes_against_property,Dec,2
+2023,Murder & Nonnegligent Manslaughter,crimes_against_society,Dec,0
+2023,Negligent Manslaughter,crimes_against_society,Dec,0
+2023,Justifiable Homicide,crimes_against_society,Dec,0
+2023,Kidnapping/Abduction,crimes_against_society,Dec,0
+2023,Rape,crimes_against_society,Dec,0
+2023,Sodomy,crimes_against_society,Dec,0
+2023,Sexual Assault w/ Object,crimes_against_society,Dec,0
+2023,Fondling,crimes_against_society,Dec,0
+2023,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Dec,0
+2023,"Human Trafficking, Involuntary Servitude",crimes_against_society,Dec,0
+2023,Aggravated Assault,crimes_against_society,Dec,1
+2023,Simple Assault,crimes_against_society,Dec,1
+2023,Intimidation,crimes_against_society,Dec,0
+2023,Incest,crimes_against_society,Dec,0
+2023,Statutory Rape,crimes_against_society,Dec,0
+2023,All Other Offenses,crimes_against_society,Dec,0
+2026,Drug/Narcotic Violations,crimes_against_property,Dec,0
+2026,Drug Equipment Violations,crimes_against_property,Dec,0
+2026,Pornography/Obscene Material,crimes_against_property,Dec,0
+2026,Prostitution,crimes_against_property,Dec,0
+2026,Assisting or Promoting Prostitution,crimes_against_property,Dec,0
+2026,Purchasing Prostitution,crimes_against_property,Dec,0
+2026,Weapon Law Violations,crimes_against_property,Dec,0
+2026,Animal Cruelty,crimes_against_property,Dec,0
+2026,Curfew/Loitering/Vagrancy Violations,crimes_against_property,Dec,0
+2026,Disorderly Conduct,crimes_against_property,Dec,0
+2026,Driving Under the Influence,crimes_against_property,Dec,0
+2026,Drunkeness,crimes_against_property,Dec,0
+2026,"Family Offenses, Nonviolent",crimes_against_property,Dec,0
+2026,Liquor Law Violations,crimes_against_property,Dec,0
+2026,Trespassing of Real Property,crimes_against_property,Dec,0
+2026,Betting/Wagering,crimes_against_property,Dec,0
+2026,Operating/Promoting/Assisting Gambling,crimes_against_property,Dec,0
+2026,Gambling Equipment Violations,crimes_against_property,Dec,0
+2026,Sports Tampering,crimes_against_property,Dec,0
+2026,All Other Offenses,crimes_against_property,Dec,0
+2026,Robbery,crimes_against_persons,Dec,0
+2026,Arson,crimes_against_persons,Dec,0
+2026,Extortion/Blackmail,crimes_against_persons,Dec,0
+2026,Burglary/Breaking or Entering,crimes_against_persons,Dec,0
+2026,Pocket-picking,crimes_against_persons,Dec,0
+2026,Purse-snatching,crimes_against_persons,Dec,0
+2026,Shoplifting,crimes_against_persons,Dec,0
+2026,Theft From Building,crimes_against_persons,Dec,0
+2026,Theft From Coin-Operated Machine,crimes_against_persons,Dec,0
+2026,Theft From Motor Vehicle,crimes_against_persons,Dec,0
+2026,Theft Of Motor Vehicle Parts/Accessories,crimes_against_persons,Dec,0
+2026,All Other Larceny,crimes_against_persons,Dec,0
+2026,Motor Vehicle Theft,crimes_against_persons,Dec,0
+2026,Counterfeiting/Forgery,crimes_against_persons,Dec,0
+2026,False Pretenses/Swindle/Confidence Game,crimes_against_persons,Dec,0
+2026,Credit Card/Automatic Teller Machine Fraud,crimes_against_persons,Dec,0
+2026,Impersonation,crimes_against_persons,Dec,0
+2026,Welfare Fraud,crimes_against_persons,Dec,0
+2026,Wire Fraud,crimes_against_persons,Dec,0
+2026,Identity Theft,crimes_against_persons,Dec,0
+2026,Hacking/Computer Invasion,crimes_against_persons,Dec,0
+2026,Embezzlement,crimes_against_persons,Dec,0
+2026,"Stolen Property Offenses - Receiving, buying, selling & etc",crimes_against_persons,Dec,0
+2026,Destruction/Vandalism,crimes_against_persons,Dec,0
+2026,Bribery,crimes_against_persons,Dec,0
+2026,Bad Checks,crimes_against_persons,Dec,0
+2026,All Other Offenses,crimes_against_persons,Dec,0
+2026,Murder & Nonnegligent Manslaughter,crimes_against_society,Dec,0
+2026,Negligent Manslaughter,crimes_against_society,Dec,0
+2026,Justifiable Homicide,crimes_against_society,Dec,0
+2026,Kidnapping/Abduction,crimes_against_society,Dec,0
+2026,Rape,crimes_against_society,Dec,0
+2026,Sodomy,crimes_against_society,Dec,0
+2026,Sexual Assault w/ Object,crimes_against_society,Dec,0
+2026,Fondling,crimes_against_society,Dec,0
+2026,"Human Trafficking, Commercial Sex Acts",crimes_against_society,Dec,0
+2026,"Human Trafficking, Involuntary Servitude",crimes_against_society,Dec,0
+2026,Aggravated Assault,crimes_against_society,Dec,0
+2026,Simple Assault,crimes_against_society,Dec,0
+2026,Intimidation,crimes_against_society,Dec,0
+2026,Incest,crimes_against_society,Dec,0
+2026,Statutory Rape,crimes_against_society,Dec,0
+2026,All Other Offenses,crimes_against_society,Dec,0

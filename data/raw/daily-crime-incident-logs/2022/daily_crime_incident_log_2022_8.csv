@@ -89,8 +89,8 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2022-00063320,08/27/2022 21:22:00,08/27/2022 - 22:44,Assist Other Agency,CBE,8200 block of Baltimore Ave
 2022-00063322,08/27/2022 23:02:00,08/27/2022 - 23:02,CDS Violation,Arrest,Baltimore Ave
 2022-00063342,08/28/2022 00:17:00,08/28/2022 - 00:17,Injured/Sick Person,CBE,4500 block of Knox Rd
-2022-00063344,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Greenbelt Rd
 2022-00063345,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Baltimore Ave
+2022-00063344,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Greenbelt Rd
 2022-00063455,08/23/2022 12:00:00,08/28/2022 - 11:51,Fraud,Investigation Pending,"35, McKeldin Library at 7649 Library Ln"
 2022-00063496,08/28/2022 17:45:00,08/28/2022 - 18:13,Injured/Sick Person,CBE,La Plata Hall at 8160 La Plata Dr
 2022-00063512,08/28/2022 19:00:00,08/28/2022 - 20:00,Damage to State Property,CBE,Animal Science Building at 8127 Regents Dr

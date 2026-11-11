@@ -46,8 +46,8 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21531,02/15/2018 - 13:27,2018-00010638,,Asian/Pacific Islander,Male,School Trespassing On Ground
 21530,02/17/2018 - 01:42,2018-00011071,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 21532,02/18/2018 - 00:03,2018-00011238,,,,Failure to immediately return and remain at scene of accident involving bodily injury; Failure to immediately stop veh. at scene of accident involving bodily injury
-21535,02/22/2018 - 22:32,2018-00012508,,White,Male,CDS:Possession Marijuana L/T 10 grams
 21538,02/22/2018 - 22:32,2018-00012514,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+21535,02/22/2018 - 22:32,2018-00012508,,White,Male,CDS:Possession Marijuana L/T 10 grams
 21540,02/23/2018 - 00:16,2018-00012548,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 21537,02/23/2018 - 01:02,2018-00012565,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Displaying expired registration plates(s) issued by any state; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21554,02/23/2018 - 01:57,2018-00012583,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
@@ -112,9 +112,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21599,04/11/2018 - 02:48,2018-00022250,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21601,04/13/2018 - 01:34,2018-00022753,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to obey properly placed traffic control device instructions; Failure of veh. on hwy. to display (lighted lamps, illuminating devices) in unfavorable visibility conditions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21608,04/13/2018 - 01:52,2018-00022759,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
-21607,04/13/2018 - 22:28,2018-00022922,19,Black,Male,"THEFT: $1,500 TO UNDER $25,000"
 21607,04/13/2018 - 22:28,2018-00022922,19,Black,Male,CDS: Possess-Not Marijuana; Dangerous Nonnarcotics
 21607,04/13/2018 - 22:28,2018-00022922,19,Black,Male,Motor Vehicle Theft/Unlawful Taking; Automobiles
+21607,04/13/2018 - 22:28,2018-00022922,19,Black,Male,"THEFT: $1,500 TO UNDER $25,000"
 21603,04/14/2018 - 23:23,2018-00023113,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 21609,04/15/2018 - 17:26,2018-00023256,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21610,04/16/2018 - 12:09,2018-00015411,19,White,Male,Malicious Destruction Property/Value -$1000
@@ -126,11 +126,11 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21622,04/27/2018 - 00:00,2018-00017630,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Attempt by driver to elude uniformed police by means other than failing to stop and fleeing on foot"
 21615,04/28/2018 - 00:00,2018-00025854,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to obey properly placed traffic control device instructions; Driver of motor veh. following veh. closer than reasonable and prudent; Failure of driver to drive to curb upon signal by (emergency, police) veh.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21620,04/29/2018 - 23:15,2018-00026139,,Black,Male,CDS:Possession Marijuana L/T 10 grams
-21623,05/02/2018 - 00:00,2018-00003662,,Black,Male,Bad Check/30 Dy Plot/NSF
 21634,05/02/2018 - 00:00,2018-00009317,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000"
-21618,05/02/2018 - 09:11,2018-00026560,,Black,Male,FRAUD-PER. IDENT. AVOID PROS; School Trespassing On Ground
+21623,05/02/2018 - 00:00,2018-00003662,,Black,Male,Bad Check/30 Dy Plot/NSF
 21619,05/02/2018 - 09:11,2018-00025020,,Black,Male,School Trespassing On Ground
 21619,05/02/2018 - 09:11,2018-00025020,,Black,Male,Assault-2nd Degree; Simple Assault
+21618,05/02/2018 - 09:11,2018-00026560,,Black,Male,FRAUD-PER. IDENT. AVOID PROS; School Trespassing On Ground
 21644,05/03/2018 - 17:38,2018-00026385,,American Indian/Alaskan,Male,Burglary 2nd Degree; Unlawful Entry
 21624,05/04/2018 - 21:15,2018-00027029,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Failure to control veh. speed on hwy. to avoid collision; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21621,05/05/2018 - 01:30,2018-00027094,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -160,8 +160,8 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21653,06/16/2018 - 03:00,2018-00036402,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 21654,06/20/2018 - 02:58,2018-00037218,,Black,Female,CDS: POSS MARIJUANA 10 GM+
 21655,06/20/2018 - 21:20,2018-00037353,,Black,Female,CDS:Possession Marijuana L/T 10 grams
-21674,06/21/2018 - 00:00,2015-00020763,,Black,Male,"Theft: $1,000 to Under $10,000"
 21673,06/21/2018 - 00:00,2015-00023541,,Black,Male,"Theft: Less $1,000 Value"
+21674,06/21/2018 - 00:00,2015-00020763,,Black,Male,"Theft: $1,000 to Under $10,000"
 21659,06/21/2018 - 02:35,2018-00037412,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Failure of veh. on hwy. to display (lighted lamps, illuminating devices) in unfavorable visibility conditions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 21656,06/21/2018 - 20:59,2018-00036204,,White,Male,Child Porn Computers
 21765,06/23/2018 - 00:00,2017-00065446,,White,Male,Child Porn Promote/Disturb
@@ -244,12 +244,12 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21739,08/30/2018 - 00:23,2018-00050319,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 21750,08/30/2018 - 00:36,2018-00050299,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 21747,08/30/2018 - 01:44,2018-00050321,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Fail Obey Reasonable/Lawful order of Law Enforcement Officer; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-21746,08/30/2018 - 01:58,2018-00050323,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
-21752,08/30/2018 - 01:58,2018-00050324,,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 21752,08/30/2018 - 01:58,2018-00050324,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Causing standing veh. to obstruct free veh. passage of roadway"
 21746,08/30/2018 - 01:58,2018-00050323,,Black,Male,Reckless driving veh. in wanton and willfull disregard for safety of persons and property
 21746,08/30/2018 - 01:58,2018-00050323,,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 21752,08/30/2018 - 01:58,2018-00050324,,Black,Male,Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Unsafe backing of motor veh.
+21746,08/30/2018 - 01:58,2018-00050323,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
+21752,08/30/2018 - 01:58,2018-00050324,,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 21745,08/30/2018 - 02:12,2018-00050326,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 21753,08/31/2018 - 03:00,2018-00050535,,White,Male,FRAUD-PER. IDENT. AVOID PROS; Malicious Destruction Property/Value Less than $500; Possess/Use False Government Identification Document
 21744,08/31/2018 - 13:42,2018-00050583,,Black,Male,Indecent Exposure
@@ -269,9 +269,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21770,09/22/2018 - 17:22,2018-00054713,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 21771,09/23/2018 - 02:44,2018-00054800,,White,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 21798,09/25/2018 - 01:43,2018-00055102,,Black,Male,Burglary 4th Degree Theft; Attempted Forced Entry; Burglary 4th Degree; Attempted Forced Entry; Trespass- Peeping Tom
-21778,09/27/2018 - 00:00,2017-00070132,,White,Male,Telephone Misuse: Repeat Calls
 21777,09/27/2018 - 00:00,2017-00027544,,Black,Male,"Theft: Less $1,000 Value"
 21779,09/27/2018 - 00:00,2017-00070132,,White,Male,Harass; A Course of Conduct
+21778,09/27/2018 - 00:00,2017-00070132,,White,Male,Telephone Misuse: Repeat Calls
 21780,09/27/2018 - 12:51,2018-00055627,,Black,Female,Theft Less Than $100
 21774,09/28/2018 - 20:03,2018-00055858,,White,Female,CDS:Possession Marijuana L/T 10 grams
 21776,09/28/2018 - 23:18,2018-00055874,,White,Male,CDS:Possession Marijuana L/T 10 grams
@@ -345,9 +345,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 21853,11/26/2018 - 21:59,2018-00067861,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 21868,11/30/2018 - 00:00,2018-00060697,,Black,Male,Rape Second Degree; School Trespassing On Ground; Sex Offense Fourth Degree
 21858,11/30/2018 - 23:15,2018-00068796,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Failure of veh. on hwy. to display (lighted lamps, illuminating devices) in unfavorable visibility conditions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-21883,12/01/2018 - 00:00,2018-00059042,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000"
 21883,12/01/2018 - 00:00,2018-00059042,,White,Male,Motor Vehicle Theft/Unlawful Taking; Automobiles
 21850,12/01/2018 - 00:00,2018-00057751,,White,Male,Motor Vehicle Theft; Other Vehicles
+21883,12/01/2018 - 00:00,2018-00059042,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000"
 21856,12/02/2018 - 22:10,2018-00069283,,White,Male,CDS:Possession Marijuana L/T 10 grams
 21854,12/03/2018 - 01:40,2018-00069315,,White,Male,CDS:Possession Marijuana L/T 10 grams
 21867,12/03/2018 - 22:34,2018-00069493,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; CDS:Possession Marijuana L/T 10 grams"

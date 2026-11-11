@@ -24,9 +24,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 23968,02/03/2024 - 02:15,2024-00023726,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23966,02/03/2024 - 18:06,2024-00024209,,,,Consuming/Possessing Open Alcoholic Beverage in Public
 23967,02/04/2024 - 03:37,2024-00024426,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
-23972,02/05/2024 - 22:00,2024-00017143,,White,Male,Indecent Exposure
 23970,02/05/2024 - 22:00,2024-00022507,,White,Male,Indecent Exposure
 23971,02/05/2024 - 22:00,2024-00017287,,White,Male,Indecent Exposure
+23972,02/05/2024 - 22:00,2024-00017143,,White,Male,Indecent Exposure
 23975,02/09/2024 - 22:53,2024-00028224,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public
 23976,02/10/2024 - 04:26,2024-00028409,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. in violation of restricted license requirement; Failure of individual driving on hwy. to display lic. to uniformed police on demand; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Person driving trailer on hwy. w/o tires in safe operating condition as required by Adm.; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23978,02/10/2024 - 17:49,2024-00028726,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
@@ -41,10 +41,6 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24039,02/19/2024 - 12:00,2023-00036731,,Black,Male,"Malicious Destruction Property/Value -$1000; School Trespassing On Ground; THEFT: $100 TO UNDER $1,500-Bicycle"
 23991,02/21/2024 - 00:01,2024-00035349,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23984,02/21/2024 - 03:17,2024-00035467,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. on hwy. with suspended registration"
-24011,02/21/2024 - 10:00,2024-00010244,,White,Male,Malicious Destruction Property/Value -$1000
-24014,02/21/2024 - 10:00,2024-00011146,,White,Male,Malicious Destruction Property/Value -$1000
-24017,02/21/2024 - 10:00,2024-00012391,,White,Male,Malicious Destruction Property/Value -$1000
-24000,02/21/2024 - 10:00,2023-00111024,,White,Male,Malicious Destruction of Proper/Value $1000+
 24003,02/21/2024 - 10:00,2023-00121898,,White,Male,Malicious Destruction of Proper/Value $1000+
 24006,02/21/2024 - 10:00,2023-00126962,,White,Male,Malicious Destruction Property/Value -$1000
 24009,02/21/2024 - 10:00,2024-00006752,,White,Male,Malicious Destruction Property/Value -$1000
@@ -61,6 +57,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24002,02/21/2024 - 10:00,2023-00118760,,White,Male,Malicious Destruction of Proper/Value $1000+
 24005,02/21/2024 - 10:00,2023-00126526,,White,Male,Malicious Destruction Property/Value -$1000
 24008,02/21/2024 - 10:00,2023-00130933,,White,Male,Malicious Destruction Property/Value -$1000
+24011,02/21/2024 - 10:00,2024-00010244,,White,Male,Malicious Destruction Property/Value -$1000
+24014,02/21/2024 - 10:00,2024-00011146,,White,Male,Malicious Destruction Property/Value -$1000
+24017,02/21/2024 - 10:00,2024-00012391,,White,Male,Malicious Destruction Property/Value -$1000
+24000,02/21/2024 - 10:00,2023-00111024,,White,Male,Malicious Destruction of Proper/Value $1000+
 23990,02/23/2024 - 01:26,2024-00036487,,White,Male,Underage Possession: Alcoholic Beverage
 23988,02/24/2024 - 02:29,2024-00037174,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; (Stopping, Standing, Parking) veh. on sidewalk; Driver changing lanes when unsafe; Driver failure to obey properly placed traffic control device instructions; Driving veh. on sidewalk and sidewalk area where prohibited; Failure to yield right-of-way to pedestrian upon entering (alley, driveway, building); Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23993,02/24/2024 - 10:50,2024-00037325,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Failure to control veh. speed on hwy. to avoid collision; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully disobeying lawful order and direction of police officer"
@@ -73,8 +73,8 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24022,03/06/2024 - 19:23,2024-00045106,,Black,Male,School Trespassing On Ground
 24032,03/06/2024 - 22:39,2024-00045108,,Black,Male,"Theft Less Than $100; THEFT: $100 TO UNDER $1,500-All Other"
 24023,03/06/2024 - 22:40,2024-00045150,,Black,Male,"FRAUD-PER. IDENT. AVOID PROS; Obstructing and Hindering; THEFT: $100 TO UNDER $1,500-All Other; Willfully (damage, tamper with) motor vehicle without owner's consent"
-23998,03/07/2024 - 10:00,2023-00038619,,White,Male,Race/Religion Property Damage: Institution; Trespass-Posted Property
 23999,03/07/2024 - 10:00,2023-00038619,,White,Male,Trespass-Posted Property
+23998,03/07/2024 - 10:00,2023-00038619,,White,Male,Race/Religion Property Damage: Institution; Trespass-Posted Property
 24024,03/09/2024 - 21:57,2024-00047156,,White,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance"
 24021,03/11/2024 - 00:41,2024-00047887,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24043,03/11/2024 - 08:00,2023-00101518,,,,CREDIT CARD/ANOTH CHG 100K+; Credit Card/Stolen:Recieve; Credit Card: Steal Another's; Theft Less Than $100 Bicycle
@@ -88,21 +88,21 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24030,03/22/2024 - 13:13,2024-00041767,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24036,03/23/2024 - 01:47,2024-00056540,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24031,03/23/2024 - 01:48,2024-00056527,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
-917,03/28/2024 - 12:52,2023-00063699,,Black,Female,ROBBERY
 917,03/28/2024 - 12:52,2023-00063699,,Black,Female,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
 917,03/28/2024 - 12:52,2023-00063699,,Black,Female,School Molest Etc Other Lock
 917,03/28/2024 - 12:52,2023-00063699,,Black,Female,Credit Card: Steal Another's
 917,03/28/2024 - 12:52,2023-00063699,,Black,Female,"THEFT SCHEME: $1,500 TO UNDER $25,000-Purse-Snatching"
+917,03/28/2024 - 12:52,2023-00063699,,Black,Female,ROBBERY
 24050,03/29/2024 - 11:00,2024-00035017,,,,Theft Less Than $100 From Building
-24044,03/30/2024 - 12:00,2023-00054287,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
-24048,03/30/2024 - 12:00,2023-00066672,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
-24047,03/30/2024 - 12:00,2023-00066282,,White,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24046,03/30/2024 - 12:00,2023-00065271,,White,Male,Malicious Destruction Property/Value -$1000
 24045,03/30/2024 - 12:00,2023-00054294,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24044,03/30/2024 - 12:00,2023-00054287,,White,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24048,03/30/2024 - 12:00,2023-00066672,,White,Male,Malicious Destruction Property/Value -$1000
 24046,03/30/2024 - 12:00,2023-00065271,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24045,03/30/2024 - 12:00,2023-00054294,,White,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
+24044,03/30/2024 - 12:00,2023-00054287,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
+24048,03/30/2024 - 12:00,2023-00066672,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
+24047,03/30/2024 - 12:00,2023-00066282,,White,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24037,03/31/2024 - 01:51,2024-00061820,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24038,04/01/2024 - 03:59,2024-00062398,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Failure to equip. hwy. veh. with required lamps and reflectors; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement"
 24042,04/02/2024 - 22:20,2024-00063457,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
@@ -117,15 +117,15 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24056,04/13/2024 - 04:40,2024-00070365,,Unknown,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 24094,04/16/2024 - 12:00,2022-00069217,,Black,Male,School Trespassing On Ground
 24061,04/16/2024 - 12:15,2024-00072537,,Black,Male,BURGLARY-FOURTH DEGREE-DWELLING; BURGLARY-THIRD DEGREE; Malicious Destruction Property/Value -$1000
-24073,04/17/2024 - 12:00,2024-00027889,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24075,04/17/2024 - 12:00,2024-00035591,,Black,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24074,04/17/2024 - 12:00,2024-00028634,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24072,04/17/2024 - 12:00,2023-00129248,,Black,Male,"THEFT: $1,500 TO UNDER $25,000-From Motor Vehicle"
+24073,04/17/2024 - 12:00,2024-00027889,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24062,04/18/2024 - 23:54,2024-00074047,,White,Male,Underage Possession: Alcoholic Beverage
 24059,04/19/2024 - 00:16,2024-00074059,,Asian,Female,School Trespassing On Ground
 24057,04/20/2024 - 03:24,2024-00074930,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.; Failure to display registration card upon demand by police officer; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Permitting veh. to be driven on hwy. w/o current registration and validation tabs issued by Adm; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-24098,04/20/2024 - 12:00,2024-00017771,,Black,Male,"THEFT: $100 TO UNDER $1,500-Bicycle"
 24099,04/20/2024 - 12:00,2024-00018338,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24098,04/20/2024 - 12:00,2024-00017771,,Black,Male,"THEFT: $100 TO UNDER $1,500-Bicycle"
 24064,04/21/2024 - 03:50,2024-00075648,,Unknown,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 24063,04/21/2024 - 23:49,2024-00076167,,White,Female,Marijuana Possession - Personal Use Amount
 24091,04/22/2024 - 00:00,2023-00134809,,Black,Female,CDS: POSSESS-NOT CANNABIS; Possession or Receive CDS while Confined/Detained
@@ -145,10 +145,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24082,05/06/2024 - 17:50,2024-00085642,,Black,Male,Resist/Interfere with Arrest; School Trespassing On Ground; Urinating or Defecating in Public
 24084,05/10/2024 - 21:06,2024-00088134,,Black,Male,School Trespassing On Ground
 24087,05/13/2024 - 06:09,2024-00089483,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; CDS Opiate without Prescription; CDS: POSS PARAPHERNALIA; CDS: POSSESS-NOT CANNABIS; Driver changing lanes when unsafe; Driving veh. on hwy. with suspended registration; Failure to control veh. speed on hwy. to avoid collision; Failure to display registration card upon demand by police officer; Failure to notify Adm. of address change within 30 days; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Resist/Interfere with Arrest"
-24108,05/13/2024 - 12:00,2024-00037448,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24110,05/13/2024 - 12:00,2024-00037308,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24107,05/13/2024 - 12:00,2024-00035621,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24088,05/13/2024 - 12:00,2024-00044310,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24108,05/13/2024 - 12:00,2024-00037448,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24086,05/14/2024 - 03:43,2024-00090098,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 24147,05/14/2024 - 12:00,2024-00043670,,Black,Male,Theft Less Than $100 From Building
 24188,05/17/2024 - 12:00,2024-00020706,,Black,Male,"CRED CARD PERSONTN $1500-<$25K; Credit Card/Another Charge $100<$1500; Credit Card: Steal Another's; THEFT: $1,500 TO UNDER $25,000-From Building"
@@ -161,11 +161,11 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24097,05/26/2024 - 12:31,2024-00096750,,Black,Male,Theft Less Than $100
 24109,05/29/2024 - 00:00,2024-00083086,,Black,Male,Deadly Weapon - Conceal
 24100,05/29/2024 - 03:30,2024-00097744,,Asian,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
-24144,05/30/2024 - 12:00,2024-00026551,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-24149,05/30/2024 - 12:00,2024-00061214,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24145,05/30/2024 - 12:00,2024-00065253,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24143,05/30/2024 - 12:00,2023-00115278,,Black,Male,"THEFT SCHEME: $100 TO UNDER $1,500-All Other"
 24148,05/30/2024 - 12:00,2023-00129344,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24144,05/30/2024 - 12:00,2024-00026551,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24149,05/30/2024 - 12:00,2024-00061214,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24101,05/31/2024 - 23:00,2024-00098745,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving motor veh. in manner inteded to cause wheel spinning; Driving motor veh. in manner intended to cause excessive noise; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24102,06/02/2024 - 01:04,2024-00099231,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24103,06/02/2024 - 22:06,2024-00099539,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
@@ -185,8 +185,8 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24119,06/23/2024 - 01:44,2024-00108012,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24121,06/24/2024 - 01:57,2024-00108405,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24155,06/25/2024 - 13:00,2024-00091977,,White,Male,Theft Less Than $100
-24172,06/26/2024 - 12:00,2024-00065515,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24173,06/26/2024 - 12:00,2024-00067359,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24172,06/26/2024 - 12:00,2024-00065515,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24126,06/28/2024 - 12:00,2024-00099231,,White,Male,CDS: POSSESS-NOT CANNABIS
 24122,06/29/2024 - 01:35,2024-00110329,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Warrant from Outside Agency"
 24127,06/29/2024 - 03:22,2024-00110369,,Unknown,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Causing standing veh. to obstruct free veh. passage of roadway; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement"
@@ -247,17 +247,13 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24184,08/15/2024 - 02:39,2024-00129916,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24194,08/15/2024 - 20:48,2024-00130153,,Black,Male,Theft Less Than $100
 24189,08/16/2024 - 00:46,2024-00130254,,White,Female,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
-24190,08/16/2024 - 02:20,2024-00130326,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24191,08/16/2024 - 02:20,2024-00130327,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. in excess of reasonable and prudent speed on hwy.; Failure to drive veh. on right half of roadway when required; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24191,08/16/2024 - 02:20,2024-00130327,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
+24190,08/16/2024 - 02:20,2024-00130326,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24224,08/16/2024 - 12:00,2024-00087306,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other; Unauth Removal of Property"
 24192,08/17/2024 - 01:55,2024-00130913,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24215,08/20/2024 - 00:51,2024-00132361,,White,Male,Suspicion - Arrested and Released without Charges
 24445,08/21/2024 - 12:00,2024-00106939,,Black,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
-24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,Malicious Destruction - Scheme/Value over $1000
-24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,MOTOR VEHICLE/UNLAWFUL TAKING
-24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,Rogue and Vagabond
-24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,Malicious Destruction Property/Value -$1000
 24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
@@ -266,6 +262,10 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,Malicious Destruction Property/Value -$1000
 24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,Rogue and Vagabond
 24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
+24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,Malicious Destruction - Scheme/Value over $1000
+24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,MOTOR VEHICLE/UNLAWFUL TAKING
+24233,08/22/2024 - 12:00,2024-00119877,,Black,Male,Rogue and Vagabond
+24232,08/22/2024 - 12:00,2024-00118283,,Black,Male,"THEFT: $1,500 TO UNDER $25,000-All Other"
 24197,08/23/2024 - 01:22,2024-00133519,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
 24196,08/23/2024 - 01:45,2024-00133582,,White,Male,Urinating or Defecating in Public
 24210,08/23/2024 - 22:30,2024-00134148,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public
@@ -276,15 +276,15 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24208,08/24/2024 - 23:23,2024-00135004,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24214,08/25/2024 - 22:51,2024-00135839,,Black,Male,Suspicion - Arrested and Released without Charges
 24205,08/27/2024 - 00:00,2023-00044407,,Black,Male,CDS: POSSESS-NOT CANNABIS
-24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
-24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,School Molest Etc Other Lock
-24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,Sex Offense- 4TH Degree-Sex Contact
 24202,08/28/2024 - 22:50,2024-00137836,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
 24202,08/28/2024 - 22:50,2024-00137836,,Black,Male,False Imprisonment; Obstructing and Hindering; School Molest Etc Other Lock
 24202,08/28/2024 - 22:50,2024-00137836,,Black,Male,Sex Offense- 4TH Degree-Sex Contact
 24203,08/28/2024 - 22:50,2024-00137837,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
 24203,08/28/2024 - 22:50,2024-00137837,,Black,Male,School Molest Etc Other Lock
 24203,08/28/2024 - 22:50,2024-00137837,,Black,Male,Sex Offense- 4TH Degree-Sex Contact
+24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
+24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,School Molest Etc Other Lock
+24204,08/28/2024 - 22:50,2024-00138390,,Black,Male,Sex Offense- 4TH Degree-Sex Contact
 24219,08/30/2024 - 20:05,2024-00139313,,Black,Male,Theft Less Than $100 Vehicle Part
 24221,08/30/2024 - 23:22,2024-00139443,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public
 24207,08/31/2024 - 02:11,2024-00139531,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -322,15 +322,15 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24246,10/06/2024 - 23:00,2024-00168562,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. in violation of restricted license requirement"
 24265,10/06/2024 - 23:35,2024-00168596,,White,Male,Disorderly Conduct; FRAUD-PER. IDENT. AVOID PROS; Obstructing and Hindering; Possess/Use False Government Identification Document
 24254,10/11/2024 - 00:53,2024-00172094,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions"
-24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,Credit Card/Another Charge $100<$1500
-24293,10/11/2024 - 12:00,2024-00122658,,Black,Male,Malicious Destruction Property/Value -$1000
-24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-From Motor Vehicle"
 24293,10/11/2024 - 12:00,2024-00122658,,Black,Male,Credit Card/Another Charge Less Than $100
 24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,Rogue and Vagabond
 24293,10/11/2024 - 12:00,2024-00122658,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-From Motor Vehicle; THEFT SCHEME: $100,000 PLUS-From Motor Vehicle"
 24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,Malicious Destruction Property/Value -$1000
 24293,10/11/2024 - 12:00,2024-00122658,,Black,Male,Rogue and Vagabond
 24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,"THEFT: $100 TO UNDER $1,500-From Motor Vehicle"
+24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,Credit Card/Another Charge $100<$1500
+24293,10/11/2024 - 12:00,2024-00122658,,Black,Male,Malicious Destruction Property/Value -$1000
+24292,10/11/2024 - 12:00,2024-00114466,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-From Motor Vehicle"
 24253,10/12/2024 - 03:24,2024-00173234,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24257,10/14/2024 - 16:59,2024-00166724,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 926,10/16/2024 - 12:00,2024-00144015,,White,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated; Sex Offense- 4TH Degree-Sex Contact"
@@ -345,16 +345,14 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 927,10/25/2024 - 10:00,2024-00162090,,Black,Male,"Credit Card/Another Charge $100<$1500; THEFT: $100 TO UNDER $1,500-All Other"
 24272,10/25/2024 - 22:47,2024-00144556,,Black,Male,Attempt by driver to elude police in official police veh. by failing to stop; Attempt by driver to elude uniformed police by failing to stop veh.; FRAUD-PER. IDENT. AVOID PROS; Obstructing and Hindering
 24266,10/28/2024 - 22:42,2024-00186956,,White,Male,Marijuana Possession - Personal Use Amount
-24294,10/29/2024 - 12:00,2024-00127343,,White,Male,"MOTOR VEHICLE/UNLAWFUL TAKING; THEFT: $1,500 TO UNDER $25,000-All Other"
 24269,10/29/2024 - 12:00,2024-00147862,,Asian,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24294,10/29/2024 - 12:00,2024-00127343,,White,Male,"THEFT: $100 TO UNDER $1,500-Shoplifting; Unauth Removal of Motor Vehicle"
+24294,10/29/2024 - 12:00,2024-00127343,,White,Male,"MOTOR VEHICLE/UNLAWFUL TAKING; THEFT: $1,500 TO UNDER $25,000-All Other"
 24271,10/29/2024 - 18:32,2024-00187753,,White,Male,Indecent Exposure; Sex Offense- 4TH Degree-Sex Contact
 24279,10/30/2024 - 12:00,2024-00145967,,Asian,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
 24268,10/31/2024 - 02:01,2024-00188925,,White,Male,Marijuana Possession - Personal Use Amount
 24273,11/01/2024 - 23:50,2024-00190349,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; Carrying, Wearing, or Transporting Hangun While Under the Influence: Alcohol or CDS"
 24274,11/08/2024 - 01:23,2024-00194960,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
-24308,11/08/2024 - 12:00,2024-00163681,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-24317,11/08/2024 - 12:00,2024-00162738,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24317,11/08/2024 - 12:00,2024-00162738,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24309,11/08/2024 - 12:00,2024-00164173,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24316,11/08/2024 - 12:00,2024-00161858,,White,Male,Unauth Removal of Motor Vehicle
@@ -362,15 +360,17 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24316,11/08/2024 - 12:00,2024-00161858,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24317,11/08/2024 - 12:00,2024-00162738,,White,Male,Unauth Removal of Motor Vehicle
 24316,11/08/2024 - 12:00,2024-00161858,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
+24308,11/08/2024 - 12:00,2024-00163681,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24317,11/08/2024 - 12:00,2024-00162738,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24276,11/08/2024 - 12:06,2024-00195221,,White,Male,Theft Less Than $100
 24281,11/10/2024 - 04:18,2024-00196844,,Black,Male,CDS: POSS PARAPHERNALIA; CDS: POSSESS-NOT CANNABIS; School Trespassing On Ground
 24280,11/10/2024 - 22:42,2024-00197370,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24275,11/13/2024 - 03:59,2024-00199259,,Black,Female,"ASSAULT-SEC DEGREE-Hands,Fist,Feet,Etc-Aggravated Injury; Trespass: Private Property"
-24304,11/13/2024 - 12:00,2023-00122815,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24305,11/13/2024 - 12:00,2024-00050848,,Black,Male,"THEFT: $100 TO UNDER $1,500-From Building; Trespass-Posted Property"
+24304,11/13/2024 - 12:00,2023-00122815,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24277,11/16/2024 - 11:00,2024-00202317,,Black,Male,Consuming/Possessing Open Alcoholic Beverage in Public
-24314,11/19/2024 - 12:00,2024-00115345,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24313,11/19/2024 - 12:00,2024-00114440,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24314,11/19/2024 - 12:00,2024-00115345,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24284,11/24/2024 - 03:10,2024-00208270,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24283,11/24/2024 - 05:00,2024-00208286,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24295,11/27/2024 - 16:00,2024-00211652,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance while transporting a minor; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Stopping, Standing, Parking) veh. in intersection; Failure of individual driving on hwy. to display lic. to uniformed police on demand; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
@@ -386,12 +386,11 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24298,12/05/2024 - 00:57,2024-00218279,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24318,12/05/2024 - 01:31,2019-00030401,,Black,Male,"Credit Card/Another Charge $100<$1500; Credit Card/Another Charge Less Than $100; Credit Card: Steal Another's; FRAUD IDENT INFO THFT $100-<$1500; Malicious Destruction Property/Value -$1000; Rogue and Vagabond; THEFT: $100 TO UNDER $1,500-From Motor Vehicle; Use/Disclose Credit Card Numbers"
 24310,12/05/2024 - 12:00,2024-00161829,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-24311,12/06/2024 - 07:37,2024-00199552,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
-24312,12/06/2024 - 07:37,2024-00199556,,Black,Male,School: Disturb Operation
 24312,12/06/2024 - 07:37,2024-00199556,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
 24311,12/06/2024 - 07:37,2024-00199552,,Black,Male,School: Disturb Operation
+24311,12/06/2024 - 07:37,2024-00199552,,Black,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
+24312,12/06/2024 - 07:37,2024-00199556,,Black,Male,School: Disturb Operation
 24321,12/06/2024 - 08:00,2024-00182787,,White,Male,Disorderly Conduct; School Trespassing On Ground
-24320,12/06/2024 - 12:00,2024-00159504,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24315,12/06/2024 - 12:00,2024-00159720,,White,Male,"THEFT SCHEME: $100 TO UNDER $1,500-All Other"
 24320,12/06/2024 - 12:00,2024-00159504,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24320,12/06/2024 - 12:00,2024-00159504,,White,Male,Unauth Removal of Motor Vehicle
@@ -402,6 +401,7 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24320,12/06/2024 - 12:00,2024-00159504,,White,Male,Theft Less Than $100
 24315,12/06/2024 - 12:00,2024-00159720,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24315,12/06/2024 - 12:00,2024-00159720,,White,Male,Unauth Removal of Motor Vehicle
+24320,12/06/2024 - 12:00,2024-00159504,,White,Male,MOTOR VEHICLE/UNLAWFUL TAKING
 24302,12/09/2024 - 00:00,2024-00183632,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24299,12/09/2024 - 02:37,2024-00221493,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24323,12/09/2024 - 16:18,2024-00221928,,White,Female,"ASSAULT-SEC DEGREE-Simple, Not Aggravated; Disorderly Conduct; Obstructing and Hindering; THEFT: $100 TO UNDER $1,500-Shoplifting"
@@ -414,9 +414,6 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24303,12/18/2024 - 00:43,2024-00229523,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24324,12/19/2024 - 23:48,2024-00231386,,Asian,Female,School Trespassing On Ground
 24360,12/20/2024 - 12:00,2024-00192807,,Black,Male,"THEFT: $100 TO UNDER $1,500-Bicycle"
-24344,12/21/2024 - 12:00,2024-00177296,,White,Male,Obstructing and Hindering
-24342,12/21/2024 - 12:00,2024-00152957,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-24344,12/21/2024 - 12:00,2024-00177296,,White,Male,Unauth Removal of Property
 24344,12/21/2024 - 12:00,2024-00177296,,White,Male,CDS: POSS PARAPHERNALIA
 24361,12/21/2024 - 12:00,2024-00177318,,White,Male,Obstructing and Hindering
 24344,12/21/2024 - 12:00,2024-00177296,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
@@ -424,6 +421,9 @@ arrest_number,arrest_date,umpd_case_number,age,race,sex,arrested_charge
 24361,12/21/2024 - 12:00,2024-00177318,,White,Male,CDS: POSS PARAPHERNALIA
 24343,12/21/2024 - 12:00,2024-00169328,,White,Male,Theft Less Than $100
 24361,12/21/2024 - 12:00,2024-00177318,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24344,12/21/2024 - 12:00,2024-00177296,,White,Male,Obstructing and Hindering
+24342,12/21/2024 - 12:00,2024-00152957,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24344,12/21/2024 - 12:00,2024-00177296,,White,Male,Unauth Removal of Property
 24326,12/22/2024 - 02:18,2024-00233792,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24327,12/23/2024 - 00:55,2024-00234841,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
 24328,12/25/2024 - 00:46,2024-00236268,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"

@@ -4925,8 +4925,8 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2022-00063320,08/27/2022 21:22:00,08/27/2022 - 22:44,Assist Other Agency,CBE,8200 block of Baltimore Ave
 2022-00063322,08/27/2022 23:02:00,08/27/2022 - 23:02,CDS Violation,Arrest,Baltimore Ave
 2022-00063342,08/28/2022 00:17:00,08/28/2022 - 00:17,Injured/Sick Person,CBE,4500 block of Knox Rd
-2022-00063344,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Greenbelt Rd
 2022-00063345,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Baltimore Ave
+2022-00063344,08/28/2022 00:38:00,08/28/2022 - 00:38,DWI/DUI,Arrest,Greenbelt Rd
 2022-00063455,08/23/2022 12:00:00,08/28/2022 - 11:51,Fraud,Investigation Pending,"35, McKeldin Library at 7649 Library Ln"
 2022-00063496,08/28/2022 17:45:00,08/28/2022 - 18:13,Injured/Sick Person,CBE,La Plata Hall at 8160 La Plata Dr
 2022-00063512,08/28/2022 19:00:00,08/28/2022 - 20:00,Damage to State Property,CBE,Animal Science Building at 8127 Regents Dr
@@ -10048,8 +10048,8 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2025-00120365,05/18/2025 10:00:00,05/19/2025 - 09:20,Theft,Investigation Pending,4600 block of Rossborough Ln
 2025-00103454,05/17/2025 12:00:00,05/19/2025 - 14:21,Theft,Active/Pending,4300 block of Chapel Ln
 2025-00103455,05/19/2025 08:00:00,05/19/2025 - 14:33,Theft,Active/Pending,Lot 1b
-2025-00103457,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,University Blvd / Stadium Dr
 2025-00103456,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,Baltimore Ave
+2025-00103457,05/19/2025 14:56:00,05/19/2025 - 14:56,DWI/DUI,Arrest,University Blvd / Stadium Dr
 2025-00120934,05/10/2025 00:00:00,05/19/2025 - 23:03,Damage to State Property,CBE,3900 block of Campus Dr
 2025-00121280,05/20/2025 03:13:00,05/20/2025 - 06:56,Theft,Investigation Pending,Lot 4a
 2025-00121421,06/08/2023 12:00:00,05/20/2025 - 09:51,Fraud,Active/Pending,5600 block of Rivertech Ct
@@ -12255,8 +12255,8 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2026-00198016,07/25/2026 00:29:00,07/25/2026 - 00:29,DWI/DUI,Arrest,University Blvd
 2026-00198197,07/25/2026 03:52:00,07/25/2026 - 03:52,DWI/DUI,Arrest,7600 block of Baltimore Ave
 2026-00198882,07/26/2026 00:19:00,07/26/2026 - 00:19,DWI/DUI,Arrest,Metzerott Rd
-2026-00200996,07/26/2026 01:45:00,07/26/2026 - 01:45,Disorderly Conduct,Arrest,University Blvd
 2026-00198970,07/26/2026 01:45:00,07/26/2026 - 01:45,DWI/DUI,Arrest,University Blvd
+2026-00200996,07/26/2026 01:45:00,07/26/2026 - 01:45,Disorderly Conduct,Arrest,University Blvd
 2026-00199411,07/26/2026 14:30:00,07/26/2026 - 14:39,Fire,CBE,UMGC Hotel at 348 Ehrensberger Dr
 2026-00200065,07/27/2026 02:41:00,07/27/2026 - 02:41,DWI/DUI,Arrest,University Blvd
 2026-00201010,07/27/2026 21:00:00,07/27/2026 - 22:13,Other Incident,CBE,3800 block of Stadium Dr
@@ -12892,6 +12892,7 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2026-00287137,10/28/2026 21:00:00,10/29/2026 - 01:53,Theft,Active/Pending,7600 block of Library Ln
 2026-00287176,10/28/2026 22:00:00,10/29/2026 - 02:42,Theft from Auto,Active/Pending,8400 block of Baltimore Ave
 2026-00287357,10/28/2026 23:45:00,10/29/2026 - 08:54,Injured/Sick Person,CBE,3900 block of Denton Service Ln
+2026-00287494,10/29/2026 00:30:00,10/29/2026 - 14:00,Theft,Active/Pending,3900 block of Denton Service Ln
 2026-00287584,10/27/2026 10:00:00,10/29/2026 - 16:26,Theft,Active/Pending,7700 block of Regents Dr
 2026-00287667,10/29/2026 20:58:00,10/29/2026 - 20:58,Fire,CBE,Regents Dr
 2026-00287669,10/29/2026 21:36:00,10/29/2026 - 21:36,Injured/Sick Person,CBE,7900 block of Regents Dr
@@ -12899,15 +12900,20 @@ umpd_case_number,date_occurred,report_date,crime_type,disposition,location
 2026-00287677,10/29/2026 22:30:00,10/29/2026 - 22:30,Injured/Sick Person,CBE,Baltimore Ave
 2026-00287689,10/30/2026 00:17:00,10/30/2026 - 00:17,DWI/DUI,Arrest,7200 block of Baltimore Ave
 2026-00288146,10/29/2026 17:00:00,10/30/2026 - 08:55,Theft from Auto,Active/Pending,3400 block of Tulane Dr
+2026-00288557,10/30/2026 22:24:00,10/30/2026 - 22:24,Injured/Sick Person,CBE,8000 block of La Plata Dr
 2026-00288566,10/30/2026 22:51:00,10/30/2026 - 22:51,Alcohol Violation,Arrest,Lot F
+2026-00288641,10/31/2026 00:09:00,10/31/2026 - 00:09,Emergency Petition,CBE,8000 block of La Plata Dr
 2026-00288655,10/30/2025 22:36:00,10/31/2026 - 00:40,Accident,CBE,Baltimore Ave
 2026-00288681,10/31/2026 01:40:00,10/31/2026 - 01:40,Injured/Sick Person,CBE,8100 block of Paint Branch Dr
+2026-00288709,10/31/2026 02:09:00,10/31/2026 - 02:09,DWI/DUI,Arrest,Lot L
 2026-00288831,10/31/2026 06:31:00,10/31/2026 - 06:31,DWI/DUI,Arrest,Paint Branch Dr
 2026-00288880,10/31/2026 09:57:00,10/31/2026 - 09:57,Injured/Sick Person,CBE,3900 block of Denton Service Ln
 2026-00288895,10/30/2026 21:00:00,10/31/2026 - 11:49,Assist Other Agency,CBE,8300 block of Baltimore Ave
+2026-00289000,10/31/2026 15:53:00,10/31/2026 - 15:53,Emergency Petition,CBE,3800 block of Stadium Dr
 2026-00289086,10/31/2026 18:10:00,10/31/2026 - 20:02,Dept Property Damage/Loss,Active/Pending,7500 block of Baltimore Ave
 2026-00289088,10/31/2026 20:28:00,10/31/2026 - 20:28,Injured/Sick Person,CBE,"Frat 2, Sigma Alpha Mu, Sigma Alpha Mu Fraternity at 2 Fraternity Row"
 2026-00289157,10/31/2026 23:56:00,10/31/2026 - 23:56,DWI/DUI,Arrest,Baltimore Ave
+2026-00289161,11/01/2026 00:00:00,11/01/2026 - 00:00,Injured/Sick Person,CBE,3900 block of Denton Service Ln
 2026-00289166,11/01/2026 00:08:00,11/01/2026 - 00:08,Injured/Sick Person,CBE,8600 block of Boteler Ln
 2026-00289167,11/01/2026 00:25:00,11/01/2026 - 00:25,Injured/Sick Person,CBE,3900 block of Campus Dr
 2026-00289170,11/01/2026 00:33:00,11/01/2026 - 00:33,Injured/Sick Person,CBE,7700 block of Regents Dr
