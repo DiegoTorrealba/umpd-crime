@@ -1,253 +1,253 @@
 crime_type,crime,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total,year
-crimes_against_property,Drug/Narcotic Violations,1.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0,5.0,0.0,4.0,1.0,21.0,2025
-crimes_against_property,Drug Equipment Violations,2.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,9.0,2025
-crimes_against_property,Pornography/Obscene Material,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2025
-crimes_against_property,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Weapon Law Violations,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0,2025
-crimes_against_property,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Disorderly Conduct,0.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,10.0,2025
-crimes_against_property,Driving Under the Influence,17.0,11.0,19.0,10.0,16.0,9.0,14.0,22.0,11.0,16.0,21.0,16.0,182.0,2025
-crimes_against_property,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,2025
-crimes_against_property,Trespassing of Real Property,0.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,8.0,2025
-crimes_against_property,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,All Other Offenses,0.0,1.0,0.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,7.0,2025
-crimes_against_persons,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2025
-crimes_against_persons,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Extortion/Blackmail,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,3.0,2.0,13.0,2025
-crimes_against_persons,Burglary/Breaking or Entering,0.0,0.0,0.0,0.0,2.0,0.0,4.0,2.0,5.0,1.0,1.0,0.0,15.0,2025
-crimes_against_persons,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2025
-crimes_against_persons,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Shoplifting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Theft From Building,6.0,4.0,5.0,2.0,10.0,2.0,8.0,10.0,9.0,5.0,4.0,6.0,71.0,2025
-crimes_against_persons,Theft From Coin-Operated Machine,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,6.0,2025
-crimes_against_persons,Theft From Motor Vehicle,0.0,1.0,2.0,0.0,0.0,1.0,2.0,3.0,4.0,1.0,2.0,0.0,16.0,2025
-crimes_against_persons,Theft Of Motor Vehicle Parts/Accessories,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,11.0,2025
-crimes_against_persons,All Other Larceny,12.0,18.0,9.0,20.0,26.0,10.0,14.0,6.0,38.0,30.0,49.0,9.0,241.0,2025
-crimes_against_persons,Motor Vehicle Theft,1.0,0.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,11.0,2025
-crimes_against_persons,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2025
-crimes_against_persons,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2025
-crimes_against_persons,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Identity Theft,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2025
-crimes_against_persons,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,3.0,2025
-crimes_against_persons,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Destruction/Vandalism,1.0,8.0,8.0,7.0,16.0,2.0,9.0,9.0,14.0,14.0,12.0,5.0,105.0,2025
-crimes_against_persons,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_persons,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2025
+crimes_against_property,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Extortion/Blackmail,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,3.0,3.0,2.0,13.0,2025
+crimes_against_property,Burglary/Breaking or Entering,0.0,0.0,0.0,0.0,2.0,0.0,4.0,2.0,5.0,1.0,1.0,0.0,15.0,2025
+crimes_against_property,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2025
+crimes_against_property,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Shoplifting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Theft From Building,6.0,4.0,5.0,2.0,10.0,2.0,8.0,10.0,9.0,5.0,4.0,6.0,71.0,2025
+crimes_against_property,Theft From Coin-Operated Machine,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,6.0,2025
+crimes_against_property,Theft From Motor Vehicle,0.0,1.0,2.0,0.0,0.0,1.0,2.0,3.0,4.0,1.0,2.0,0.0,16.0,2025
+crimes_against_property,Theft Of Motor Vehicle Parts/Accessories,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,2.0,11.0,2025
+crimes_against_property,All Other Larceny,12.0,18.0,9.0,20.0,26.0,10.0,14.0,6.0,38.0,30.0,49.0,9.0,241.0,2025
+crimes_against_property,Motor Vehicle Theft,1.0,0.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,11.0,2025
+crimes_against_property,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2025
+crimes_against_property,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2025
+crimes_against_property,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Identity Theft,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2025
+crimes_against_property,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,3.0,2025
+crimes_against_property,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Destruction/Vandalism,1.0,8.0,8.0,7.0,16.0,2.0,9.0,9.0,14.0,14.0,12.0,5.0,105.0,2025
+crimes_against_property,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_property,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Rape,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,5.0,2025
+crimes_against_persons,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Fondling,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,8.0,2025
+crimes_against_persons,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,3.0,2025
+crimes_against_persons,Simple Assault,0.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,2.0,4.0,4.0,0.0,19.0,2025
+crimes_against_persons,Intimidation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2025
+crimes_against_persons,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_persons,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
 crimes_against_persons,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Rape,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,5.0,2025
-crimes_against_society,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Fondling,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,8.0,2025
-crimes_against_society,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,3.0,2025
-crimes_against_society,Simple Assault,0.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,2.0,4.0,4.0,0.0,19.0,2025
-crimes_against_society,Intimidation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2025
-crimes_against_society,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_society,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
-crimes_against_property,Drug/Narcotic Violations,1.0,3.0,3.0,2.0,1.0,0.0,1.0,2.0,2.0,9.0,2.0,2.0,28.0,2024
-crimes_against_property,Drug Equipment Violations,0.0,1.0,1.0,0.0,1.0,0.0,2.0,0.0,1.0,2.0,1.0,0.0,9.0,2024
-crimes_against_property,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,2024
-crimes_against_property,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Weapon Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Disorderly Conduct,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,2.0,12.0,2024
-crimes_against_property,Driving Under the Influence,10.0,9.0,9.0,11.0,6.0,14.0,26.0,15.0,7.0,8.0,10.0,13.0,138.0,2024
-crimes_against_property,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Liquor Law Violations,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2024
-crimes_against_property,Trespassing of Real Property,0.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,12.0,2024
-crimes_against_property,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_property,All Other Offenses,1.0,3.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,16.0,2024
-crimes_against_persons,Robbery,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2024
-crimes_against_persons,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Extortion/Blackmail,2.0,2.0,1.0,0.0,1.0,4.0,1.0,0.0,2.0,1.0,2.0,1.0,17.0,2024
-crimes_against_persons,Burglary/Breaking or Entering,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,7.0,2024
-crimes_against_persons,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Shoplifting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Theft From Building,5.0,11.0,9.0,14.0,4.0,3.0,3.0,9.0,6.0,10.0,3.0,7.0,84.0,2024
-crimes_against_persons,Theft From Coin-Operated Machine,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,6.0,2024
-crimes_against_persons,Theft From Motor Vehicle,2.0,2.0,3.0,3.0,0.0,3.0,4.0,2.0,1.0,1.0,1.0,4.0,26.0,2024
-crimes_against_persons,Theft Of Motor Vehicle Parts/Accessories,0.0,0.0,0.0,1.0,3.0,1.0,2.0,0.0,2.0,7.0,2.0,0.0,18.0,2024
-crimes_against_persons,All Other Larceny,6.0,31.0,35.0,51.0,34.0,15.0,18.0,10.0,69.0,63.0,21.0,11.0,364.0,2024
-crimes_against_persons,Motor Vehicle Theft,1.0,1.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,12.0,2024
-crimes_against_persons,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,3.0,2024
-crimes_against_persons,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Credit Card/Automatic Teller Machine Fraud,2.0,6.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,2024
-crimes_against_persons,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Identity Theft,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2024
-crimes_against_persons,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2024
-crimes_against_persons,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Destruction/Vandalism,16.0,10.0,17.0,14.0,22.0,5.0,14.0,5.0,14.0,18.0,10.0,6.0,151.0,2024
-crimes_against_persons,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Drug/Narcotic Violations,1.0,1.0,1.0,2.0,2.0,0.0,2.0,2.0,5.0,0.0,4.0,1.0,21.0,2025
+crimes_against_society,Drug Equipment Violations,2.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,2.0,9.0,2025
+crimes_against_society,Pornography/Obscene Material,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2025
+crimes_against_society,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Weapon Law Violations,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0,2025
+crimes_against_society,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Disorderly Conduct,0.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,10.0,2025
+crimes_against_society,Driving Under the Influence,17.0,11.0,19.0,10.0,16.0,9.0,14.0,22.0,11.0,16.0,21.0,16.0,182.0,2025
+crimes_against_society,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,2025
+crimes_against_society,Trespassing of Real Property,0.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,8.0,2025
+crimes_against_society,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2025
+crimes_against_society,All Other Offenses,0.0,1.0,0.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,7.0,2025
+crimes_against_property,Robbery,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2024
+crimes_against_property,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Extortion/Blackmail,2.0,2.0,1.0,0.0,1.0,4.0,1.0,0.0,2.0,1.0,2.0,1.0,17.0,2024
+crimes_against_property,Burglary/Breaking or Entering,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,7.0,2024
+crimes_against_property,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Shoplifting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Theft From Building,5.0,11.0,9.0,14.0,4.0,3.0,3.0,9.0,6.0,10.0,3.0,7.0,84.0,2024
+crimes_against_property,Theft From Coin-Operated Machine,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,6.0,2024
+crimes_against_property,Theft From Motor Vehicle,2.0,2.0,3.0,3.0,0.0,3.0,4.0,2.0,1.0,1.0,1.0,4.0,26.0,2024
+crimes_against_property,Theft Of Motor Vehicle Parts/Accessories,0.0,0.0,0.0,1.0,3.0,1.0,2.0,0.0,2.0,7.0,2.0,0.0,18.0,2024
+crimes_against_property,All Other Larceny,6.0,31.0,35.0,51.0,34.0,15.0,18.0,10.0,69.0,63.0,21.0,11.0,364.0,2024
+crimes_against_property,Motor Vehicle Theft,1.0,1.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,12.0,2024
+crimes_against_property,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,3.0,2024
+crimes_against_property,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Credit Card/Automatic Teller Machine Fraud,2.0,6.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,2024
+crimes_against_property,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Identity Theft,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2024
+crimes_against_property,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2024
+crimes_against_property,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Destruction/Vandalism,16.0,10.0,17.0,14.0,22.0,5.0,14.0,5.0,14.0,18.0,10.0,6.0,151.0,2024
+crimes_against_property,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_property,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2024
+crimes_against_persons,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Fondling,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,8.0,2024
+crimes_against_persons,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2024
+crimes_against_persons,Simple Assault,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,4.0,3.0,17.0,2024
+crimes_against_persons,Intimidation,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2024
+crimes_against_persons,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_persons,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
 crimes_against_persons,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2024
-crimes_against_society,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Fondling,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,8.0,2024
-crimes_against_society,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2024
-crimes_against_society,Simple Assault,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,4.0,3.0,17.0,2024
-crimes_against_society,Intimidation,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2024
-crimes_against_society,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_society,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
-crimes_against_persons,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,3.0,2023
-crimes_against_persons,Arson,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
-crimes_against_persons,Extortion/Blackmail,2.0,1.0,3.0,3.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,13.0,2023
-crimes_against_persons,Burglary/Breaking or Entering,1.0,0.0,5.0,1.0,2.0,0.0,1.0,0.0,3.0,1.0,3.0,3.0,20.0,2023
-crimes_against_persons,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2023
-crimes_against_persons,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Shoplifting,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,2023
-crimes_against_persons,Theft From Building,5.0,5.0,6.0,6.0,12.0,2.0,2.0,5.0,5.0,4.0,12.0,7.0,71.0,2023
-crimes_against_persons,Theft From Coin-Operated Machine,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,2023
-crimes_against_persons,Theft From Motor Vehicle,1.0,2.0,0.0,3.0,0.0,1.0,1.0,5.0,2.0,4.0,1.0,2.0,22.0,2023
-crimes_against_persons,Theft Of Motor Vehicle Parts/Accessories,1.0,0.0,1.0,0.0,4.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,15.0,2023
-crimes_against_persons,All Other Larceny,12.0,17.0,26.0,23.0,26.0,12.0,7.0,11.0,39.0,35.0,31.0,12.0,251.0,2023
-crimes_against_persons,Motor Vehicle Theft,1.0,4.0,0.0,3.0,1.0,2.0,3.0,5.0,2.0,2.0,7.0,1.0,31.0,2023
-crimes_against_persons,Counterfeiting/Forgery,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,8.0,2023
-crimes_against_persons,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2023
-crimes_against_persons,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Wire Fraud,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
-crimes_against_persons,Identity Theft,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2023
-crimes_against_persons,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Destruction/Vandalism,11.0,7.0,13.0,14.0,24.0,12.0,5.0,5.0,13.0,22.0,17.0,14.0,157.0,2023
-crimes_against_persons,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_persons,All Other Offenses,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2023
-crimes_against_property,Drug/Narcotic Violations,5.0,9.0,3.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,3.0,31.0,2023
-crimes_against_property,Drug Equipment Violations,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2023
-crimes_against_property,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Purchasing Prostitution,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
-crimes_against_property,Weapon Law Violations,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,2023
-crimes_against_property,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Disorderly Conduct,0.0,0.0,4.0,1.0,4.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,14.0,2023
-crimes_against_property,Driving Under the Influence,5.0,13.0,8.0,7.0,11.0,7.0,11.0,10.0,3.0,9.0,7.0,6.0,97.0,2023
-crimes_against_property,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Trespassing of Real Property,1.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,13.0,2023
-crimes_against_property,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,All Other Offenses,0.0,0.0,3.0,2.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,14.0,2023
-crimes_against_society,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Rape,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2023
-crimes_against_society,Sodomy,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,4.0,2023
-crimes_against_society,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Fondling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Aggravated Assault,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,1.0,8.0,2023
-crimes_against_society,Simple Assault,0.0,4.0,3.0,4.0,6.0,3.0,2.0,2.0,4.0,2.0,4.0,1.0,35.0,2023
-crimes_against_society,Intimidation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_society,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
-crimes_against_property,Drug/Narcotic Violations,0.0,0.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,2026
-crimes_against_property,Drug Equipment Violations,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2026
-crimes_against_property,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Weapon Law Violations,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
-crimes_against_property,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Disorderly Conduct,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2026
-crimes_against_property,Driving Under the Influence,10.0,17.0,23.0,25.0,40.0,27.0,20.0,42.0,0.0,0.0,0.0,0.0,204.0,2026
-crimes_against_property,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Trespassing of Real Property,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,2026
-crimes_against_property,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_property,All Other Offenses,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,5.0,2026
-crimes_against_persons,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Extortion/Blackmail,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2026
-crimes_against_persons,Burglary/Breaking or Entering,1.0,2.0,2.0,3.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,13.0,2026
-crimes_against_persons,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Shoplifting,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
-crimes_against_persons,Theft From Building,1.0,5.0,6.0,5.0,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,24.0,2026
-crimes_against_persons,Theft From Coin-Operated Machine,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2026
-crimes_against_persons,Theft From Motor Vehicle,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
-crimes_against_persons,Theft Of Motor Vehicle Parts/Accessories,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
-crimes_against_persons,All Other Larceny,8.0,23.0,10.0,16.0,9.0,5.0,3.0,14.0,0.0,0.0,0.0,0.0,88.0,2026
-crimes_against_persons,Motor Vehicle Theft,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
-crimes_against_persons,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
-crimes_against_persons,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Identity Theft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Embezzlement,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
-crimes_against_persons,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Destruction/Vandalism,1.0,5.0,6.0,9.0,9.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,38.0,2026
-crimes_against_persons,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_persons,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Drug/Narcotic Violations,1.0,3.0,3.0,2.0,1.0,0.0,1.0,2.0,2.0,9.0,2.0,2.0,28.0,2024
+crimes_against_society,Drug Equipment Violations,0.0,1.0,1.0,0.0,1.0,0.0,2.0,0.0,1.0,2.0,1.0,0.0,9.0,2024
+crimes_against_society,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,4.0,2024
+crimes_against_society,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Weapon Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Disorderly Conduct,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,2.0,12.0,2024
+crimes_against_society,Driving Under the Influence,10.0,9.0,9.0,11.0,6.0,14.0,26.0,15.0,7.0,8.0,10.0,13.0,138.0,2024
+crimes_against_society,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Liquor Law Violations,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2024
+crimes_against_society,Trespassing of Real Property,0.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,12.0,2024
+crimes_against_society,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2024
+crimes_against_society,All Other Offenses,1.0,3.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,16.0,2024
+crimes_against_persons,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Rape,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2023
+crimes_against_persons,Sodomy,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,4.0,2023
+crimes_against_persons,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Fondling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Aggravated Assault,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,1.0,8.0,2023
+crimes_against_persons,Simple Assault,0.0,4.0,3.0,4.0,6.0,3.0,2.0,2.0,4.0,2.0,4.0,1.0,35.0,2023
+crimes_against_persons,Intimidation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_persons,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,3.0,2023
+crimes_against_property,Arson,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
+crimes_against_property,Extortion/Blackmail,2.0,1.0,3.0,3.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,13.0,2023
+crimes_against_property,Burglary/Breaking or Entering,1.0,0.0,5.0,1.0,2.0,0.0,1.0,0.0,3.0,1.0,3.0,3.0,20.0,2023
+crimes_against_property,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2023
+crimes_against_property,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Shoplifting,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,2023
+crimes_against_property,Theft From Building,5.0,5.0,6.0,6.0,12.0,2.0,2.0,5.0,5.0,4.0,12.0,7.0,71.0,2023
+crimes_against_property,Theft From Coin-Operated Machine,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,2023
+crimes_against_property,Theft From Motor Vehicle,1.0,2.0,0.0,3.0,0.0,1.0,1.0,5.0,2.0,4.0,1.0,2.0,22.0,2023
+crimes_against_property,Theft Of Motor Vehicle Parts/Accessories,1.0,0.0,1.0,0.0,4.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,15.0,2023
+crimes_against_property,All Other Larceny,12.0,17.0,26.0,23.0,26.0,12.0,7.0,11.0,39.0,35.0,31.0,12.0,251.0,2023
+crimes_against_property,Motor Vehicle Theft,1.0,4.0,0.0,3.0,1.0,2.0,3.0,5.0,2.0,2.0,7.0,1.0,31.0,2023
+crimes_against_property,Counterfeiting/Forgery,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,8.0,2023
+crimes_against_property,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2023
+crimes_against_property,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Wire Fraud,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
+crimes_against_property,Identity Theft,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2023
+crimes_against_property,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Embezzlement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Destruction/Vandalism,11.0,7.0,13.0,14.0,24.0,12.0,5.0,5.0,13.0,22.0,17.0,14.0,157.0,2023
+crimes_against_property,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_property,All Other Offenses,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2023
+crimes_against_society,Drug/Narcotic Violations,5.0,9.0,3.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,3.0,31.0,2023
+crimes_against_society,Drug Equipment Violations,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2023
+crimes_against_society,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Purchasing Prostitution,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2023
+crimes_against_society,Weapon Law Violations,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,2023
+crimes_against_society,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Disorderly Conduct,0.0,0.0,4.0,1.0,4.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,14.0,2023
+crimes_against_society,Driving Under the Influence,5.0,13.0,8.0,7.0,11.0,7.0,11.0,10.0,3.0,9.0,7.0,6.0,97.0,2023
+crimes_against_society,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Trespassing of Real Property,1.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,13.0,2023
+crimes_against_society,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2023
+crimes_against_society,All Other Offenses,0.0,0.0,3.0,2.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,14.0,2023
+crimes_against_property,Robbery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Arson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Extortion/Blackmail,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2026
+crimes_against_property,Burglary/Breaking or Entering,1.0,2.0,2.0,3.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,13.0,2026
+crimes_against_property,Pocket-picking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Purse-snatching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Shoplifting,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
+crimes_against_property,Theft From Building,1.0,5.0,6.0,5.0,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,24.0,2026
+crimes_against_property,Theft From Coin-Operated Machine,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2026
+crimes_against_property,Theft From Motor Vehicle,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
+crimes_against_property,Theft Of Motor Vehicle Parts/Accessories,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2026
+crimes_against_property,All Other Larceny,8.0,23.0,10.0,16.0,9.0,5.0,3.0,14.0,0.0,0.0,0.0,0.0,88.0,2026
+crimes_against_property,Motor Vehicle Theft,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
+crimes_against_property,Counterfeiting/Forgery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,False Pretenses/Swindle/Confidence Game,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Credit Card/Automatic Teller Machine Fraud,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
+crimes_against_property,Impersonation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Welfare Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Wire Fraud,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Identity Theft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Hacking/Computer Invasion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Embezzlement,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
+crimes_against_property,"Stolen Property Offenses - Receiving, buying, selling & etc",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Destruction/Vandalism,1.0,5.0,6.0,9.0,9.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,38.0,2026
+crimes_against_property,Bribery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,Bad Checks,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_property,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Fondling,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
+crimes_against_persons,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
+crimes_against_persons,Simple Assault,0.0,2.0,1.0,4.0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,12.0,2026
+crimes_against_persons,Intimidation,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
+crimes_against_persons,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_persons,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
 crimes_against_persons,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Murder & Nonnegligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Negligent Manslaughter,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Justifiable Homicide,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Kidnapping/Abduction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Sodomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Sexual Assault w/ Object,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Fondling,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2026
-crimes_against_society,"Human Trafficking, Commercial Sex Acts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,"Human Trafficking, Involuntary Servitude",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Aggravated Assault,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
-crimes_against_society,Simple Assault,0.0,2.0,1.0,4.0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,12.0,2026
-crimes_against_society,Intimidation,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
-crimes_against_society,Incest,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,Statutory Rape,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
-crimes_against_society,All Other Offenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Drug/Narcotic Violations,0.0,0.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,2026
+crimes_against_society,Drug Equipment Violations,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2026
+crimes_against_society,Pornography/Obscene Material,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Assisting or Promoting Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Purchasing Prostitution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Weapon Law Violations,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026
+crimes_against_society,Animal Cruelty,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Curfew/Loitering/Vagrancy Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Disorderly Conduct,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2026
+crimes_against_society,Driving Under the Influence,10.0,17.0,23.0,25.0,40.0,27.0,20.0,42.0,0.0,0.0,0.0,0.0,204.0,2026
+crimes_against_society,Drunkeness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,"Family Offenses, Nonviolent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Liquor Law Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Trespassing of Real Property,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,2026
+crimes_against_society,Betting/Wagering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Operating/Promoting/Assisting Gambling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Gambling Equipment Violations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,Sports Tampering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026
+crimes_against_society,All Other Offenses,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,5.0,2026

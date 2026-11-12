@@ -67,3 +67,5 @@ TOD_CATEGORIES = {
   'bins' : [0, 5, 11, 17, 23, 24],
   'labels' : ['night', 'morning', 'afternoon', 'evening', 'night']
 }
+
+FBI_THEFT_CATEGORIES = ["Pocket-picking", "Purse-snatching", "Shoplifting", "Theft From Building", "Theft From Coin-Operated Machine", "Theft From Motor Vehicle", "Theft Of Motor Vehicle Parts/Accessories", "All Other Larceny"]
