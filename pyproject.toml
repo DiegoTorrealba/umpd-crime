@@ -9,8 +9,11 @@ authors = [
 requires-python = ">=3.14.6"
 dependencies = [
     "beautifulsoup4>=4.15.0",
+    "folium>=1.0.0",
     "geopandas>=1.2.0",
     "jupyter>=1.1.1",
+    "mapclassify>=2.11.0",
+    "matplotlib>=3.11.2",
     "pandas>=3.1.0",
     "plotly>=7.1.0",
     "scipy>=1.18.1",
